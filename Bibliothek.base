@@ -1,0 +1,26 @@
+filters:
+  and:
+    - file.folder == "Literatur"
+views:
+  - type: cards
+    name: View
+    order:
+      - file.name
+      - author
+      - source
+    image: note.localCover
+    imageAspectRatio: 1
+    imageFit: contain
+    cardSize: 220
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - author
+      - category
+      - publish
+      - source
+    sort: []
+    columnSize:
+      file.name: 388
+      note.category: 108

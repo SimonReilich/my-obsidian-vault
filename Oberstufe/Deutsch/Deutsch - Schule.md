@@ -1,0 +1,16 @@
+#Oberstufe #Inhaltsverzeichnis #Deutsch 
+
+- Kapitel 01 - [[Theater, Drama und Dramentheorie]] 
+- Kapitel 02 - [[Klassik und Iphigenie]] 
+- Kapitel 03 - [[Faust I]] 
+- Kapitel 04 - [[Informierendes Schreiben]] 
+- Kapitel 05 - [[Romantik]] 
+- Kapitel 06 - [[Der zerbrochene Krug]] 
+- Kapitel 07 - [[Lyrik der Romantik]] 
+- Kapitel 08 - [[Der Sandmann]] 
+- Kapitel 09 - [[Vormärz und Biedermeier]] 
+- Kapitel 10 - [[Woyzeck]] 
+- Kapitel 11 - [[Analyse Pragmatischer Texte]] 
+- Kapitel 12 - [[Verwendungszwecke von Sprache]] 
+- Kapitel 13 - [[Effi Briest]] 
+- Kapitel 14 - [[Novellen]] 

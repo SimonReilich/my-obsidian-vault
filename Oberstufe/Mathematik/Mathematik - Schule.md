@@ -1,0 +1,15 @@
+#Oberstufe #Inhaltsverzeichnis #Mathematik 
+
+- Kapitel 01 - [[Ganzrationale Funktionen]] 
+- Kapitel 02 - [[Natürliche Exponentialfunktion]] 
+- Kapitel 03 - [[Sinus- und Cosinusfunktion]] 
+- Kapitel 04 - [[Zufallsgrößen und Binomialverteilung]] 
+- Kapitel 05 - [[Einseitiger Signifikanztest]] 
+- Kapitel 06 - [[Gebrochen-rationale Funktionen]] 
+- Kapitel 07 - [[Wurzelfunktion]] 
+- Kapitel 08 - [[Natürliche Logarithmusfunktion]] 
+- Kapitel 09 - [[Koordinatengeometrie]] 
+- Kapitel 10 - [[Flächeninhalt und bestimmtes Integral]]
+- Kapitel 11 - [[Normalverteilung]] 
+- Kapitel 12 - [[Geraden und Ebenen im Raum]] 
+- Kapitel 13 - [[Differenzial und Integralrechnung]] 
