@@ -3,6 +3,7 @@ lecture: "[[Analysis für Informatik]]"
 ---
 #Bachelor #Informatik #AnaInfo 
 # Rechenregeln
+- Definition: [[Reihe]] 
 - [[Satz über die Summe von konvergenten Reihen]] 
 - [[Umordnungssatz]] 
 - Definition: [[Cauchy-Produkt]] 

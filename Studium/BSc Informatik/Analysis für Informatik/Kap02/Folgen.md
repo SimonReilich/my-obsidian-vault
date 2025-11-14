@@ -5,7 +5,7 @@ lecture: "[[Analysis für Informatik]]"
 # Konvergenz
 - Definition [[Folge]] 
 - [[Konvergenz]], [[Uneigentliche Konvergenz]] und [[Asymptotische Gleichheit]] 
-- Sätze: [[Jede konvergente Folge reeller Zahlen ist beschränkt]], [[Verhalten von Grenzwerten unter <=]]
+- Sätze: [[Jede konvergente Folge reeller Zahlen ist beschränkt]], [[Verhalten von Grenzwerten unter Ordnungsrelationen]] 
 - [[Folge]]: [[Einschließungsregel]] 
 
 # Monotone Folgen
