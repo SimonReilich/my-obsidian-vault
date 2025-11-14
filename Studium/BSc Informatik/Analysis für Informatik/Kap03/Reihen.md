@@ -2,8 +2,18 @@
 lecture: "[[Analysis für Informatik]]"
 ---
 #Bachelor #Informatik #AnaInfo 
-# Rechenregeln
+# Bekannte Reihen
 - Definition: [[Reihe]] 
+- [[Harmonische Reihe]]
+- [[Geometrische Reihe]] 
+
+# Kriterien für [[Konvergenz]] von Reihen
+- [[Notwendige Konvergenzbedingung]]
+- [[Beschränktheit der Folge]]
+- [[Majoranten- und Minorantenkriterium]]
+- [[Quotientenkriterium]]
+
+# Rechenregeln
 - [[Satz über die Summe von konvergenten Reihen]] 
 - [[Umordnungssatz]] 
 - Definition: [[Cauchy-Produkt]] 
