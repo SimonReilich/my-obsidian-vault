@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e516e5a60e46102c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "36d5bf45f0ee9033",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "9c4b7777e0d548f1",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "3ec79702d35bb6d0",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "d435b8651f509819",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "b8d23e8f14d498d0",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c2154e2b5b5d6969",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "5eaf89fef4ba18ee",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "a723ea2cd54c4132",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "homepage:Open homepage": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-book-search-plugin:Create new book note": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "Studium/BSc Informatik/Algorithmen für Programmierwettbewerbe/Kap02",
+    "Bachelor/Informatik/Algorithmen für Programmierwettbewerbe/Kap02/Algorithmen für Graphen.md",
+    "Bachelor/Informatik/Algorithmen für Programmierwettbewerbe/Algorithmen für Programmierwettbewerbe.md",
+    "Bachelor/Informatik/Analysis für Informatik/Kap02/Beweise",
+    "Bachelor/Informatik/Analysis für Informatik/Kap02",
+    "Bachelor/Informatik/Algorithmen für Programmierwettbewerbe/Kap02",
+    "Bachelor/Informatik/Analysis für Informatik",
+    "Bachelor/Informatik/Algorithmen für Programmierwettbewerbe",
+    "Bachelor/Informatik",
+    "Bachelor",
+    "Studium/Studium.md",
+    "Oberstufe/Schule.md",
+    "Studium/BSc Physik/Bachelor Physik.md",
+    "Studium/BSc Informatik/Bachelor Informatik.md",
+    "Studium/BSc Mathematik/Bachelor Mathematik.md",
+    "Studium/BSc Informatik/IT Sicherheit/IT Sicherheit.md",
+    "Studium/BSc Informatik/Analysis für Informatik/Kap02/Folgen.md",
+    "Studium/BSc Informatik/Analysis für Informatik/Kap02/Folge.md",
+    "Studium/BSc Informatik/Analysis für Informatik/Kap01/Infimum.md",
+    "Studium/BSc Informatik/Analysis für Informatik/Kap01/Supremum.md",
+    "Studium/BSc Informatik/Analysis für Informatik/Kap01/Schranke.md",
+    "Studium/BSc Informatik/Analysis für Informatik/Kap01/Intervall.md",
+    "Studium/BSc Informatik/Diskrete Strukturen/Diskrete Strukturen.md",
+    "Studium/BSc Informatik/Analysis für Informatik/Kap02/Monotonie.md",
+    "Studium/BSc Informatik/Analysis für Informatik/Kap01/Anordnung.md",
+    "Studium/BSc Informatik/Analysis für Informatik/Kap02/Konvergenz.md",
+    "Studium/BSc Informatik/IT Sicherheit/Kryptographische Grundlagen.md",
+    "Studium/BSc Informatik/Analysis für Informatik/Kap02/Eulersche Zahl.md",
+    "Studium/BSc Informatik/Numerisches Programmieren/Kap2/Interpolation.md",
+    "Studium/BSc Informatik/Grundlagen Datenbanken/Grundlagen Datenbanken.md",
+    "Studium/BSc Informatik/Grundlagen Datenbanken/Relationales Datenmodell.md",
+    "Studium/BSc Informatik/Analysis für Informatik/Analysis für Informatik.md",
+    "Studium/BSc Informatik/Grundlagen Datenbanken/Konzeptuelle Modellierung.md",
+    "Studium/BSc Informatik/Grundlagen Rechnernetze und Verteilte Systeme/Kap2/ALOHA.png",
+    "Studium/BSc Informatik/Grundlagen Rechnernetze und Verteilte Systeme/Kap1/4-ASK.png",
+    "Studium/BSc Informatik/Grundlagen Rechnernetze und Verteilte Systeme/Kap3/Provider.png",
+    "Studium/BSc Informatik/Grundlagen Rechnernetze und Verteilte Systeme/Kap3/ARP lokal.png",
+    "Studium/BSc Informatik/Grundlagen Rechnernetze und Verteilte Systeme/Kap4/TCP Header.png",
+    "Studium/BSc Informatik/Grundlagen Rechnernetze und Verteilte Systeme/Kap4/UDP Header.png",
+    "Studium/BSc Informatik/Grundlagen Rechnernetze und Verteilte Systeme/Kap2/MAC Aufbau.png",
+    "Studium/BSc Informatik/Grundlagen Rechnernetze und Verteilte Systeme/Kap1/Modulation.png",
+    "Studium/BSc Informatik/Grundlagen Rechnernetze und Verteilte Systeme/Kap3/IPv4-Header.png",
+    "Studium/BSc Informatik/Grundlagen Rechnernetze und Verteilte Systeme/Kap3/IPv6-Header.png",
+    "Studium/BSc Informatik/Analysis für Informatik/Kap02/Beweise",
+    "Studium/BSc Informatik/Analysis für Informatik/Kap01/Beweise",
+    "Studium/BSc Informatik/Analysis für Informatik/Kap02"
+  ]
+}

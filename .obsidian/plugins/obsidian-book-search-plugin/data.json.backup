@@ -1,0 +1,20 @@
+{
+  "folder": "Literatur",
+  "fileNameFormat": "",
+  "frontmatter": "",
+  "content": "",
+  "useDefaultFrontmatter": true,
+  "defaultFrontmatterKeyType": "Camel Case",
+  "templateFile": "_templates/BuchTemplate.md",
+  "serviceProvider": "google",
+  "naverClientId": "",
+  "naverClientSecret": "",
+  "localePreference": "de",
+  "apiKey": "",
+  "openPageOnCompletion": true,
+  "showCoverImageInSearch": true,
+  "enableCoverImageSave": true,
+  "enableCoverImageEdgeCurl": true,
+  "coverImagePath": "Literatur/Bilder",
+  "askForLocale": true
+}

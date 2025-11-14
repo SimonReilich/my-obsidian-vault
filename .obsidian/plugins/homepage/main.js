@@ -1,0 +1,1 @@
+/nix/store/pqm3wa64vw5w4mclmsip4vg85lcyj8zj-home-manager-files/Documents/Obsidian/.obsidian/plugins/homepage/main.js

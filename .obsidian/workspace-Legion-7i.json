@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "c229372430376994",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9164ab2eeb607dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e48d9e4173a3dc6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Uni/Informatik/Grundlagen Datenbanken/Relationale Entwurfstheorie.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Relationale Entwurfstheorie"
+            }
+          },
+          {
+            "id": "58072d1d014b2dc7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8d03de4e96be5738",
+    "type": "split",
+    "children": [
+      {
+        "id": "40a5bad2f47cccf2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f069e4a6be3995a0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "49a84df2e7df4a49",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Uni",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d751c84d3a3042f9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "d2478f8119af0cc7",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {},
+              "icon": "stacked-levels",
+              "title": "Tag Folder"
+            }
+          },
+          {
+            "id": "b7e9449e42c488e1",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {},
+              "icon": "stacked-levels",
+              "title": "Tag Folder"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5cec417222596a69",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc6acf369c438ca7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15bbf1d4f476b21f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "46b537c213acca1a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "348692a7e2bc9854",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6e44884bf05efde2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "58072d1d014b2dc7",
+  "lastOpenFiles": [
+    "Uni/Informatik/Grundlagen Datenbanken/Datenintegrität.md",
+    "Uni/Informatik/Grundlagen Datenbanken/Relationale Anfragesprache.md",
+    "Uni/Informatik/Grundlagen Datenbanken/Grundlagen Datenbanken.md",
+    "Uni/Informatik/Grundlagen Datenbanken/Relationales Datenmodell.md",
+    "Uni/Informatik/Grundlagen Datenbanken/Konzeptuelle Modellierung.md",
+    "Schule/Wirtschaft/Haushaltspolitik.md",
+    "Schule/Wirtschaft",
+    "Schule/Mathematik/Statistik.md",
+    "Schule/Mathematik",
+    "Schule",
+    "Uni/Informatik",
+    "Uni",
+    "Uni/Informatik/IT Sicherheit/Authentifizierung.md",
+    "Uni/Informatik/IT Sicherheit/IT Sicherheit.md",
+    "Uni/Informatik/IT Sicherheit/Zugriffskontrolle.md",
+    "Uni/Informatik/IT Sicherheit",
+    "Uni/Informatik/Grundlagen Datenbanken/Transaktionsverwaltung.md",
+    "Uni/Informatik/IT Sicherheit/Systemsicherheit.md",
+    "Uni/Informatik/Grundlagen Datenbanken/Sicherheitsaspekte.md",
+    "Uni/Informatik/IT Sicherheit/Secure Programming.md",
+    "Uni/Informatik/IT Sicherheit/Schlüsselmanagement.md",
+    "Uni/Informatik/Grundlagen Datenbanken/Relationale Entwurfstheorie.md",
+    "Uni/Informatik/Grundlagen Datenbanken/Physische Datenorganisation.md",
+    "Uni/Informatik/Grundlagen Datenbanken/Mehrbenutzersynchronisation.md",
+    "Uni/Informatik/IT Sicherheit/Kryptographische Grundlagen.md",
+    "Uni/Informatik/IT Sicherheit/Informationssicherheitsmanagement.md",
+    "Uni/Informatik/IT Sicherheit/Identitätsmanagement.md",
+    "Uni/Informatik/IT Sicherheit/Hashfunktionen.md",
+    "Uni/Informatik/Grundlagen Datenbanken/Fehlerbehandlung & Recovery.md",
+    "Uni/Informatik/Grundlagen Datenbanken/Anfragebearbeitung.md",
+    "Uni/Informatik/Grundlagen Datenbanken",
+    "Uni/Informatik/IT Sicherheit/Netzwerksicherheit.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}

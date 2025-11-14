@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "c229372430376994",
+    "type": "split",
+    "children": [
+      {
+        "id": "900ef6269a5a0927",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b34a395e13365f3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8d03de4e96be5738",
+    "type": "split",
+    "children": [
+      {
+        "id": "40a5bad2f47cccf2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f069e4a6be3995a0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "49a84df2e7df4a49",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Uni",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d751c84d3a3042f9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "d2478f8119af0cc7",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {},
+              "icon": "stacked-levels",
+              "title": "Tag Folder"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5cec417222596a69",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc6acf369c438ca7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15bbf1d4f476b21f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "46b537c213acca1a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "348692a7e2bc9854",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6e44884bf05efde2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2b34a395e13365f3",
+  "lastOpenFiles": [
+    "Schule/Mathematik/Mathematik.md",
+    "Schule/Politik",
+    "Schule/Religion",
+    "Schule/Physik",
+    "Schule/Informatik/Informatik.md",
+    "Schule/Informatik",
+    "Schule/Musik",
+    "Schule/Geschichte/Geschichte.md",
+    "Schule/Geschichte",
+    "Schule/Deutsch/Deutsch.md",
+    "Schule/Deutsch",
+    "Schule/Chemie/Chemie.md",
+    "Schule/Chemie",
+    "Schule/Englisch/Englisch.md",
+    "Schule/Englisch",
+    "Uni/Informatik/Grundlagenpraktikum Rechnerarchitektur/Grundlagenpraktikum Rechnerarchitektur.md",
+    "Uni/Informatik/Grundlagenpraktikum Programmierung/Grundlagenpraktikum Programmierung.md",
+    "Uni/Informatik/Grundlagen Rechnernetze und Verteilte Systeme/Grundlagen Rechnernetze und Verteilte Systeme.md",
+    "Uni/Informatik/Grundlagen Datenbanken/Grundlagen Datenbanken.md",
+    "Uni/Informatik/Grundlagen Betriebssysteme und Systemsoftware/Grundlagen Betriebssysteme und Systemsoftware.md",
+    "Uni/Informatik/Grundlagen Algorithmen und Datenstrukturen/Grundlagen Algorithmen und Datenstrukturen.md",
+    "Uni/Informatik/Funktionale Programmierung und Verifikation/Funktionale Programmierung und Verifikation.md",
+    "Uni/Informatik/Einführung in die Theoretische Informatik/Einführung in die Theoretische Informatik.md",
+    "Uni/Informatik/Einführung in die Softwaretechnik/Einführung in die Softwaretechnik.md",
+    "Uni/Informatik/Einführung in die Rechnerarchitektur/Einführung in die Rechnerarchitektur.md",
+    "Uni/Informatik/Einführung in  die Informatik/Einführung in die Informatik.md",
+    "Uni/Informatik/Analysis für Informatik/Analysis für Informatik.md",
+    "Uni/Informatik/Diskrete Wahrscheinlichkeitstheorie/Diskrete Wahrscheinlichkeitstheorie.md",
+    "Uni/Informatik/Diskrete Strukturen/Diskrete Strukturen.md",
+    "Uni/Informatik/Grundlagen Datenbanken/Relationales Datenmodell.md",
+    "Uni/Informatik/Grundlagen Datenbanken/Transaktionsverwaltung.md",
+    "Uni/Informatik/Grundlagen Datenbanken/Sicherheitsaspekte.md",
+    "Uni/Informatik/Grundlagen Datenbanken/Relationale Entwurfstheorie.md",
+    "Uni/Informatik/Grundlagen Datenbanken/Relationale Anfragesprache.md",
+    "Uni/Informatik/Grundlagen Datenbanken/Konzeptuelle Modellierung.md",
+    "Uni/Informatik/Numerisches Programmieren",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}
