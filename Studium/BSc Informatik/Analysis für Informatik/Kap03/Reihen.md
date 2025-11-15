@@ -12,8 +12,10 @@ lecture: "[[Analysis für Informatik]]"
 - [[Beschränktheit der Folge]]
 - [[Majoranten- und Minorantenkriterium]]
 - [[Quotientenkriterium]]
+- [[Leibnizkriterium]] 
 
 # Rechenregeln
+- Definition: [[absolute Konvergenz]] 
 - [[Satz über die Summe von konvergenten Reihen]] 
 - [[Umordnungssatz]] 
 - Definition: [[Cauchy-Produkt]] 
