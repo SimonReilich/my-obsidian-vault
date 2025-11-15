@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Studium/BSc Informatik/Grundlagen Betriebssysteme und Systemsoftware/Kap02/Prozess- und Prozessorverwaltung.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Prozess- und Prozessorverwaltung"
             }
           }
         ]
@@ -150,8 +154,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -159,7 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 358.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -179,13 +183,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Studium/BSc Informatik/Grundlagen Betriebssysteme und Systemsoftware/Grundlagen Betriebssysteme und Systemsoftware.md",
     "Studium/BSc Informatik/Analysis für Informatik/Kap03/Reihen.md",
     "Studium/BSc Informatik/Analysis für Informatik/Kap03/Reihe.md",
     "Studium/BSc Informatik/Analysis für Informatik/Kap02/Harmonische Zahlen.md",
     "Studium/BSc Informatik/Analysis für Informatik/Kap02/Folgen.md",
     "Studium/BSc Informatik/Analysis für Informatik/Kap02/Beweise/Einschließungsregel.md",
     "Studium/BSc Informatik/Analysis für Informatik/Kap02/Beweise/Verhalten von Grenzwerten unter Ordnungsrelationen.md",
-    "Studium/BSc Informatik/Grundlagen Betriebssysteme und Systemsoftware/Grundlagen Betriebssysteme und Systemsoftware.md",
     "Studium/BSc Informatik/Grundlagen Betriebssysteme und Systemsoftware/Bon01/Syscalls.md",
     "Studium/BSc Informatik/Grundlagen Betriebssysteme und Systemsoftware/Kap01/Sichten.md",
     "Studium/BSc Informatik/Grundlagen Betriebssysteme und Systemsoftware/Bon01",
