@@ -1,1 +1,0 @@
-/nix/store/679ajbwnb9638zxbh19jv0zl1pybmwrj-home-manager-files/Documents/Obsidian/.obsidian/plugins/tag-wrangler/main.js
