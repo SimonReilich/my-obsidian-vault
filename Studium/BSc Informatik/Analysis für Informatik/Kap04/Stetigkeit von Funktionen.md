@@ -21,4 +21,6 @@ lecture: "[[Analysis für Informatik]]"
 # Maxima und Minima
 - Definition: [[Maximum]], [[Minimum]]
 - [[Abgeschlossenheit von Mengen]], [[Kompaktheit]] 
-- Satz: [[Jede kompakte Menge besitzt ein Maximum und ein Minimum]], 
+- Satz: [[Jede kompakte Menge besitzt ein Maximum und ein Minimum]], [[Kompaktheitskriterium]] 
+- [[Kompaktes Bild einer stetigen Funktion]] 
+- [[Satz von Maximum und Minimum]] 
