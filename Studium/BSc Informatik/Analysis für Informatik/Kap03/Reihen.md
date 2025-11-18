@@ -6,6 +6,7 @@ lecture: "[[Analysis für Informatik]]"
 - Definition: [[Reihe]] 
 - [[Harmonische Reihe]]
 - [[Geometrische Reihe]] 
+- [[Exponentialreihe]] 
 
 # Kriterien für [[Konvergenz]] von Reihen
 - [[Notwendige Konvergenzbedingung]]

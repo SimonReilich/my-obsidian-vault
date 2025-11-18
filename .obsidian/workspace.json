@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studium/BSc Informatik/Grundlagen Betriebssysteme und Systemsoftware/Kap02/Prozess- und Prozessorverwaltung.md",
+                "file": "Studium/BSc Informatik/Analysis für Informatik/Kap04/Stetigkeit von Funktionen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prozess- und Prozessorverwaltung"
-            }
-          },
-          {
-            "id": "7b3bd7ba65e6d1f6",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
+              "title": "Stetigkeit von Funktionen"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,8 +154,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -176,7 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 358.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -194,15 +181,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "7b3bd7ba65e6d1f6",
+  "active": "2b25e3e326908033",
   "lastOpenFiles": [
-    "Studium/BSc Informatik/Grundlagen Betriebssysteme und Systemsoftware/Grundlagen Betriebssysteme und Systemsoftware.md",
     "Studium/BSc Informatik/Analysis für Informatik/Kap03/Reihen.md",
+    "Studium/BSc Informatik/Analysis für Informatik/Analysis für Informatik.md",
     "Studium/BSc Informatik/Analysis für Informatik/Kap03/Reihe.md",
     "Studium/BSc Informatik/Analysis für Informatik/Kap02/Harmonische Zahlen.md",
     "Studium/BSc Informatik/Analysis für Informatik/Kap02/Folgen.md",
     "Studium/BSc Informatik/Analysis für Informatik/Kap02/Beweise/Einschließungsregel.md",
     "Studium/BSc Informatik/Analysis für Informatik/Kap02/Beweise/Verhalten von Grenzwerten unter Ordnungsrelationen.md",
+    "Studium/BSc Informatik/Grundlagen Betriebssysteme und Systemsoftware/Grundlagen Betriebssysteme und Systemsoftware.md",
     "Studium/BSc Informatik/Grundlagen Betriebssysteme und Systemsoftware/Bon01/Syscalls.md",
     "Studium/BSc Informatik/Grundlagen Betriebssysteme und Systemsoftware/Kap01/Sichten.md",
     "Studium/BSc Informatik/Grundlagen Betriebssysteme und Systemsoftware/Bon01",
