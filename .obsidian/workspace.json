@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studium/BSc Informatik/Algorithmen für Programmierwettbewerbe/Algorithmen für Programmierwettbewerbe.md",
+                "file": "Studium/BSc Informatik/Algorithmen für Programmierwettbewerbe/Kap03/Brute Force.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Algorithmen für Programmierwettbewerbe"
+              "title": "Brute Force"
+            }
+          },
+          {
+            "id": "b5b1da7209b916b7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -154,8 +164,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -183,6 +193,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Studium/BSc Informatik/Algorithmen für Programmierwettbewerbe/Kap03/Brute Force.md",
+    "Studium/BSc Informatik/Algorithmen für Programmierwettbewerbe/Algorithmen für Programmierwettbewerbe.md",
+    "Studium/BSc Informatik/Algorithmen für Programmierwettbewerbe/Kap03",
+    "Studium/BSc Informatik/Algorithmen für Programmierwettbewerbe/Kap01",
     "Studium/BSc Informatik/Analysis für Informatik/Analysis für Informatik.md",
     "Studium/BSc Informatik/Analysis für Informatik/Kap05",
     "Studium/BSc Informatik/Analysis für Informatik/Kap04/Stetigkeit von Funktionen.md",
