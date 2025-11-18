@@ -9,4 +9,16 @@ lecture: "[[Analysis für Informatik]]"
 - [[Polynom|Polynome]] sind [[Stetigkeit|stetig]], [[Rationale Funktionen]] sind in ihrem [[Definitionsbereich]] [[Stetigkeit|stetig]] 
 
 # Der Zwischenwertsatz
-- [[Z]]
+- [[Zwischenwertsatz]]
+- Definitionen: [[monoton wachsend]], [[streng-monoton wachsend]], [[monoton fallend]], [[streng-monoton fallend]]
+
+# Häufungspunkte
+- Definition [[Häufungspunkt]]
+- Sätze: [[Jede konvergente Folge besitzt einen Häufungspunkte]], [[Es gibt Folgen ohne konvergente Teilfolgen]]
+- [[Satz von Bolzano-Weierstrass]] 
+- Definition: [[Beschränktheit im mehrdimensionalen Raum]]
+
+# Maxima und Minima
+- Definition: [[Maximum]], [[Minimum]]
+- [[Abgeschlossenheit von Mengen]], [[Kompaktheit]] 
+- Satz: [[Jede kompakte Menge besitzt ein Maximum und ein Minimum]], 
