@@ -10,3 +10,4 @@ lecture: "[[Algorithmen für Programmierwettbewerbe]]"
 # Verbesserung
 - Idee: Beginne mit wahrscheinlichen Lösungen oder verkleinere den Suchraum
 - [[Backtracking]] 
+- Repräsentation: ggf. Reihenfolge ignorieren
