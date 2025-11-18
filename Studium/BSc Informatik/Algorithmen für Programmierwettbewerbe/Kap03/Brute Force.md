@@ -11,4 +11,5 @@ lecture: "[[Algorithmen für Programmierwettbewerbe]]"
 - Idee: Beginne mit wahrscheinlichen Lösungen oder verkleinere den Suchraum
 - [[Backtracking]] 
 - Repräsentation: ggf. Reihenfolge ignorieren
-- Algorithmus: [[Enumeration von bedingten Tupeln]] 
+- Algorithmus: [[Enumeration von bedingten Tupeln]], [[Enumeration von Partitionen]] 
+- Andernfalls: [[Steinhaus-Johnson-Trotter Algorithmus]] oder [[Gray-Codes]] 
