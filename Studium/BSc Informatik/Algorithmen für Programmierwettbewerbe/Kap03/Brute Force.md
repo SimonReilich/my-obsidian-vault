@@ -13,3 +13,8 @@ lecture: "[[Algorithmen für Programmierwettbewerbe]]"
 - Repräsentation: ggf. Reihenfolge ignorieren
 - Algorithmus: [[Enumeration von bedingten Tupeln]], [[Enumeration von Partitionen]] 
 - Andernfalls: [[Steinhaus-Johnson-Trotter Algorithmus]] oder [[Gray-Codes]] 
+- Wichtig: Iteration statt Speichern
+
+# Größe des Suchraums
+- Koeffizienten: [[Fakultät]], [[fallende Fakultät]], [[Binomialkeoffizienten]], [[Stirlingzahlen zweiter Art]], [[Bell Zahlen]], [[Catalan Zahlen]] 
+- Mengen: [[Potenzmenge]], [[symmetrische Gruppe]], [[Ganzzahlpartitionen]] 
