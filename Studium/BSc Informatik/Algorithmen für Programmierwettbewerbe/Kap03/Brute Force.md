@@ -9,7 +9,6 @@ lecture: "[[Algorithmen für Programmierwettbewerbe]]"
 
 # Verbesserung
 - Idee: Beginne mit wahrscheinlichen Lösungen oder verkleinere den Suchraum
-- [[Backtracking]] 
 - Repräsentation: ggf. Reihenfolge ignorieren
 - Algorithmus: [[Enumeration von bedingten Tupeln]], [[Enumeration von Partitionen]] 
 - Andernfalls: [[Steinhaus-Johnson-Trotter Algorithmus]] oder [[Gray-Codes]] 
@@ -22,4 +21,9 @@ lecture: "[[Algorithmen für Programmierwettbewerbe]]"
 - [[Satz über die Summe von Polynomen]] 
 - Meist reicht eine Näherung, der genaue Wert wird nur äußerst selten benötigt
 - [[Obere und untere Grenze der allgemeinen Eulersumme]]
-- [[Obere und untere Grenze der Fakultät]] 
+- [[Obere und untere Grenze der Fakultät]]
+- Näherungen: [[Stirlingformel]]
+
+# Backtracking
+- Konstruiere Teillösungen, sind diese invalide, können alle folgenden Möglichkeiten ignoriert werden ([[Backtracking]]).
+- Beispiel: [[CNF SAT]] 
