@@ -21,3 +21,5 @@ lecture: "[[Algorithmen für Programmierwettbewerbe]]"
 - [[Identitäten des Binomialkoeffizienten]] 
 - [[Satz über die Summe von Polynomen]] 
 - Meist reicht eine Näherung, der genaue Wert wird nur äußerst selten benötigt
+- [[Obere und untere Grenze der allgemeinen Eulersumme]]
+- [[Obere und untere Grenze der Fakultät]] 
