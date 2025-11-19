@@ -12,7 +12,7 @@ Während einer verbindungsorientierten Übertragung können drei Phasen untersch
 	- Auf die Adressierung des Kommunikationspartners kann während der Übertragung weitgehend verzichtet werden (Punkt-zu-Punkt-Verbindung).
 3. Verbindungsabbau
 	- Austausch von Signalisierungsnachrichten zum Abbau der Verbindung.
-	- Die durch die Verbindung belegten Ressourcen werden für nachfolgende Verbindungen freigegeben.
+	- Die durch die Verbindung belegten [[Ressourcen]] werden für nachfolgende Verbindungen freigegeben.
 
 ![[Ablauf Leitungsvermittlung.png]]
 

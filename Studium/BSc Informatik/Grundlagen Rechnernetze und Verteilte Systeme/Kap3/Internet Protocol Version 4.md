@@ -45,7 +45,7 @@ TTL (Time to Live)
 
 Protocol
 - Identifiziert das Protokoll auf der [[Transportschicht]], welches in der Payload (Datenteil) des IP-Pakets enthalten ist
-- Relevant u. a. für das [[Betriebssystem|Betriebssystem]], um Pakete dem richtigen Prozess zuordnen zu können
+- Relevant u. a. für das [[Betriebssystem|Betriebssystem]], um Pakete dem richtigen [[Prozess]] zuordnen zu können
 - Gültige Werte sind beispielsweise 0x06 ([[Transmission Control Protokoll]]) und 0x11 ([[User Datagram Protokoll]])
 
 Header Checksum
