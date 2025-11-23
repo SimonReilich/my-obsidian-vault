@@ -1,6 +1,4 @@
 #Bachelor #Informatik #Inhaltsverzeichnis 
-
-Aufbauend auf [[Informatik - Schule]], [[Mathematik - Schule]] 
 # 1. Semester
 - [[Einführung in die Informatik]]
 - [[Grundlagenpraktikum Programmierung]]

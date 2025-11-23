@@ -21,3 +21,12 @@ subject: "[[Religion - Schule]]"
 
 # Normenbegründungsmodelle
 - [[Naturrecht]]
+- [[Rechtspositivismus]]
+- [[Eudämonismus]]
+- [[Hedonismus]]
+- [[Formale Pflichtethik]]
+- [[Utilitarismus]]
+- [[Diskursethik]]
+- [[Verantwortungsethik]]
+
+# Quellen christlich-kirchlicher Ethik

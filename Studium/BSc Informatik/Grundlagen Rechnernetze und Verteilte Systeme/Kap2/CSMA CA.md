@@ -9,7 +9,7 @@ Variante von [[Carrier Sense Multiple Access]], bei der Kollisionen nicht nur er
 
 # Umsetzung (IEEE 802.11 DCF)
 - Festes Zeitintervall zwischen [[Rahmen]]: DIFS (DCF Interframe Spacing).
-- Wenn Medium mind. für DIFS unbelegt ist, dann wähle unabhängig und gleichverteilt eine Anzahl von Backoff-Slots aus dem Intervall $\{0,1,2, ... , \min \{2^{c+k −1} − 1255\}\}$.
+- Wenn Medium mind. für DIFS unbelegt ist, dann wähle unabhängig und gleichverteilt eine Anzahl von Backoff-Slots aus dem [[Intervall]] $\{0,1,2, ... , \min \{2^{c+k −1} − 1255\}\}$.
 - c ist abhängig vom PHY (z. B. c = 4), k ist die Anzahl der Sendeversuche (siehe [[Binary Exponential Backoff]]).
 
 ![[IEEE 820.11 DCF.png]]

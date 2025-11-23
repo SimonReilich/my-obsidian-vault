@@ -45,7 +45,7 @@ Bemerkungen:
 - Ziel: Verschlüsselung eines Klartext-Stroms: z.B. Sprache, Verschlüsselung muss schnell sein: in der Praxis mit xor ($⊕$)
 - Problem: xor ist keine starke Chiffre!
 - Lösung: One-Time Pad, Vernam-Chiffre
-- Für jeden Klartext-Strom wird eine individuelle Schlüsselfolge $KS$ als pseudozufällige Folge von Bits erzeugt.
+- Für jeden Klartext-Strom wird eine individuelle Schlüsselfolge $KS$ als pseudozufällige [[Folge]] von Bits erzeugt.
 - Verschlüsselung eines Stroms $m$: $m ⊕ KS$ (bitweise xor) Die Schlüsselfolge $KS$ hat die gleiche Länge wie der Klartext $m$
 - Deterministische Generierung von KS, abhängig von Länge und initialem Seed-Wert $k$
 - Problem: unterschiedliche Klartexte $m_1, m_2$ erfordern unterschiedliche Schlüsselfolgen! -> k muss sich bei jeder Nachricht ändern, z.B. durch Hochzählen
