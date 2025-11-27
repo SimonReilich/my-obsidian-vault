@@ -44,3 +44,10 @@ Kolonialmächte ([[Frankreich]], [[Großbritannien]]):
 - unmittelbar danach erklären alle arabischen Nachbarstaaten ([[Ägypten]], [[Transjordanien]], [[Syrien]], [[Libanon]] und [[Irak]]) [[Israel]] den Krieg, [[erster Nahostkrieg]] beginnt
 - Teilungsplan ist hinfällig
 - 1949 verabschiedet der [[Volksrat]] ein Gesetz, mit dem er zum israelischen Parlament, der [[Knesset]], wird
+
+# Entwicklung in den 1950er-Jahren
+- In [[Ägypten]] wird der König 1952 gestürtzt, neuer Präsident wird Offizier [[Gamal Abdel Nasser]], nimmt Führungsrolle innerhalb der arabischen Staaten ein
+- arabische Staaten rüsten mithilfe der [[Sowjetunion]] auf
+- Die [[UNRWA]] wird 1949 gegründet, unterstützen palestinensische Flüchtlinge, die in den Nachbarländern aufgrund eigener wirtschaftlicher Probleme nicht aufgenommen werden
+- 1956 bricht der [[zweiter Nahostkrieg|zweite Nahostkrieg]], auch Suezkrise genannt, aus
+- 1964 wird die [[Palästinensische Befreiungsorganisation]] (PLO) gegründet, [[Yassir Arafat]]
