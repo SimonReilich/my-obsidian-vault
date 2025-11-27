@@ -18,5 +18,12 @@
 Kolonialmächte ([[Frankreich]], [[Großbritannien]]):
 - nach dem [[erster Weltkrieg|ersten Weltkrieg]] zerfällt das [[Osmanisches Reich|Osmanische Reich]]
 - teilen [[Naher Osten|Nahen Osten]] untereinander auf, [[Skyes-Picot-Abkommen]] 
-- Briten versprechen Arabern Unterstützung bei Unabhängigkeit, erhalten [[Mandat]] über [[Palestina]] und unterstützen [[Zionismus|Zionisten]], dort lebende Araber sollen aber nicht eingeschränkt werden
+- Briten versprechen Arabern Unterstützung bei Unabhängigkeit, erhalten [[Mandat]] über [[Palestina]] und unterstützen [[Zionismus|Zionisten]] ([[Balfour-Deklaration]]), dort lebende Araber sollen aber nicht eingeschränkt werden
 - Abtrennung von [[Transjordanien]] führt zu Bildung von teretorialem [[Palestina]] 
+
+# Gründung des Staates Israel
+- britischer Mandatsvertrag von 1922 bestätigt Vorhaben der [[Balfour-Deklaration]]
+- 1929 wird die [[Jewish Agency for Palestine]] gegründet
+- Durch den [[Nationalsozialismus]] steigt die jüdische Einwanderung noch weiter an, verstärkt Bewegung des arabischen [[Nationalismus]] 
+- Höhepunkt: [[arabischer Aufstand]], wird von Briten niedergeschlagen
+- [[Peel-Komission]] erarbeitet Teilungsvorschlag, wird von Arabern abgelehnt und von [[Zionismus|Zionisten]] abgelehnt
