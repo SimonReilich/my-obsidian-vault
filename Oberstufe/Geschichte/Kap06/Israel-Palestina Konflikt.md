@@ -57,3 +57,9 @@ Kolonialmächte ([[Frankreich]], [[Großbritannien]]):
 # Friedensbemühungen
 - Gewaltspirale 1987, [[erste "Intifada"]] erfasst das gesammte [[Westjordanland]] 
 - Kurswechsel der [[Palästinensische Befreiungsorganisation]], erkennt nun [[Israel]] als Staat an und ist bereit für Verhandlungen über Zwei-Staaten-Lösung
+- Führt aber zur Spaltung auf palästinensischer Seite, [[Hamas]] wird gegründet
+- unter Vermittlung von [[Bill Clinton]] nähern sich [[Israel]] und die [[Palästinensische Befreiungsorganisation]] 1993 an, der [[Osloer Prozess]] beginnt
+- Die Gewalt auf beiden Seiten geht aber weiter, unter anderem Anschläge der [[Hamas]] in [[Israel]] oder Massaker an Palästinensern durch fanatische Siedler
+- 1995 wird Ministerpräsident [[Jitzack Rabin]] von einem rechtsextremen Israeli ermordet, es kommt zum Regierungswechsel
+- Der fortgesetzte Siedlungsbau Israels, die Anschläge der [[Hamas]], sowie die [[zweite "Intifada"]] zerstören das Vertrauen beider Seiten
+- Bei palästinensischen Wahlen siegt [[Hamas]] 2006, übernimmt die Kontrolle im [[Gazastreifen]]
