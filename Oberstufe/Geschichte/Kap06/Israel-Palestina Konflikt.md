@@ -1,7 +1,4 @@
 #Oberstufe #Geschichte  #Q13 
-# Grundlegende Begriffe
-- Definition [[Antisemitismus]], [[Demokratie]], [[Holocaust]], [[Imperialismus]], [[Judentum]], [[Kalter Krieg]], [[Migration]], [[Nation]], [[Nationalismus]], [[Nationalsozialismus]], [[Terrorismus]], [[UNO]] 
-
 # Historische Entwicklung
 - Zunächst [[babylonische Gefangenschaft]]
 - Ab 2. Jh. vor Christus: unter griechischer Vorherrschaft, Griechen verwenden erstmals den Namen [[Palestina]]
@@ -45,3 +42,5 @@ Kolonialmächte ([[Frankreich]], [[Großbritannien]]):
 - Am 14. Mai 1948 erklärt der israelische [[Volksrat]] die Unabhängigkeit
 - [[David Ben Guerion]] wird erster israelischer Ministerpräsident
 - unmittelbar danach erklären alle arabischen Nachbarstaaten ([[Ägypten]], [[Transjordanien]], [[Syrien]], [[Libanon]] und [[Irak]]) [[Israel]] den Krieg, [[erster Nahostkrieg]] beginnt
+- Teilungsplan ist hinfällig
+- 1949 verabschiedet der [[Volksrat]] ein Gesetz, mit dem er zum israelischen Parlament, der [[Knesset]], wird
