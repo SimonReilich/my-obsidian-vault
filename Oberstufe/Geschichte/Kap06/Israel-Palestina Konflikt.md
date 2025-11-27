@@ -36,4 +36,12 @@ Kolonialmächte ([[Frankreich]], [[Großbritannien]]):
 - [[Großbritannien]] bekommt Situation nicht unter Kontrolle, gibt [[Mandat]] an die [[Vereinte Nationen|Vereinten Nationen]] zurück
 - Schlagen neuen Teilungsplan vor, 56% jüdisches und 44% arabisches Staatsgebiet
 - jüdische Seite nimmt Plan ab, arabische Seite lehnt ab
-- [[Großbritannien]] weigert sich, bei der Umsetzung des Teilungsplans zu helfen
+- [[Großbritannien]] weigert sich, bei der Umsetzung des Teilungsplans zu helfen, es entsteht ein Machtvakuum
+- Bürgerkrieg zwischen jüdischen und arabischen Militäreinheiten
+- jüdische Kämpfe beginnen 1948 mit einer Militäroffensive, um Gebiet zu sichern
+- brutale Gewalt: [[Massaker von Deir Yasin]] oder [[Hadassa-Konvoi-Massaker]] 
+
+# Gründung des Staates Israel
+- Am 14. Mai 1948 erklärt der israelische [[Volksrat]] die Unabhängigkeit
+- [[David Ben Guerion]] wird erster israelischer Ministerpräsident
+- unmittelbar danach erklären alle arabischen Nachbarstaaten [[Israel]] den Krieg
