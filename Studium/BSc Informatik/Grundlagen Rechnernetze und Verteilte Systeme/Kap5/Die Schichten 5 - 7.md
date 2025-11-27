@@ -9,7 +9,7 @@ lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
 
 # Darstellungsschicht
 Der Darstellungsschicht sind grundsätzlich folgende Aufgaben zugeordnet:
-- die Darstellung der Daten ([[Syntax 1]]),
+- die Darstellung der Daten ([[Syntax]]),
 - die Datenstrukturen zur Übertragung der Daten
 - die Darstellung der Aktionen an diesen Datenstrukturen, sowie
 - Datentransformationen
