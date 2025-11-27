@@ -49,5 +49,11 @@ Kolonialmächte ([[Frankreich]], [[Großbritannien]]):
 - In [[Ägypten]] wird der König 1952 gestürtzt, neuer Präsident wird Offizier [[Gamal Abdel Nasser]], nimmt Führungsrolle innerhalb der arabischen Staaten ein
 - arabische Staaten rüsten mithilfe der [[Sowjetunion]] auf
 - Die [[UNRWA]] wird 1949 gegründet, unterstützen palestinensische Flüchtlinge, die in den Nachbarländern aufgrund eigener wirtschaftlicher Probleme nicht aufgenommen werden
+- 1950 erhebt [[Israel]] die Stadt [[Jerusalem]] zur Hauptstadt, wird international aber nicht anerkannt
 - 1956 bricht der [[zweiter Nahostkrieg|zweite Nahostkrieg]], auch Suezkrise genannt, aus
-- 1964 wird die [[Palästinensische Befreiungsorganisation]] (PLO) gegründet, [[Yassir Arafat]]
+- 1964 wird die [[Palästinensische Befreiungsorganisation]] (PLO) gegründet, [[Yassir Arafat]] ist Vorsitzender
+- [[Sechstagekrieg]] 1967, Konflikt aufgrund von Bewässerung
+
+# Friedensbemühungen
+- Gewaltspirale 1987, [[erste "Intifada"]] erfasst das gesammte [[Westjordanland]] 
+- Kurswechsel der [[Palästinensische Befreiungsorganisation]], erkennt nun [[Israel]] als Staat an und ist bereit für Verhandlungen über Zwei-Staaten-Lösung
