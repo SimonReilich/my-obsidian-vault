@@ -41,7 +41,7 @@ Kolonialmächte ([[Frankreich]], [[Großbritannien]]):
 - jüdische Kämpfe beginnen 1948 mit einer Militäroffensive, um Gebiet zu sichern
 - brutale Gewalt: [[Massaker von Deir Yasin]] oder [[Hadassa-Konvoi-Massaker]] 
 
-# Gründung des Staates Israel
+# Gründung des Staates [[Israel]]
 - Am 14. Mai 1948 erklärt der israelische [[Volksrat]] die Unabhängigkeit
 - [[David Ben Guerion]] wird erster israelischer Ministerpräsident
-- unmittelbar danach erklären alle arabischen Nachbarstaaten [[Israel]] den Krieg
+- unmittelbar danach erklären alle arabischen Nachbarstaaten ([[Ägypten]], [[Transjordanien]], [[Syrien]], [[Libanon]] und [[Irak]]) [[Israel]] den Krieg, [[erster Nahostkrieg]] beginnt
