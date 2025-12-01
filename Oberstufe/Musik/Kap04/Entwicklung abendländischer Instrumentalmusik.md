@@ -20,3 +20,8 @@ subject: "[[Musik - Schule]]"
 - größere Konzertsäle werden gebaut, es braucht größere Orchesterbesetzungen
 - Komponisten schreiben meist nicht mehr für ein bestimmtes Orchester, sondern für eine standartisierte Besetzung, das [[klassisches Orchester|klassische Orchester]]
 - Definition [[Sonate]] und [[Sonatenhauptsatzform]] 
+
+# Klaviermusik
+- In der Epoche des [[Biedermeier]] ist das häusliche Musizieren auf dem Vormarsch
+- Die Stücke sollten dabei nicht zu anspruchsvoll sein, sich aber trotzdem melodisch anhöhren und das können der Interpretin zur Schau stellen
+- Als Prototyp eines solchen Stücks gilt [[Thekla Badarzewska|Thekla Badarzewskas]] "Gebet einer Jungfrau"

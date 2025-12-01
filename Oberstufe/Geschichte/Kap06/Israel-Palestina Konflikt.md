@@ -2,7 +2,7 @@
 # Historische Entwicklung
 - Zunächst [[babylonische Gefangenschaft]]
 - Ab 2. Jh. vor Christus: unter griechischer Vorherrschaft, Griechen verwenden erstmals den Namen [[Palestina]]
-- Im Jahre 6 n. Chr. unter Augustus wird [[Judäa]] römische Provinz, die Römer kontrollieren den Tempelplatz in [[Jerusalem]]
+- Im Jahre 6 n. Chr. unter Augustus wird [[Judäa]] [[Rom|römische]] Provinz, die [[Rom|Römer]] kontrollieren den Tempelplatz in [[Jerusalem]]
 - [[jüdisch-römische Kriege]], endet mit Zerstörung des Tempels
 - Beginn der [[jüdische Diaspora|jüdischen Diaspora]]  
 
