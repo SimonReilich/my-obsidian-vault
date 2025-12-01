@@ -13,3 +13,4 @@ subject: "[[Musik - Schule]]"
 	- [[Renaissance]] überwindet Vormachtstellung der Vokalmusik, in [[Italien]] kommt rein instrumentales musizieren in Mode
 	- Das Berufsmusikertum bildet sich heraus, ergänzt bisherige Laienensembles
 - Spielarten: [[Concerto grosso]] und [[Solokonzert]]
+- Komponisten: [[Arcangelo Corelli]], [[Antonio Vivaldi]] oder [[]]
