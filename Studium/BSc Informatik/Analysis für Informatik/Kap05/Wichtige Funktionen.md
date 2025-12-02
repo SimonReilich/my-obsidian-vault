@@ -16,3 +16,5 @@ lecture: "[[Analysis für Informatik]]"
 # Trigonometrische Funktionen
 - Definition: [[komplexe Zahlen]], [[Konjugiertes einer komplexen Zahl]], [[Betrag einer komplexen Zahl]]
 - Satz: [[Eulersche Formel]] 
+- Definition: [[Sinusfunktion|Sinus]], [[Cosinusfunktion|Cosinus]], [[Tangens]], [[Cotangens]] 
+- Umkehrfunktionen: [[Arcussinus]], [[Arcuscosinus]], [[Arcustangens]] 
