@@ -34,4 +34,4 @@ lecture: "[[Algorithmen für Programmierwettbewerbe]]"
 - genaue Lösung ist [[NP-hard]]
 - Es gibt einen [[k-faktor Approximationsalgorithmus|1.488-faktor Approximationsalgorithmus]], ist die Metrik identisch zum zweidimensionalen euklidischen Raum, gibt es beliebig gute Approximationsalgorithmen
 - Für nicht-metrische Versionen des Problems gibt es keine Approximationsalgorithmen, außer wenn [[P gleich NP]] 
-- Algorithmus: [[Greedy Facility Location]] 
+- Algorithmus: [[Greedy Facility Location]] ist ein [[k-faktor Approximationsalgorithmus|2-faktor Approximationsalgorithmus]] 
