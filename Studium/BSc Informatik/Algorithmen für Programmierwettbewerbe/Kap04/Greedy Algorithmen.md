@@ -16,5 +16,14 @@ lecture: "[[Algorithmen für Programmierwettbewerbe]]"
 - Definition: [[k-faktor Approximationsalgorithmus]] 
 - Dadurch kann [[NP-hard|NP-hardness]] umgehen werden
 - Manchmal sind greedy Algorithmen gute Approximationsalgorithmen
-- z.B. [[Knapsack-Problem]] 
-- Einfache Version ist kein Approximationsalgorithmus, [[Greedy Knapsack Fractional]] ist aber optimal, [[Greedy Knapsack]] ist ein [[k-faktor Approximationsalgorithmus|2-faktor Approximationsalgorithmus]] 
+
+# Knapsack
+- Definition: [[Knapsack-Problem]] 
+- Einfache Version ist kein Approximationsalgorithmus, [[Greedy Knapsack Fractional]] ist aber optimal, [[Greedy Knapsack]] ist ein [[k-faktor Approximationsalgorithmus|2-faktor Approximationsalgorithmus]]
+- Wenn alle Gewichte gleich sind, ist [[Greedy Knapsack]] ein optimaler Algorithmus
+
+# Job Scheduling
+- Definition: [[Job-Scheduling-Problem]] 
+- Zwei Greedy-Möglichkeiten:
+	- Gib nächste Aufgabe an den weniger beschäftigten Prozessor, [[Scheduling]]
+	- Gib längste Aufgabe an den weniger beschäftigten Prozessor
