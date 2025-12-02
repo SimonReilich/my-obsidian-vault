@@ -26,7 +26,7 @@ lecture: "[[Algorithmen für Programmierwettbewerbe]]"
 
 # Minimale Spannbäume
 - Definition: [[Teilgraph]], [[Spannbaum]], [[Minimaler Spannbaum]] 
-- Ansätze: [[Kruskala Algorithmus]] und [[Prims Algorithmus]] 
+- Ansätze: [[Kruskals Algorithmus]] und [[Prims Algorithmus]] 
 
 # Kürzeste Pfade
 - Klassifizierung: [[Single-Pair-Shortest-Path]], [[Single-Source-Shortest-Path]] oder [[Any-Pairs-Shortest-Path]] 

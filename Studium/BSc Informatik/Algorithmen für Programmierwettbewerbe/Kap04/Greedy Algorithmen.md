@@ -8,3 +8,10 @@ lecture: "[[Algorithmen für Programmierwettbewerbe]]"
 - Allgemeine Version des Problems ist aber [[NP-hard]] 
 - Definition: [[Kanonisches Münzsystem]] 
 - [[Chicken-McNugget-Theorem]], [[Frobenius-Münz-Problem]] 
+- [[Allgemeine Form eines Greedy Algorithmus]] 
+- Beispiele für Greedy Algorithmen: [[Kruskals Algorithmus]], [[Prims Algorithmus]] 
+- Definition: [[Unabhängiges System]], [[Matroid]], [[Edmondos-Rado Theorem]] 
+
+# Approximation
+- Definition: [[k-faktor Approximationsalgorithmus]] 
+- Dadurch kann [[]]
