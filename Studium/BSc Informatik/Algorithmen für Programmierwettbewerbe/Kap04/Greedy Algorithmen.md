@@ -27,3 +27,7 @@ lecture: "[[Algorithmen für Programmierwettbewerbe]]"
 - Zwei Greedy-Möglichkeiten:
 	- Gib nächste Aufgabe an den weniger beschäftigten Prozessor, [[Greedy Scheduling]] ist ein [[k-faktor Approximationsalgorithmus|2-faktor Approximationsalgorithmus]]
 	- Gib längste Aufgabe an den weniger beschäftigten Prozessor, [[Ordered Greedy Scheduling]] ist ein [[k-faktor Approximationsalgorithmus|1,5-faktor Approximationsalgorithmus]] 
+- Auch hier ist die optimale Lösung [[NP-hard]] 
+
+# Facility Location
+Definition: [[unbeschränktes Facility-Location-Problem]] 
