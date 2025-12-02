@@ -30,4 +30,6 @@ lecture: "[[Algorithmen für Programmierwettbewerbe]]"
 - Auch hier ist die optimale Lösung [[NP-hard]] 
 
 # Facility Location
-Definition: [[unbeschränktes Facility-Location-Problem]] 
+- Definition: [[metrisches unbeschränktes Facility-Location-Problem]] 
+- genaue Lösung ist [[NP-hard]]
+- Es gibt einen [[k-faktor Approximationsalgorithmus|1.488-faktor Approximationsalgorithmus]], ist die Metrik identisch zum zweid
