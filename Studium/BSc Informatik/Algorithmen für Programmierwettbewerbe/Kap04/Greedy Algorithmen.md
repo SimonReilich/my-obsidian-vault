@@ -14,4 +14,7 @@ lecture: "[[Algorithmen für Programmierwettbewerbe]]"
 
 # Approximation
 - Definition: [[k-faktor Approximationsalgorithmus]] 
-- Dadurch kann [[]]
+- Dadurch kann [[NP-hard|NP-hardness]] umgehen werden
+- Manchmal sind greedy Algorithmen gute Approximationsalgorithmen
+- z.B. [[Knapsack-Problem]] 
+- Einfache Version ist kein Approximationsalgorithmus, [[Greedy Knapsack Fractional]] ist aber optimal, [[Greedy Knapsack]] ist ein [[k-faktor Approximationsalgorithmus|2-faktor Approximationsalgorithmus]] 
