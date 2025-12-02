@@ -32,4 +32,6 @@ lecture: "[[Algorithmen für Programmierwettbewerbe]]"
 # Facility Location
 - Definition: [[metrisches unbeschränktes Facility-Location-Problem]] 
 - genaue Lösung ist [[NP-hard]]
-- Es gibt einen [[k-faktor Approximationsalgorithmus|1.488-faktor Approximationsalgorithmus]], ist die Metrik identisch zum zweid
+- Es gibt einen [[k-faktor Approximationsalgorithmus|1.488-faktor Approximationsalgorithmus]], ist die Metrik identisch zum zweidimensionalen euklidischen Raum, gibt es beliebig gute Approximationsalgorithmen
+- Für nicht-metrische Versionen des Problems gibt es keine Approximationsalgorithmen, außer wenn [[P gleich NP]] 
+- Algorithmus: [[Greedy Facility Location]] 
