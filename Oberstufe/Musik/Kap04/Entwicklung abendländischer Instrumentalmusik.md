@@ -5,20 +5,20 @@ subject: "[[Musik - Schule]]"
 # Polyphone Strukturen
 - Im [[Barock]] ist die [[Homophonie|homophone Satztechnik]] üblich
 - [[Johann Sebastian Bach]] als Vertreter der [[Polyphonie|polyphonen Satztechnik]], ist umstritten
-- Definition [[Soggetto]]
+- Definition [[Soggetto]] 
 
 # Das konzertierende Prinzip
-- Begriffe [[Konzert]] und [[konzertierendes Prinzip]]
+- Begriffe [[Konzert]] und [[konzertierendes Prinzip]] 
 - Entscheidend für die Entwicklung des [[konzertierendes Prinzip|konzertierenden Prinzips]]: 
 	- [[Renaissance]] überwindet Vormachtstellung der Vokalmusik, in [[Italien]] kommt rein instrumentales musizieren in Mode
 	- Das Berufsmusikertum bildet sich heraus, ergänzt bisherige Laienensembles
-- Spielarten: [[Concerto grosso]] und [[Solokonzert]]
+- Spielarten: [[Concerto grosso]] und [[Solokonzert]] 
 - Komponisten: [[Arcangelo Corelli]], [[Antonio Vivaldi]] oder [[Georg Friedrich Händel]] 
 
 # Sinfonien und Sonaten
 - Definition: [[Klassizismus]] 
 - größere Konzertsäle werden gebaut, es braucht größere Orchesterbesetzungen
-- Komponisten schreiben meist nicht mehr für ein bestimmtes Orchester, sondern für eine standartisierte Besetzung, das [[klassisches Orchester|klassische Orchester]]
+- Komponisten schreiben meist nicht mehr für ein bestimmtes Orchester, sondern für eine standartisierte Besetzung, das [[klassisches Orchester|klassische Orchester]] 
 - Definition [[Sonate]] und [[Sonatenhauptsatzform]] 
 
 # Klaviermusik
