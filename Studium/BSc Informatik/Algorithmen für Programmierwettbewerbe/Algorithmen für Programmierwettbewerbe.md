@@ -6,4 +6,4 @@ professor: "[[Javier Esparza]]"
 - Kapitel 01 - [[Binary Search und Union-Find]]
 - Kapitel 02 - [[Algorithmen für Graphen]]
 - Kapitel 03 - [[Brute Force]] 
-- Kapitel 04 - [[]]
+- Kapitel 04 - [[Greedy Algorithmen]] 
