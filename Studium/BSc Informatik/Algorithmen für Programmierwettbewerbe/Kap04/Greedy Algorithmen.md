@@ -19,11 +19,11 @@ lecture: "[[Algorithmen für Programmierwettbewerbe]]"
 
 # Knapsack
 - Definition: [[Knapsack-Problem]] 
-- Einfache Version ist kein Approximationsalgorithmus, [[Greedy Knapsack Fractional]] ist aber optimal, [[Greedy Knapsack]] ist ein [[k-faktor Approximationsalgorithmus|2-faktor Approximationsalgorithmus]]
+- Einfache Version ist kein Approximationsalgorithmus, [[Fractional Greedy Knapsack]] ist aber optimal, [[Greedy Knapsack]] ist ein [[k-faktor Approximationsalgorithmus|2-faktor Approximationsalgorithmus]]
 - Wenn alle Gewichte gleich sind, ist [[Greedy Knapsack]] ein optimaler Algorithmus
 
 # Job Scheduling
 - Definition: [[Job-Scheduling-Problem]] 
 - Zwei Greedy-Möglichkeiten:
-	- Gib nächste Aufgabe an den weniger beschäftigten Prozessor, [[Scheduling]]
-	- Gib längste Aufgabe an den weniger beschäftigten Prozessor
+	- Gib nächste Aufgabe an den weniger beschäftigten Prozessor, [[Greedy Scheduling]] ist ein [[k-faktor Approximationsalgorithmus|2-faktor Approximationsalgorithmus]]
+	- Gib längste Aufgabe an den weniger beschäftigten Prozessor, [[Ordered Greedy Scheduling]] ist ein [[k-faktor Approximationsalgorithmus|1,5-faktor Approximationsalgorithmus]] 
