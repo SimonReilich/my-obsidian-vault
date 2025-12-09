@@ -11,3 +11,6 @@ lecture: "[[Algorithmen für Programmierwettbewerbe]]"
 - Problem muss durch Lösung der Teilprobleme lösbar sein
 - Teilprobleme werden wiederhohlt generiert
 - Allgemein: [[DP (Bottom-Up)]] und [[DP (Top-Down)]] 
+
+# Beispiele
+- [[0-1-Knapsack]]
