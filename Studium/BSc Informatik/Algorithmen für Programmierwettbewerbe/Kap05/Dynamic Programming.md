@@ -13,4 +13,4 @@ lecture: "[[Algorithmen für Programmierwettbewerbe]]"
 - Allgemein: [[DP (Bottom-Up)]] und [[DP (Top-Down)]] 
 
 # Beispiele
-- [[0-1-Knapsack]] 
+- [[0-1-Knapsack]], [[Longest-Increasing-Subsequence]]
