@@ -4,7 +4,7 @@ lecture: "[[Algorithmen für Programmierwettbewerbe]]"
 #Bachelor #Informatik #ConPra 
 # Fibonacci Zahlen
 - naive Berechnung sehr schlecht, Werte werden mehrmals berechnet
-- zwei Ideen: [[Bottom-Up-Fibonacci]] oder [[Top-Down-Fibbonacci]]
+- zwei Ideen: [[Bottom-Up-Fibonacci]] oder [[Top-Down-Fibonacci]]
 - Beispiel für Dynamic Programming
 
 # Definition
@@ -13,4 +13,4 @@ lecture: "[[Algorithmen für Programmierwettbewerbe]]"
 - Allgemein: [[DP (Bottom-Up)]] und [[DP (Top-Down)]] 
 
 # Beispiele
-- [[0-1-Knapsack]]
+- [[0-1-Knapsack]] 
