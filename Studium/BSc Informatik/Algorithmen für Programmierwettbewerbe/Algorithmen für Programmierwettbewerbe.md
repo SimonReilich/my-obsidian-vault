@@ -8,3 +8,5 @@ professor: "[[Javier Esparza]]"
 - Kapitel 03 - [[Brute Force]] 
 - Kapitel 04 - [[Greedy Algorithmen]] 
 - Kapitel 05 - [[Dynamic Programming]]
+- Kapitel 06 - [[Zahlentheorie]]
+- Kapitel 07 - [[Geometrie]] 
