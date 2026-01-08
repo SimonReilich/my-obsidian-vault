@@ -12,3 +12,8 @@ subject: "[[Politik - Schule]]"
 	- Materielle Werte, z.B. Wohlstand, Besitz, Geld
 	- Geistige Werte, z.B. Wissen, Weisheit, Erkenntnis
 	- Instrumentelle Werte, die zum Erreichen anderer Werte dienen
+- individuelle vs. [[gesellschaftliche Werte]] 
+
+# Theorien zum [[Wertewandel]]
+- [[Theorie Ronald Ingleharts]]
+- [[Wertetypen-Theorie]] 
