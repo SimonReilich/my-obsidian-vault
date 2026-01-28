@@ -9,9 +9,7 @@ category:
   - dramatische Prosa
 publisher:
 publish: 1883-01-01
-total: 352
 isbn:
 localCover: Literatur/Bilder/Also sprach Zarathustra - Friedrich Wilhelm Nietzsche.png
-related: "[[Deutsch - Schule]]"
 ---
-#Deutsch #Buch
+#Buch #Deutsch 
