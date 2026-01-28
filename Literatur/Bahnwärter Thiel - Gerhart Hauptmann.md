@@ -3,8 +3,8 @@ title: Bahnwärter Thiel
 subtitle: Reclam XL – Text und Kontext
 author:
   - "[[Gerhart Hauptmann]]"
-category: Novelle
-publisher: Reclam Verlag
+category: novellistische Studie
+publisher:
 publish: 2014-02-05
 total: 114
 isbn: 3159604667
