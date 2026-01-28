@@ -5,7 +5,7 @@ views:
   - type: cards
     name: View
     order:
-      - file.name
+      - title
       - author
       - publish
     image: note.localCover

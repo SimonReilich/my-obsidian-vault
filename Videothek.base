@@ -5,20 +5,20 @@ views:
   - type: cards
     name: View
     order:
-      - file.name
-      - author
-      - publish
-    image: note.localCover
-    imageAspectRatio: 1.5
+      - title
+      - channel
+      - links
+    image: note.thumbnail
+    imageAspectRatio: 0.5625
     imageFit: cover
-    cardSize: 220
+    cardSize: 440
   - type: table
     name: Table
     order:
       - title
-      - author
-      - category
-      - publish
+      - channel
+      - publishDate
+      - links
     sort: []
     columnSize:
       note.title: 299
