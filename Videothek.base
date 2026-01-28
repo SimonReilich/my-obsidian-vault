@@ -1,0 +1,9 @@
+filters:
+  and:
+    - file.hasTag("Video")
+views:
+  - type: table
+    name: Table
+  - type: cards
+    name: View
+    imageAspectRatio: 0.7
