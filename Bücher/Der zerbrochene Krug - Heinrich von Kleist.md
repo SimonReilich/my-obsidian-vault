@@ -8,6 +8,6 @@ category:
 publisher:
 publish: 1808
 isbn:
-localCover: Literatur/Bilder/Der zerbrochene Krug - Heinrich von Kleist.png
+localCover: Bücher/Bilder/Der zerbrochene Krug - Heinrich von Kleist.png
 ---
 #Buch #Deutsch 

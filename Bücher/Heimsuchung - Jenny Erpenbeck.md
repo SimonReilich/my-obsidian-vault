@@ -8,6 +8,6 @@ category:
 publisher: Penguin Verlag
 publish: 2008
 isbn: 9783328102519
-localCover: Literatur/Bilder/Heimsuchung - Jenny Erpenbeck.png
+localCover: Bücher/Bilder/Heimsuchung - Jenny Erpenbeck.png
 ---
 #Buch #Deutsch 

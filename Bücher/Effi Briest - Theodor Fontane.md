@@ -8,6 +8,6 @@ category:
 publisher:
 publish: 1895
 isbn:
-localCover: Literatur/Bilder/Effi Briest - Theodor Fontane.png
+localCover: Bücher/Bilder/Effi Briest - Theodor Fontane.png
 ---
 #Buch #Deutsch 

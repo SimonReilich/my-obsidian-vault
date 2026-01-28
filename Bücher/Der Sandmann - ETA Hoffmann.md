@@ -8,6 +8,6 @@ category:
 publisher:
 publish: 1816
 isbn:
-localCover: Literatur/Bilder/Der Sandmann - ETA Hoffmann.png
+localCover: Bücher/Bilder/Der Sandmann - ETA Hoffmann.png
 ---
 #Buch #Deutsch 

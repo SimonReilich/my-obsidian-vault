@@ -9,6 +9,6 @@ category:
 publisher: Springer-Verlag
 publish: 2011
 isbn: 3642129609
-localCover: Literatur/Bilder/Ein Schaubild der Mathematik - Dmitry Fuchs Serge Tabachnikov.png
+localCover: Bücher/Bilder/Ein Schaubild der Mathematik - Dmitry Fuchs Serge Tabachnikov.png
 ---
 #Buch #Mathematik 

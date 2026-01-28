@@ -8,6 +8,6 @@ category:
 publisher:
 publish: 1913
 isbn:
-localCover: Literatur/Bilder/Der Tod in Venedig - Thomas Mann.png
+localCover: Bücher/Bilder/Der Tod in Venedig - Thomas Mann.png
 ---
 #Buch #Deutsch 

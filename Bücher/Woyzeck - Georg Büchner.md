@@ -8,6 +8,6 @@ category:
 publisher:
 publish: 1837
 isbn:
-localCover: Literatur/Bilder/Woyzeck - Georg Büchner.png
+localCover: Bücher/Bilder/Woyzeck - Georg Büchner.png
 ---
 #Buch #Deutsch 

@@ -8,6 +8,6 @@ category:
 publisher:
 publish: 1943
 isbn:
-localCover: Literatur/Bilder/Leben des Galilei - Bertolt Brecht.png
+localCover: Bücher/Bilder/Leben des Galilei - Bertolt Brecht.png
 ---
 #Buch #Deutsch 

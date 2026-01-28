@@ -7,6 +7,6 @@ category: Drama
 publisher:
 publish: 1786
 isbn:
-localCover: Literatur/Bilder/Iphigenie auf Tauris - Johann Wolfgang von Goethe.png
+localCover: Bücher/Bilder/Iphigenie auf Tauris - Johann Wolfgang von Goethe.png
 ---
 #Oberstufe #Deutsch #Q12 #Buch

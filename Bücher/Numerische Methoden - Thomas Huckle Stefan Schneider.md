@@ -8,6 +8,6 @@ category: Lehrbuch
 publisher: Springer-Verlag
 publish: 2006
 isbn: 3540303189
-localCover: Literatur/Bilder/Numerische Methoden - Thomas Huckle Stefan Schneider.png
+localCover: Bücher/Bilder/Numerische Methoden - Thomas Huckle Stefan Schneider.png
 ---
 #Buch #Mathematik
