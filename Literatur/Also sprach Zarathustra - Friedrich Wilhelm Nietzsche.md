@@ -1,6 +1,6 @@
 ---
 title: Also sprach Zarathustra
-subtitle: Ein Buch für Alle und Keinen Nietsche friedrich Nitsche
+subtitle: Ein Buch für Alle und Keinen
 author:
   - "[[Friedrich Nietzsche]]"
 category: []

@@ -9,8 +9,8 @@ views:
       - author
       - source
     image: note.localCover
-    imageAspectRatio: 1
-    imageFit: contain
+    imageAspectRatio: 1.4
+    imageFit: cover
     cardSize: 220
   - type: table
     name: Table
