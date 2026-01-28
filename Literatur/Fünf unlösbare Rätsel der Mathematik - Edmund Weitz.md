@@ -6,11 +6,7 @@ author:
 category: Sachbuch
 publisher: Rowohlt Verlag GmbH
 publish: 2025-01-28
-total: 358
 isbn: 3644019630
-cover: http://books.google.com/books/content?id=IaP9EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-localCover: Literatur/Bilder/Fünf unlösbare Rätsel der Mathematik - Edmund Weitz.jpg
-source: ""
-related: ""
+localCover: Literatur/Bilder/Fünf unlösbare Rätsel der Mathematik - Edmund Weitz.png
 ---
-#Mathematik  #Buch
+#Buch #Mathematik 
