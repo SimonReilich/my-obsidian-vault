@@ -6,7 +6,7 @@ author:
 category:
   - Drama
 publisher:
-publish: 1808-02-03
+publish: 1808
 isbn:
 localCover: Literatur/Bilder/Der zerbrochene Krug - Heinrich von Kleist.png
 ---

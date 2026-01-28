@@ -3,9 +3,10 @@ title: Die Verwandlung
 subtitle: ""
 author:
   - "[[Franz Kafka]]"
-category: []
+category:
+  - Novelle
 publisher:
-publish: 1915-01-10
+publish: 1915
 isbn:
 localCover: Literatur/Bilder/Die Verwandlung - Franz Kafka.png
 ---

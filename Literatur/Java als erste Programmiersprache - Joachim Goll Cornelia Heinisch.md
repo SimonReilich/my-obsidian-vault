@@ -6,7 +6,7 @@ author:
   - "[[Cornelia Heinisch]]"
 category: Lehrbuch
 publisher: Springer-Verlag
-publish: 2016-02-05
+publish: 2016
 isbn: 3658121173
 localCover: Literatur/Bilder/Java als erste Programmiersprache - Joachim Goll Cornelia Heinisch.png
 ---

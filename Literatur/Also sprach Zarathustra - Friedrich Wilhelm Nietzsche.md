@@ -8,7 +8,7 @@ category:
   - Dichtung
   - dramatische Prosa
 publisher:
-publish: 1883-01-01
+publish: 1883
 isbn:
 localCover: Literatur/Bilder/Also sprach Zarathustra - Friedrich Wilhelm Nietzsche.png
 ---

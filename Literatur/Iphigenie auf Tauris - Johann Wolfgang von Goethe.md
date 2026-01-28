@@ -5,7 +5,7 @@ author:
   - "[[Johann Wolfgang Goethe]]"
 category: Drama
 publisher:
-publish: 1786-01-01
+publish: 1786
 isbn:
 localCover: Literatur/Bilder/Iphigenie auf Tauris - Johann Wolfgang von Goethe.png
 ---

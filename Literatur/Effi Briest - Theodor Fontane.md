@@ -6,7 +6,7 @@ author:
 category:
   - Roman
 publisher:
-publish: 1895-12-01
+publish: 1895
 isbn:
 localCover: Literatur/Bilder/Effi Briest - Theodor Fontane.png
 ---

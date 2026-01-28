@@ -7,7 +7,7 @@ views:
     order:
       - file.name
       - author
-      - source
+      - publish
     image: note.localCover
     imageAspectRatio: 1.5
     imageFit: cover
@@ -15,12 +15,12 @@ views:
   - type: table
     name: Table
     order:
-      - file.name
+      - title
       - author
       - category
       - publish
-      - source
     sort: []
     columnSize:
-      file.name: 388
-      note.category: 108
+      note.title: 299
+      note.author: 580
+      note.category: 400

@@ -6,7 +6,7 @@ author:
 category:
   - Episches Theater
 publisher:
-publish: 1943-09-09
+publish: 1943
 isbn:
 localCover: Literatur/Bilder/Leben des Galilei - Bertolt Brecht.png
 ---
