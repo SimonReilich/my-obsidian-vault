@@ -1,9 +1,26 @@
 filters:
   and:
-    - file.hasTag("Video")
+    - file.tags.contains("Video")
 views:
-  - type: table
-    name: Table
   - type: cards
     name: View
-    imageAspectRatio: 0.7
+    order:
+      - file.name
+      - author
+      - publish
+    image: note.localCover
+    imageAspectRatio: 1.5
+    imageFit: cover
+    cardSize: 220
+  - type: table
+    name: Table
+    order:
+      - title
+      - author
+      - category
+      - publish
+    sort: []
+    columnSize:
+      note.title: 299
+      note.author: 580
+      note.category: 400
