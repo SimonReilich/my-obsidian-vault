@@ -12,3 +12,4 @@ lecture: "[[Algorithmen für Programmierwettbewerbe]]"
 - Datenstruktur um [[Partition|Partitionen]] einer Menge zu verwalten
 - z.B. Repräsentation von [[Äquivalenzrelation|Äquivalenzrelationen]] 
 - Amortisierte Laufzeit wird durch das Inverse der [[Ackermann-Funktion]] beschrieben
+- [[Union-Find Referenz]]

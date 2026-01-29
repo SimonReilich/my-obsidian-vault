@@ -9,4 +9,6 @@ professor: "[[Javier Esparza]]"
 - Kapitel 04 - [[Greedy Algorithmen]] 
 - Kapitel 05 - [[Dynamic Programming]]
 - Kapitel 06 - [[Zahlentheorie]]
-- Kapitel 07 - [[Geometrie]] 
+- Kapitel 07 - [[Linien, Punkte und Polygone]]  
+- Kapitel 08 - [[Trie und Segment Tree]]
+- Kapitel 09 - [[Projektive Geometrie]] 
