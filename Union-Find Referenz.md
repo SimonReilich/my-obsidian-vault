@@ -1,5 +1,9 @@
+---
+lecture: "[[Algorithmen für Programmierwettbewerbe]]"
+---
 #Bachelor #Informatik #ConPra 
 # Rust
+
 ```Rust
 fn union (a : i32, b : i32, mut parent : &mut Vec<i32>, size : &mut Vec<i32>) -> i32 {
     let mut root_a = find(a, &mut parent);

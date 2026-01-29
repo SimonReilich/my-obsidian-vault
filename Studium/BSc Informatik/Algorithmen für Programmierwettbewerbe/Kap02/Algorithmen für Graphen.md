@@ -16,7 +16,7 @@ lecture: "[[Algorithmen für Programmierwettbewerbe]]"
 - Besuche alle Knoten im Graph in einer bestimmten Reihnfolge
 - Zwei Ansätze: [[Depth-First-Search]] und [[Breadth-First-Search]] 
 - Anwendungen:
-	- [[Cycledetection]] (mit DFS)
+	- [[Zyklendetektion]] (mit DFS)
 	- [[Dijkstra Algorithmus]] (Generalisierung von BFS)
 
 # Topologische Sortierung

@@ -1,0 +1,2 @@
+#Bachelor #Informatik #ConPra 
+# Definitio
