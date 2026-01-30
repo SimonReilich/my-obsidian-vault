@@ -9,6 +9,6 @@ authors:
   - "[[Oded Maler]]"
 journal: "[[Springer]]"
 publish: 2009
-source: "[[Pang et al - 2008 - On Automatic Verification of Self-Stabilizing Population Protocols.pdf]]"
+source: "[[Sun et al - 2009 - PAT Towards Flexible Verification under Fairness.pdf]]"
 ---
 #Literatur #Informatik 
