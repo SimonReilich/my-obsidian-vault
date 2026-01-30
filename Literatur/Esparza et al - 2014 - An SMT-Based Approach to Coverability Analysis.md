@@ -8,8 +8,8 @@ authors:
   - "[[Filip Niksic]]"
   - "[[Armin Biere]]"
   - "[[Roderick Bloem]]"
-journal: "[[BMC Bioinformatics]]"
-publishDate: 2024-11-08
-source: "[[Helfrich et al - 2024 - Abstraction-based segmental simulation of reaction networks using adaptive memoization.pdf]]"
+journal: "[[Springer]]"
+publish: 2014
+source: "[[Esparza et al - 2014 - An SMT-Based Approach to Coverability Analysis.pdf]]"
 ---
 #Literatur #Informatik 
