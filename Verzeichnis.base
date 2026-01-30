@@ -1,0 +1,8 @@
+filters:
+  and:
+    - file.hasTag("Literatur")
+views:
+  - type: table
+    name: Table
+  - type: cards
+    name: View
