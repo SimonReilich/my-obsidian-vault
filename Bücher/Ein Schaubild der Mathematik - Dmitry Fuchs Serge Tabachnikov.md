@@ -6,7 +6,7 @@ author:
   - "[[Serge Tabachnikov]]"
 category:
   - Vorlesungssammlung
-publisher: Springer-Verlag
+publisher: "[[Springer]]"
 publish: 2011
 isbn: 3642129609
 localCover: Bücher/Bilder/Ein Schaubild der Mathematik - Dmitry Fuchs Serge Tabachnikov.png

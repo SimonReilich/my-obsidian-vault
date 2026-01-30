@@ -8,6 +8,11 @@ views:
       - title
       - channel
       - links
+    sort:
+      - property: publishDate
+        direction: ASC
+      - property: channel
+        direction: ASC
     image: note.thumbnail
     imageAspectRatio: 0.5625
     imageFit: cover

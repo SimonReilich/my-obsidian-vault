@@ -16,7 +16,7 @@ views:
         direction: ASC
       - property: authors
         direction: ASC
-    cardSize: 200
+    cardSize: 440
     imageAspectRatio: 1
   - type: table
     name: Table
