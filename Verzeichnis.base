@@ -7,11 +7,16 @@ views:
     order:
       - title
       - source
-      - publishDate
       - journal
       - authors
       - file.tags
-    cardSize: 200
+      - publish
+    sort:
+      - property: publish
+        direction: ASC
+      - property: authors
+        direction: ASC
+    cardSize: 440
     imageAspectRatio: 1
   - type: table
     name: Table

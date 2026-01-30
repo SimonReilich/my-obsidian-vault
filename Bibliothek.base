@@ -8,6 +8,11 @@ views:
       - title
       - author
       - publish
+    sort:
+      - property: publish
+        direction: ASC
+      - property: author
+        direction: ASC
     image: note.localCover
     imageAspectRatio: 1.5
     imageFit: cover
