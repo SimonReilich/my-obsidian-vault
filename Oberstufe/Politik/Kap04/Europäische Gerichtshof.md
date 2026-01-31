@@ -1,7 +1,7 @@
 ---
 subject: "[[Politik - Schule]]"
 ---
-#Oberstufe #Politik #Q12 
+#Oberstufe #Politik #Q13/Q12 
 # Definition
 - Sitz in [[Luxemburg ]]
 - Oberste rechtsprechende Organ der EU

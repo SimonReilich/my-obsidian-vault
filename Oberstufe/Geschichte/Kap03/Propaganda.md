@@ -1,7 +1,7 @@
 ---
 subject: "[[Geschichte - Schule]]"
 ---
-#Oberstufe #Geschichte #Q12 
+#Oberstufe #Geschichte #Q13/Q12 
 
 # Definition
 Propaganda bezeichnet in ihrer modernen Bedeutung zielgerichtete Versuche, politische, religiöse oder weltanschauliche Meinungen oder öffentliche Sichtweisen zu formen, Erkenntnisse zu manipulieren und das Verhalten in eine vom Propagandisten oder Herrscher erwünschte Richtung zu steuern.

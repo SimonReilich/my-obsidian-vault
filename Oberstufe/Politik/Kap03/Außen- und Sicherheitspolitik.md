@@ -1,7 +1,7 @@
 ---
 subject: "[[Politik - Schule]]"
 ---
-#Oberstufe #Politik #Q12 
+#Oberstufe #Politik
 
 3 Ebenen in der Außen- und Sicherheitspolitik: taktisch, operativ und **strategisch** 
 

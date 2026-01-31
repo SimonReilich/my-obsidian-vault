@@ -1,7 +1,7 @@
 ---
 subject: "[[Geschichte - Schule]]"
 ---
-#Oberstufe #Geschichte #Q12 
+#Oberstufe #Geschichte #Q13/Q12 
 
 # Definition
 Der Nationalsozialismus ist die radikalste rechtsextreme Ideologie und umfasst [[Antisemitismus|antisemitische]], [[Rassismus|rassistische]], ultra[[Nationalismus|nationalistische]], völkische, sozialdarwinistische, anti[[Kommunismus|kommunistische]], anti[[Demokratie|demokratische]] und antipluralistische Konzepte.

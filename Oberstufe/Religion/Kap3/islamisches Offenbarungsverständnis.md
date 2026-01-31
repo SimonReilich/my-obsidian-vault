@@ -1,7 +1,7 @@
 ---
 subject: "[[Religion - Schule]]"
 ---
-#Oberstufe #Religion #Q12 
+#Oberstufe #Religion #Q13/Q12 
 # Definition
 - unmittelbare / direkte Offenbarung, Mohammed bekommt Koran überreicht / diktiert
 - Koran ist das Wort Gottes

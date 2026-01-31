@@ -1,7 +1,7 @@
 ---
 subject: "[[Chemie - Schule]]"
 ---
-#Oberstufe #Chemie #Q12 
+#Oberstufe #Chemie #Q13/Q12 
 # Halogenierung von Alkanen
 
 (Bsp.: Brom, auch andere Halogene sind möglich)

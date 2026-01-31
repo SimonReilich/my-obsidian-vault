@@ -1,7 +1,7 @@
 ---
 subject: "[[Physik - Schule]]"
 ---
-#Oberstufe #Physik #Q12 
+#Oberstufe #Physik #Q13/Q12 
 
 # Definition
 

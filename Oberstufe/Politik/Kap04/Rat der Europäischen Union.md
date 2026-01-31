@@ -1,7 +1,7 @@
 ---
 subject: "[[Politik - Schule]]"
 ---
-#Oberstufe #Politik #Q12
+#Oberstufe #Politik #Q13/Q12
 # Definition
 - Besteht aus den Fachministern der EU- Mitgliedsstaaten
 - Intergouvernementale Institution

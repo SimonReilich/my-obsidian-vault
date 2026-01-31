@@ -1,7 +1,7 @@
 ---
 subject: "[[Religion - Schule]]"
 ---
-#Oberstufe #Religion #Q12 
+#Oberstufe #Religion #Q13/Q12 
 # Sprachliche Definition
 - 'Religion' kommt von lateinischem Wort 'religio'
 - [[Rom|Römer]] verstehen unter 'religio' die Erfüllung der Pflichten gegenüber der göttlichen Macht

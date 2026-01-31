@@ -1,7 +1,7 @@
 ---
 subject: "[[Politik - Schule]]"
 ---
-#Oberstufe #Politik #Q12 
+#Oberstufe #Politik #Q13/Q12 
 # Definition
 - Supranationale Institution
 - Sitz in [[Brüssel]], Teil der Exekutive

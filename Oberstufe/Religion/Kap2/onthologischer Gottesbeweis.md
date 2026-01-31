@@ -1,7 +1,7 @@
 ---
 subject: "[[Religion - Schule]]"
 ---
-#Oberstufe #Religion #Q12 
+#Oberstufe #Religion #Q13/Q12 
 # Definition
 - [[Der Mensch auf der Suche nach Gott|Gottesbeweis]] nach [[Anselm von Canterbury]]
 - Geführt im Sinne eines [[strenger Syllogismus|strengen Syllogismus]] nach [[Aristoteles]] 

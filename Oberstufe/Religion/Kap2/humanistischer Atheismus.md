@@ -1,7 +1,7 @@
 ---
 subject: "[[Religion - Schule]]"
 ---
-#Oberstufe #Religion #Q12 
+#Oberstufe #Religion #Q13/Q12 
 # Definition
 - sieht den Menschen in einem Zustand der Selbstentzweiung
 - Aufspaltung in Individuum mit Schwächen (Mensch) und ein Vollkommenes wesen (Gattungsideal, Gott)

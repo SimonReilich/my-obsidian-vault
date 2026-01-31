@@ -1,7 +1,7 @@
 ---
 subject: "[[Religion - Schule]]"
 ---
-#Oberstufe #Religion #Q12 
+#Oberstufe #Religion #Q13/Q12 
 # Definition
 - Sammlung von 5 [[Der Mensch auf der Suche nach Gott|Gottesbeweisen]] von [[Thomas von Aquin]]
 - Methodik: [[strenger Syllogismus]] nach [[Aristoteles]] 

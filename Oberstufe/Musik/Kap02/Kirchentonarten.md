@@ -1,7 +1,7 @@
 ---
 subject: "[[Musik - Schule]]"
 ---
-#Oberstufe #Musik #Q12 
+#Oberstufe #Musik #Q13/Q12 
 # Ionisch
 - entspricht heutigem Dur
 - Halbtonschritte zwischen 3/4 und 7/8

@@ -1,7 +1,7 @@
 ---
 subject: "[[Religion - Schule]]"
 ---
-#Oberstufe #Religion #Q12 
+#Oberstufe #Religion #Q13/Q12 
 # Definition
 - Kanon = 'Gesammtheit der Stimmen'
 - Gesammtheit der Bibel stellt Kontext für Textstellen dar, intertextuelle Bezüge
