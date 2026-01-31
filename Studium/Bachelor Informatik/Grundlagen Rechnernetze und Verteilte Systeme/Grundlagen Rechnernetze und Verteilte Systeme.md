@@ -1,5 +1,5 @@
 ---
-professor: 
+instructor:
   - "[[Georg Carle]]"
   - "[[Stephan Günther]]"
 ---

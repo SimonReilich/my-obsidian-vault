@@ -1,5 +1,5 @@
 ---
-professor: 
+instructor:
   - "[[Robert Wille]]"
   - "[[Martin Schulz]]"
 ---

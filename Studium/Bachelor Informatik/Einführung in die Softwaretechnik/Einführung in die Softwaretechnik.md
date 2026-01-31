@@ -1,5 +1,5 @@
 ---
-professor: "[[Pramod Bhatotia]]"
+instructor: "[[Pramod Bhatotia]]"
 ---
 #Bachelor #Informatik #Inhaltsverzeichnis
 

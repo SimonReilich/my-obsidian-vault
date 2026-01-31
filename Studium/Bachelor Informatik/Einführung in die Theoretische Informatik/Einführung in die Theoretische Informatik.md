@@ -1,4 +1,4 @@
 ---
-professor: "[[Javier Esparza]]"
+instructor: "[[Javier Esparza]]"
 ---
 #Bachelor #Informatik #Inhaltsverzeichnis

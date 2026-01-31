@@ -1,5 +1,5 @@
 ---
-professor: 
+instructor:
   - "[[Hans-Joachim Bungartz]]"
   - "[[Michael Bader]]"
 ---

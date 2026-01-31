@@ -1,5 +1,5 @@
 ---
-professor: "[[Alfons Kemper]]"
+instructor: "[[Alfons Kemper]]"
 ---
 #Bachelor #Informatik #Inhaltsverzeichnis
 

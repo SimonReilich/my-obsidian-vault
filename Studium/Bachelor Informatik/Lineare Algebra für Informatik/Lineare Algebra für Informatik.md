@@ -1,4 +1,4 @@
 ---
-professor: "[[Christian Karpfinger]]"
+instructor: "[[Christian Karpfinger]]"
 ---
 #Bachelor #Informatik #Inhaltsverzeichnis

@@ -1,5 +1,5 @@
 ---
-professor: "[[Susanne Albers]]"
+instructor: "[[Susanne Albers]]"
 ---
 #Bachelor #Informatik #Inhaltsverzeichnis
 

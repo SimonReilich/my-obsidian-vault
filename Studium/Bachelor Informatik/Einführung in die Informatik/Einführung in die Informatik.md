@@ -1,5 +1,5 @@
 ---
-professor: "[[Rüdiger Westermann]]"
+instructor: "[[Rüdiger Westermann]]"
 ---
 #Bachelor #Informatik #Inhaltsverzeichnis 
 

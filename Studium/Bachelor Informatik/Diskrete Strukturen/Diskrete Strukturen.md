@@ -1,5 +1,5 @@
 ---
-professor: "[[Daniel Cremers]]"
+instructor: "[[Daniel Cremers]]"
 ---
 #Bachelor #Informatik #Inhaltsverzeichnis
 

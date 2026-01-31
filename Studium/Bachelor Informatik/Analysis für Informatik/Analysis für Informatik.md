@@ -1,5 +1,5 @@
 ---
-professor: "[[Silke Rolles]]"
+instructor: "[[Silke Rolles]]"
 ---
 #Bachelor #Informatik #Inhaltsverzeichnis 
 

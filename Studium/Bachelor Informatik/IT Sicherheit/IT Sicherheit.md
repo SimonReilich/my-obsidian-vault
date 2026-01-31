@@ -1,5 +1,5 @@
 ---
-professor: "[[Claudia Eckert]]"
+instructor: "[[Claudia Eckert]]"
 ---
 #Bachelor #Informatik #Inhaltsverzeichnis 
 

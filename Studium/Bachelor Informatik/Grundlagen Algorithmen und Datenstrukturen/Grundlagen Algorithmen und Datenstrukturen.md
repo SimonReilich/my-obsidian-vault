@@ -1,4 +1,4 @@
 ---
-professor: "[[Nils Thuerey]]"
+instructor: "[[Nils Thuerey]]"
 ---
 #Bachelor #Informatik #Inhaltsverzeichnis 

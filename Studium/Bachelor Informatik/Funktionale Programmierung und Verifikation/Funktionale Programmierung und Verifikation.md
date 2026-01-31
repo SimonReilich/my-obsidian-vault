@@ -1,4 +1,4 @@
 ---
-professor: "[[Helmut Seidl]]"
+instructor: "[[Helmut Seidl]]"
 ---
 #Bachelor #Informatik #Inhaltsverzeichnis
