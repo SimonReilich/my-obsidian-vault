@@ -1,12 +1,12 @@
 ---
 title: The computational power of population protocols
-authors:
+author:
   - "[[Dana Angluin]]"
   - "[[James Aspnes]]"
   - "[[David Eisenstat]]"
   - "[[Eric Ruppert]]"
-journal: "[[Distributed Computing]]"
-publish: 2007
+publisher: "[[Distributed Computing]]"
+year: 2007
 source: "[[Angluin et al - 2007 - The computational power of population protocols.pdf]]"
 ---
 #Literatur #Informatik 

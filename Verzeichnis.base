@@ -1,20 +1,21 @@
 filters:
   and:
     - file.hasTag("Literatur")
+    - file.folder.contains("Literatur")
 views:
   - type: cards
     name: View
     order:
       - title
       - source
-      - journal
-      - authors
       - file.tags
-      - publish
+      - author
+      - publisher
+      - year
     sort:
-      - property: publish
+      - property: year
         direction: ASC
-      - property: authors
+      - property: author
         direction: ASC
     cardSize: 440
     imageAspectRatio: 1

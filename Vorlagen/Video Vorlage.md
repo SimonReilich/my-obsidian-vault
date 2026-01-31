@@ -1,5 +1,9 @@
 ---
 title:
 description:
+year:
+links:
+channel:
+thumbnail:
 ---
 #Video

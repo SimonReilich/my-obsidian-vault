@@ -1,6 +1,6 @@
 ---
 title: "When Birds Die: Making Population Protocols Fault-Tolerant"
-authors:
+author:
   - "[[Carole Delporte-Gallet]]"
   - "[[Hugues Fauconnier]]"
   - "[[Rachid Guerraoui]]"
@@ -9,8 +9,8 @@ authors:
   - "[[Tarek Abdelzaher]]"
   - "[[James Aspnes]]"
   - "[[Ramesh Rao]]"
-journal: "[[Springer]]"
-publish: 2006
+publisher: "[[Springer]]"
+year: 2006
 source: "[[Delporte-Gallet et al - 2006 - When Birds Die Making Population Protocols Fault-Tolerant.pdf]]"
 ---
 #Literatur #Informatik 

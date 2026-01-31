@@ -1,10 +1,10 @@
 ---
 title: Demystifying Reachability in Vector Addition Systems
-authors:
+author:
   - "[[Jérôme Leroux]]"
   - "[[Sylvain Schmitz]]"
-journal: "[[IEEE]]"
-publish: 2015
+publisher: "[[IEEE]]"
+year: 2015
 source: "[[Leroux und Schmitz - 2015 - Demystifying Reachability in Vector Addition Systems.pdf]]"
 ---
 #Literatur #Informatik 

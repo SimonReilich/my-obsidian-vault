@@ -1,6 +1,7 @@
 filters:
   and:
     - file.tags.contains("Video")
+    - file.folder.contains("Videos")
 views:
   - type: cards
     name: View

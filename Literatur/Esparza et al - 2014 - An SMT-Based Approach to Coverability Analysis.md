@@ -1,6 +1,6 @@
 ---
 title: An SMT-Based Approach to Coverability Analysis
-authors:
+author:
   - "[[Javier Esparza]]"
   - "[[Ruslán Ledesma-Graza]]"
   - "[[Rupak Majumdar]]"
@@ -8,8 +8,8 @@ authors:
   - "[[Filip Niksic]]"
   - "[[Armin Biere]]"
   - "[[Roderick Bloem]]"
-journal: "[[Springer]]"
-publish: 2014
+publisher: "[[Springer]]"
+year: 2014
 source: "[[Esparza et al - 2014 - An SMT-Based Approach to Coverability Analysis.pdf]]"
 ---
 #Literatur #Informatik 

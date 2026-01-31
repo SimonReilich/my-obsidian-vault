@@ -1,11 +1,11 @@
 ---
 title: "Z3: An Efficient SMT Solver"
-authors:
+author:
   - "[[Leonardo de Moura]]"
   - "[[Nikolaj Bjørner]]"
   - "[[Jakob Rehof]]"
-journal: "[[Springer]]"
-publish: 2008
+publisher: "[[Springer]]"
+year: 2008
 source: "[[de Moura und Bjørner - 2008 - Z3 An Efficient SMT Solver.pdf]]"
 ---
 #Literatur #Informatik 

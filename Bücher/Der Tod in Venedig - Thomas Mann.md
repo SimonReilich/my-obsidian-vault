@@ -6,8 +6,8 @@ author:
 category:
   - Novelle
 publisher:
-publish: 1913
+year: 1913
 isbn:
-localCover: Bücher/Bilder/Der Tod in Venedig - Thomas Mann.png
+cover: Bücher/Bilder/Der Tod in Venedig - Thomas Mann.png
 ---
 #Buch #Deutsch 

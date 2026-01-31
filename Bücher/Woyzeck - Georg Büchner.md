@@ -6,8 +6,8 @@ author:
 category:
   - offenes Drama
 publisher:
-publish: 1837
+year: 1837
 isbn:
-localCover: Bücher/Bilder/Woyzeck - Georg Büchner.png
+cover: Bücher/Bilder/Woyzeck - Georg Büchner.png
 ---
 #Buch #Deutsch 

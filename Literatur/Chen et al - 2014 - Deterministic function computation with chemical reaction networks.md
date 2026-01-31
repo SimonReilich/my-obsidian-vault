@@ -1,11 +1,11 @@
 ---
 title: Deterministic function computation with chemical reaction networks
-authors:
+author:
   - "[[Ho-Lin Chen]]"
   - "[[David Doty]]"
   - "[[David Soloveichik]]"
-journal: "[[Natural Computing]]"
-publish: 2014
+publisher: "[[Natural Computing]]"
+year: 2014
 source: "[[Chen et al - 2014 - Deterministic function computation with chemical reaction networks.pdf]]"
 ---
 #Literatur #Informatik 

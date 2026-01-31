@@ -1,12 +1,12 @@
 ---
 title: "Black Ninjas in the Dark: Formal Analysis of Population Protocols"
-authors:
+author:
   - "[[Michael Blondin]]"
   - "[[Javier Esparza]]"
   - "[[Stefan Jaax]]"
   - "[[Antonin Kučera]]"
-journal: "[[IEEE]]"
-publish: 2018
+publisher: "[[IEEE]]"
+year: 2018
 source: "[[Blondin et al - 2018 - Black Ninjas in the Dark Formal Analysis of Population Protocols.pdf]]"
 ---
 #Literatur #Informatik 

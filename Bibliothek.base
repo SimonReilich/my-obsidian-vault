@@ -1,19 +1,20 @@
 filters:
   and:
     - file.tags.contains("Buch")
+    - file.folder.contains("Bücher")
 views:
   - type: cards
     name: View
     order:
       - title
       - author
-      - publish
+      - year
     sort:
-      - property: publish
+      - property: year
         direction: ASC
       - property: author
         direction: ASC
-    image: note.localCover
+    image: note.cover
     imageAspectRatio: 1.5
     imageFit: cover
     cardSize: 220

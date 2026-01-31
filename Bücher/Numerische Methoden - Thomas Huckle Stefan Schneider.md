@@ -6,8 +6,8 @@ author:
   - "[[Stefan Schneider]]"
 category: Lehrbuch
 publisher: "[[Springer]]"
-publish: 2006
+year: 2006
 isbn: 3540303189
-localCover: Bücher/Bilder/Numerische Methoden - Thomas Huckle Stefan Schneider.png
+cover: Bücher/Bilder/Numerische Methoden - Thomas Huckle Stefan Schneider.png
 ---
 #Buch #Mathematik

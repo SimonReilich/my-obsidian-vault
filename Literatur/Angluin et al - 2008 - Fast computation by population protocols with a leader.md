@@ -1,11 +1,11 @@
 ---
 title: Fast computation by population protocols with a leader
-authors:
+author:
   - "[[Dana Angluin]]"
   - "[[James Aspnes]]"
   - "[[David Eisenstat]]"
-journal: "[[Distributed Computing]]"
-publish: 2008
+publisher: "[[Distributed Computing]]"
+year: 2008
 source: "[[Angluin et al - 2008 - Fast computation by population protocols with a leader.pdf]]"
 ---
 #Literatur #Informatik 

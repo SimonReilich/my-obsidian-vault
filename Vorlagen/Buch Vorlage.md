@@ -4,8 +4,8 @@ subtitle:
 author:
 category:
 publisher:
-publish:
+year:
 isbn:
-localCover:
+cover:
 ---
 #Buch 

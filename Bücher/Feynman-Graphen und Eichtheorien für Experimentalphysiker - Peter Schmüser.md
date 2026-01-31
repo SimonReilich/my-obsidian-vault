@@ -5,8 +5,8 @@ author: "[[Peter Schmüser]]"
 category:
   - Fachbuch
 publisher: "[[Springer]]"
-publish: 2011
+year: 2011
 isbn: 9783642577666
-localCover: Bücher/Bilder/Feynman-Graphen und Eichtheorien für Experimentalphysiker - Peter Schmüser.png
+cover: Bücher/Bilder/Feynman-Graphen und Eichtheorien für Experimentalphysiker - Peter Schmüser.png
 ---
 #Buch #Physik 

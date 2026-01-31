@@ -1,6 +1,6 @@
 ---
 title: "Names Trump Malice: Tiny Mobile Agents Can Tolerate Byzantine Failures"
-authors:
+author:
   - "[[Rachid Guerraoui]]"
   - "[[Eric Ruppert]]"
   - "[[Susanne Albers]]"
@@ -8,8 +8,8 @@ authors:
   - "[[Yossi Matias]]"
   - "[[Sotiris Nikoletseas]]"
   - "[[Thomas Wolfgang]]"
-journal: "[[Springer]]"
-publish: 2009
+publisher: "[[Springer]]"
+year: 2009
 source: "[[Guerraoui und Ruppert - 2009 - Names Trump Malice Tiny Mobile Agents Can Tolerate Byzantine Failures.pdf]]"
 ---
 #Literatur #Informatik 

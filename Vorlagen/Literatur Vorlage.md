@@ -1,8 +1,8 @@
 ---
 title:
-authors:
-journal:
-publish:
+author:
+publisher:
+year:
 source:
 ---
 #Literatur 

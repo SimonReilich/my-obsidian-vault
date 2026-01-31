@@ -1,11 +1,11 @@
 ---
 title: On Automatic Verification of Self-Stabilizing Population Protocols
-authors:
+author:
   - "[[Jun Pang]]"
   - "[[Zhengqin Luo]]"
   - "[[Yuxin Deng]]"
-journal: "[[IEEE]]"
-publish: 2008
+publisher: "[[IEEE]]"
+year: 2008
 source: "[[Pang et al - 2008 - On Automatic Verification of Self-Stabilizing Population Protocols.pdf]]"
 ---
 #Literatur #Informatik 

@@ -6,8 +6,8 @@ author:
 category:
   - Episches Theater
 publisher:
-publish: 1943
+year: 1943
 isbn:
-localCover: Bücher/Bilder/Leben des Galilei - Bertolt Brecht.png
+cover: Bücher/Bilder/Leben des Galilei - Bertolt Brecht.png
 ---
 #Buch #Deutsch 
