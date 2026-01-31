@@ -17,7 +17,7 @@ views:
     image: note.thumbnail
     imageAspectRatio: 0.5625
     imageFit: cover
-    cardSize: 330
+    cardSize: 300
   - type: table
     name: Table
     order:
