@@ -1,0 +1,11 @@
+---
+title:
+subtitle:
+author:
+category:
+publisher:
+publish:
+isbn:
+localCover:
+---
+#Buch 
