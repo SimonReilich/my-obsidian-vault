@@ -1,6 +1,6 @@
 ---
 subject: "[[Chemie - Schule]]"
 ---
-#Oberstufe #Chemie #Q13/Q12 
+#Oberstufe #Chemie
 
 Unter Zwang ablaufende [[Redoxgleichgewichte|Redoxreaktionen]] 

@@ -1,7 +1,7 @@
 ---
 subject: "[[Musik - Schule]]"
 ---
-#Oberstufe #Musik #Q13/Q12 
+#Oberstufe #Musik
 
 # Tradition in der Popmusik
 - Beispiel: Norwegian Wood - [[Beatles]]

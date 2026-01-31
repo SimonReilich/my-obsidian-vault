@@ -1,7 +1,7 @@
 ---
 subject: "[[Musik - Schule]]"
 ---
-#Oberstufe #Musik #Q13 
+#Oberstufe #Musik
 # Polyphone Strukturen
 - Im [[Barock]] ist die [[Homophonie|homophone Satztechnik]] üblich
 - [[Johann Sebastian Bach]] als Vertreter der [[Polyphonie|polyphonen Satztechnik]], ist umstritten

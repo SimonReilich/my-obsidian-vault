@@ -1,7 +1,7 @@
 ---
 subject: "[[Religion - Schule]]"
 ---
-#Oberstufe #Religion #Q13/Q12 
+#Oberstufe #Religion
 # Offenbarung
 - das [[christliches Offenbarungsverständnis|christliche Offenbarungsverständnis]] 
 - das [[islamisches Offenbarungsverständnis|islamische Offenbarungsverständnis]] 

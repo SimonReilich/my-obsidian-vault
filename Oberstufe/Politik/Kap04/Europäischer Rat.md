@@ -1,7 +1,7 @@
 ---
 subject: "[[Politik - Schule]]"
 ---
-#Oberstufe #Politik #Q13/Q12 
+#Oberstufe #Politik
 # Definition
 - Staats- und Regierungschefs der EU-Mitgliedsstaaten + Kommissionspräsident + Präsident des [[Europäischer Rat|Europäischen Rates]] (für 2,5 Jahre gewählt, darf kein nationales Amt haben) (letztere ohne Stimmrecht) 
 - Intergouvernementale Institution (EU- Gipfeltreffen viermal im Jahr in Brüssel) 

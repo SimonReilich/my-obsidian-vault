@@ -1,7 +1,7 @@
 ---
 subject: "[[Politik - Schule]]"
 ---
-#Oberstufe #Politik #Q13/Q12 
+#Oberstufe #Politik
 # Organisation
 - alle fünf Jahre von allen Bürgern der Mitgliedsstaaten gewählt
 - Sitz des Parlaments: [[Straßburg]]

@@ -1,7 +1,7 @@
 ---
 subject: "[[Religion - Schule]]"
 ---
-#Oberstufe #Religion #Q13/Q12 
+#Oberstufe #Religion
 # Grundlagen
 - Nach [[Karl Marx]] 
 - Geschichtsablauf:

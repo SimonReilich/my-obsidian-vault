@@ -1,7 +1,7 @@
 ---
 subject: "[[Chemie - Schule]]"
 ---
-#Oberstufe #Chemie #Q13 
+#Oberstufe #Chemie
 # Lichtabsorption
 - Unterscheidung: [[Pigmente]] und [[Farbstoffe]]
 - Zwei Farbmischverfahren: [[additive Farbmischung]] und [[subtraktive Farbmischung]]

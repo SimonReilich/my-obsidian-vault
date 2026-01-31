@@ -1,7 +1,7 @@
 ---
 subject: "[[Informatik - Schule]]"
 ---
-#Oberstufe #Informatik #Q13 
+#Oberstufe #Informatik
 # Formale Sprachen
 - Jede Sprache hat [[Syntax]] und [[Semantik]]
 - Definition: [[Grammatik]]

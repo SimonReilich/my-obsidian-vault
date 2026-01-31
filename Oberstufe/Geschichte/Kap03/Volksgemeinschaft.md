@@ -1,7 +1,7 @@
 ---
 subject: "[[Geschichte - Schule]]"
 ---
-#Oberstufe #Geschichte #Q13/Q12 
+#Oberstufe #Geschichte
 
 # Definition
 Im Ersten Weltkrieg verstand man unter Volksgemeinschaft angesichts der äußeren Bedrohung den Zusammenhalt der Deutschen ungeachtet politischer und sozialer Unterschiede. Die [[Nationalsozialismus|Nationalsozialisten]] deuteten den Begriff rassistisch und formten daraus ein [[Propaganda]]mittel.

@@ -1,7 +1,7 @@
 ---
 subject: "[[Religion - Schule]]"
 ---
-#Oberstufe #Religion #Q13/Q12 
+#Oberstufe #Religion
 # Religion
 - [[Etymologische Definition]] von Religion
 - [[Phänomenologische Definition]] von Religion

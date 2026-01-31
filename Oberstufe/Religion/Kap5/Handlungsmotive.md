@@ -1,7 +1,7 @@
 ---
 subject: "[[Religion - Schule]]"
 ---
-#Oberstufe #Religion #Q13 
+#Oberstufe #Religion
 # menschliche Handlungsmotive
 1. Vermeidung von Strafe / Streben nach Belohnung 
 	- z.B. Straßenverkehr

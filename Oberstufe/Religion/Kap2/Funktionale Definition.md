@@ -1,7 +1,7 @@
 ---
 subject: "[[Religion - Schule]]"
 ---
-#Oberstufe #Religion #Q13/Q12 
+#Oberstufe #Religion
 # Funktionen von Religion
 - zentrale Funktion: Heilsfunktion
 - [[Psychologie|Psychische]] Funktion: Bewältigung von Ängsten, Identitätsstiftung

@@ -1,7 +1,7 @@
 ---
 subject: "[[Religion - Schule]]"
 ---
-#Oberstufe #Religion #Q13/Q12 
+#Oberstufe #Religion
 # Definition
 - Erfassung der Intentionen von biblischen Texten
 - Berücksichtigt Entstehungsgeschichte der Texte

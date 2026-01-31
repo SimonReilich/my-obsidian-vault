@@ -1,7 +1,7 @@
 ---
 subject: "[[Politik - Schule]]"
 ---
-#Oberstufe #Politik #Q13 
+#Oberstufe #Politik
 # Grundlegende Begriffe
 - Definition [[Soziologie]] und [[Modern]] 
 - [[Werte]], v.a. im Unterschied zu [[Normen]] 

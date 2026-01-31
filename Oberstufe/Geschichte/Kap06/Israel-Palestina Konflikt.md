@@ -1,4 +1,4 @@
-#Oberstufe #Geschichte  #Q13 
+#Oberstufe #Geschichte 
 # Historische Entwicklung
 - Zunächst [[babylonische Gefangenschaft]]
 - Ab 2. Jh. vor Christus: unter [[Griechenland|griechischer]] Vorherrschaft, [[Griechenland|Griechen]] verwenden erstmals den Namen [[Palestina]]
