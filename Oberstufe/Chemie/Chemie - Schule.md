@@ -4,12 +4,10 @@
 - [[Liste anorganischer Verbindungen]] 
 
 # Inhalt
-- Kapitel 01 - [[Atombau]] 
-- Kapitel 02 - [[Analytik]] 
-- Kapitel 03 - [[Chemische Bindungen]] 
-- Kapitel 04 - [[Kohlenwasserstoffe]] 
-- Kapitel 05 - [[Reaktionsgeschwindigkeit]]
-- Kapitel 06 - [[Chemisches Gleichgewicht]] 
+- Kapitel 01 - [[Atombau und Analytik]] 
+- Kapitel 02 - [[Chemische Bindungen]] 
+- Kapitel 03 - [[Kohlenwasserstoffe und Enthalpie]] 
+- Kapitel 04 - [[Reaktionsgeschwindigkeit und chemisches Gleichgewicht]] 
 - Kapitel 07 - [[Redoxgleichgewichte]] 
 - Kapitel 08 - [[Farbigkeit]]
 - Kapitel 09 - [[Säure-Base-Gleichgewichte]] 

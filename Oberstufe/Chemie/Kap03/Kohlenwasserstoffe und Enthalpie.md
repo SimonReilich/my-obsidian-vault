@@ -36,7 +36,7 @@ $\ce{H2CBrCHR + Br- -> H2BrC2BrHR}$ (1, 2-Dibromalkan)
 
 # Halogenkohlenwasserstoffe
 
-- Fluorchlorkohlenwasserstoffe, kurz FCKW, sind [[Kohlenwasserstoffe]], bei denen Wasserstoffatome durch die Halogene Chlor und Fluor substituiert wurden. Sie sind eine Untergruppe der Halogenkohlenwasserstoffe.
+- Fluorchlorkohlenwasserstoffe, kurz FCKW, sind [[Kohlenwasserstoffe und Enthalpie]], bei denen Wasserstoffatome durch die Halogene Chlor und Fluor substituiert wurden. Sie sind eine Untergruppe der Halogenkohlenwasserstoffe.
 - Nutzung: Kältemittel, Treibgas für Sprühdosen
 - Vorteile: Effizientes Kühlmittel, unbrennbar, sehr stabil
 - Nachteile: Zerstörung der Ozonschicht, Treibhausgas
