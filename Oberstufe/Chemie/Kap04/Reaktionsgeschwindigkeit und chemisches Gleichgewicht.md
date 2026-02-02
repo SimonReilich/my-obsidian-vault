@@ -6,4 +6,4 @@ subject: "[[Chemie - Schule]]"
 # Einfluss von katalysatoren
 # Gleichgewicht und Massenwirkungsgesetz
 # Beeinflussung des Gleichgewichts
-# Anwendung des MW
+# Anwendung des MWG 
