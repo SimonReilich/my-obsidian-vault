@@ -33,4 +33,7 @@ lecture: "[[Algorithmen für Programmierwettbewerbe]]"
 - Problem ist auf allgemeinen Graphen [[NP-hard]]
 - Für gerichtete azyklische Graphen gibt es allerdings Algorithmen in [[P]] 
 - Möglichkeit 1: negiere Kantengewichte, wende [[Bellman-Ford-Algorithmus]] an, Laufzeit von $O(|V| * |E|)$
-- Möglichkeit 2: berechne [[Topologi]]
+- Möglichkeit 2: berechne [[Topologische Ordnung]] und arbeite Vertecies in dieser Reihenfolge ab, Laufzeit von $O(|V| + |E|)$ 
+
+# Maximaler Fluss
+- Definition [[Flussnetzwerk]], [[Fluss]], [[Fluss-Wert]] 
