@@ -18,3 +18,7 @@ lecture: "[[Algorithmen für Programmierwettbewerbe]]"
 - Naiver Ansatz: $x * y = \sum_{i = 0}^n \sum_{j = 0}^m x_i * y_j * b^{i + j}$, Laufzeit: $O(n^2)$
 - Bessere Verfahren: [[Karatsuba-Algorithmus]], [[Toom-Cook-Algorithmus]]
 - Logarithmische Laufzeit: [[FFT]]-basierte Verfahren: [[Algorithmus von Schönhage-Strassen]], [[Fürers Algorithmus]], [[Algorithmus von Harvey und van der Hoeven]] 
+
+# Potenzen
+- Klassischer Ansatz sehr langsam ($n$-mal multiplizieren)
+- Zerlege Exponenten stattdessen in $2$er-Potenzen, können instantan als Bitshift ausgeführt werden
