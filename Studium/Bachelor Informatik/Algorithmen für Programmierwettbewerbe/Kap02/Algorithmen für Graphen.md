@@ -4,13 +4,9 @@ lecture: "[[Algorithmen für Programmierwettbewerbe]]"
 #Bachelor #Informatik #ConPra
 # Graphen
 - Definition [[Graph]], [[Zyklus]], [[Zusammenhängend]], [[Baum]], [[Wald]]
-- Interface:
-	- make
-	- get_vertecies
-	- get_edges
-	- test_edge
-	- get_succ
+- Interface: `make`, `get_vertecies`, `get_edges`, `test_edge`, `get_succ`
 - Repräsentation: [[Adjazenzmatrix|Adjazenzmatrizen]] oder [[Adjazenzliste|Adjazenzlisten]] (meist besser)
+- [[Graph]] wird als dicht bezeichnet, wenn $|E| = O(|V|^2)$ 
 
 # Traversion
 - Besuche alle Knoten im Graph in einer bestimmten Reihnfolge
