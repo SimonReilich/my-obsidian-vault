@@ -3,4 +3,7 @@ lecture: "[[Algorithmen für Programmierwettbewerbe]]"
 ---
 #Bachelor #Informatik #ConPra 
 # Definition
-Die Catalan Zahlen lassen sich wie folgt berechnen: $C_n = {1 \over n + 1} (\begin{smallmatrix}2n \\ n\end{smallmatrix})$.
+Die Catalan Zahlen lassen sich wie folgt berechnen: $C_n = {1 \over n + 1} (\begin{smallmatrix}2n \\ n\end{smallmatrix})$. Sie haben verschiedene Anwendungsbereiche, explizit seien genannt:
+- Anzahl der wohlgeklammerten Wörter in $\{(, )\}^{2n}$ 
+- Anzahl der verschiedenen Möglichkeiten, ein Produkt von $n + 1$ Zahlen durch Anwendung des [[Assioziativgesetz|Assoziativgesetzes]] zu berechnen
+- Anzahl der Möglichkeiten, ein [[Konvex|konvexes]] [[Polygon]] mit $n + 2$ Vertecies ohne kreuzende Linien zu triangulieren

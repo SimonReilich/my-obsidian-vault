@@ -18,8 +18,6 @@ lecture: "[[Algorithmen für Programmierwettbewerbe]]"
 - Koeffizienten: [[Fakultät]], [[fallende Fakultät]], [[Binomialkeoffizienten]], [[Stirlingzahlen zweiter Art]], [[Bell Zahlen]], [[Catalan Zahlen]] 
 - [[Satz über die Summe von Polynomen]] 
 - Meist reicht eine Näherung, der genaue Wert wird nur äußerst selten benötigt
-- [[Obere und untere Grenze der allgemeinen Eulersumme]]
-- [[Obere und untere Grenze der Fakultät]]
 - Näherungen: [[Stirlingformel]]
 
 # Backtracking
