@@ -38,4 +38,5 @@ lecture: "[[Algorithmen für Programmierwettbewerbe]]"
 # Maximaler Fluss
 - Definition [[Flussnetzwerk]], [[Fluss]]
 - Einfacher Algorithmus: [[Ford-Fulkerson-Algorithmus]] 
-- Noch besser: [[Dinics Algorithmus]], [[Push]]
+- Noch besser: [[Dinics Algorithmus]], [[Dinic-Karzanov-Algorithmus]], [[Push-Relable-Algorithmus]] 
+- Anwendung: Berechnung eines optimalen bipartiten Matchings
