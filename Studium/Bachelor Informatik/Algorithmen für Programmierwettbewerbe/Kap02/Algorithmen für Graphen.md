@@ -19,7 +19,7 @@ lecture: "[[Algorithmen für Programmierwettbewerbe]]"
 - Algorithmus: [[Topological Sort]] 
 
 # Minimale Spannbäume
-- Definition: [[Teilgraph]], [[Spannbaum]], [[Minimaler Spannbaum]] 
+- Definition: [[Spannbaum]], [[Minimaler Spannbaum]] 
 - Ansätze: [[Kruskals Algorithmus]] und [[Prims Algorithmus]] 
 
 # Kürzeste Pfade
