@@ -24,7 +24,7 @@ lecture: "[[Algorithmen für Programmierwettbewerbe]]"
 
 # Kürzeste Pfade
 - Klassifizierung: [[Single-Pair-Shortest-Path]], [[Single-Source-Shortest-Path]] oder [[Any-Pairs-Shortest-Path]] 
-- Algorithmen: [[Dijkstra]], [[Bellman-Ford-Algorithmus]] 
+- Algorithmen: [[Dijkstras Algorithmus]], [[Bellman-Ford-Algorithmus]] 
 - Variante: [[Bellman-Ford-Algorithmus mit negativer Zyklendetektierung]] 
 - [[Floyd-Warshall-Algorithmus]] 
 - Längster Pfad: [[Floyd-Warshall-Algorithmus]] mit negierten Gewichten, oder nutze [[Topological Sort]] 
