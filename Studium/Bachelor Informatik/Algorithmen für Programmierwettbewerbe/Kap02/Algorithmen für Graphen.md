@@ -36,4 +36,6 @@ lecture: "[[Algorithmen für Programmierwettbewerbe]]"
 - Möglichkeit 2: berechne [[Topologische Ordnung]] und arbeite Vertecies in dieser Reihenfolge ab, Laufzeit von $O(|V| + |E|)$ 
 
 # Maximaler Fluss
-- Definition [[Flussnetzwerk]], [[Fluss]], [[Fluss-Wert]] 
+- Definition [[Flussnetzwerk]], [[Fluss]]
+- Einfacher Algorithmus: [[Ford-Fulkerson-Algorithmus]] 
+- Noch besser: [[Dinics Algorithmus]], [[Push]]
