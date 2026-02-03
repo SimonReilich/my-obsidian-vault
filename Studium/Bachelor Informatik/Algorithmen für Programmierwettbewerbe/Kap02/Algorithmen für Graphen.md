@@ -28,3 +28,9 @@ lecture: "[[Algorithmen für Programmierwettbewerbe]]"
 - Naiver Ansatz für [[Any-Pairs-Shortest-Path]]: Führe [[Dijkstras Algorithmus]] $|V|$-mal aus, Laufzeit von $O(|V|*|E| + |V|^2 \log |V|)$
 - Besser: [[Floyd-Warshall-Algorithmus]] 
 - Längster Pfad: [[Floyd-Warshall-Algorithmus]] mit negierten Gewichten, oder nutze [[Topological Sort]] 
+
+# Längste Pfade
+- Problem ist auf allgemeinen Graphen [[NP-hard]]
+- Für gerichtete azyklische Graphen gibt es allerdings Algorithmen in [[P]] 
+- Möglichkeit 1: negiere Kantengewichte, wende [[Bellman-Ford-Algorithmus]] an, Laufzeit von $O(|V| * |E|)$
+- Möglichkeit 2: berechne [[Topologi]]
