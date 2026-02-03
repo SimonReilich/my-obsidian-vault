@@ -10,7 +10,7 @@ lecture: "[[Algorithmen für Programmierwettbewerbe]]"
 # Verbesserung
 - Idee: Beginne mit wahrscheinlichen Lösungen oder verkleinere den Suchraum
 - Repräsentation: ggf. Reihenfolge ignorieren
-- Algorithmus: [[Enumeration von bedingten Tupeln]], [[Enumeration von Partitionen]] 
+- Algorithmus: [[Enumeration von bedingten Tupeln]] 
 - Andernfalls: [[Steinhaus-Johnson-Trotter Algorithmus]] oder [[Gray-Codes]] 
 - Wichtig: Iteration statt Speichern
 
