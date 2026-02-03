@@ -12,7 +12,7 @@ lecture: "[[Algorithmen für Programmierwettbewerbe]]"
 - Besuche alle Knoten im Graph in einer bestimmten Reihnfolge
 - Zwei Ansätze: [[Depth-First-Search]] und [[Breadth-First-Search]] 
 - Anwendungen:
-	- [[Dijkstra Algorithmus]] (Generalisierung von BFS)
+	- [[Dijkstras Algorithmus]] (Generalisierung von BFS)
 
 # Topologische Sortierung
 - Definition [[Topologische Ordnung]] 
@@ -25,6 +25,6 @@ lecture: "[[Algorithmen für Programmierwettbewerbe]]"
 # Kürzeste Pfade
 - Klassifizierung: [[Single-Pair-Shortest-Path]], [[Single-Source-Shortest-Path]] oder [[Any-Pairs-Shortest-Path]] 
 - Algorithmen: [[Dijkstras Algorithmus]], [[Bellman-Ford-Algorithmus]] 
-- Variante: [[Bellman-Ford-Algorithmus mit negativer Zyklendetektierung]] 
-- [[Floyd-Warshall-Algorithmus]] 
+- Naiver Ansatz für [[Any-Pairs-Shortest-Path]]: Führe [[Dijkstras Algorithmus]] $|V|$-mal aus, Laufzeit von $O(|V|*|E| + |V|^2 \log |V|)$
+- Besser: [[Floyd-Warshall-Algorithmus]] 
 - Längster Pfad: [[Floyd-Warshall-Algorithmus]] mit negierten Gewichten, oder nutze [[Topological Sort]] 
