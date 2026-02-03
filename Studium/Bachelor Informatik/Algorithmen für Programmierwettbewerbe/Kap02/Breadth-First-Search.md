@@ -1,5 +1,7 @@
 ---
 lecture: "[[Algorithmen für Programmierwettbewerbe]]"
+aliases:
+  - BFS
 ---
 #Bachelor #Informatik #ConPra 
 # Definition
