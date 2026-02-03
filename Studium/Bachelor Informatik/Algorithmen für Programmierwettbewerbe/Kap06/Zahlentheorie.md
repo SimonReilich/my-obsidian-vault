@@ -12,3 +12,9 @@ lecture: "[[Algorithmen für Programmierwettbewerbe]]"
 # Rationale Zahlen
 - Häufige Probleme von [[normalisierte t-Stellen Gleitkommazahl zur Basis B|Gleitkommazahlen]]: Rundungsfehler
 - Speichere [[Rationale Zahlen]] als Bruch
+
+# Multiplikation
+- Gegeben sind $x = x_n...x_0$ und $y = y_m...y_0$, wir wollen $x * y$ effizient berechnen
+- Naiver Ansatz: $x * y = \sum_{i = 0}^n \sum_{j = 0}^m x_i * y_j * b^{i + j}$, Laufzeit: $O(n^2)$
+- Bessere Verfahren: [[Karatsuba-Algorithmus]], [[Toom-Cook-Algorithmus]]
+- Logarithmische Laufzeit: [[FFT]]-basierte Verfahren: [[Algorithmus von Schönhage-Strassen]], [[Fürers Algorithmus]], [[Algorithmus von Harvey und van der Hoeven]] 
