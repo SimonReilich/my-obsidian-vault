@@ -10,7 +10,7 @@ author:
   - "[[James Aspnes]]"
   - "[[Ramesh Rao]]"
 publisher: "[[Springer]]"
-year: 2006
+year: "[[2006]]"
 source: "[[Delporte-Gallet et al - 2006 - When Birds Die Making Population Protocols Fault-Tolerant.pdf]]"
 ---
 #Literatur #Informatik 

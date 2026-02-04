@@ -5,7 +5,7 @@ subject: "[[Politik - Schule]]"
 # Organisation
 - alle fünf Jahre von allen Bürgern der Mitgliedsstaaten gewählt
 - Sitz des Parlaments: [[Straßburg]]
-- Jedes Land mindestens sechs und höchstens 96 Sitze (ab 2014 751 Abgeordnete)
+- Jedes Land mindestens sechs und höchstens 96 Sitze (ab [[2014]] 751 Abgeordnete)
 - Staatenübergreifende Fraktionen
 
 # Aufgaben

@@ -9,7 +9,7 @@ author:
   - "[[Michael Fischer]]"
   - "[[Moti Yung]]"
 publisher: "[[Springer]]"
-year: 2010
+year: "[[2010]]"
 source: "[[Chatzigiannakis et al - 2010 - Algorithmic Verification of Population Protocols.pdf]]"
 ---
 #Literatur #Informatik 

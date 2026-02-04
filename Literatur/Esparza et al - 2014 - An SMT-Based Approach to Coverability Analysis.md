@@ -9,7 +9,7 @@ author:
   - "[[Armin Biere]]"
   - "[[Roderick Bloem]]"
 publisher: "[[Springer]]"
-year: 2014
+year: "[[2014]]"
 source: "[[Esparza et al - 2014 - An SMT-Based Approach to Coverability Analysis.pdf]]"
 ---
 #Literatur #Informatik 

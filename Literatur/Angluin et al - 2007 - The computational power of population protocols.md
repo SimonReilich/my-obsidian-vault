@@ -6,7 +6,7 @@ author:
   - "[[David Eisenstat]]"
   - "[[Eric Ruppert]]"
 publisher: "[[Distributed Computing]]"
-year: 2007
+year: "[[2007]]"
 source: "[[Angluin et al - 2007 - The computational power of population protocols.pdf]]"
 ---
 #Literatur #Informatik 

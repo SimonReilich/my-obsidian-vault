@@ -12,5 +12,5 @@ subject: "[[Musik - Schule]]"
 	- indische Tradition ([[George Harrison]] nahm Unterricht bei [[Ravi Shankar]])
 	- Erweiterung der [[üblichen Pop/Rockbesetzung]], ungewöhnliche / exotische Klänge, erster Popsong mit [[Sitar]]
 
-# Stilwandel um 1600
+# Stilwandel um [[1600]]
 Zu Beginn des 17. Jahrhunderts bildete sich neben der klassischen Kompositionsweise, der [[Prima Practica]], eine weitere, neue Art, die [[Seconda Practica]] heraus.

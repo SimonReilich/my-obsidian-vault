@@ -5,7 +5,7 @@ author:
   - "[[Edmund Weitz]]"
 category: Sachbuch
 publisher: "[[Rowohlt]]"
-year: 2025
+year: "[[2025]]"
 isbn: 3644019630
 cover: Bücher/Bilder/Fünf unlösbare Rätsel der Mathematik - Edmund Weitz.png
 ---

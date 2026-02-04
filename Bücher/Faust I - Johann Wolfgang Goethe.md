@@ -5,7 +5,7 @@ author:
   - "[[Johann Wolfgang Goethe]]"
 category: Drama
 publisher:
-year: 1808
+year: "[[1808]]"
 isbn:
 cover: Bücher/Bilder/Faust I - Johann Wolfgang Goethe.png
 ---

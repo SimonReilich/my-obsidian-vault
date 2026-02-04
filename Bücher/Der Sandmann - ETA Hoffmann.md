@@ -6,7 +6,7 @@ author:
 category:
   - Kunstmärchen
 publisher:
-year: 1816
+year: "[[1816]]"
 isbn:
 cover: Bücher/Bilder/Der Sandmann - ETA Hoffmann.png
 ---

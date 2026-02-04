@@ -7,7 +7,7 @@ author:
 category:
   - Vorlesungssammlung
 publisher: "[[Springer]]"
-year: 2011
+year: "[[2011]]"
 isbn: 3642129609
 cover: Bücher/Bilder/Ein Schaubild der Mathematik - Dmitry Fuchs Serge Tabachnikov.png
 ---

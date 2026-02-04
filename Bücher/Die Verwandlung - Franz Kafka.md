@@ -6,7 +6,7 @@ author:
 category:
   - Novelle
 publisher:
-year: 1915
+year: "[[1915]]"
 isbn:
 cover: Bücher/Bilder/Die Verwandlung - Franz Kafka.png
 ---

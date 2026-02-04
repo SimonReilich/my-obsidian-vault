@@ -1,7 +1,7 @@
 ---
 title: Quantencomputer
 description: Eine Videoserie, in der erklärt wird, wie gatterbasierte Quantencomputer funktionieren.  Dabei geht es um das mathematische Verständnis der Funktionsweise, die man für das Programmieren solcher Rechner braucht.  Auf die physikalische Realisation wird nicht eingegangen.
-year: 2022
+year: "[[2022]]"
 links:
   - https://youtu.be/JWf_g_ForGk?si=ncRXWMKaZI0-UQYw
   - https://youtu.be/SAFagw3TVZs?si=hRilQbufe0NVp-nP

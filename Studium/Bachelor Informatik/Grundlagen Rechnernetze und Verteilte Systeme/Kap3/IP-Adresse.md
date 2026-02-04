@@ -13,8 +13,8 @@ Historisch ist der IP-Adresseraum in folgende fünf Klassen unterteilt:
 
 ![[IPv4 Klassen.png]]
 
-Als IPv4 1981 eingeführt wurde, konnte man sich nicht vorstellen, dass $∼ 2^{32}$ Adressen aufgeteilt in die Klassen A, B und C nicht ausreichend würden. Es wurden große Adresseblöcke an Firmen, Behörden und Bildungseinrichungen vergeben, z. B. ganze Klasse-A Netze an [[HP]], [[IBM]], [[AT&T]], [[Apple]], [[MIT]], [[Generel Electric]], US Army, . . .
+Als IPv4 [[1981]] eingeführt wurde, konnte man sich nicht vorstellen, dass $∼ 2^{32}$ Adressen aufgeteilt in die Klassen A, B und C nicht ausreichend würden. Es wurden große Adresseblöcke an Firmen, Behörden und Bildungseinrichungen vergeben, z. B. ganze Klasse-A Netze an [[HP]], [[IBM]], [[AT&T]], [[Apple]], [[MIT]], [[Generel Electric]], US Army, . . .
 Folge:
 - Ineffiziente Aufteilung und Nutzung des Adressraums
 - Große Netze mit internen [[Router|Routern]] ⇒ weitere Unterteilung in [[Subnetzmaske|Subnetze]] notwendig
-Vergabe des letzten IPv4 Adressblocks am 3.2.2011 durch die IANA an eine der fünf Regional Internet Registries (RIRs), das APNIC. IPv4-Adressraum praktisch aufgebraucht.
+Vergabe des letzten IPv4 Adressblocks am 3.2.[[2011]] durch die IANA an eine der fünf Regional Internet Registries (RIRs), das APNIC. IPv4-Adressraum praktisch aufgebraucht.

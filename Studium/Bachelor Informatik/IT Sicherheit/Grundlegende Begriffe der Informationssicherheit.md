@@ -33,7 +33,7 @@ lecture: "[[IT Sicherheit]]"
 vergleiche [[Informationssicherheit]]
 - Virus = nicht selbständiges Programm, das sich selbst in noch nicht infizierte Dateien kopiert. Bei Ausführung des Virus wird seine Schadfunktion (malware) ausgeführt z.B. formatiere die Festplatte
 - Trojaner = Programm, das neben der spezifizierten nützlichen Funktionalität zusätzlich eine versteckte Funktionalität enthält. Beispiel: Keylogger, Trojaner in der Login-Funktion
-- Ransomware = verschlüsselt Daten auf Opfer-Rechner (Angreifer erpressen Opfer: Geld gegen Schlüssel) Beispiel: WannaCry für Windows-Systeme, 2014 
+- Ransomware = verschlüsselt Daten auf Opfer-Rechner (Angreifer erpressen Opfer: Geld gegen Schlüssel) Beispiel: WannaCry für Windows-Systeme, [[2014]] 
 ## Schutzziele
 vergleiche [[Informationssicherheit]] 
 Basis-Schutzziele -> CIA: Confidentiality, Integrity, Availability

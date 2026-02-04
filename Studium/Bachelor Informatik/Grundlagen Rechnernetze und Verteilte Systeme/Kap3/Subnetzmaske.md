@@ -3,7 +3,7 @@ lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
 ---
 #Bachelor #Informatik #GRnVs 
 # Definition
-Um das Problem der schwindenden Anzahl an freien [[IP-Adresse|IP-Adressen]] zu bekämpfen, wurde bereits 1993 mit CIDR5 ein Verfahren zur Unterteilung von IP-Netzen eingeführt:
+Um das Problem der schwindenden Anzahl an freien [[IP-Adresse|IP-Adressen]] zu bekämpfen, wurde bereits [[1993]] mit CIDR5 ein Verfahren zur Unterteilung von IP-Netzen eingeführt:
 - Zusätzlich zur [[IP-Adresse]] erhält ein Interface eine ebenfalls 32 bit lange Subnetzmaske
 - Die Subnetzmaske unterteilt die [[IP-Adresse]] in einen Netzanteil und einen Hostanteil
 - Eine logische 1 in der Subnetzmaske bedeutet Netzanteil, eine logische 0 Hostanteil

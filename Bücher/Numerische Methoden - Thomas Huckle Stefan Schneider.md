@@ -6,7 +6,7 @@ author:
   - "[[Stefan Schneider]]"
 category: Lehrbuch
 publisher: "[[Springer]]"
-year: 2006
+year: "[[2006]]"
 isbn: 3540303189
 cover: Bücher/Bilder/Numerische Methoden - Thomas Huckle Stefan Schneider.png
 ---

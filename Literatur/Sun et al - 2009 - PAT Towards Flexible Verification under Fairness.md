@@ -8,7 +8,7 @@ author:
   - "[[Ahmed Bouajjani]]"
   - "[[Oded Maler]]"
 publisher: "[[Springer]]"
-year: 2009
+year: "[[2009]]"
 source: "[[Sun et al - 2009 - PAT Towards Flexible Verification under Fairness.pdf]]"
 ---
 #Literatur #Informatik 

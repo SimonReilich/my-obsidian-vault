@@ -6,7 +6,7 @@ author:
   - "[[Balaji Prabhakar]]"
   - "[[Devavrat Shah]]"
 publisher: "[[IEEE]]"
-year: 2006
+year: "[[2006]]"
 source: "[[Boyd et al - 2006 - Randomized gossip algorithms.pdf]]"
 ---
 #Literatur #Informatik 

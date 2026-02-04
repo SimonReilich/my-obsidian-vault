@@ -6,7 +6,7 @@ author:
   - "[[Boaz Barak]]"
 category: Fachbuch
 publisher: "[[Cambridge University Press]]"
-year: 2009
+year: "[[2009]]"
 isbn: 521424267
 cover: Bücher/Bilder/Computational Complexity - Sanjeev Arora Boaz Barak.png
 ---

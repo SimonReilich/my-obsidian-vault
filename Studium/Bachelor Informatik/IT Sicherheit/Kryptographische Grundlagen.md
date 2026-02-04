@@ -24,7 +24,7 @@ Bemerkungen:
 - Asymmetrische Verschlüsselung ist viel aufwändiger als symmetrische. Es werden deshalb in der regel nur kleine Datenvolumen mit asymmetrischen Verfahren verschlüsselt.
 - Frage: Was sind mögliche Beispiele für solche Daten? -> Hybride verfahren, Austausch des Symmetrischen Schlüssels über asymmetrische Kryptographie
 ## Anforderungen an Krypto-Verfahren
-- Kerckhoffs-Prinzip: Auguste Kerckhoffs,1883 -> Stärke des Verfahrens sollte nur von der Güte des geheimen Schlüssels abhängen! D.h. Sicherheit darf nicht von Geheimhaltung der Verfahren abhängen, keine Security by Obscurity!
+- Kerckhoffs-Prinzip: Auguste Kerckhoffs, [[1883]] -> Stärke des Verfahrens sollte nur von der Güte des geheimen Schlüssels abhängen! D.h. Sicherheit darf nicht von Geheimhaltung der Verfahren abhängen, keine Security by Obscurity!
 - Konsequenz: Schlüsselraum muss sehr groß sein, um Brute-Force zu verhindern
 - Größenordnung für Schlüsselraum:
     - symmetrisch: min 128 Bit, besser 256 Bit

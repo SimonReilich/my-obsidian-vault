@@ -6,7 +6,7 @@ author:
 category:
   - Roman
 publisher:
-year: 1895
+year: "[[1895]]"
 isbn:
 cover: Bücher/Bilder/Effi Briest - Theodor Fontane.png
 ---

@@ -6,7 +6,7 @@ author:
   - "[[Jérôme Leroux]]"
   - "[[Rupak Majumdar]]"
 publisher: "[[Acta Informatica]]"
-year: 2017
+year: "[[2017]]"
 source: "[[Esparza et al - 2017 - Verification of population protocols.pdf]]"
 ---
 #Literatur #Informatik 

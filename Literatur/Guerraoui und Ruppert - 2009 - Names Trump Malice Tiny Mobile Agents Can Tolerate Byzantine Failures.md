@@ -9,7 +9,7 @@ author:
   - "[[Sotiris Nikoletseas]]"
   - "[[Thomas Wolfgang]]"
 publisher: "[[Springer]]"
-year: 2009
+year: "[[2009]]"
 source: "[[Guerraoui und Ruppert - 2009 - Names Trump Malice Tiny Mobile Agents Can Tolerate Byzantine Failures.pdf]]"
 ---
 #Literatur #Informatik 
