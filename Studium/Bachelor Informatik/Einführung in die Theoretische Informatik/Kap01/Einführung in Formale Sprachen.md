@@ -22,4 +22,4 @@ lecture: "[[Einführung in die Theoretische Informatik]]"
 - $G$ erzeugt das Wort $\alpha$ genau dann, wenn $S \to^*_G \alpha$ 
 - Die [[formale Sprache]], die von $G$ erzeugt wird, wird mit $L(G)$ bezeichnet
 - [[Chomsky-Hierarchie]]
-- 
+- Definition [[Wortproblem]] 
