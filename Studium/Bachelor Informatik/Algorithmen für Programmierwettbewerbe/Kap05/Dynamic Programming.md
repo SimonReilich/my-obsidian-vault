@@ -1,5 +1,7 @@
 ---
 lecture: "[[Algorithmen für Programmierwettbewerbe]]"
+slides:
+  - "[[Dynamic Programming - Slides.pdf]]"
 ---
 #Bachelor #Informatik #ConPra 
 # Fibonacci Zahlen

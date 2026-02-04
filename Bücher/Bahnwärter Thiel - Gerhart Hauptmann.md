@@ -5,7 +5,7 @@ author:
   - "[[Gerhart Hauptmann]]"
 category: novellistische Studie
 publisher:
-year: 1888
+year: "[[1888]]"
 isbn: 3159604667
 cover: Bücher/Bilder/Bahnwärter Thiel - Gerhart Hauptmann.png
 ---

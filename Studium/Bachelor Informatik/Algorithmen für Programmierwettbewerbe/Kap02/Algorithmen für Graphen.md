@@ -1,5 +1,9 @@
 ---
 lecture: "[[Algorithmen für Programmierwettbewerbe]]"
+slides:
+  - "[[Algorithmen für Graphen - Slides 1.pdf]]"
+  - "[[Algorithmen für Graphen - Slides 2.pdf]]"
+  - "[[Algorithmen für Graphen - Slides 3.pdf]]"
 ---
 #Bachelor #Informatik #ConPra
 # Graphen

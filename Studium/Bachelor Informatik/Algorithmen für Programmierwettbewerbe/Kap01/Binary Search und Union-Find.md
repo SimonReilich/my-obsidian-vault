@@ -1,5 +1,6 @@
 ---
 lecture: "[[Algorithmen für Programmierwettbewerbe]]"
+slides: "[[Binary Search und Union-Find - Slides.pdf]]"
 ---
 #Bachelor #Informatik #ConPra 
 # Binary Search

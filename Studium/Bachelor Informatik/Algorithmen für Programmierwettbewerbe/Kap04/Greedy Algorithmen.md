@@ -1,5 +1,7 @@
 ---
 lecture: "[[Algorithmen für Programmierwettbewerbe]]"
+slides:
+  - "[[Greedy Algorithmen - Slides.pdf]]"
 ---
 #Bachelor #Informatik #ConPra 
 # Kriterien

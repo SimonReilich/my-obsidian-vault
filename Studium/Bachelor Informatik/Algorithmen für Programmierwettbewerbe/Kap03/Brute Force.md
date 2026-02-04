@@ -1,5 +1,7 @@
 ---
 lecture: "[[Algorithmen für Programmierwettbewerbe]]"
+slides:
+  - "[[Brute Force - Slides.pdf]]"
 ---
 #Bachelor #Informatik #ConPra 
 # Definition

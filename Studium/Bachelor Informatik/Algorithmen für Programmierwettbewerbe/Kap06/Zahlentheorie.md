@@ -1,5 +1,7 @@
 ---
 lecture: "[[Algorithmen für Programmierwettbewerbe]]"
+slides:
+  - "[[Zahlentheorie - Slides.pdf]]"
 ---
 #Bachelor #Informatik #ConPra 
 # Große Integer
