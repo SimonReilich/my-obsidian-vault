@@ -9,7 +9,7 @@ category:
 publisher: "[[MIT]]"
 year: "[[2023]]"
 isbn:
-cover: "[[Automata Theory - Javier Esparza und Michael Blondin.png]]"
+cover: Automata Theory - Javier Esparza und Michael Blondin.png
 ---
 #Buch #Informatik 
 

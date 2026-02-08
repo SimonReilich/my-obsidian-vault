@@ -9,7 +9,7 @@ category:
 publisher: "[[Pearson Higher Education]]"
 year: "[[2015]]"
 isbn: 1292061952
-cover: Bücher/Bilder/Modern Operating Systems Global Edition - Andrew S Tanenbaum Herbert Bos.png
+cover: Bücher/Bilder/Modern Operating Systems Global Edition - Andrew S Tanenbaum und Herbert Bos.png
 ---
 #Buch #Informatik 
 

@@ -12,7 +12,7 @@ category: Lehrbuch
 publisher: "[[Springer]]"
 year: "[[2015]]"
 isbn: 3642449190
-cover: Bücher/Bilder/Mathematik - Tilo Arens Frank Hettlich Christian Karpfinger Ulrich Kockelkorn Klaus Lichtenegger Hellmuth Stachel.png
+cover: Bücher/Bilder/Mathematik - Tilo Arens, Frank Hettlich, Christian Karpfinger, Ulrich Kockelkorn, Klaus Lichtenegger und Hellmuth Stachel.png
 ---
 #Buch #Mathematik 
 
