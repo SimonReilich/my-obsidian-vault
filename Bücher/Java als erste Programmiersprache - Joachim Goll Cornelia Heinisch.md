@@ -11,3 +11,5 @@ isbn: 3658121173
 cover: Bücher/Bilder/Java als erste Programmiersprache - Joachim Goll Cornelia Heinisch.png
 ---
 #Buch #Informatik 
+
+![[Java als erste Programmiersprache - Joachim Goll Cornelia Heinisch.png]]

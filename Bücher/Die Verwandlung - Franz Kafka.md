@@ -11,3 +11,5 @@ isbn:
 cover: Bücher/Bilder/Die Verwandlung - Franz Kafka.png
 ---
 #Buch #Deutsch 
+
+![[Die Verwandlung - Franz Kafka.png]]

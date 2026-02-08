@@ -17,3 +17,5 @@ isbn: 3319212753
 cover: Bücher/Bilder/Parameterized Algorithms - Marek Cygan Fedor V Fomin Łukasz Kowalik Daniel Lokshtanov Dániel Marx Marcin Pilipczuk Michał Pilipczuk Saket Saurabh.png
 ---
 #Buch #Informatik 
+
+![[Parameterized Algorithms - Marek Cygan Fedor V Fomin Łukasz Kowalik Daniel Lokshtanov Dániel Marx Marcin Pilipczuk Michał Pilipczuk Saket Saurabh.png]]

@@ -11,3 +11,5 @@ isbn: 3540303189
 cover: Bücher/Bilder/Numerische Methoden - Thomas Huckle Stefan Schneider.png
 ---
 #Buch #Mathematik
+
+![[Numerische Methoden - Thomas Huckle Stefan Schneider.png]]

@@ -11,3 +11,5 @@ isbn:
 cover: Bücher/Bilder/Woyzeck - Georg Büchner.png
 ---
 #Buch #Deutsch 
+
+![[Woyzeck - Georg Büchner.png]]

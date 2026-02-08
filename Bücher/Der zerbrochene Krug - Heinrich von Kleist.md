@@ -11,3 +11,5 @@ isbn:
 cover: Bücher/Bilder/Der zerbrochene Krug - Heinrich von Kleist.png
 ---
 #Buch #Deutsch 
+
+![[Der zerbrochene Krug - Heinrich von Kleist.png]]

@@ -11,3 +11,5 @@ isbn: 521424267
 cover: Bücher/Bilder/Computational Complexity - Sanjeev Arora Boaz Barak.png
 ---
 #Buch #Informatik 
+
+![[Computational Complexity - Sanjeev Arora Boaz Barak.png]]

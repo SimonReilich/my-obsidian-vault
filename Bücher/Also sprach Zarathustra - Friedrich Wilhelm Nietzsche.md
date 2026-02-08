@@ -13,3 +13,5 @@ isbn:
 cover: Bücher/Bilder/Also sprach Zarathustra - Friedrich Wilhelm Nietzsche.png
 ---
 #Buch #Deutsch 
+
+![[Also sprach Zarathustra - Friedrich Wilhelm Nietzsche.png]]

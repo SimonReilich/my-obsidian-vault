@@ -10,3 +10,5 @@ isbn:
 cover: Bücher/Bilder/Faust I - Johann Wolfgang Goethe.png
 ---
 #Buch #Deutsch 
+
+![[Faust I - Johann Wolfgang Goethe.png]]

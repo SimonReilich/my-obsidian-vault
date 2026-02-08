@@ -11,3 +11,5 @@ isbn:
 cover: Bücher/Bilder/Der Tod in Venedig - Thomas Mann.png
 ---
 #Buch #Deutsch 
+
+![[Der Tod in Venedig - Thomas Mann.png]]

@@ -10,3 +10,5 @@ isbn: 3644019630
 cover: Bücher/Bilder/Fünf unlösbare Rätsel der Mathematik - Edmund Weitz.png
 ---
 #Buch #Mathematik 
+
+![[Fünf unlösbare Rätsel der Mathematik - Edmund Weitz.png]]

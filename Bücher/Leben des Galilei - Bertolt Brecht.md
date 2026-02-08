@@ -11,3 +11,5 @@ isbn:
 cover: Bücher/Bilder/Leben des Galilei - Bertolt Brecht.png
 ---
 #Buch #Deutsch 
+
+![[Leben des Galilei - Bertolt Brecht.png]]

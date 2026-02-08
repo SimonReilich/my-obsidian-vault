@@ -10,3 +10,5 @@ isbn: 1351683683
 cover: Bücher/Bilder/Discrete Mathematics with Ducks - Sarah-Marie Belcastro.png
 ---
 #Buch #Mathematik 
+
+![[Discrete Mathematics with Ducks - Sarah-Marie Belcastro.png]]

@@ -12,3 +12,5 @@ isbn: 9783662721537
 cover: "[[Automata Theory and Logic - Martin Hofmann und Martin Lange.png]]"
 ---
 #Buch #Informatik 
+
+![[Automata Theory and Logic - Martin Hofmann und Martin Lange.png]]

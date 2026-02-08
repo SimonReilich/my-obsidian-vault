@@ -12,3 +12,5 @@ isbn: 3642129609
 cover: Bücher/Bilder/Ein Schaubild der Mathematik - Dmitry Fuchs Serge Tabachnikov.png
 ---
 #Buch #Mathematik 
+
+![[Ein Schaubild der Mathematik - Dmitry Fuchs Serge Tabachnikov.png]]

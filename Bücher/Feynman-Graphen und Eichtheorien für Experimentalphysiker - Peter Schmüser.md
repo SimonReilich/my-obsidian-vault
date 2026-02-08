@@ -10,3 +10,5 @@ isbn: 9783642577666
 cover: Bücher/Bilder/Feynman-Graphen und Eichtheorien für Experimentalphysiker - Peter Schmüser.png
 ---
 #Buch #Physik 
+
+![[Feynman-Graphen und Eichtheorien für Experimentalphysiker - Peter Schmüser.png]]

@@ -11,3 +11,5 @@ isbn:
 cover: Bücher/Bilder/Effi Briest - Theodor Fontane.png
 ---
 #Buch #Deutsch 
+
+![[Effi Briest - Theodor Fontane.png]]

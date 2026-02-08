@@ -11,3 +11,5 @@ isbn: 9783328102519
 cover: Bücher/Bilder/Heimsuchung - Jenny Erpenbeck.png
 ---
 #Buch #Deutsch 
+
+![[Heimsuchung - Jenny Erpenbeck.png]]

@@ -10,3 +10,5 @@ isbn: 3159604667
 cover: Bücher/Bilder/Bahnwärter Thiel - Gerhart Hauptmann.png
 ---
 #Buch #Deutsch 
+
+![[Bahnwärter Thiel - Gerhart Hauptmann.png]]

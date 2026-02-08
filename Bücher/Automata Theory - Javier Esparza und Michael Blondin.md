@@ -12,3 +12,5 @@ isbn:
 cover: "[[Automata Theory - Javier Esparza und Michael Blondin.png]]"
 ---
 #Buch #Informatik 
+
+![[Automata Theory - Javier Esparza und Michael Blondin.png]]
