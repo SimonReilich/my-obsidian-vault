@@ -12,4 +12,4 @@ cover: Bücher/Bilder/Numerische Methoden - Thomas Huckle und Stefan Schneider.p
 ---
 #Buch #Mathematik
 
-![[Numerische Methoden - Thomas Huckle Stefan Schneider.png]]
+![[Numerische Methoden - Thomas Huckle und Stefan Schneider.png]]

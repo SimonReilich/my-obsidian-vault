@@ -18,4 +18,4 @@ cover: Bücher/Bilder/Parameterized Algorithms - Marek Cygan, Fedor V Fomin, Łu
 ---
 #Buch #Informatik 
 
-![[Parameterized Algorithms - Marek Cygan Fedor V Fomin Łukasz Kowalik Daniel Lokshtanov Dániel Marx Marcin Pilipczuk Michał Pilipczuk Saket Saurabh.png]]
+![[Parameterized Algorithms - Marek Cygan, Fedor V Fomin, Łukasz Kowalik, Daniel Lokshtanov, Dániel Marx, Marcin Pilipczuk, Michał Pilipczuk und Saket Saurabh.png]]

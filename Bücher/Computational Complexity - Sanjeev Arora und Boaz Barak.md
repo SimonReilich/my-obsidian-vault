@@ -12,4 +12,4 @@ cover: Bücher/Bilder/Computational Complexity - Sanjeev Arora und Boaz Barak.pn
 ---
 #Buch #Informatik 
 
-![[Computational Complexity - Sanjeev Arora Boaz Barak.png]]
+![[Computational Complexity - Sanjeev Arora und Boaz Barak.png]]

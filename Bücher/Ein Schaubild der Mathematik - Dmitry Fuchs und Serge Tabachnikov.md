@@ -13,4 +13,4 @@ cover: Bücher/Bilder/Ein Schaubild der Mathematik - Dmitry Fuchs und Serge Taba
 ---
 #Buch #Mathematik 
 
-![[Ein Schaubild der Mathematik - Dmitry Fuchs Serge Tabachnikov.png]]
+![[Ein Schaubild der Mathematik - Dmitry Fuchs und Serge Tabachnikov.png]]

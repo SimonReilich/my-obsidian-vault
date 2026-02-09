@@ -16,4 +16,4 @@ cover: Bücher/Bilder/Mathematik - Tilo Arens, Frank Hettlich, Christian Karpfin
 ---
 #Buch #Mathematik 
 
-![[Mathematik - Tilo Arens Frank Hettlich Christian Karpfinger Ulrich Kockelkorn Klaus Lichtenegger Hellmuth Stachel.png]]
+![[Mathematik - Tilo Arens, Frank Hettlich, Christian Karpfinger, Ulrich Kockelkorn, Klaus Lichtenegger und Hellmuth Stachel.png]]

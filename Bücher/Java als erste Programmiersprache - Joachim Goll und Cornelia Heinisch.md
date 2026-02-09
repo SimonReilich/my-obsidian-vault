@@ -12,4 +12,4 @@ cover: Bücher/Bilder/Java als erste Programmiersprache - Joachim Goll und Corne
 ---
 #Buch #Informatik 
 
-![[Java als erste Programmiersprache - Joachim Goll Cornelia Heinisch.png]]
+![[Java als erste Programmiersprache - Joachim Goll und Cornelia Heinisch.png]]

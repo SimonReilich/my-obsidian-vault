@@ -13,4 +13,4 @@ cover: Bücher/Bilder/Modern Operating Systems Global Edition - Andrew S Tanenba
 ---
 #Buch #Informatik 
 
-![[Modern Operating Systems Global Edition - Andrew S Tanenbaum Herbert Bos.png]]
+![[Modern Operating Systems Global Edition - Andrew S Tanenbaum und Herbert Bos.png]]
