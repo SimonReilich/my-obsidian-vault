@@ -2,5 +2,15 @@
 lecture: "[[Analysis für Informatik]]"
 ---
 #Bachelor #Informatik #AnaInfo 
-# Landau-Symbole
-- Definition [[Landau-Symbol]] 
+# Differenzieren
+- Definition [[Landau-Symbol]], [[Kriterium der Differenzierbarkeit]]
+- [[Satz über die Approximation durch eine Tangente]], [[Differenzierbarkeit impliziert Stetigkeit]] 
+
+# Ableitungsregeln
+- $(c * f(x))' = c * f'(x)$ 
+- [[Summenregel]]
+- [[Produktregel]]
+- [[Quotientenregel]] 
+- [[Kettenregel]] 
+- [[Satz über die Differenzierbarkeit der Umkehrfunktion]] 
+- Bestimmung von [[Minimum]] und [[Maximum]] mittels Ableitung
