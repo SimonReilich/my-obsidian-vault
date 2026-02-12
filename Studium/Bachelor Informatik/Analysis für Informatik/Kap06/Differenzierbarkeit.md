@@ -14,3 +14,15 @@ lecture: "[[Analysis für Informatik]]"
 - [[Kettenregel]] 
 - [[Satz über die Differenzierbarkeit der Umkehrfunktion]] 
 - Bestimmung von [[Minimum]] und [[Maximum]] mittels Ableitung
+
+# Mittewertsatz
+- [[Mittelwertsatz der Differenzialrechnung]]
+- [[Satz von Rolle]] 
+- [[Verallgemeinerter Mittelwertsatz]] 
+
+# Monotonie
+- [[Monotoniekriterium]] 
+- [[Hinreichendes Kriterium für Extrema]] 
+- [[Implikation der Äquivalenz zweier Ableitungen]]
+
+# Berechnung von Grenzwerten
