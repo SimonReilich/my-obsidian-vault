@@ -24,5 +24,10 @@ lecture: "[[Analysis für Informatik]]"
 - [[Monotoniekriterium]] 
 - [[Hinreichendes Kriterium für Extrema]] 
 - [[Implikation der Äquivalenz zweier Ableitungen]]
+- Für Grenzwerte: [[Regel von l'Hopital]] 
 
-# Berechnung von Grenzwerten
+# Höhere Ableitungen
+- Definition [[n-te Ableitung]]
+- Lemma: [[Polynome sind unendlich oft differenzierbar]] 
+- Definition [[Konvexe Funktion|Konvexe]] und [[Konkave Funktion]] 
+- Die zweite Ableitung beschreibt das Krümmungsverhalten einer Funktion
