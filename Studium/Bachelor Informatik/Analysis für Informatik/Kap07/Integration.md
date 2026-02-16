@@ -13,3 +13,7 @@ lecture: "[[Analysis für Informatik]]"
 - [[Eigenschaften des Integrals für allgemeine Integranden]]
 - Jede stetige Funktion ist [[Riemann-integrierbar]]
 - [[Mittelwertsatz der Integralrechnung]] 
+
+# Stammfunktionen
+- [[Hauptsatz der Differential- und Integralrechnung]] definiert Integration als Umkehr der Differentiation
+- Nützlicher Trick: [[Partialbruchzerlegung]], [[Partielle Integration]] 
