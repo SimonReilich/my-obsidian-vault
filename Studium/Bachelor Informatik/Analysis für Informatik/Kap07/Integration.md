@@ -16,4 +16,5 @@ lecture: "[[Analysis für Informatik]]"
 
 # Stammfunktionen
 - [[Hauptsatz der Differential- und Integralrechnung]] definiert Integration als Umkehr der Differentiation
-- Nützlicher Trick: [[Partialbruchzerlegung]], [[Partielle Integration]] 
+- Nützlicher Trick: [[Partialbruchzerlegung]], [[Partielle Integration]]
+- [[Substitutionsregel]], [[Skalierungsregel]] 
