@@ -18,3 +18,7 @@ lecture: "[[Analysis für Informatik]]"
 - [[Hauptsatz der Differential- und Integralrechnung]] definiert Integration als Umkehr der Differentiation
 - Nützlicher Trick: [[Partialbruchzerlegung]], [[Partielle Integration]]
 - [[Substitutionsregel]], [[Skalierungsregel]] 
+
+# Parameterabhängige Integrale
+- Definition der [[partielle Ableitung|partiellen Ableitung]] 
+- Es gilt der [[Satz von Fubin]], Differentiation und Integration dürfen vertauscht werden
