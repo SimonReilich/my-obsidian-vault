@@ -24,5 +24,4 @@ lecture: "[[Analysis für Informatik]]"
 - Es gilt der [[Satz von Fubin]], Differentiation und Integration dürfen vertauscht werden
 - Gibt es eine konvergente [[Majoranten- und Minorantenkriterium|Majorante]] $a_k$ für $f_k$, so gilt $\int_a^b \sum_{k = 1}^\infty f_k(x) dx = \sum_{k = 1}^\infty \int_a^b f_k(x) dx$ 
 - Nützlich für Funktionen, die als [[Potenzreihe]] dargestellt werden
-
-# Abschätzungen
+- [[Integralkriterium für die Konvergenz von Reihen]]
