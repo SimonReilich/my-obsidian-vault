@@ -7,7 +7,7 @@ lecture: "[[Analysis für Informatik]]"
 - Idee: Zerlegung $Z$ in kleine Rechtecke $[x_i, x_{i + 1}]$ 
 - Feinheit $|Z| = \max_{1 \leq i \leq n}|x_i - x_{i - 1}|$ 
 - Definition [[Riemann-Summe]]
-- Wählt man Folge $Z_n, n \in \mathbb{N}$, sodass $|Z_n| \to_{n \to \infty} 0$, erhält man durch den Grenzwert der [[Riemann-Summe]] den Flächeninhalt (bei den meisten Funktionen), die Funktion heißt dann [[Riemann-integrierbar]] 
+- Wählt man [[Folge]] $Z_n, n \in \mathbb{N}$, sodass $|Z_n| \to_{n \to \infty} 0$, erhält man durch den Grenzwert der [[Riemann-Summe]] den Flächeninhalt (bei den meisten Funktionen), die Funktion heißt dann [[Riemann-integrierbar]] 
 
 # Eigenschaften des Integrals
 - [[Eigenschaften des Integrals für allgemeine Integranden]]
