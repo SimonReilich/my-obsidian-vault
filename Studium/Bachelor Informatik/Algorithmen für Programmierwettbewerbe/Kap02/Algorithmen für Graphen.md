@@ -16,7 +16,7 @@ slides:
 - Besuche alle Knoten im Graph in einer bestimmten Reihnfolge
 - Zwei Ansätze: [[Depth-First-Search]] und [[Breadth-First-Search]] 
 - Anwendungen:
-	- [[Dijkstras Algorithmus]] (Generalisierung von BFS)
+	- [[Dijkstras Algorithmus]] (Generalisierung von [[Breadth-First-Search|BFS]])
 
 # Topologische Sortierung
 - Definition [[Topologische Ordnung]] 

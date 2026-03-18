@@ -8,7 +8,7 @@ lecture: "[[Numerisches Programmieren]]"
 - Numerische Quadratur: Berechnung eines definitiven [[Integral|Integrals]] $I(f) := \int_{\Omega} f(x) \space dx$ mit der Funktion $f: \mathbb{R}^d \supseteq \Omega \to \mathbb{R}$ (integrand) und der Integrationsdomäne $\Omega$ 
 - Im folgenden: univariante Quadratur ($d = 1$)
 - Häufige Form für regeln: $I(f) \approx Q(f) := \sum_{i = 0}^n g_if(x_i) = \sum_{i = 0}^n g_iy_i$
-- Idee: Exakte Integration von Interpoliertem Polynom: [[Integration mit Lagrange Polynomen]] 
+- Idee: Exakte [[Integration]] von Interpoliertem Polynom: [[Integration mit Lagrange Polynomen]] 
 - [[Kondition]]: Gut, wenn nur positive Gewichte genutzt werden
 
 # Einfache und Zusammengesetzte Regeln
