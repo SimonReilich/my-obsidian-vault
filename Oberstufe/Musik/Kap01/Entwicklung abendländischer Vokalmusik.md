@@ -19,4 +19,21 @@ subject: "[[Musik - Schule]]"
 - Im [[BWV]] sind die Werke Bachs gesammelt 
 - Bachforschung vorangetrieben durch [[Albert Schweizer]] 
 - Schichten der musikalischen Textinterpretation: [[Affekt|Affektausdruck]], [[Hypotyposis-Figur]] und [[Emphasis-Figur]]
-- Interpretation der [[Zahlenmystik]] 
+- Interpretation der [[Zahlenmystik]], z.B. BACH
+
+# Oper 
+- bis ins 18. Jahrhundert fast ausschließlich [[Italien|italienisch]]
+- Komponisten des [[Barock]] verwenden italienische Libretti
+- Zwei Arten der Oper: [[Opera seria]] und [[Opera buffa]] 
+- Eine der erfolgreichen Opern war [[Palmira, Regina di Persia]] von [[Antonio Salieri]]
+- Unterscheidung [[Rezitativ]] und [[Arie]] 
+- Zugänglicher für ein großes Publikum: das [[Singspiel]], z.B. [[Der Dorfbabier]] von [[Johann Adam Hiller]]
+- [[Wolfgang Amadeus Mozart]] übernimmt äußere Gestalt, z.B. in der [[Zauberflöte]]
+- [[Lorenzo Da Ponte]] schreibt Libretti für Mozart, u.a. für die Oper [[Cosi fan tutte]]
+
+# Romantik
+- typisch romantische [[Topos|Topoi]]: Natur, Träume, Wandern
+- Hintergrund: politische Unterdrückung durch [[Restauration]] nach dem [[Wiener Kongress]]
+- [[Kunstlied]] als beliebte Gattung 
+- Vertonung von Gedichten z.B. durch [[Carl Friedrich Zelter]] oder [[Franz Peter Schubert]]
+- Weiterentwicklung durch [[Robert Schumann]]
