@@ -2,6 +2,9 @@
 subject: "[[Musik - Schule]]"
 ---
 #Oberstufe #Musik
+# Lateinamerikanische Vollsmusik
+- [[Alberto Ginastera]] von [[Argentinien|argentinischer]] Vollsmusik beeinflusst
+- Kultur der [[Gauchos]], der [[Malambo]] 
 
 # Tradition in der Popmusik
 - Beispiel: Norwegian Wood - [[Beatles]]
