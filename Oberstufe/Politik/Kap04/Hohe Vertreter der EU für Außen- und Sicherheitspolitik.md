@@ -1,7 +1,7 @@
 ---
 subject: "[[Politik - Schule]]"
 ---
-#Oberstufe #Politik
+#Oberstufe #Politik #Atomic 
 # Definition
 - Vizepräsident der [[EU-Kommission]] 
 - Vertritt die EU gemeinsam mit dem Präsidenten des [[Europäischer Rat|Europäischen Rates]] nach außen 

@@ -1,6 +1,6 @@
 ---
 subject: "[[Musik - Schule]]"
 ---
-#Oberstufe #Musik 
+#Oberstufe #Musik #Atomic 
 # Definition 
 In der Zahlenmystik haben die Zahlen eine über den Zahlenwert hinausgehende Bedeutung. Ein banales Beispiel ist die „Unglückszahl" 13.

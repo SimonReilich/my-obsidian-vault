@@ -1,7 +1,7 @@
 ---
 subject: "[[Politik - Schule]]"
 ---
-#Oberstufe #Politik
+#Oberstufe #Politik #Atomic 
 # Definition
 - Besteht aus den Fachministern der EU- Mitgliedsstaaten
 - Intergouvernementale Institution

@@ -1,6 +1,6 @@
 ---
 subject: "[[Musik - Schule]]"
 ---
-#Oberstufe #Musik 
+#Oberstufe #Musik #Atomic 
 # Definition 
 ([[Latein]] color = Farbe, Färbung) Verzierung einer Gesangsstimme durch schnelle Läufe, Triller oder Intervallsprünge zur Hervorhebung von Text oder Gefühlen.

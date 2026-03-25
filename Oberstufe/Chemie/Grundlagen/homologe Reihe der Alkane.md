@@ -1,7 +1,7 @@
 ---
 subject: "[[Chemie - Schule]]"
 ---
-#Oberstufe #Chemie 
+#Oberstufe #Chemie #Atomic 
 
 - [[Methan]] $\ce{CH4}$ 
 - [[Ethan]] $\ce{C2H6}$

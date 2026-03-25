@@ -1,7 +1,7 @@
 ---
 subject: "[[Politik - Schule]]"
 ---
-#Oberstufe #Politik
+#Oberstufe #Politik #Atomic 
 # Organisation
 - alle fünf Jahre von allen Bürgern der Mitgliedsstaaten gewählt
 - Sitz des Parlaments: [[Straßburg]]

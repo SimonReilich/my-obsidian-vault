@@ -1,7 +1,7 @@
 ---
 subject: "[[Chemie - Schule]]"
 ---
-#Oberstufe #Chemie 
+#Oberstufe #Chemie #Atomic 
 
 - [[Ethin]] $\ce{C2H2}$
 - [[Propin]] $\ce{C3H4}$ 

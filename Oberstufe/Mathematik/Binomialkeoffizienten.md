@@ -1,7 +1,7 @@
 ---
 subject: "[[Mathematik - Schule]]"
 ---
-#Oberstufe #Mathematik 
+#Oberstufe #Mathematik #Atomic 
 # Identitäten
 - $\begin{pmatrix} n + k - 1 \\ k - 1 \end{pmatrix} = |\{(x_1, ..., x_k) \in \mathbb{N}^k \mid x_1 + ... + x_k = n\}|$ 
 - $\sum_{k = 0}^n \begin{pmatrix} n \\ k \end{pmatrix} = 2^n$ 

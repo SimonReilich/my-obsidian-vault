@@ -1,7 +1,7 @@
 ---
 subject: "[[Musik - Schule]]"
 ---
-#Oberstufe #Musik
+#Oberstufe #Musik #Atomic 
 # Definition
 Hat als frankoflämische Schule über 2 Jahrhunderte lang die Musik beherrscht. In diesem Stil entstanden unter Einhaltung eines gelehrten [[Kontrapunkt|kontrapunktischen]] Regelwerks zahlreiche kunstvolle [[Messen]] und [[Motette|Motetten]]. Der Schwerpunkt lag auf der Komplexität der Musik, nicht auf dem vertonten Wort.
 

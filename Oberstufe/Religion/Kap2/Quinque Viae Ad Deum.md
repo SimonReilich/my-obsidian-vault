@@ -1,7 +1,7 @@
 ---
 subject: "[[Religion - Schule]]"
 ---
-#Oberstufe #Religion
+#Oberstufe #Religion #Atomic 
 # Definition
 - Sammlung von 5 [[Der Mensch auf der Suche nach Gott|Gottesbeweisen]] von [[Thomas von Aquin]]
 - Methodik: [[strenger Syllogismus]] nach [[Aristoteles]] 

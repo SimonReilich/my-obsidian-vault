@@ -1,7 +1,7 @@
 ---
 subject: "[[Chemie - Schule]]"
 ---
-#Oberstufe #Chemie
+#Oberstufe #Chemie #Atomic 
 # Definition
 Farbstoffe sind lösliche [[Farbigkeit|farbige]] Stoffe, es handelt sich bei ihnen überwiegend um [[Liste anorganischer Verbindungen|organische Verbindungen]]. Beispiele sind Purpur (aus Purpurschnecken), Indigo (Indigopflanze, Färberwald), Karminrot (Cochenillaus). 
 

@@ -1,7 +1,7 @@
 ---
 subject: "[[Physik - Schule]]"
 ---
-#Oberstufe #Physik
+#Oberstufe #Physik #Atomic 
 
 # Definition
 
