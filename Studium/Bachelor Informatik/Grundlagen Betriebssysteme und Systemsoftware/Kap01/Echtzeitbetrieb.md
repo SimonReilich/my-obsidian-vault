@@ -1,7 +1,7 @@
 ---
 lecture: "[[Grundlagen Betriebssysteme und Systemsoftware]]"
 ---
-#Bachelor #Informatik #GBS
+#Bachelor #Informatik #GBS #Atomic 
 # Definition
 zwei unterschiedliche Ausprägungen dieser Betriebsart:
 - Harte Echtzeit (hard deadlines): Reaktionszeit darf nicht überschritten werden.

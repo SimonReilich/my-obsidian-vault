@@ -1,7 +1,7 @@
 ---
 lecture: "[[Algorithmen für Programmierwettbewerbe]]"
 ---
-#Bachelor #Informatik #ConPra 
+#Bachelor #Informatik #ConPra #Atomic 
 # Definition
 Sei $(V, E, c, s, t)$ ein [[Flussnetzwerk]], sei $f: E \to \mathbb{R}_{\geq 0}$. Es sei definiert:
 - der Ausfluss von $v \in V$ als $\mathrm{out}_f(v) := \sum_{u \in vE}f(v, u)$

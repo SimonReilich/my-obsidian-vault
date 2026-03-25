@@ -1,7 +1,7 @@
 ---
 lecture: "[[Algorithmen für Programmierwettbewerbe]]"
 ---
-#Bachelor #Informatik #ConPra 
+#Bachelor #Informatik #ConPra #Atomic 
 # Definition
 Ein Flussnetzwerk ist ein 5-Tupel $(V , E , c, s, t)$, wobei
 - $(V, E)$ ein gerichteter [[Graph]] ist

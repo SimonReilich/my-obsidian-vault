@@ -1,7 +1,7 @@
 ---
 lecture: "[[Grundlagen Betriebssysteme und Systemsoftware]]"
 ---
-#Bachelor #Informatik #GBS
+#Bachelor #Informatik #GBS 
 # Begriffe
 - Aufgabe der Informatik: Entwicklung von [[Rechensystem|Rechnersystemen]] und Bereitstellung als leistungsfähige Hilfsmittel beim Lösen von Informationsverarbeitungsproblemen
 - Programm braucht [[CPU]], [[Speicher]] und [[IO-Geräte]] zur Ausführung

@@ -1,7 +1,7 @@
 ---
 lecture: "[[Analysis für Informatik]]"
 ---
-#Bachelor #Informatik #AnaInfo 
+#Bachelor #Informatik #AnaInfo #Atomic 
 # Beweis
 Angenommen, $\mathbb{C}$ wäre [[Anordnung|angeordnet]]. Sei $a \in \mathbb{C}$.
 - Falls $a > 0$, so soll nach Eigenschaft der [[Anordnung]] $a * a > 0$

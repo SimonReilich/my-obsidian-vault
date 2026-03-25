@@ -1,7 +1,7 @@
 ---
 lecture: "[[Analysis für Informatik]]"
 ---
-#Bachelor #Informatik #AnaInfo 
+#Bachelor #Informatik #AnaInfo #Atomic 
 # Definition
 Für alle $x, y \in \mathbb{R}$ gilt:
 $$ |x + y| ≥ ||x| − |y|| $$

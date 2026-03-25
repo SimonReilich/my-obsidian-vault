@@ -1,7 +1,7 @@
 ---
 lecture: "[[Grundlagen Betriebssysteme und Systemsoftware]]"
 ---
-#Bachelor #Informatik #GBS 
+#Bachelor #Informatik #GBS #Atomic 
 # Prozessverwaltung
 - Registerinhalte
 - Program Counter

@@ -1,7 +1,7 @@
 ---
 lecture: "[[Analysis für Informatik]]"
 ---
-#Bachelor #Informatik #AnaInfo 
+#Bachelor #Informatik #AnaInfo #Atomic 
 # Beweis
 Jede konvergente [[Folge]] reeller Zahlen ist beschränkt, dass heißt
 $\exists C > 0 : \forall n \in \mathbb{N} : |a_n| < C$ 

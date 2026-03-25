@@ -1,7 +1,7 @@
 ---
 lecture: "[[Analysis für Informatik]]"
 ---
-#Bachelor #Informatik #AnaInfo 
+#Bachelor #Informatik #AnaInfo #Atomic 
 # Definition
 Nach der Dreiecksungleichung gilt für alle $x, y \in \mathbb{R}$:
 $$ |x + y| \leq |x| + |y| $$

@@ -1,7 +1,7 @@
 ---
 lecture: "[[Analysis für Informatik]]"
 ---
-#Bachelor #Informatik #AnaInfo 
+#Bachelor #Informatik #AnaInfo #Atomic 
 # Definition
 Ein [[Körper]] $(K, +, *)$ heißt angeordnet, wenn es ein Prädikat $a > 0$ mit folgenden Eigenschaften gibt:
 - Für alle $a \in K$ gilt genau eine der drei Aussagen: $a = 0$, $a > 0$ oder $-a > 0$ 

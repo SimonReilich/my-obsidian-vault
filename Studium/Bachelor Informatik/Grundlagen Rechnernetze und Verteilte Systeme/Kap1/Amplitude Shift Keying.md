@@ -1,7 +1,7 @@
 ---
 lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
 ---
-#Bachelor #Informatik #GRnVs 
+#Bachelor #Informatik #GRnVs #Atomic 
 # Definition 4-ASK
 - Es werden 4 Signalstufen unterschieden ⇒ 2 bit/[[Symbol]]
 - Es wird nur die Amplitude des Trägersignals moduliert
