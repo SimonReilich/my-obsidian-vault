@@ -1,7 +1,7 @@
 ---
 lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
 ---
-#Bachelor #Informatik #GRnVs 
+#Bachelor #Informatik #GRnVs #Atomic 
 # Definition
 Uniform Resource Locator (URL) sind Adressangaben der Form
 ```
