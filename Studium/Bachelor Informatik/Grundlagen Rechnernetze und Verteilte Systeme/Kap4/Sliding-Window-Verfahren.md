@@ -1,7 +1,7 @@
 ---
 lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
 ---
-#Bachelor #Informatik #GRnVs 
+#Bachelor #Informatik #GRnVs #Atomic 
 # Definition
 Verfahren um Overhead bei verbindungsorientierter Übertragung durch Warten auf Bestätigung zu minimieren. Idee: Teile dem Sender mit, wie viele Segmente nach dem letzten bestätigten Segment auf einmal übertragen werden dürfen, ohne dass der
 Sender auf eine Bestätigung warten muss.

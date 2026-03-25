@@ -1,4 +1,4 @@
-#Bachelor #Informatik  #GRnVs 
+#Bachelor #Informatik  #GRnVs #Atomic 
 # Definition
 - Licht wird innerhalb des Faserkerns weitergeleitet
 - Kern und Mantel besitzen jeweils unterschiedliche optische Dichten → Brechungsindex sorgt für annähernde Totalreflexion

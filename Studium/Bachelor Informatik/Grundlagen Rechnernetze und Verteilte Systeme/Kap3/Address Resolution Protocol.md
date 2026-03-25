@@ -1,7 +1,7 @@
 ---
 lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
 ---
-#Bachelor #Informatik #GRnVs 
+#Bachelor #Informatik #GRnVs #Atomic 
 # Definition
 Protokoll, um zu einer gegebenen [[IP-Adresse]] die zugehörige [[MAC-Adresse]] zu erhalten
 

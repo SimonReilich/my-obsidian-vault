@@ -1,13 +1,13 @@
 ---
 lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
 ---
-#Bachelor #Informatik #GRnVs 
+#Bachelor #Informatik #GRnVs #Atomic 
 # Definition
 Standardaufbau für [[Rahmen]] bei [[WLAN]].
 
 # Aufbau
 
-![[WLAN [[Rahmen]].png]]
+![[WLAN Rahmen.png]]
 
 Physical Layer Convergence Procedure (PLCP)
 - Header der [[Physikalische Schicht|physikalischen Schicht]] 

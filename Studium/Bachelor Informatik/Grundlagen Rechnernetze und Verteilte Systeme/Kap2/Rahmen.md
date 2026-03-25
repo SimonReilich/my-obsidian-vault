@@ -1,7 +1,7 @@
 ---
 lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
 ---
-#Bachelor #Informatik #GRnVs 
+#Bachelor #Informatik #GRnVs #Atomic 
 # Definition
 Nachrichteneinheit auf der [[Sicherungsschicht]] (Schicht 2). Rahmen können unterschiedliche Größen haben.
 

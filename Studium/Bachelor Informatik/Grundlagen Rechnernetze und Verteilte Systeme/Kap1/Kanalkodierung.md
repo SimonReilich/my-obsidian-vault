@@ -1,8 +1,7 @@
 ---
 lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
 ---
-#Bachelor #Informatik #GRnVs 
-
+#Bachelor #Informatik #GRnVs #Atomic 
 # Definition
 
 Ziel der Kanalkodierung ist es, den zu übertragenden Daten gezielt Redundanz hinzuzufügen, so dass eine möglichst große Anzahl an
@@ -10,7 +9,6 @@ Ziel der Kanalkodierung ist es, den zu übertragenden Daten gezielt Redundanz hi
 - korrigiert werden kann.
 
 # Blockcodes
-
 unterteilen den Datenstrom
 - in Blöcke der Länge $k$ und
 - übersetzen diese in Kanalwörter der Länge $n > k$ wobei

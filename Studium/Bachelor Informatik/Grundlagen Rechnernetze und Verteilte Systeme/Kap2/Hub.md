@@ -1,7 +1,7 @@
 ---
 lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
 ---
-#Bachelor #Informatik #GRnVs 
+#Bachelor #Informatik #GRnVs #Atomic 
 # Definition
 Ein Hub verbindet die einzelnen Links zu einem gemeinsamen Bus. Es darf folglich zu jedem Zeitpunkt nur ein Knoten senden, andernfalls treten Kollisionen auf. Ein Hub unterbricht also nicht die [[Kollisionsdomäne]].
 

@@ -1,7 +1,7 @@
 ---
 lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
 ---
-#Bachelor #Informatik #GRnVs 
+#Bachelor #Informatik #GRnVs #Atomic 
 # Definition
 - Eingesetzt u. a. für IEEE 802.3a („10Base2 Ethernet“, 10 Mbit/s)
 	- Bildet einen gemeinsamen [[Bus]], an den alle Teilnehmer angeschlossen sind

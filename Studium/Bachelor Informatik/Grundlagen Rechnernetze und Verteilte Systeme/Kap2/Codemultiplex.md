@@ -1,6 +1,6 @@
 ---
 lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
 ---
-#Bachelor #Informatik #GRnVs 
+#Bachelor #Informatik #GRnVs #Atomic 
 # Definition
 [[Multiplexing]]-Verfahren, bei dem orthogonale Alphabete verwendet werden und diese dann an die Kommunikationspartner zugewiesen werden.

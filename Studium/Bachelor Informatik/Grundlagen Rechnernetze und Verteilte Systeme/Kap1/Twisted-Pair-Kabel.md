@@ -1,7 +1,7 @@
 ---
 lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
 ---
-#Bachelor #Informatik #GRnVs 
+#Bachelor #Informatik #GRnVs #Atomic 
 # Definition
 - 2 oder 4 Aderpaare aus Kupferlitzen
 - Jedes Aderpaar ist verdrillt (daher die Bezeichnung twisted pair)

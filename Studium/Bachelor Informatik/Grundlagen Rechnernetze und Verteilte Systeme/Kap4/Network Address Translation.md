@@ -1,7 +1,7 @@
 ---
 lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
 ---
-#Bachelor #Informatik #GRnVs 
+#Bachelor #Informatik #GRnVs #Atomic 
 # Definition
 Als Network Address Translation (NAT) bezeichnet man allgemein Techniken zur Übersetzung von N ≥ 1 auf M ≥ 1 andere [[IP-Adresse|IP-Adressen]]. Bei [[Internet Protocol Version 4|IPv4]] ist der weitaus häufigste Anwendungsfall die Abbildung von N privaten (nicht öffentlichen) auf M öffentliche (global eindeutige) [[IP-Adresse|IP-Adressen]]:
 - N ≤ M: Die Übersetzung geschieht statisch oder dynamisch indem jeder privaten [[IP-Adresse]] mind. eine öffentliche [[IP-Adresse]] zugeordnet wird.

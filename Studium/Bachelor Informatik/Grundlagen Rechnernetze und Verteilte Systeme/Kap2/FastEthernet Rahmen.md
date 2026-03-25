@@ -1,14 +1,14 @@
 ---
 lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
 ---
-#Bachelor #Informatik #GRnVs 
+#Bachelor #Informatik #GRnVs #Atomic 
 # Definition
 Standardaufbau für [[Rahmen]] bei [[Ethernet]].
 
 # Aufbau
 ([[Rahmen]] vor der [[4B5B]]-Kodierung)
 
-![[FastEthernet [[Rahmen]].png]]
+![[FastEthernet Rahmen.png]]
 
 - Präambel und Start Frame Delimiter (SFD) dienen der Taktsynchronisation.
 - Ein Byte der Präambel wird durch das J/K-[[Symbol]] des [[4B5B]]-Codes ersetzt (Start Frame Delimiter).

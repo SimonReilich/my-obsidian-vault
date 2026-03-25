@@ -1,7 +1,7 @@
 ---
 lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
 ---
-#Bachelor #Informatik #GRnVs 
+#Bachelor #Informatik #GRnVs #Atomic 
 # Definition
 Variante von [[Carrier Sense Multiple Access]], bei der Kollisionen nicht nur erkannt werden (wie bei [[CSMA CD]]), sondern verhindert werden (Colission Avoidacen). Achtung: In Funknetzwerken funktioniert CSMA/CD nicht, da der Sender einer Nachricht eine Kollision auch bei ausreichender Nachrichtenlänge nicht immer detektieren kann.
 

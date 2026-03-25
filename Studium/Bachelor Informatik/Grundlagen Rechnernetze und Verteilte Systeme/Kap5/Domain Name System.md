@@ -1,7 +1,7 @@
 ---
 lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
 ---
-#Bachelor #Informatik #GRnVs 
+#Bachelor #Informatik #GRnVs #Atomic 
 # Definition
 Das Domain Name System (DNS) besteht aus drei wesentlichen Komponenten:
 - Der Domain Namespace ist ein hierarchisch aufgebauter Namensraum, und hat eine baumartige Struktur.

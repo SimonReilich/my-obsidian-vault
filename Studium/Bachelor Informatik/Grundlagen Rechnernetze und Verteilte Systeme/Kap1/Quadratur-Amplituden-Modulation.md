@@ -1,7 +1,7 @@
 ---
 lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
 ---
-#Bachelor #Informatik #GRnVs 
+#Bachelor #Informatik #GRnVs #Atomic 
 # QAM
 - Man kann [[Sinus- und Cosinusfunktion|Sinus- und Cosinus]]-förmige Trägersignale mischen
 - Trennung durch Orthogonalität von [[Sinus- und Cosinusfunktion|Sinus und Cosinus]] möglich

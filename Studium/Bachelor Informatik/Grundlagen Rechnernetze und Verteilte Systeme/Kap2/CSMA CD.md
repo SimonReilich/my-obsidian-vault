@@ -1,7 +1,7 @@
 ---
 lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
 ---
-#Bachelor #Informatik #GRnVs 
+#Bachelor #Informatik #GRnVs #Atomic 
 # Definition
 Variante von [[Carrier Sense Multiple Access]] mit folgender Abwandlung:
 - Erkenne Kollisionen und wiederhole die Übertragung, wenn eine Kollision erkannt wird

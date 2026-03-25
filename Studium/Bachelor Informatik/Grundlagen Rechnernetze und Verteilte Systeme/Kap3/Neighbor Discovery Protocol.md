@@ -1,7 +1,7 @@
 ---
 lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
 ---
-#Bachelor #Informatik #GRnVs 
+#Bachelor #Informatik #GRnVs #Atomic 
 # Definition
 Bestandteil von [[Internet Control Message Protocol v4|ICMP]]v6 mit unter anderem folgenden Funktionen:
 - Adressauflösung, Duplicate Address Detection und Neighbor Unreachability Detection: Neighbor Solicitations und Advertisements.

@@ -1,7 +1,7 @@
 ---
 lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
 ---
-#Bachelor #Informatik #GRnVs 
+#Bachelor #Informatik #GRnVs #Atomic 
 # Definition
 Als Bandbreitenverzögerungsprodukt bezeichnet man die Anzahl an Bits,
 die sich in einer Senderichtung gleichzeitig auf der Leitung befinden können.

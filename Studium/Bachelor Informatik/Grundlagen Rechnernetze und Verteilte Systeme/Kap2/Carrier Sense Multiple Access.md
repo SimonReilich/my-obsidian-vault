@@ -1,7 +1,7 @@
 ---
 lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
 ---
-#Bachelor #Informatik #GRnVs 
+#Bachelor #Informatik #GRnVs #Atomic 
 # Definition
 Eine einfache Verbesserung von [[Slotted ALOHA]]: „Listen Before Talk“ Höre das Medium ab und beginne erst dann zu senden, wenn das Medium frei ist.
 
