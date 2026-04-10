@@ -11,3 +11,6 @@ subject: "[[Mathematik - Schule]]"
 - Bisher wurden [[Funktion|Funktionen]] nur [[Ableitung|abgeleitet]] 
 - Wie bezeichnet man eine [[Funktion]] $F$, wenn deren [[Ableitung]] $f$ gegeben ist?
 - $F$ ist die [[Stammfunktion]] von $f$ 
+
+# Ableitung von Sinus und Cosinus
+- 
