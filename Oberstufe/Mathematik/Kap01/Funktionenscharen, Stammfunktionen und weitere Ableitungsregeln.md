@@ -13,4 +13,6 @@ subject: "[[Mathematik - Schule]]"
 - $F$ ist die [[Stammfunktion]] von $f$ 
 
 # Ableitung von Sinus und Cosinus
-- 
+- Mit den bisherigen Ableitungsregeln lassen sich [[trigonometrische Funktionen]] wie die [[Sinusfunktion]] oder[[Cosinusfunktion]] nicht ableiten
+- Durch Konstruktion der Tangenten stellt man fest: $\sin'(x) = \cos(x)$ und $\cos'(x) = -\sin(x)$ 
+- Damit gilt für den [[Tangens]]: $\tan'(x) = \left(\frac{\sin(x)}{\cos(x)}\right)' = $ 
