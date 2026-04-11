@@ -15,4 +15,4 @@ subject: "[[Mathematik - Schule]]"
 # Ableitung von Sinus und Cosinus
 - Mit den bisherigen Ableitungsregeln lassen sich [[trigonometrische Funktionen]] wie die [[Sinusfunktion]] oder[[Cosinusfunktion]] nicht ableiten
 - Durch Konstruktion der Tangenten stellt man fest: $\sin'(x) = \cos(x)$ und $\cos'(x) = -\sin(x)$ 
-- Damit gilt für den [[Tangens]]: $\tan'(x) = \left(\frac{\sin(x)}{\cos(x)}\right)' = $ 
+- Damit gilt für den [[Tangens]]: $\tan'(x) = \left(\frac{\sin(x)}{\cos(x)}\right)' = \frac{\cos(x)^2 + \sin(x)^2}{\cos(x)^2} = \frac{1}{\cos(x)^2}$  
