@@ -21,9 +21,15 @@ subject: "[[Physik - Schule]]"
 - Ein [[Kondensator]] speichern Energie
 - Das Verhältniss der [[Ladung]] $Q_C$ auf dem Kondensator und der anliegenden Spannung $U$ ist konstant und wird als [[Kapazität]] $C$ des [[Kondensator|Kondensators]] bezeichnet
 - Die [[Kapazität]] hängt vom Plattenabstand $d$, der Fläche $A$ und des Materials zwischen den Platten ab
-- Die in einem Kondensator gespeicherte Energie $E_{el}$ beträgt $\frac{1}{2} C U_0^2$ 
+- Die in einem Kondensator gespeicherte Energie $E_{el}$ beträgt $\frac{1}{2} C U_0^2 = \frac{1}{2} \frac{Q^2}{U}$ 
 
 # Magnetische Flussdichte
+- Auf einen stromdurchflossenen Leiter wirkt im [[magnetisches Feld|magnetischen Feld]] die [[Lorentzkraft]] 
+- Ein [[magnetisches Feld|magnetisches Feld]] kann auch von einer elektrischen [[Spule]] erzeugt werden
+- Das [[Feldlinienmodell]] lässt sich ebenso auf das [[magnetisches Feld|magnetische Feld]] anwenden
+- Definition der [[magnetische Flussdichte|magnetischen Flussdichte]] $B$ 
+- In einer langgesreckten [[Spule]] ($l \geq 2d$) ist das [[magnetisches Feld|magnetische Feld]] im inneren homogen
+- Die in einer [[Spule]] gespeicherte Energie beträgt $\frac{1}{2} \frac{1}{\mu_0 \mu_r} B^2$
 
 # Teilchenbeschleuniger
 
