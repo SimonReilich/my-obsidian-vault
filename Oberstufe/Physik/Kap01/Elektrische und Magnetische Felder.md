@@ -29,8 +29,5 @@ subject: "[[Physik - Schule]]"
 - Das [[Feldlinienmodell]] lässt sich ebenso auf das [[magnetisches Feld|magnetische Feld]] anwenden
 - Definition der [[magnetische Flussdichte|magnetischen Flussdichte]] $B$ 
 - In einer langgesreckten [[Spule]] ($l \geq 2d$) ist das [[magnetisches Feld|magnetische Feld]] im inneren homogen
-- Die in einer [[Spule]] gespeicherte Energie beträgt $\frac{1}{2} \frac{1}{\mu_0 \mu_r} B^2$
-
-# Teilchenbeschleuniger
-
-# Technische Anwendung
+- Die in einer [[Spule]] gespeicherte Energie beträgt $\frac{1}{2} \frac{1}{\mu_0 \mu_r} B^2 V$ 
+- technische Anwendungen: [[Hall-Sensor]], [[Massenspektrometer]] oder [[Zyklotron]] 
