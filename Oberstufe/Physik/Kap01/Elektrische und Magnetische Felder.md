@@ -3,7 +3,7 @@ subject: "[[Physik - Schule]]"
 ---
 #Oberstufe #Physik 
 # Elektrisches Feld & Feldstärke
-- geladene Körper erzeugen ein [[Elektrisches Feld]], analog zum [[magnetisches Feld|magnetischem Feld]] 
+- geladene Körper erzeugen ein [[Elektrisches Feld]], analog zum [[Magnetisches Feld|magnetischem Feld]] 
 - durch ihr Feld können sich geladene Körper durch [[Influenz]] und [[Polarisation]] gegenseitig beeinflussen
 - Kraftrichtungen im [[Elektrisches Feld|elektrischen Feld]] lassen sich durch das [[Feldlinienmodell]] beschreiben
 - Zwei paralelle ungleichnamige Platten erzeugen ein homogenes Feld, eine geladene Kugel erzeugt ein radialsymmetrisches Feld
@@ -24,10 +24,10 @@ subject: "[[Physik - Schule]]"
 - Die in einem Kondensator gespeicherte Energie $E_{el}$ beträgt $\frac{1}{2} C U_0^2 = \frac{1}{2} \frac{Q^2}{U}$ 
 
 # Magnetische Flussdichte
-- Auf einen stromdurchflossenen Leiter wirkt im [[magnetisches Feld|magnetischen Feld]] die [[Lorentzkraft]] 
-- Ein [[magnetisches Feld|magnetisches Feld]] kann auch von einer elektrischen [[Spule]] erzeugt werden
-- Das [[Feldlinienmodell]] lässt sich ebenso auf das [[magnetisches Feld|magnetische Feld]] anwenden
+- Auf einen stromdurchflossenen Leiter wirkt im [[Magnetisches Feld|magnetischen Feld]] die [[Lorentzkraft]] 
+- Ein [[Magnetisches Feld|magnetisches Feld]] kann auch von einer elektrischen [[Spule]] erzeugt werden
+- Das [[Feldlinienmodell]] lässt sich ebenso auf das [[Magnetisches Feld|magnetische Feld]] anwenden
 - Definition der [[magnetische Flussdichte|magnetischen Flussdichte]] $B$ 
-- In einer langgesreckten [[Spule]] ($l \geq 2d$) ist das [[magnetisches Feld|magnetische Feld]] im inneren homogen
+- In einer langgesreckten [[Spule]] ($l \geq 2d$) ist das [[Magnetisches Feld|magnetische Feld]] im inneren homogen
 - Die in einer [[Spule]] gespeicherte Energie beträgt $\frac{1}{2} \frac{1}{\mu_0 \mu_r} B^2 V$ 
 - technische Anwendungen: [[Hall-Sensor]], [[Massenspektrometer]] oder [[Zyklotron]] 
