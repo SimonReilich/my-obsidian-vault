@@ -3,6 +3,7 @@ subject: "[[Physik - Schule]]"
 ---
 #Oberstufe #Physik 
 # Induktionsphänomene
+- 
 
 # Selbstinduktion
 
