@@ -7,7 +7,7 @@ subject: "[[Physik - Schule]]"
 - [[Michael Faraday]] vermutet, dass auch die Umkehrung der Fall ist und denteckt das Phänomen der [[Induktion]] (häufig: [[Wechselstrom]])
 - Im gegensatz zum konstanten Stromfluss, der ein [[Magnetisches Feld]] erzeugt, ist für [[Induktion]] jedoch ein zeitlich veränderliches [[Magnetisches Feld]] nötig
 - Für die Induktionsspannung in einer [[Spule]] gilt: $U_{ind} = -N * A * \frac{\Delta B}{\Delta t}$ 
-- Definition des [[Magnetischer Fluss|magnetischen Fluss]] und verallgemeinerung zum [[Infuktionsgesetz]] 
+- Definition des [[Magnetischer Fluss|magnetischen Fluss]] und verallgemeinerung zum [[Induktionsgesetz]] 
 - [[Energieerhaltung]] bei der [[Induktion]]: [[Regel von Lenz]]
 
 # Selbstinduktion
