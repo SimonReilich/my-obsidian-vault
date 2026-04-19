@@ -27,3 +27,7 @@ subject: "[[Physik - Schule]]"
 - Definition der [[Erzwungene Schwingung|erzwungenen Schwingung]], anregung des Schwingkreis über [[Induktive Kopplung]].
 
 # Wechselstromkreise
+- Zur Visualisierung von Phasenverschiebung im [[Wechselstrom|Wechselstromkreis]] werden [[Zeigerdiagramm|Zeigerdiagramme]] genutzt
+- Bei einer [[Spule]] läuft die [[Elektrische Stromstärke]] der [[Spannung]] hinterher. $I(t)$ ist gegenüber $U_L(t)$ um den Winkel $\Delta \phi = - 90°$ phasenverschoben
+- Bei einem [[Kondensator]] verhält es sich genau andersherum: $I(t)$ ist um $\Delta \phi = 90°$ gegenüber $U_C(t)$ phasenverschoben
+- Bei einem [[Ohmscher Widerstand|Ohmschen Widerstand]] findet keine Phasenverschiebung statt
