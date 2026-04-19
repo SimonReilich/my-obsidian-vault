@@ -1,7 +1,7 @@
 ---
 lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
 ---
-#Bachelor #Informatik #GRnVs #Atomic 
+#Bachelor #Informatik #GRnVs  
 # Definition
 Die 5-4-3-Regel ist eine Regel zum kaskadieren von [[Hub|Hubs]]. Sie lautet: 
 - Nicht mehr als 5 Abschnitte,

@@ -1,7 +1,7 @@
 ---
 lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
 ---
-#Bachelor #Informatik #GRnVs #Atomic 
+#Bachelor #Informatik #GRnVs  
 # Definition
 - Diskretisierung eines [[Signal|Signals]] im Zeitbereich.
 
