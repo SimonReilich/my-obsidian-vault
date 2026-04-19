@@ -7,3 +7,4 @@ Unter elektromagnetischer Induktion (auch Faradayscher Induktion, nach [[Michael
 - Induktion 1. Art (Bewegungsinduktion)
 - Induktion 2. Art (Ruheinduktion)
 - Mischform
+Da die Induktionsspannung proportional zur zeitlichen Änderung des [[Magnetischer Fluss|magnetischen Fluss]] ist: $U_{ind} \propto \dot{\Phi} = B * \dot{A} + \dot{B} * A$ 
