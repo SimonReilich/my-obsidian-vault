@@ -7,5 +7,5 @@ Signale sind zeitabhängige und messbare physikalische Größen.
 
 # Beispiele
 - Licht
-- Spannung
+- [[Spannung]]
 - Schall

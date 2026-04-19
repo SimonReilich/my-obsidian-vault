@@ -19,7 +19,7 @@ subject: "[[Physik - Schule]]"
 
 # Kapazität, Ladung und Energie
 - Ein [[Kondensator]] speichern Energie
-- Das Verhältniss der [[Ladung]] $Q_C$ auf dem Kondensator und der anliegenden Spannung $U$ ist konstant und wird als [[Kapazität]] $C$ des [[Kondensator|Kondensators]] bezeichnet
+- Das Verhältniss der [[Ladung]] $Q_C$ auf dem Kondensator und der anliegenden [[Spannung]] $U$ ist konstant und wird als [[Kapazität]] $C$ des [[Kondensator|Kondensators]] bezeichnet
 - Die [[Kapazität]] hängt vom Plattenabstand $d$, der Fläche $A$ und des Materials zwischen den Platten ab
 - Die in einem Kondensator gespeicherte Energie $E_{el}$ beträgt $\frac{1}{2} C U_0^2 = \frac{1}{2} \frac{Q^2}{U}$ 
 

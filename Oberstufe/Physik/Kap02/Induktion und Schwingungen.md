@@ -19,7 +19,7 @@ subject: "[[Physik - Schule]]"
 # Der elektromagnetische Schwingkreis
 - Der [[Elektromagnetischer Schwingkreis|elektromagnetische Schwingkreis]] bildet die Grundlage für Funkübertragungen 
 - Ablauf einer halben Periode:
-	1. [[Kondensator]] ist maximal geladen, die Spannung ist am größten, es fließt kein Strom: $Q_C(0s) = Q_{max}, U_C(0s) = U_{max}, I(0s) = 0A$ 
+	1. [[Kondensator]] ist maximal geladen, die [[Spannung]] ist am größten, es fließt kein Strom: $Q_C(0s) = Q_{max}, U_C(0s) = U_{max}, I(0s) = 0A$ 
 	2. Die Kondensatorspannung treibt den Strom durch die [[Spule]], in dieser entsteht aber eine entgegengesetzte Induktionsspannung: $\dot{Q}_C(t) = I(t)$ 
 	3. Nach einer viertel Periode ist der [[Kondensator]] vollständig entladen. Der Strom durch die [[Spule]] ist maximal, die Induktionsspannung verschwindet: $Q_C(T / 4) = 0C, U_C(T/4 = 0V), I(T/4) = I_{max}$ 
 	4. Durch die Selbsinduktion der Spule fließt der Strom weiter in die selbe Richtung, der [[Kondensator]] wird umgekehrt geladen, die zunehmende Kondensatorspannung verringert den Strom: $I(t) = \dot{Q}_C(t)$
