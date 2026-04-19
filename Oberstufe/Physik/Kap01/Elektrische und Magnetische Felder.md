@@ -5,11 +5,11 @@ subject: "[[Physik - Schule]]"
 # Elektrisches Feld & Feldstärke
 - geladene Körper erzeugen ein [[Elektrisches Feld]], analog zum [[Magnetisches Feld|magnetischem Feld]] 
 - durch ihr Feld können sich geladene Körper durch [[Influenz]] und [[Polarisation]] gegenseitig beeinflussen
-- Kraftrichtungen im [[Elektrisches Feld|elektrischen Feld]] lassen sich durch das [[Feldlinienmodell]] beschreiben
+- [[Kraft|Kraftrichtungen]] im [[Elektrisches Feld|elektrischen Feld]] lassen sich durch das [[Feldlinienmodell]] beschreiben
 - Zwei paralelle ungleichnamige Platten erzeugen ein homogenes Feld, eine geladene Kugel erzeugt ein radialsymmetrisches Feld
 - An elektrisch leitenden Oberfläcchen bilden Feldlinien stets einen rechten Winkel
 - Zur Quantifizierung des Feldes wird die [[Elektrische Feldstärke]] genutzt
-- Die Kraft, die auf zwei Punktförmige Ladungen wirkt, lässt sich mit dem [[Gesetz von Coulomb]] berechnen
+- Die [[Kraft]], die auf zwei Punktförmige Ladungen wirkt, lässt sich mit dem [[Gesetz von Coulomb]] berechnen
 
 # Spannung und Potenzial
 - Analogie zwischen [[Gravitation]] und [[Elektrisches Feld|elektrischem Feld]] 

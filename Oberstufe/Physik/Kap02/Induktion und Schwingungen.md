@@ -32,7 +32,6 @@ subject: "[[Physik - Schule]]"
 	- schwache Dämpfung: Schwingung mit exponentiell abnehmender Amplitude
 	- Kriechfall: Dämpfung ist so stark, dass das System nie zur anderen Seite ausschwingt
 	- aperiodischer Grenzfall: "Grenzwert" des Kriechfalls
-# Erzwungene Schwingung und Resonanz
-- Definition der [[Erzwungene Schwingung|erzwungenen Schwingung]] 
+- Definition der [[Erzwungene Schwingung|erzwungenen Schwingung]], anregung des Schwingkreis über [[Induktive Kopplung]].
 
 # Wechselstromkreise
