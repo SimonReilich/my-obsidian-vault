@@ -8,7 +8,7 @@ subject: "[[Physik - Schule]]"
 
 # Zeigerdarstellung und Kohärenz
 
-# Wellenlänge vo Licht bestimmen
+# Wellenlänge von Licht bestimmen
 
 # Röntgenstrahlung
 
