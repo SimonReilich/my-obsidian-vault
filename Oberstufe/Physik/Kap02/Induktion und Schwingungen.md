@@ -31,3 +31,5 @@ subject: "[[Physik - Schule]]"
 - Bei einer [[Spule]] läuft die [[Elektrische Stromstärke]] der [[Spannung]] hinterher. $I(t)$ ist gegenüber $U_L(t)$ um den Winkel $\Delta \phi = - 90°$ phasenverschoben
 - Bei einem [[Kondensator]] verhält es sich genau andersherum: $I(t)$ ist um $\Delta \phi = 90°$ gegenüber $U_C(t)$ phasenverschoben
 - Bei einem [[Ohmscher Widerstand|Ohmschen Widerstand]] findet keine Phasenverschiebung statt
+- Im [[Wechselstrom|Wechselstromkreis]] wird meist mit Effektiv- statt mit Maximalwerten gerechnet:$$U_{eff} = \frac{U_{max}}{\sqrt{2}}, \space I_{eff} = \frac{I_{max}}{\sqrt{2}}$$
+- Im [[Wechselstrom|Wechselstromkreis]] können neben [[Ohmscher Widerstand|ohmschen Widerständen]] auch [[Spule|Spulen]] und [[Kondensator|Kondensatoren]] einen Widerstand haben, man spricht vom [[Wechselstromwiderstand]] $X$ 
