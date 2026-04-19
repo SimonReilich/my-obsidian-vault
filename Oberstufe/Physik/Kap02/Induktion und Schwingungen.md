@@ -33,3 +33,4 @@ subject: "[[Physik - Schule]]"
 - Bei einem [[Ohmscher Widerstand|Ohmschen Widerstand]] findet keine Phasenverschiebung statt
 - Im [[Wechselstrom|Wechselstromkreis]] wird meist mit Effektiv- statt mit Maximalwerten gerechnet:$$U_{eff} = \frac{U_{max}}{\sqrt{2}}, \space I_{eff} = \frac{I_{max}}{\sqrt{2}}$$
 - Im [[Wechselstrom|Wechselstromkreis]] können neben [[Ohmscher Widerstand|ohmschen Widerständen]] auch [[Spule|Spulen]] und [[Kondensator|Kondensatoren]] einen Widerstand haben, man spricht vom [[Wechselstromwiderstand]] $X$ 
+- technische Anwendungen: [[Hochpass]], [[Tiefpass]] oder [[Bandpass]] 
