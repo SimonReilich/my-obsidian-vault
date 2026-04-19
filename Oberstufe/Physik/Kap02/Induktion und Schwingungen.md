@@ -26,6 +26,13 @@ subject: "[[Physik - Schule]]"
 	5. Nach einer halben Periode ist der [[Kondensator]] vollständig geladen (umgekehrte Polung zum Zeitpunkt $t = 0s$): $Q_C(T / 2) = -Q_{max}, U_C(T/2) = -U_{max}, I(T / 2) = 0 A$
 - Es ergeben sich: $U_C(t) = U_{max} * \cos(\omega t), I(t) = -I_{max} * \sin(\omega t)$ 
 - Über die [[Energieerhaltung]]: $E_{ges} = E_{el} + E_{mag} = \frac{1}{2} C U(t) ^2 + \frac{1}{2} LI(t)^2 = \mathrm{konst}$ 
+- Für die Periodendauer gilt die [[Thomsonsche Schwingungsgleichung]] 
+- In der Realität geht aber [[Energie]] verloren, es kommt zu einer gedämpften Schwingung
+- Problem lässt sich über [[Differentialgleichungen]] lösen, man unterscheidet 3 Fälle:
+	- schwache Dämpfung: Schwingung mit exponentiell abnehmender Amplitude
+	- Kriechfall: Dämpfung ist so stark, dass das System nie zur anderen Seite ausschwingt
+	- aperiodischer Grenzfall: "Grenzwert" des Kriechfalls
 # Erzwungene Schwingung und Resonanz
+- Definition der [[Erzwungene Schwingung|erzwungenen Schwingung]] 
 
 # Wechselstromkreise
