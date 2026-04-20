@@ -11,9 +11,12 @@ subject: "[[Physik - Schule]]"
 - [[James Clerk Maxwell]] fasst die Ergebnisse zu den [[Maxwell-Gleichungen]] zusammen, diese sagen unter anderem vorraus, dass sich [[Elektromagnetische Wellen]] mit Lichtgeschwindigkeit ausbreiten
 
 # Interferenz am Doppelspalt, stehende Wellen
-- [[Elektromagnetische Wellen]] folgen dem [[Superpositionsprinzip]], sie können konstruk
+- [[Elektromagnetische Wellen]] folgen dem [[Superpositionsprinzip]], sie können konstruktiv oder destruktiv [[Interferenz|interferieren]] 
+- Durch die Beugung der Welle am Doppelspalt [[Interferenz|interferiert]] sie mit sich selbst
+- Erkenntniss: Licht ist eine [[Elektromagnetische Wellen|Elektromagnetische Welle]] 
 
 # Zeigerdarstellung und Kohärenz
+- Ähnlich zum [[Zeigerdiagramm]] für [[Wechselstrom]] lassen sich Wellen mit der Zeigerdarstellung visualisieren
 
 # Wellenlänge von Licht bestimmen
 
