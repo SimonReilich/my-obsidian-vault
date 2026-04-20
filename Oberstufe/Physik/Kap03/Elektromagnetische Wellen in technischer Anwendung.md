@@ -17,6 +17,7 @@ subject: "[[Physik - Schule]]"
 
 # Zeigerdarstellung und Kohärenz
 - Ähnlich zum [[Zeigerdiagramm]] für [[Wechselstrom]] lassen sich Wellen mit der Zeigerdarstellung visualisieren
+- Mit dem Quadrat der Amplitude lässt sich die Intensität berechnen
 
 # Wellenlänge von Licht bestimmen
 
