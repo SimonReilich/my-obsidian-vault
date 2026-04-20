@@ -11,7 +11,7 @@ subject: "[[Physik - Schule]]"
 - [[James Clerk Maxwell]] fasst die Ergebnisse zu den [[Maxwell-Gleichungen]] zusammen, diese sagen unter anderem vorraus, dass sich [[Elektromagnetische Wellen]] mit Lichtgeschwindigkeit ausbreiten
 
 # Interferenz am Doppelspalt, stehende Wellen
-- 
+- [[Elektromagnetische Wellen]] folgen dem [[Superpositionsprinzip]], sie können konstruk
 
 # Zeigerdarstellung und Kohärenz
 
