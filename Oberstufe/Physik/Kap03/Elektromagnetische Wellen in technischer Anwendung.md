@@ -7,8 +7,11 @@ subject: "[[Physik - Schule]]"
 - Im "Grenzfall" nur noch eine stabförmige Antenne, wird [[Herzscher Dipol]] genannt, nach [[Heinrich Hertz]] 
 - [[Heinrich Hertz]] entdeckt [[1886]] die [[Elektromagnetische Wellen|elektromagnetischen Wellen]] 
 - Bei [[Elektromagnetische Wellen|elektromagnetischen Wellen]] handelt es sich um [[Transversalwellen]], sie lassen sich also linear [[lineare Polarisation|polarisieren]] 
+- Wie von Schallwellen und Licht bereits bekannt gelten auch für [[Elektromagnetische Wellen]] die Gesetze der Reflexion, Brechung und Beugung
+- [[James Clerk Maxwell]] fasst die Ergebnisse zu den [[Maxwell-Gleichungen]] zusammen, diese sagen unter anderem vorraus, dass sich [[Elektromagnetische Wellen]] mit Lichtgeschwindigkeit ausbreiten
 
 # Interferenz am Doppelspalt, stehende Wellen
+- 
 
 # Zeigerdarstellung und Kohärenz
 
