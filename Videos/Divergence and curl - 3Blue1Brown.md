@@ -24,5 +24,3 @@ thumbnail: "[[Divergence and curl - 3Blue1Brown.png]]"
 
 # Die Maxwell-Gleichungen
 - Die [[Maxwell-Gleichungen]] lassen sich mit $\mathrm{div}$ und $\mathrm{curl}$ umschreiben:$$\mathrm{div} E = \frac{\rho}{\epsilon_0}, \space \mathrm{curl} E = -\frac{\partial B}{\partial t}$$$$\mathrm{div} B = 0, \space \mathrm{curl} B = \mu_0\left(J + \epsilon_0\frac{\partial E}{\partial t}\right)$$
-
-# Dynamische Systeme
