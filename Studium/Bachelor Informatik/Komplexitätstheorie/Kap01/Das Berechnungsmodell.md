@@ -23,6 +23,9 @@ lecture: "[[Komplexitätstheorie]]"
 - All diese Variationen sind gleich mächtig und können sich mit [[Polynom|polynomiellem]] Overhead gegenseitig simulieren.
 
 # Die Universelle Turingmaschiene
+- [[Turingmaschiene|Turingmaschienen]] können als [[Wort]] über dem [[Alphabet]] $\{0, 1\}$ kodiert werden
+- Jedes [[Wort]] $\alpha \in \{0, 1\}^*$ repräsentiert eine [[Turingmaschiene]] $M_\alpha$ 
+- [[Theorem über die Universelle Turingmaschiene]] 
 
 # Entscheidbarkeit und das Halteproblem
 
