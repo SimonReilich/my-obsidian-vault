@@ -27,6 +27,9 @@ lecture: "[[Komplexitätstheorie]]"
 - Jedes [[Wort]] $\alpha \in \{0, 1\}^*$ repräsentiert eine [[Turingmaschiene]] $M_\alpha$ 
 - [[Theorem über die Universelle Turingmaschiene]] 
 
-# Entscheidbarkeit und das Halteproblem
-
-# Die Klassen DTIME und P
+# Entscheidbarkeit und erste Komplexitätsklassen
+- Häufig sind wir an Funktionen der Gestalt $f: \{0, 1\}^* \to \{0, 1\}$ interessiert
+- $f$ kann mit der [[formale Sprache|Sprache]] $L_f = \{x \in \{0, 1\}^* \mid f(x) = 1\}$ identifiziert werden
+- Eine [[Turingmaschiene]], die $f$ berechnet, entscheidet $L_f$ (und andersherum)
+- Nicht jede [[formale Sprache]] ist [[Entscheidbarkeit|entscheidbar]], Beispiel: [[Halteproblem]] 
+- Definition der Komplexitätsklassen [[DTIME]] und [[P]] 
