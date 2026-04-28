@@ -10,7 +10,7 @@ lecture: "[[Komplexitätstheorie]]"
 	- [[Programmiersprache]]
 	- ...
 - [[Church-Turing-These]]: Jedes physikalisch umsetzbare Modell kann von einer [[Turingmaschiene]] simuliert werden
-- [[Starke Church-Turing-These]]: Das ist mit ledeglich [[Polynom|polynomiellem]] Overhead möglich
+- [[Erweiterte Church-Turing-These]]: Das ist mit ledeglich [[Polynom|polynomiellem]] Overhead möglich
 - Hier betrachten wir folgende Variation: [[k-Band Turingmaschine]] 
 - Definition der [[Laufzeit einer Turingmaschiene]] $T(n)$ (muss eine [[zeitkonstruierbare Funktion]] sein)
 
