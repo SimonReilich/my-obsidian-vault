@@ -28,3 +28,9 @@
 - [[Grundlagen Betriebssysteme und Systemsoftware]]
 - [[Analysis für Informatik]]
 - [[Algorithmen für Programmierwettbewerbe]] 
+
+# 8. Semester
+- [[Logik]]
+- [[Komplexitätstheorie]]
+- [[Petrinetze]]
+- [[Automatentheorie]] 
