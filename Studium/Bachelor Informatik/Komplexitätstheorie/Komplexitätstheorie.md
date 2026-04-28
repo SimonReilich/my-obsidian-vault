@@ -4,11 +4,11 @@ instructor:
 ---
 #Bachelor #Informatik #Inhaltsverzeichnis 
 
-- Kapitel 01 - [[Grundlagen der ]]
-- Kapitel 02 - [[Nichtdeterminismus, NP und NP-vollständigkeit]]
+- Kapitel 01 - [[Das Berechnungsmodell]]
+- Kapitel 02 - [[Die Klasse NP und NP-vollständigkeit]]
 - Kapitel 03 - [[Zeit-Hierarchie und speicherbeschränkte Berechnung]]
-- Kapitel 04 - [[PSPACE, NPSPACE und PSPACE-vollständigkeit]]
-- Kapitel 05 - [[NL, Logspace Reduktion, Nl-vollständigkeit und coNL]]
+- Kapitel 04 - [[Die Klassen PSPACE, NPSPACE und PSPACE-vollständigkeit]]
+- Kapitel 05 - [[NL, Logspace Reduktion, NL-vollständigkeit und coNL]]
 - Kapitel 06 - [[Polynomielle Hierarchie und Alternierende Turing Maschinen]]
 - Kapitel 07 - [[Zufallsbasierte Berechnungen]]
 - Kapitel 08 - [[Interaktive Beweissysteme]]
