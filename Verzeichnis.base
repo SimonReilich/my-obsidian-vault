@@ -13,9 +13,7 @@ views:
       - publisher
       - year
     sort:
-      - property: year
-        direction: ASC
-      - property: author
+      - property: title
         direction: ASC
     cardSize: 350
     imageAspectRatio: 1
