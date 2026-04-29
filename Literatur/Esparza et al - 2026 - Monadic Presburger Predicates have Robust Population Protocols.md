@@ -5,8 +5,10 @@ author:
   - "[[Vincent Fischer]]"
   - "[[Philipp Czerner]]"
   - "[[Roland Guttenberg]]"
-publisher:
-year:
+  - "[[Julian Pins]]"
+  - "[[Simon Reilich]]"
+publisher: "[[CONCUR]]"
+year: "[[2026]]"
 source:
 ---
-#Literatur 
+#Literatur #Informatik 
