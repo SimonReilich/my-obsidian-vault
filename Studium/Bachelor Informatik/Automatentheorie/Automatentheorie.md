@@ -4,7 +4,7 @@ lecture: "[[Florian Bruse]]"
 #Bachelor #Informatik #Inhaltsverzeichnis 
 
 - [[Mikhael Theophillus Hutahaean]] - [[Büchi Determinization]]
-- [[Simon Reilich]] - [[Olivier Friedmann et al - 2015 - Ramsey-Based Inclusion Checking for Visibly Pushdown Automata|Ramsey-based Büchi Complementation]]
+- [[Simon Reilich]] - [[Friedmann et al - 2015 - Ramsey-Based Inclusion Checking for Visibly Pushdown Automata|Ramsey-based Büchi Complementation]]
 - [[Severin Schmid]] - [[Pushdown Verification]]
 - [[Julián Mondragón Aponte]] - [[Timed Words]]
 - [[Matthias Bergen]] - [[Morphic Words]]
