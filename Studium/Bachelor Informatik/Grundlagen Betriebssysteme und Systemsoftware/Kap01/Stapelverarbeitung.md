@@ -1,6 +1,6 @@
 ---
 lecture: "[[Grundlagen Betriebssysteme und Systemsoftware]]"
 ---
-#Bachelor  #Informatik #GBS #Atomic 
+#BScInfo  #Informatik #GBS #Atomic 
 # Definition
 Betriebsart, bei der das Programm vor Start komplett definiert ist und geschlossen ausgeführt wird. Benutzerinteraktion ist nicht vorgesehen.

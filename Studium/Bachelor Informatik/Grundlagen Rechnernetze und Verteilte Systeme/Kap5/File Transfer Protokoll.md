@@ -1,7 +1,7 @@
 ---
 lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
 ---
-#Bachelor #Informatik #GRnVs #Atomic 
+#BScInfo #Informatik #GRnVs #Atomic 
 # Definition
 Das File Transfer Protocol (FTP) ist ein weiteres Protokoll zum Transfer von Daten (Text wie Binärdaten). Unterschiede zu [[Hyper Text Transfer Protokoll|HTTP]]:
 - FTP nutzt zwei getrennte TCP-Verbindungen:

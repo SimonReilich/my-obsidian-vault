@@ -3,7 +3,7 @@ instructor:
   - "[[Georg Carle]]"
   - "[[Stephan Günther]]"
 ---
-#Bachelor #Informatik #Inhaltsverzeichnis 
+#BScInfo #Informatik #Inhaltsverzeichnis 
 
 - Kapitel 01 - [[Physikalische Schicht]] 
 - Kapitel 02 - [[Sicherungsschicht]] 

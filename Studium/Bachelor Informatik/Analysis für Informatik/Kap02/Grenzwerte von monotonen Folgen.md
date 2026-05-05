@@ -1,7 +1,7 @@
 ---
 lecture: "[[Analysis für Informatik]]"
 ---
-#Bachelor #Informatik #AnaInfo #Atomic 
+#BScInfo #Mathematik #AnaInfo #Atomic 
 # Aussage
 Für jede [[Monotonie|monoton]] wachsende [[Folge]] $(a n ) n∈N$ gilt
 $$lim_

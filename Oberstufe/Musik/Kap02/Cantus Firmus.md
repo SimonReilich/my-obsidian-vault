@@ -1,7 +1,7 @@
 ---
 subject: "[[Musik - Schule]]"
 ---
-#Oberstufe #Musik #Atomic 
+#Oberstufe #Musik
 # Definition
 Cantus firmus ist ein musikalischer Begriff, der sich auf eine gegebene, festgelegte Melodie bezieht, die die Grundlage für eine mehrstimmige Komposition bildet. Diese Melodie wird oft, aber nicht immer, in einer oder mehreren Stimmen der Komposition wiederholt, während die anderen Stimmen eine zusätzliche Harmonie oder gegenständliche Melodie hinzufügen. 
 Im [[Mittelalter]] und der [[Renaissance]] war der Cantus firmus eine wichtige Technik für die Komposition mehrstimmiger Musik, insbesondere von [[Messe|Messen]] und [[Motette|Motetten]]. Die Melodie des Cantus firmus konnte von bereits bestehenden Melodien, wie [[Choral|Chorälen]] oder Gesängen, oder auch frei erfunden sein. 

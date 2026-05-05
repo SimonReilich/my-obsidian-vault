@@ -1,7 +1,7 @@
 ---
 lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
 ---
-#Bachelor #Informatik #GRnVs #Atomic 
+#BScInfo #Informatik #GRnVs #Atomic 
 # Kodierungsvorschrift
 - [[Sendeimpuls]] $g(t) = rect (2t + {T \over 2}) - rect(2t - {T \over 2})$ mit Periodendauer $T$
 - Mögliche Zuweisung der Gewichte $d_n = \begin{cases} 1 & b_n = 1 \\ −1 & b_n = 0 \end{cases}$

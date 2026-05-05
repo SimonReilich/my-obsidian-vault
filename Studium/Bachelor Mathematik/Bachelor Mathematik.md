@@ -1,1 +1,1 @@
-#Bachelor #Mathematik #Inhaltsverzeichnis 
+#BScInfo #Mathematik #Inhaltsverzeichnis 

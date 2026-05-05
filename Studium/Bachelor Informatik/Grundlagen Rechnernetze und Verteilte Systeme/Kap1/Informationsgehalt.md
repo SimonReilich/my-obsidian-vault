@@ -1,7 +1,7 @@
 ---
 lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
 ---
-#Bachelor #Informatik #GRnVs #Atomic 
+#BScInfo #Informatik #GRnVs #Atomic 
 
 # Definition
 Der Informationsgehalt eines [[Symbol|Symbols]] drückt aus, wieviel Information durch das [[Symbol]] übertragen wird.

@@ -1,7 +1,7 @@
 ---
 lecture: "[[Analysis für Informatik]]"
 ---
-#Bachelor #Informatik #AnaInfo 
+#BScInfo #Mathematik #AnaInfo 
 # Konvergenz
 - Definition [[Folge]] 
 - [[Konvergenz]], [[Uneigentliche Konvergenz]] und [[Asymptotische Gleichheit]] 

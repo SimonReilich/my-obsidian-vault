@@ -3,7 +3,7 @@ lecture: "[[Algorithmen für Programmierwettbewerbe]]"
 slides:
   - "[[Dynamic Programming - Slides.pdf]]"
 ---
-#Bachelor #Informatik #ConPra 
+#BScInfo #Informatik #ConPra 
 # Fibonacci Zahlen
 - naive Berechnung sehr schlecht, Werte werden mehrmals berechnet
 - zwei Ideen: [[Bottom-Up-Fibonacci]] oder [[Top-Down-Fibonacci]]

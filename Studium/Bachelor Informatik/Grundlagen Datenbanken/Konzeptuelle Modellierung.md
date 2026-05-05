@@ -2,7 +2,7 @@
 aliases:
 lecture: "[[Grundlagen Datenbanken]]"
 ---
-#Bachelor #Informatik  #GDB
+#BScInfo #Informatik  #GDB
 # Datenbankentwurf:
 - 4 Phasen: Anforderungsanalyse, Konzeptueller Entwurf, Implementationsentwurf, Physischer Entwurf
 - Anforderungsanalyse:

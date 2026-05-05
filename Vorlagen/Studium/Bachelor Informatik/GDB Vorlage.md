@@ -1,4 +1,4 @@
 ---
 lecture: "[[Grundlagen Datenbanken]]"
 ---
-#Bachelor #Informatik #GDB 
+#BScInfo #Informatik #GDB 

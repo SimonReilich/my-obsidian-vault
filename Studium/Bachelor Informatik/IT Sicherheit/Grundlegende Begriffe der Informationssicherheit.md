@@ -1,7 +1,7 @@
 ---
 lecture: "[[IT Sicherheit]]"
 ---
-#Bachelor #Informatik #ITSec 
+#BScInfo #Informatik #ITSec 
 ## Security und Safty
 - Achtung: Im Deutschen: Sicherheit umfasst Security und Safety (Security als Hauptbestandteil der VL)
 - Security: Daten und Informations-Sicherheit: ISO 2382-1

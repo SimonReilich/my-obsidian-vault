@@ -1,7 +1,7 @@
 ---
 lecture: "[[Logik]]"
 ---
-#Bachelor #Informatik #Logik
+#BScInfo #Mathematik #Logik
 # Definitionen
 - Definition [[Atomare Formel|atomarer Formeln]] 
 - Rekursive Definition von Aussagelogischen Formeln:

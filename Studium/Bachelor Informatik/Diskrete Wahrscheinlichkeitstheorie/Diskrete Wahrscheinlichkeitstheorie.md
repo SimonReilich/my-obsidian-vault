@@ -1,7 +1,7 @@
 ---
 instructor: "[[Susanne Albers]]"
 ---
-#Bachelor #Informatik #Inhaltsverzeichnis
+#BScInfo #Mathematik #Inhaltsverzeichnis
 
 - Kapitel 01 - [[Diskrete Wahrscheinlichkeitsräume]] 
 - Kapitel 02 - [[Bedingte Wahrscheinlichkeiten]] 

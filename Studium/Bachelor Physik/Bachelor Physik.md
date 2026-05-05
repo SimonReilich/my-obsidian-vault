@@ -1,1 +1,1 @@
-#Bachelor #Physik #Inhaltsverzeichnis 
+#BScInfo #Physik #Inhaltsverzeichnis 

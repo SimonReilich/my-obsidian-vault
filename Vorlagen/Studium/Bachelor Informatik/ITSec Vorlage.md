@@ -1,4 +1,4 @@
 ---
 lecture: "[[IT Sicherheit]]"
 ---
-#Bachelor #Informatik #ITSec 
+#BScInfo #Informatik #ITSec 

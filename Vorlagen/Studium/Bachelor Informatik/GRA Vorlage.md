@@ -1,4 +1,4 @@
 ---
 lecture: "[[Grundlagenpraktikum Rechnerarchitektur]]"
 ---
-#Bachelor #Informatik #GRA
+#BScInfo #Informatik #GRA

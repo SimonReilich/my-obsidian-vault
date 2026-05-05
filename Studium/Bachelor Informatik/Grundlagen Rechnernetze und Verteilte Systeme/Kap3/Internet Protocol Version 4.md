@@ -1,7 +1,7 @@
 ---
 lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
 ---
-#Bachelor #Informatik #GRnVs #Atomic 
+#BScInfo #Informatik #GRnVs #Atomic 
 # Header
 
 ![[Augbau IPv4-Header.png]]

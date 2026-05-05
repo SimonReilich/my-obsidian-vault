@@ -1,7 +1,7 @@
 ---
 lecture: "[[Numerisches Programmieren]]"
 ---
-#Bachelor #Informatik #NumProg
+#BScInfo #Informatik #NumProg
 # Was ist Numerik?
 
 - Unterscheidung: [[Numerische Mathematik]], [[Numerische Programmierung]] und [[Numerische Simulation]]

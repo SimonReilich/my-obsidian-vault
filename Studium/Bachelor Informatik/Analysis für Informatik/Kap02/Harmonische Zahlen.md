@@ -1,7 +1,7 @@
 ---
 lecture: "[[Analysis für Informatik]]"
 ---
-#Bachelor #Informatik #AnaInfo #Atomic 
+#BScInfo #Mathematik #AnaInfo #Atomic 
 # Definition
 Für $n \in \mathbb{N}$ betrachten wir
 $$ H_n = \sum_{k = 1}^n {1 \over k} = 1 + 1/2 + 1/3 + ... + 1/n $$

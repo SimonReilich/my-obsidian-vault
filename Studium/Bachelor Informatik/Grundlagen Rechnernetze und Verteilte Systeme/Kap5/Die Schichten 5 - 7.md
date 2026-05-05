@@ -1,7 +1,7 @@
 ---
 lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
 ---
-#Bachelor #Informatik #GRnVs 
+#BScInfo #Informatik #GRnVs 
 # Sitzungsschicht
 - Definition [[Session]] 
 - Dienste entweder verbindungsorientiert oder verbindungslos

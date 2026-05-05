@@ -1,7 +1,7 @@
 ---
 lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
 ---
-#Bachelor #Informatik #GRnVs #Atomic 
+#BScInfo #Informatik #GRnVs #Atomic 
 # Definition
 HTTP ist in seiner ursprünglichen Form zunächst zustandslos, zwischen unterschiedlichen Anfragen und Antworten besteht daher zunächst kein Zusammenhang. [[Cookies]] ermöglichen es, dass eine Sitzung über mehrere Anfragen und Antworten, Interaktionen und [[Transmission Control Protokoll|TCP]]-Verbindungen hinweg bestehen bleibt. HTTP wird üblicherweise der Anwendungsschicht (Schicht 7) zugeordnet, beinhaltet aber auch Funktionen der Darstellungs- und Sitzungsschicht (Schichten 6/5).
 

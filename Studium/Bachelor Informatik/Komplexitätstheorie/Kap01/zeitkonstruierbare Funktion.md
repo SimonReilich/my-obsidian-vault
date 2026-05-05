@@ -1,7 +1,7 @@
 ---
 lecture: "[[Komplexitätstheorie]]"
 ---
-#Bachelor #Informatik #CoTheo
+#BScInfo #Informatik #CoTheo
 # Definition
 Damit eine Funktion $T$ zeitkonstruierbar ist, muss sie folgende zwei Bedingungen erfüllen:
 - es gibt eine [[Turingmaschiene]] $M$, die $T(n)$ in der [[Laufzeit einer Turingmaschiene|Zeit]] $O(T(n))$ berechnet

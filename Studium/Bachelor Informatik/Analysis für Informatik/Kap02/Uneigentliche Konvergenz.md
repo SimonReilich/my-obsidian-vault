@@ -1,7 +1,7 @@
 ---
 lecture: "[[Analysis für Informatik]]"
 ---
-#Bachelor #Informatik #AnaInfo #Atomic 
+#BScInfo #Mathematik #AnaInfo #Atomic 
 # Definition
 Sie [[Folge]] $(a_n)_{n \in {\mathbb{N}_0}}$ divergiert gegen $+\infty$, falls
 $$ \forall K > 0 : \exists n_0 \in \mathbb{N} : \forall n \geq n_0 : a_n \geq K $$

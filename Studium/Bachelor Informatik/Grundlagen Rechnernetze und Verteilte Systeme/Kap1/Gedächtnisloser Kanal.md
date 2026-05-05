@@ -1,7 +1,7 @@
 ---
 lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
 ---
-#Bachelor #Informatik #GRnVs 
+#BScInfo #Informatik #GRnVs 
 
 ![[Kanal Modell.png]]
 

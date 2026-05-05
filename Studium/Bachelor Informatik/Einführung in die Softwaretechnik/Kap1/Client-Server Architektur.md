@@ -1,7 +1,7 @@
 ---
 lecture: "[[Einführung in die Softwaretechnik]]"
 ---
-#Bachelor #Informatik #EiSt #Atomic 
+#BScInfo #Informatik #EiSt #Atomic 
 # Definition
 [[Software-Architektur]], die auf einem verteilten System basiert. Die Anwendung wird in zwei Komponenten, Client (frägt den Service an) und Server (stellt den server zur Verfügung), aufgeteilt, diese kommunizieren über ein [[Netzwerk]] mit einem anfrage-basierten [[Protokoll]].
 

@@ -1,4 +1,4 @@
 ---
 instructor: "[[Christian Karpfinger]]"
 ---
-#Bachelor #Informatik #Inhaltsverzeichnis
+#BScInfo #Mathematik #Inhaltsverzeichnis

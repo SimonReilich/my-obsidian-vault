@@ -1,7 +1,7 @@
 ---
 lecture: "[[Komplexitätstheorie]]"
 ---
-#Bachelor #Informatik #CoTheo
+#BScInfo #Informatik #CoTheo
 # Satz
 Die Church-Turing-These (benannt nach [[Alonzo Church]] und [[Alan Turing]],) trifft Aussagen über die Fähigkeiten einer Rechenmaschine. Sie lautet:
 

@@ -1,7 +1,7 @@
 ---
 lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
 ---
-#Bachelor #Informatik #GRnVs #Atomic 
+#BScInfo #Informatik #GRnVs #Atomic 
 # Definition
 Bei RIP handelt es sich um ein einfaches [[Distanz-Vektor-Protokolle|Distanz-Vektor-Protokoll]], dass als einzige Metrik den [[Hop]]-Count nutzt. Es gibt ein [[Hop]]-Count Limit von 15, weit entfernte Ziele sind also nicht erreichbar.
 

@@ -3,7 +3,7 @@ lecture: "[[Algorithmen für Programmierwettbewerbe]]"
 slides:
   - "[[Brute Force - Slides.pdf]]"
 ---
-#Bachelor #Informatik #ConPra 
+#BScInfo #Informatik #ConPra 
 # Definition
 - Testen aller Lösungskandidaten, z.B. Durchprobieren bei Zahlenschloss
 - Vorteile: Einfach, findet garantiert eine Lösung (falls diese existiert)

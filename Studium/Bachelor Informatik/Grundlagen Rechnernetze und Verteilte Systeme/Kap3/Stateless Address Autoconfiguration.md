@@ -1,7 +1,7 @@
 ---
 lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
 ---
-#Bachelor #Informatik #GRnVs #Atomic 
+#BScInfo #Informatik #GRnVs #Atomic 
 # Definition
 Protokoll zur automatischen Konfiguration von [[Internet Protocol Version 6|IPv6]]-Adressen
 

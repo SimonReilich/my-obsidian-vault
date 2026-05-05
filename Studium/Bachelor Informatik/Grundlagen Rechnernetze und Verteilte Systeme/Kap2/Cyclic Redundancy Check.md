@@ -1,7 +1,7 @@
 ---
 lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
 ---
-#Bachelor #Informatik #GRnVs #Atomic 
+#BScInfo #Informatik #GRnVs #Atomic 
 # Definition
 Bei CRC handelt es sich um eine Familie fehlererkennender Codes. Mit ihrem Einsatz werden folgende Ziele verfolgt:
 - Eine große Anzahl von Fehlern (Einbit-, Mehrbit-, Burstfehler) sollen erkannt werden.

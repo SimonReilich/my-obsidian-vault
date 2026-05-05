@@ -1,7 +1,7 @@
 ---
 lecture: "[[Numerisches Programmieren]]"
 ---
-#Bachelor #Informatik #NumProg #Atomic 
+#BScInfo #Informatik #NumProg #Atomic 
 # Definition
 - Hauptanwendungsgebiet von numerischen Methoden
 - Fast überall in Wissenschaft und Technik präsent

@@ -1,7 +1,7 @@
 ---
 lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
 ---
-#Bachelor #Informatik #GRnVs #Atomic 
+#BScInfo #Informatik #GRnVs #Atomic 
 # Definition
 TCP ist das dominierende Transportprotokoll im Internet (rund 90 % des Datenverkehrs im Internet). Es bietet gesicherte / stromorientierte Übertragung mittels Sliding-Window und Selective Repeat sowie Mechanismen zur Fluss- und Staukontrolle.
 

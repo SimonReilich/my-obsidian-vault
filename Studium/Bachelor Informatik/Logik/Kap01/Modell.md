@@ -1,7 +1,7 @@
 ---
 lecture: "[[Logik]]"
 ---
-#Bachelor #Informatik #Logik
+#BScInfo #Mathematik #Logik
 # Definition
 Sei $F$ eine Formel. 
 Wenn $\hat{\mathcal{A}}(F) = 1$, dann schreiben wir $\mathcal{A} \vDash F$ und sagen, dass $F$ unter $\mathcal{A}$ wahr ist bzw. $\mathcal{A}$ ein Modell für $F$ ist.

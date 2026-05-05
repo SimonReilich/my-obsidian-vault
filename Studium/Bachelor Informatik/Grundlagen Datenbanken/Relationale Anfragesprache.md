@@ -2,7 +2,7 @@
 aliases:
 lecture: "[[Grundlagen Datenbanken]]"
 ---
-#Bachelor #Informatik #GDB
+#BScInfo #Informatik #GDB
 # Datentypen
 - character(n), char(n), character varying / varchar(n) für text
 - numeric(p, s), integer, decimal

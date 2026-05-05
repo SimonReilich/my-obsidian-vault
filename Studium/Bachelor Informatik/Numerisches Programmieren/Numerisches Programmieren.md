@@ -3,7 +3,7 @@ instructor:
   - "[[Hans-Joachim Bungartz]]"
   - "[[Michael Bader]]"
 ---
-#Bachelor #Informatik #Inhaltsverzeichnis  
+#BScInfo #Informatik #Inhaltsverzeichnis  
 
 - Kapitel 01 - [[Einführung in Numerisches Programmieren]] 
 - Kapitel 02 - [[Interpolation]] 

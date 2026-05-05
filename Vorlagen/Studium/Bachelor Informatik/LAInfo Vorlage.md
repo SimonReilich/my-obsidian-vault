@@ -1,4 +1,4 @@
 ---
 lecture: "[[Lineare Algebra für Informatik]]"
 ---
-#Bachelor #Informatik #LAInfo
+#BScInfo #Mathematik #LAInfo

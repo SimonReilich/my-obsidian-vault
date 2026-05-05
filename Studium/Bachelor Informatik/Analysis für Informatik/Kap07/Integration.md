@@ -1,7 +1,7 @@
 ---
 lecture: "[[Analysis für Informatik]]"
 ---
-#Bachelor #Informatik #AnaInfo 
+#BScInfo #Mathematik #AnaInfo 
 # Das Integral
 - Problem: Bestimmung des Flächeninhalts unter einer Kurve
 - Idee: Zerlegung $Z$ in kleine Rechtecke $[x_i, x_{i + 1}]$ 

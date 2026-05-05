@@ -1,7 +1,7 @@
 ---
 lecture: "[[Einführung in die Softwaretechnik]]"
 ---
-#Bachelor #Informatik #EiSt 
+#BScInfo #Informatik #EiSt 
 # Systemdesignherausforderungen
 # Modularität
 # Mehrschichtige Architekturprinzipien

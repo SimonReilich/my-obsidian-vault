@@ -1,7 +1,7 @@
 ---
 lecture: "[[Analysis für Informatik]]"
 ---
-#Bachelor #Informatik #AnaInfo 
+#BScInfo #Mathematik #AnaInfo 
 # Bekannte Reihen
 - Definition: [[Reihe]] 
 - [[Harmonische Reihe]]

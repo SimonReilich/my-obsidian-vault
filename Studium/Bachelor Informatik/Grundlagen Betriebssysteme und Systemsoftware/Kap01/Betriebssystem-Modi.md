@@ -1,7 +1,7 @@
 ---
 lecture: "[[Grundlagen Betriebssysteme und Systemsoftware]]"
 ---
-#Bachelor #Informatik #GBS #Atomic 
+#BScInfo #Informatik #GBS
 # Definition
 Ziel der [[Betriebssystem]]-Modi: Schutz des [[Betriebssystem|Betriebssystems]] vor Programmierfehlern und Angriffen. Der Lösungsansatz dabei ist, nach Arbeitsmodi unterschiedliche Berechtigungen zu vergeben. (zunächst) Zwei Modi:
 - Benutzermodus (User Mode / Space)

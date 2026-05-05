@@ -1,7 +1,7 @@
 ---
 lecture: "[[Numerisches Programmieren]]"
 ---
-#Bachelor #Informatik #NumProg 
+#BScInfo #Informatik #NumProg 
 
 # Große, dünne LGSs
 

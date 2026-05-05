@@ -1,4 +1,4 @@
-#Bachelor #Informatik #Inhaltsverzeichnis 
+#BScInfo #Informatik #Inhaltsverzeichnis 
 # 1. Semester
 - [[Einführung in die Informatik]]
 - [[Grundlagenpraktikum Programmierung]]

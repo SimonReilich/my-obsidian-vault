@@ -1,7 +1,7 @@
 ---
 lecture: "[[Analysis für Informatik]]"
 ---
-#Bachelor #Informatik #AnaInfo #Atomic 
+#BScInfo #Mathematik #AnaInfo #Atomic 
 # Aussage
 Für die drei [[Konvergenz|konvergenten]] [[Folge|Folgen]] $(a_n)_{n \in \mathbb{N}}, (b_n)_{n \in \mathbb{N}}, (c_n)_{n \in \mathbb{N}}$ gelte $\exists n_0 \in \mathbb{N} : \forall n \geq n_0 : a_n \leq b_n \leq c_n$. Falls ein $\alpha \in \mathbb{R}$ existiert mit $\lim_{n \to \infty} a_n = \alpha = \lim_{n \to \infty} c_n$, dann gilt auch $\lim_{n \to \infty} b_n = \alpha$.
 

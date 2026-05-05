@@ -1,7 +1,7 @@
 ---
 instructor: "[[Silke Rolles]]"
 ---
-#Bachelor #Informatik #Inhaltsverzeichnis 
+#BScInfo #Mathematik #Inhaltsverzeichnis 
 
 - Kapitel 01 - [[Die reellen Zahlen]]
 - Kapitel 02 - [[Folgen]]

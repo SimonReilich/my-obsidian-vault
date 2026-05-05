@@ -1,7 +1,7 @@
 ---
 lecture: "[[Analysis für Informatik]]"
 ---
-#Bachelor #Informatik #AnaInfo
+#BScInfo #Mathematik #AnaInfo
 # Zahlenmengen
 - Mengen von Zahlen: [[Natürliche Zahlen]], [[Ganze Zahlen]], [[Rationale Zahlen]] und [[Reelle Zahlen]]
 - [[Reelle Zahlen]] bilden einen kommutativen [[Körper]] bezüglich [[Addition]] und [[Multiplikation]]

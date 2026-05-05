@@ -1,7 +1,7 @@
 ---
 lecture: "[[Einführung in die Theoretische Informatik]]"
 ---
-#Bachelor #Informatik #Theo
+#BScInfo #Informatik #Theo
 # Einführung
 - [[1950]]er: Idee, [[Programmiersprache|Programmiersprachen]] zur Kommunikation mit Maschinen zu nutzen
 - Linguist [[Noam Chomsky]] forscht an [[Transformationsgrammatik]], eigentlich mit dem Ziel, die Struktur der menschlichen Sprache zu erklären

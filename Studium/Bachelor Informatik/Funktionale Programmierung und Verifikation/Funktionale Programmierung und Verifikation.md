@@ -1,4 +1,4 @@
 ---
 instructor: "[[Helmut Seidl]]"
 ---
-#Bachelor #Informatik #Inhaltsverzeichnis
+#BScInfo #Informatik #Inhaltsverzeichnis

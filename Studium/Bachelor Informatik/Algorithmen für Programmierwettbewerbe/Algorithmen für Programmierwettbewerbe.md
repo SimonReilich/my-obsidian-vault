@@ -4,7 +4,7 @@ instructor:
   - "[[Jakob Schulz]]"
   - "[[Vincent Fischer]]"
 ---
-#Bachelor #Informatik #Inhaltsverzeichnis
+#BScInfo #Informatik #Inhaltsverzeichnis
 
 - Kapitel 01 - [[Binary Search und Union-Find]]
 - Kapitel 02 - [[Algorithmen für Graphen]]

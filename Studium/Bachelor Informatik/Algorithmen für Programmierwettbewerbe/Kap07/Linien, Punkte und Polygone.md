@@ -3,4 +3,4 @@ lecture: "[[Algorithmen für Programmierwettbewerbe]]"
 slides:
   - "[[Linien, Punkte und Polygone - Slides.pdf]]"
 ---
-#Bachelor #Informatik #ConPra 
+#BScInfo #Informatik #ConPra 

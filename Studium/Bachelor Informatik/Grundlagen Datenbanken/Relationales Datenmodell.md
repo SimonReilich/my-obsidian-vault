@@ -2,7 +2,7 @@
 aliases:
 lecture: "[[Grundlagen Datenbanken]]"
 ---
-#Bachelor #Informatik #GDB
+#BScInfo #Informatik #GDB
 # Grundlagen des Relationalen Modells:
 - Domänen $D_1, D_2, ..., D_n$ (Wertebereiche)
 - Relationen: $R \subseteq D_1 \times D_2 \times ... \times D_n$ (Teilmenge des Kreuzprodukts über Domänen)

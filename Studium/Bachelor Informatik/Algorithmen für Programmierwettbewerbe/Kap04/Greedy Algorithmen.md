@@ -3,7 +3,7 @@ lecture: "[[Algorithmen für Programmierwettbewerbe]]"
 slides:
   - "[[Greedy Algorithmen - Slides.pdf]]"
 ---
-#Bachelor #Informatik #ConPra 
+#BScInfo #Informatik #ConPra 
 # Kriterien
 - Beispiel: Währungsumtausch
 - Problem: Je nach Währungssystem ist der Algorithmus beliebig schlecht

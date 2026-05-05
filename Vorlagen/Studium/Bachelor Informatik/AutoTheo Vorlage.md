@@ -1,4 +1,4 @@
 ---
 lecture: "[[Automatentheorie]]"
 ---
-#Bachelor #Informatik #AutoTheo 
+#BScInfo #Informatik #AutoTheo 

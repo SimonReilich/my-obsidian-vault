@@ -1,7 +1,7 @@
 ---
 lecture: "[[Analysis für Informatik]]"
 ---
-#Bachelor #Informatik #AnaInfo #Atomic 
+#BScInfo #Mathematik #AnaInfo #Atomic 
 # Beweis
 Angenommen, $\mathbb{R}$ wäre abzählbar. Dann wäre auch das [[Intervall]] $[0; 1]$ abzählbar und es gäbe somit eines [[surjektiv|surjektive]] Abbildung $f: \mathbb{N} \to [1; 0]$. Seien
 $$ 

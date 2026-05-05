@@ -1,7 +1,7 @@
 ---
 lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
 ---
-#Bachelor #Informatik #GRnVs 
+#BScInfo #Informatik #GRnVs 
 # Verbindungslose Übertragung
 - Header eines Transportprotokolls besteht mind. aus Quell- und Zielport sowie einer Längenangabe der Nutzdaten
 - Dies ermöglicht es einer Anwendung beim Senden für jedes einzelne Paket den Empfänger ([[IP-Adresse]]) und die empfangende Anwendung (Protokoll und Zielport) anzugeben

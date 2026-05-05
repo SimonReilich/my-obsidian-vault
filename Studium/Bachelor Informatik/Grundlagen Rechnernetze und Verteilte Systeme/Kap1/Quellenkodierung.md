@@ -1,7 +1,7 @@
 ---
 lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
 ---
-#Bachelor #Informatik #GRnVs  #Atomic 
+#BScInfo #Informatik #GRnVs  #Atomic 
 # Definition
 Ziel der Quellenkodierung ist es, durch Abbildung von Bitsequenzen auf Codewörter Redundanz aus den zu übertragenden Daten zu
 entfernen. Dies entspricht einer verlustlosen Datenkompression. Quellenkodierung kann auch genutzt werden, um irrelevante Information

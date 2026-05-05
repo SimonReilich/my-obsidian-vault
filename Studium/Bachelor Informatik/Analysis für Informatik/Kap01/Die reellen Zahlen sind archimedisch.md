@@ -1,7 +1,7 @@
 ---
 lecture: "[[Analysis für Informatik]]"
 ---
-#Bachelor #Informatik #AnaInfo #Atomic 
+#BScInfo #Mathematik #AnaInfo #Atomic 
 # Archimedisch
 $\mathbb{R}$ ist archimedisch, dass heißt, für alle $a \in \mathbb{R}$ existiert ein $n \in \mathbb{N}$ mit $a < n$. Insbesondere gibt es keine unendlich großen Zahlen in $\mathbb{R}$.
 

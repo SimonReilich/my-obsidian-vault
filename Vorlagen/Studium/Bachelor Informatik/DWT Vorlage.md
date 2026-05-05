@@ -1,4 +1,4 @@
 ---
 lecture: "[[Diskrete Wahrscheinlichkeitstheorie]]"
 ---
-#Bachelor #Informatik #DWT
+#BScInfo #Mathematik #DWT

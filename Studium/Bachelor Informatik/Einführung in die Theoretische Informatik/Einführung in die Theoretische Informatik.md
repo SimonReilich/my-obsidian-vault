@@ -1,7 +1,7 @@
 ---
 instructor: "[[Javier Esparza]]"
 ---
-#Bachelor #Informatik #Theo #Inhaltsverzeichnis
+#BScInfo #Informatik #Theo #Inhaltsverzeichnis
 
 - Kapitel 01 - [[Einführung in Formale Sprachen]] 
 - Kapitel 02 - [[Reguläre Sprachen]] 

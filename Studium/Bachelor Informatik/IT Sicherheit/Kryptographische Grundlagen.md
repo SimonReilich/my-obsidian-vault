@@ -1,7 +1,7 @@
 ---
 lecture: "[[IT Sicherheit]]"
 ---
-#Bachelor #Informatik #ITSec 
+#BScInfo #Informatik #ITSec 
 ## Kryptographische Systeme
 - Menge der Klartexte $m$, über Alphabet $M$, $m \in M^*$ , z.B. $M= \{0,1\}$.
 - Menge der Kryptotexte $c$ über dem Alphabet $C$, $c \in C^*$ z.B. $C=\{0,1\}$.

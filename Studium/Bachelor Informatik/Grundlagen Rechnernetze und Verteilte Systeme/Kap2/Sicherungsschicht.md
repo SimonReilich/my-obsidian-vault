@@ -1,7 +1,7 @@
 ---
 lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
 ---
-#Bachelor #Informatik #GRnVs 
+#BScInfo #Informatik #GRnVs 
 # Aufgaben
 - Fokus: sogenannte [[Direktverbindungsnetz|Direktverbindungsnetze]] 
 - Aufgaben der Schicht 2: Steuerung des Medienzugriffs, Prüfung der Nachrichten auf Fehler und Adressierung innerhalb des Direktnetzwerks

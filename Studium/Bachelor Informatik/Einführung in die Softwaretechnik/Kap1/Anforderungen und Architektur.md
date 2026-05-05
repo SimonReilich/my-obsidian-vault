@@ -1,7 +1,7 @@
 ---
 lecture: "[[Einführung in die Softwaretechnik]]"
 ---
-#Bachelor #Informatik #EiSt 
+#BScInfo #Informatik #EiSt 
 # Anforderungen
 - Effektive Sammlung von [[Anforderungen]] ist essenziell für den Projekterfolg
 - Sowohl [[Funktionale Anforderungen|Funktionale]] als auch [[Nicht-Funktionale Anforderungen]] sind wichtig, um die Bedürfnisse und Erwartungen des Kunden zu erreichen.

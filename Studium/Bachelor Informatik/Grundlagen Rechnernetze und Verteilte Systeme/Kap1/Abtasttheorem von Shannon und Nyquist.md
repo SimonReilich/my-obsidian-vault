@@ -1,7 +1,7 @@
 ---
 lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
 ---
-#Bachelor #Informatik #GRnVs  
+#BScInfo #Informatik #GRnVs  
 # Urheber
 Von [[Wladimir Kotelnikow]], [[Claude Elwood Shannon]]
 Beeinflusst durch [[Harry Nyquist]], [[Edmund Taylor Whittaker]], [[John Macnaghten Whittaker]], [[Karl Küpfmüller]] 

@@ -2,7 +2,7 @@
 aliases:
 lecture: "[[Grundlagen Datenbanken]]"
 ---
-#Bachelor #Informatik #GDB
+#BScInfo #Informatik #GDB
 # Funktionale Abhängigkeiten
 - $\alpha \to \beta$ genau dann wenn $\forall r, s \in R. r.\alpha = s.\alpha \implies r.\beta = s.\beta$
 - $\alpha \subseteq R$ ist ein Super-Schlüssel, falls folgendes gilt: $\alpha \to R$

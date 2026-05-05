@@ -1,6 +1,6 @@
 ---
 subject: "[[Musik - Schule]]"
 ---
-#Oberstufe #Musik #Atomic 
+#Oberstufe #Musik
 # Definition
 Vom [[Orchester]] begleitetes Solostück in Oper und Oratorium.

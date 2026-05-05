@@ -1,7 +1,7 @@
 ---
 lecture: "[[Analysis für Informatik]]"
 ---
-#Bachelor #Informatik #AnaInfo 
+#BScInfo #Mathematik #AnaInfo 
 # Differenzieren
 - Definition [[Landau-Symbol]], [[Kriterium der Differenzierbarkeit]]
 - [[Satz über die Approximation durch eine Tangente]], [[Differenzierbarkeit impliziert Stetigkeit]] 

@@ -1,4 +1,4 @@
 ---
 lecture: "[[Algorithmen für Programmierwettbewerbe]]"
 ---
-#Bachelor #Informatik #ConPra 
+#BScInfo #Informatik #ConPra 

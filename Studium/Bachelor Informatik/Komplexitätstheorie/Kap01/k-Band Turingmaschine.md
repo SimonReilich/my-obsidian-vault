@@ -1,7 +1,7 @@
 ---
 lecture: "[[Komplexitätstheorie]]"
 ---
-#Bachelor #Informatik #CoTheo
+#BScInfo #Informatik #CoTheo
 # Definition
 Eine $k$-Band [[Turingmaschiene]] ist ein Tripel $(\Gamma, Q, \delta)$ mit
 - dem [[Alphabet]] $\Gamma$ bestehend aus $0$, $1$, $\square$ (leere Zelle) und $\rhd$ (Startsymbol)

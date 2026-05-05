@@ -1,4 +1,4 @@
 ---
 lecture: "[[Grundlagen Algorithmen und Datenstrukturen]]"
 ---
-#Bachelor #Informatik #GAD
+#BScInfo #Informatik #GAD

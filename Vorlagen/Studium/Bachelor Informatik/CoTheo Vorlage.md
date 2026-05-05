@@ -1,4 +1,4 @@
 ---
 lecture: "[[Komplexitätstheorie]]"
 ---
-#Bachelor #Informatik #CoTheo
+#BScInfo #Informatik #CoTheo

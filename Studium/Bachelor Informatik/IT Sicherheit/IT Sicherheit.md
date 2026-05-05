@@ -1,7 +1,7 @@
 ---
 instructor: "[[Claudia Eckert]]"
 ---
-#Bachelor #Informatik #Inhaltsverzeichnis 
+#BScInfo #Informatik #Inhaltsverzeichnis 
 
 - Kapitel 01 - [[Grundlegende Begriffe der Informationssicherheit]]
 - Kapitel 02 - [[Kryptographische Grundlagen]]

@@ -1,1 +1,1 @@
-#Bachelor #Informatik #Inhaltsverzeichnis 
+#BScInfo #Informatik #Inhaltsverzeichnis 

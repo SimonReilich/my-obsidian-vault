@@ -1,4 +1,4 @@
 ---
 lecture: "[[Einführung in die Informatik]]"
 ---
-#Bachelor #Informatik #EidI
+#BScInfo #Informatik #EidI

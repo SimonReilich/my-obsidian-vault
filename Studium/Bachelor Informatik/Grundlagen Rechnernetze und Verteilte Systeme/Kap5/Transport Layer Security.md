@@ -1,7 +1,7 @@
 ---
 lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
 ---
-#Bachelor #Informatik #GRnVs #Atomic 
+#BScInfo #Informatik #GRnVs #Atomic 
 # Definition
 TLS ist ein Protokoll zur sicheren Übertragung von Daten über einen verbindungsorientierten Transportdienst. Es ist die Grundlage u.a. für [[HTTPS]]. Es bietet unter anderem:
 - [[Authentifizierung]]

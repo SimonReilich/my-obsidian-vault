@@ -1,7 +1,7 @@
 ---
 lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
 ---
-#Bachelor #Informatik #GRnVs #Atomic 
+#BScInfo #Informatik #GRnVs 
 # Definition
 Eine Menge von Netzwerken, die unter einheitlicher administrativer Kontrolle stehen, bezeichnet man als Autonomes System (AS). Ein AS wird durch einen 16 bit bzw. 32 bit Identifier, der sog. AS-Nummer identifiziert. Beim Einsatz von Routingprotokollen wird unterschieden:
 - Innerhalb eines autonomen Systems werden Interior Gateway Protocols (IGPs) wie [[Routing Information Protokoll]], [[Open Shortest Path First]], [[Enhanced Interior Gateway Protokoll]] oder [[Intermediate System to Intermediate System]] eingesetzt.

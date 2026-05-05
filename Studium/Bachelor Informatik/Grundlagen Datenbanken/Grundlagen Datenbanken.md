@@ -1,7 +1,7 @@
 ---
 instructor: "[[Alfons Kemper]]"
 ---
-#Bachelor #Informatik #Inhaltsverzeichnis
+#BScInfo #Informatik #Inhaltsverzeichnis
 
 - Kapitel 01 - [[Konzeptuelle Modellierung]]
 - Kapitel 02 - [[Relationales Datenmodell]]

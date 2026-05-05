@@ -1,4 +1,4 @@
 ---
 lecture: "[[Grundlagenpraktikum Programmierung]]"
 ---
-#Bachelor #Informatik #PGdP
+#BScInfo #Informatik #PGdP

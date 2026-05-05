@@ -1,7 +1,7 @@
 ---
 lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
 ---
-#Bachelor #Informatik #GRnVs #Atomic 
+#BScInfo #Informatik #GRnVs #Atomic 
 # Definition
 - Kollisionsfreie Übertragung durch Weitergabe eines Tokens
 - Stationen werden zu einem logischen Ring zusammen geschaltet

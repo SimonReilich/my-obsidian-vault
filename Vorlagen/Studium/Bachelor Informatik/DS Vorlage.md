@@ -1,4 +1,4 @@
 ---
 lecture: "[[Diskrete Strukturen]]"
 ---
-#Bachelor #Informatik #DS 
+#BScInfo #Mathematik #DS 

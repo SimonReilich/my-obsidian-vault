@@ -1,7 +1,7 @@
 ---
 lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
 ---
-#Bachelor #Informatik #GRnVs #Atomic 
+#BScInfo #Informatik #GRnVs #Atomic 
 
 # Definition
 Den mittleren [[Informationsgehalt]] einer Quelle $\mathcal{X}$ bezeichnet man als Entropie $H(X)$, wobei $X$ eine [[Zufallsvariablen|Zufallsvariable]] ist, die mit der jeweiligen Emittierungs-Wahrscheinlichkeit den Wert des Zeichens annimmt.

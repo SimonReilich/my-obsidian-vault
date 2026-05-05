@@ -1,7 +1,7 @@
 ---
 lecture: "[[Logik]]"
 ---
-#Bachelor #Informatik #Logik
+#BScInfo #Mathematik #Logik
 # Definition
 - $\neg$ ist die Negation
 - $\land$ ist die Konjunktion

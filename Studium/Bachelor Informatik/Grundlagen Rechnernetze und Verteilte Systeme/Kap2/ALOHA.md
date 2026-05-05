@@ -1,7 +1,7 @@
 ---
 lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
 ---
-#Bachelor #Informatik #GRnVs #Atomic 
+#BScInfo #Informatik #GRnVs
 # Definition
 Medienzugriffsverfahren mit folgender Funktionsweise:
 - Jede Station sendet an eine zentrale Station (vgl. „Basisstation“ in WLANs), sobald Daten vorliegen

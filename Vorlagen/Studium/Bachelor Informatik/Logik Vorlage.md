@@ -1,4 +1,4 @@
 ---
 lecture: "[[Logik]]"
 ---
-#Bachelor #Informatik #Logik
+#BScInfo #Mathematik #Logik

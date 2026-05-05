@@ -1,4 +1,4 @@
 ---
 lecture: "[[Grundlagen Betriebssysteme und Systemsoftware]]"
 ---
-#Bachelor #Informatik #GBS 
+#BScInfo #Informatik #GBS 

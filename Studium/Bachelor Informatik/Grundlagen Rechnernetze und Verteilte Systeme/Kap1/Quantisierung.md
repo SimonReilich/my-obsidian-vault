@@ -1,7 +1,7 @@
 ---
 lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
 ---
-#Bachelor #Informatik #GRnVs #Atomic 
+#BScInfo #Informatik #GRnVs #Atomic 
 # Definition
 - Diskretisierung eines [[Signal|Signals]] im Wertebereich
 - Die Unterscheidung von $M = 2N$ Signalstufen erfordert Codewörter von $N$ bit

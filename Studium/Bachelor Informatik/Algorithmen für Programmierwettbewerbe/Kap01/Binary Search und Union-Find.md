@@ -2,7 +2,7 @@
 lecture: "[[Algorithmen für Programmierwettbewerbe]]"
 slides: "[[Binary Search und Union-Find - Slides.pdf]]"
 ---
-#Bachelor #Informatik #ConPra 
+#BScInfo #Informatik #ConPra 
 # Binary Search
 - [[Binary Search]] ist ein Algorithmus zum suchen von Elementen innerhalb eines Arrays
 - Laufzeit: $O(n \log(n))$ 

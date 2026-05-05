@@ -1,4 +1,4 @@
 ---
 instructor: "[[Nils Thuerey]]"
 ---
-#Bachelor #Informatik #Inhaltsverzeichnis 
+#BScInfo #Informatik #Inhaltsverzeichnis 

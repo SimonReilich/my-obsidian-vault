@@ -1,7 +1,7 @@
 ---
 instructor: "[[Rüdiger Westermann]]"
 ---
-#Bachelor #Informatik #Inhaltsverzeichnis 
+#BScInfo #Informatik #Inhaltsverzeichnis 
 
 - Kapitel 01 - [[Programmieren in Java]] 
 - Kapitel 02 - [[Funktionen und Rekursion]] 

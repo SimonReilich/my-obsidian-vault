@@ -1,7 +1,7 @@
 ---
 lecture: "[[Komplexitätstheorie]]"
 ---
-#Bachelor #Informatik #CoTheo
+#BScInfo #Informatik #CoTheo
 # Turingmaschienen
 - Viele verschiedene Modelle für Berechnungen:
 	- [[Turingmaschiene]]

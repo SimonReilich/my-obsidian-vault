@@ -1,7 +1,7 @@
 ---
 lecture: "[[Analysis für Informatik]]"
 ---
-#Bachelor #Informatik #AnaInfo #Atomic 
+#BScInfo #Mathematik #AnaInfo 
 # Definition
 $$ B = \{a = ±d_0 .d_1 d_2 . . . ∈ R : ∃ \text{Programm } P_a \text{ mit } P_a (n) = ±d_0 .d_1 d_2 . . . d_n ∀n\} $$
 Es gilt: $B \subsetneq \mathbb{R}$ ist [[Abzählbarkeit|abzählbar]]. Wenn man eine Zahl [[Gleichverteilung|gleichverteilt]] aus $[0, 1]$ zieht, ist sie mit Wahrscheinlichkeit $1$ nicht in $B$.

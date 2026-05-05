@@ -5,7 +5,7 @@ slides:
   - "[[Algorithmen für Graphen - Slides 2.pdf]]"
   - "[[Algorithmen für Graphen - Slides 3.pdf]]"
 ---
-#Bachelor #Informatik #ConPra
+#BScInfo #Informatik #ConPra
 # Graphen
 - Definition [[Graph]], [[Zyklus]], [[Zusammenhängend]], [[Baum]], [[Wald]]
 - Interface: `make`, `get_vertecies`, `get_edges`, `test_edge`, `get_succ`

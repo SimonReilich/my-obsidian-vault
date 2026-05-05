@@ -1,7 +1,7 @@
 ---
 lecture: "[[Analysis für Informatik]]"
 ---
-#Bachelor #Informatik #AnaInfo 
+#BScInfo #Mathematik #AnaInfo 
 # Umkehrfunktion
 - Definition [[Injektivität]], [[Surjektivität]], [[Bijektivität]], [[Umkehrfunktion]]
 - Satz: [[Stetigkeit und streng steigende Monotonie implizieren Bijektivität]] 

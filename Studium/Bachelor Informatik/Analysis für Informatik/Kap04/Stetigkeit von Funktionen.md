@@ -1,7 +1,7 @@
 ---
 lecture: "[[Analysis für Informatik]]"
 ---
-#Bachelor #Informatik #AnaInfo 
+#BScInfo #Mathematik #AnaInfo 
 # Definition
 - [[Satz über Konvergenz im mehrdimensionalen Raum]]
 - Definition [[Stetigkeit]] 

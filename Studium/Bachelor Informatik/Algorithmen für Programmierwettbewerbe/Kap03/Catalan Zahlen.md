@@ -1,7 +1,7 @@
 ---
 lecture: "[[Algorithmen für Programmierwettbewerbe]]"
 ---
-#Bachelor #Informatik #ConPra #Atomic 
+#BScInfo #Informatik #ConPra #Atomic 
 # Definition
 Die Catalan Zahlen lassen sich wie folgt berechnen: $C_n = {1 \over n + 1} (\begin{smallmatrix}2n \\ n\end{smallmatrix})$. Sie haben verschiedene Anwendungsbereiche, explizit seien genannt:
 - Anzahl der wohlgeklammerten Wörter in $\{(, )\}^{2n}$ 

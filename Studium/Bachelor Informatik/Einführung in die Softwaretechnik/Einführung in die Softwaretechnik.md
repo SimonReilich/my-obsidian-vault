@@ -1,7 +1,7 @@
 ---
 instructor: "[[Pramod Bhatotia]]"
 ---
-#Bachelor #Informatik #Inhaltsverzeichnis
+#BScInfo #Informatik #Inhaltsverzeichnis
 
 - Kapitel 01 - [[Anforderungen und Architektur]]
 - Kapitel 02 - [[Systemdesign und Implementierung]]

@@ -1,7 +1,7 @@
 ---
 lecture: "[[Analysis für Informatik]]"
 ---
-#Bachelor #Informatik #AnaInfo #Atomic 
+#BScInfo #Mathematik #AnaInfo #Atomic 
 # Definition
 Für alle $x, y ∈ \mathbb{R}^n$ gilt:
 $$ ∥x + y∥ \leq ∥x∥ + ∥y∥ $$

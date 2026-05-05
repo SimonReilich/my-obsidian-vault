@@ -3,7 +3,7 @@ lecture: "[[Algorithmen für Programmierwettbewerbe]]"
 slides:
   - "[[Zahlentheorie - Slides.pdf]]"
 ---
-#Bachelor #Informatik #ConPra 
+#BScInfo #Informatik #ConPra 
 # Große Integer
 - definiere Ziffern zur Basis $b$: $\Sigma_b = \{0, 1, ..., b - 1\}$ 
 - Zahl kann dann als Liste von Ziffern dargestellt werden: $x = x_n x_{n-1} ... x_0$

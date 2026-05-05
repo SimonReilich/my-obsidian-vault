@@ -2,7 +2,7 @@
 instructor:
   - "[[Debarghya Ghoshdastidar]]"
 ---
-#Bachelor #Informatik #Inhaltsverzeichnis 
+#BScInfo #Informatik #Inhaltsverzeichnis 
 
 - Kapitel 01 - [[Das Berechnungsmodell]]
 - Kapitel 02 - [[Die Klasse NP und NP-vollständigkeit]]

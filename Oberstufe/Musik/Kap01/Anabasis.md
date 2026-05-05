@@ -1,6 +1,6 @@
 ---
 subject: "[[Musik - Schule]]"
 ---
-#Oberstufe #Musik #Atomic 
+#Oberstufe #Musik
 # Definition 
 [[Hypotyposis-Figur]] für Aufstieg: steigende Tonhöhe

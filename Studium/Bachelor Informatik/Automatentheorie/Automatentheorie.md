@@ -1,7 +1,7 @@
 ---
 lecture: "[[Florian Bruse]]"
 ---
-#Bachelor #Informatik #Inhaltsverzeichnis 
+#BScInfo #Informatik #Inhaltsverzeichnis 
 
 - [[Mikhael Theophillus Hutahaean]] - [[Schewe - 2009 - Tighter bounds for the determinisation of Büchi automata|Büchi Determinization]]
 - [[Simon Reilich]] - [[Friedmann et al - 2015 - Ramsey-Based Inclusion Checking for Visibly Pushdown Automata|Ramsey-based Büchi Complementation]]

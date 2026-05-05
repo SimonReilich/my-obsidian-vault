@@ -1,7 +1,7 @@
 ---
 instructor: "[[Daniel Cremers]]"
 ---
-#Bachelor #Informatik #Inhaltsverzeichnis
+#BScInfo #Mathematik #Inhaltsverzeichnis
 
 - Kapitel 01 - [[Mengen]]
 - Kapitel 02 - [[Relationen]]

@@ -1,7 +1,7 @@
 ---
 lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
 ---
-#Bachelor #Informatik #GRnVs #Atomic 
+#BScInfo #Informatik
 # Definition
 Verfahren, um dauerhafte Kollisionen bei [[CSMA CD]] zu verhindern. Beim $k$-ten Sendeversuch einer Nachricht:
 - wählt der Sender zufällig $n ∈ \{0, ... , min\{2k −1 − 1,1023\} \}$ aus und
