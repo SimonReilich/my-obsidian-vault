@@ -1,7 +1,7 @@
 ---
 subject: "[[Politik - Schule]]"
 ---
-#Oberstufe #Politik #Atomic 
+#Oberstufe #Politik 
 
 # Definition
 die EU ist ein supranationaler Staatenbund

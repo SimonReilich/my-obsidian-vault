@@ -1,7 +1,7 @@
 ---
 lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
 ---
-#BScInfo #Informatik #GRnVs #Atomic 
+#BScInfo #Informatik #GRnVs 
 # Definition
 Protokoll auf der [[Vermittlungsschicht]], um Hosts [[IP-Adresse|IP-Adressen]] zuzuweisen.
 

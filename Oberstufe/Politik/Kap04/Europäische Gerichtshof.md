@@ -1,7 +1,7 @@
 ---
 subject: "[[Politik - Schule]]"
 ---
-#Oberstufe #Politik #Atomic 
+#Oberstufe #Politik 
 # Definition
 - Sitz in [[Luxemburg ]]
 - Oberste rechtsprechende Organ der EU

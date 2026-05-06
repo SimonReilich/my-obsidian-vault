@@ -1,7 +1,7 @@
 ---
 subject: "[[Politik - Schule]]"
 ---
-#Oberstufe #Politik #Atomic 
+#Oberstufe #Politik 
 # Definition
 - Supranationale Institution
 - Sitz in [[Brüssel]], Teil der Exekutive

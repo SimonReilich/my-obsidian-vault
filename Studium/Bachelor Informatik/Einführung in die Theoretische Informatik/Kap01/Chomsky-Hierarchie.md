@@ -1,7 +1,7 @@
 ---
 lecture: "[[Einführung in die Theoretische Informatik]]"
 ---
-#BScInfo #Informatik #Theo #Atomic 
+#BScInfo #Informatik #Theo 
 
 # Definition
 Die Chomsky-Hierarchie, [[1956]] von [[Noam Chomsky]] eingeführt, ist ein grundlegendes Modell der theoretischen Informatik, das [[formale Sprache|formale Sprachen]] und [[formale Grammatik|Grammatiken]] nach ihrer Mächtigkeit und Komplexität in vier Stufen klassifiziert. Eine [[formale Grammatik]] $G$ lässt sich wie folgt einordnen:

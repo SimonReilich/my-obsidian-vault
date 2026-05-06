@@ -1,7 +1,7 @@
 ---
 lecture: "[[Analysis für Informatik]]"
 ---
-#BScInfo #Mathematik #AnaInfo #Atomic 
+#BScInfo #Mathematik #AnaInfo 
 # Beweis
 Die [[Rationale Zahlen|rationalen Zahlen]] sind dicht in $\mathbb{R}$, dass heißt, für alle $a, b \in \mathbb{R}$ mit $a < b$ existiert $r \in \mathbb{Q}$ mit $a < r < b$.
 

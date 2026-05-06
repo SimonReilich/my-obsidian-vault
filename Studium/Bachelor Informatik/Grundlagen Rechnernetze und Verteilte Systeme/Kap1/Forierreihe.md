@@ -1,7 +1,7 @@
 ---
 lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
 ---
-#BScInfo #Informatik #GRnVs #Atomic 
+#BScInfo #Informatik #GRnVs 
 # Definition
 Ein periodisches [[Signal]] s(t) lässt sich als Summe gewichteter [[Sinus- und Cosinusfunktion|Sinus- und Cosinus]]-Schwingungen darstellen. Die so entstehende Reihenentwicklung von s(t) bezeichnet man als Fourierreihe:
 $$ s(t) = {a_0 \over 2} + \sum_{k = 1}^\infty (a_k * \cos(k \omega t) + b_k * \sin(k \omega t)) $$

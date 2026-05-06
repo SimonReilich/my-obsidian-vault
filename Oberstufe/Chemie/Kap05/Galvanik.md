@@ -1,6 +1,6 @@
 ---
 subject: "[[Chemie - Schule]]"
 ---
-#Oberstufe #Chemie #Atomic 
+#Oberstufe #Chemie 
 
 Freiwillig ablaufende [[Redoxgleichgewichte|Redoxreaktionen]] 

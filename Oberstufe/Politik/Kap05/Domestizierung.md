@@ -1,7 +1,7 @@
 ---
 subject: "[[Politik - Schule]]"
 ---
-#Oberstufe #Politik #Atomic 
+#Oberstufe #Politik 
 # Definition
 Domestizierung meint die zunehmende Beherrschung und Nutzbarmachung der [[Natur]]. Die Menschen setzen ihr technologischen Fähigkeiten und ihre instrumentelle Vernunft immer konsequenter dazu ein, um die Bedrohungen durch ihre natürliche Umwelt zu kontrollieren oder sogar zu beseitigen. Während das Leben in traditionellen Gesellschaften von einer Anpassung des menschlichen Lebens an die Kräfte der [[Natur]]
 geprägt war, beginnen die Menschen im Zuge der Modernisierung, die natürliche Umwelt an ihre Bedürfnisse anzupassen und entsprechend umzugestalten = instrumentelle Nutzung und Beherrschung der [[Natur]].

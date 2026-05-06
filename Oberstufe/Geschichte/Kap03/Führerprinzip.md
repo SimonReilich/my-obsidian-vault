@@ -1,7 +1,7 @@
 ---
 subject: "[[Geschichte - Schule]]"
 ---
-#Oberstufe #Geschichte #Atomic 
+#Oberstufe #Geschichte 
 
 # Definition
 Die NS-[[Propaganda]] versucht von Anfang an, die Begeisterung für [[Hitler]] in kulthafte Verehrung zu steigern. Der "Führer" sollte zwar aus dem Volk hervorgehen, musste sich diesem gegenüber aber nicht rechtfertigen und besaß absolute Macht.

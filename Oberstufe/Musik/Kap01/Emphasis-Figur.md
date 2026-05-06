@@ -1,6 +1,6 @@
 ---
 subject: "[[Musik - Schule]]"
 ---
-#Oberstufe #Musik #Atomic 
+#Oberstufe #Musik 
 # Definition 
 Musikalische Figur, die der Ausdruckssteigerung dient, z.B. [[Exclamatio]].

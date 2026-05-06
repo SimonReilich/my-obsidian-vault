@@ -1,7 +1,7 @@
 ---
 lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
 ---
-#BScInfo #Informatik #GRnVs #Atomic 
+#BScInfo #Informatik #GRnVs 
 # Definition
 [[Rahmen]] haben auf Schicht 2 eine maximale Größe, z. B. 1514 B für die L2-PDU (ohne CRC-Checksumme) bei IEEE 802.3u (100 Mbit/s [[Ethernet]]). Diese gibt auch die maximale Größe einer L3-PDU vor, welche als Maximum Transmission Unit (MTU) bezeichnet wird. Überschreitet eine L3-PDU diese Größe, muss die L3-SDU fragmentiert und in Form unabhängiger Pakete versendet werden. Der Empfänger muss die einzelnen Fragmente im Anschluss reassemblieren. [[Internet Protocol Version 6]] verfügt zu diesem Zweck über einen eigenen Extension Header, den Fragment Header
 

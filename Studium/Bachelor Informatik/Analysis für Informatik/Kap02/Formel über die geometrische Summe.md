@@ -1,7 +1,7 @@
 ---
 lecture: "[[Analysis für Informatik]]"
 ---
-#BScInfo #Mathematik #AnaInfo #Atomic 
+#BScInfo #Mathematik #AnaInfo 
 # Aussage
 Für alle $q \in \mathbb{C}$ mit $q \neq 1$ und $n \in \mathbb{N}_0$ gilt:
 $$ \sum_{j = 0}^n q^j = {1 - q^{n + 1} \over 1 - q} $$ 
