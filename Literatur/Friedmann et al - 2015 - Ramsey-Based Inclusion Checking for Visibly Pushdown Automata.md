@@ -15,3 +15,7 @@ source: "[[Olivier Friedmann, Felix Klaedtke, Martin Lange - 2015 - Ramsey-Based
 - Einfach ist hingegen der Schnitt zweier [[omega-reguläre Sprache|omega-regulärer Sprachen]], der [[Büchi-Automat]] ist höchstens quadratisch größer, $L(A) \cap L(B) = \emptyset$ ist [[NLOGSPACE]]-vollständig 
 - $L(A) \subseteq L(B)$ ist äquivalent zu $L(A) \cap L(\bar{B}) = \emptyset$, die Komplementbildung eines [[Büchi-Automat|Automaten]] erhält aber nicht notwendigerweise seine deterministische Eigenschaft und ist deswegen schwierig
 - Zur Lösung des Universalitätsproblems ($L(A) = \Sigma^\omega$) gibt es ramsey-basierte Algorithmen (Korrektheit folgt aus [[Ramseys Theorem]])
+- Dieser Ansatz lässt sich auf das Inklusionsproblem, sowie auf [[omega-Automat|omega-Automaten]] erweitern
+- In diesem Paper wird diese Idee weitergeführt und das Ramsey-basierte Verfahren für das Inklusionsproblem auf [[Sichtbarer Kellerautomat|sichtbare Kellerautomaten]] ausgedehnt
+- Für diese ist das Inklusionsproblem sogar [[EXPTIME]]-vollständig
+- Der Schritt zu allgemeinen [[Kellerautomat|Kellerautomaten]] ist nicht möglich, da für diese Universalität unentscheidbar ist
