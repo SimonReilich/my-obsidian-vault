@@ -7,7 +7,7 @@ author:
   - "[[Jun Pang]]"
   - "[[Ahmed Bouajjani]]"
   - "[[Oded Maler]]"
-publisher: "[[Springer]]"
+publisher: "[[International Conference on Computer Aided Verification]]"
 year: "[[2009]]"
 file: "[[Sun et al - 2009 - PAT Towards Flexible Verification under Fairness.pdf]]"
 ---

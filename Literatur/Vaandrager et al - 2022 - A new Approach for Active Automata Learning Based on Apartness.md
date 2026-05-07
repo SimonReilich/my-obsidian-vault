@@ -5,7 +5,7 @@ author:
   - "[[Bharat Garhewal]]"
   - "[[Jurriaan Rot]]"
   - "[[Thorsten Wißmann]]"
-publisher: "[[TACAS]]"
+publisher: "[[International conference on Tools and algorithms for the construction and analysis of systems]]"
 year: "[[2022]]"
 file:
 ---
