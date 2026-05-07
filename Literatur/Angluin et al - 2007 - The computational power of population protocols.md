@@ -7,6 +7,6 @@ author:
   - "[[Eric Ruppert]]"
 publisher: "[[Distributed Computing]]"
 year: "[[2007]]"
-source: "[[Angluin et al - 2007 - The computational power of population protocols.pdf]]"
+file: "[[Angluin et al - 2007 - The computational power of population protocols.pdf]]"
 ---
 #Literatur #Informatik 

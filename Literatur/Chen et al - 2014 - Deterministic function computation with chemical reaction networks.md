@@ -6,6 +6,6 @@ author:
   - "[[David Soloveichik]]"
 publisher: "[[Natural Computing]]"
 year: "[[2014]]"
-source: "[[Chen et al - 2014 - Deterministic function computation with chemical reaction networks.pdf]]"
+file: "[[Chen et al - 2014 - Deterministic function computation with chemical reaction networks.pdf]]"
 ---
 #Literatur #Informatik 

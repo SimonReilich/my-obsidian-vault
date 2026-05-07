@@ -11,6 +11,6 @@ author:
   - "[[Ramesh Rao]]"
 publisher: "[[Springer]]"
 year: "[[2006]]"
-source: "[[Delporte-Gallet et al - 2006 - When Birds Die Making Population Protocols Fault-Tolerant.pdf]]"
+file: "[[Delporte-Gallet et al - 2006 - When Birds Die Making Population Protocols Fault-Tolerant.pdf]]"
 ---
 #Literatur #Informatik 

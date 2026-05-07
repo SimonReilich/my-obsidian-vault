@@ -6,6 +6,6 @@ author:
   - "[[Dan Simpson]]"
 publisher: "[[Springer]]"
 year: "[[2000]]"
-source: "[[Schmidt - 2000 - LoLA A Low Level Analyser.pdf]]"
+file: "[[Schmidt - 2000 - LoLA A Low Level Analyser.pdf]]"
 ---
 #Literatur #Informatik 

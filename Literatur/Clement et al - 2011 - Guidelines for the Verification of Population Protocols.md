@@ -7,6 +7,6 @@ author:
   - "[[Mihaela Sighireanu]]"
 publisher: "[[International Conference on Distributed Computing Systems]]"
 year: "[[2011]]"
-source: "[[Clement et al - 2011 - Guidelines for the Verification of Population Protocols.pdf]]"
+file: "[[Clement et al - 2011 - Guidelines for the Verification of Population Protocols.pdf]]"
 ---
 #Literatur #Informatik 

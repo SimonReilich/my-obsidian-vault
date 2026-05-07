@@ -10,6 +10,6 @@ author:
   - "[[Thomas Wolfgang]]"
 publisher: "[[Springer]]"
 year: "[[2009]]"
-source: "[[Guerraoui und Ruppert - 2009 - Names Trump Malice Tiny Mobile Agents Can Tolerate Byzantine Failures.pdf]]"
+file: "[[Guerraoui und Ruppert - 2009 - Names Trump Malice Tiny Mobile Agents Can Tolerate Byzantine Failures.pdf]]"
 ---
 #Literatur #Informatik 

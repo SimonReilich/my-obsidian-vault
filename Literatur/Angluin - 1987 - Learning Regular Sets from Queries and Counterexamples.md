@@ -4,6 +4,6 @@ author:
   - "[[Dana Angluin]]"
 publisher: "[[Information and Computation]]"
 year: "[[1987]]"
-source:
+file:
 ---
 #Literatur #Informatik 

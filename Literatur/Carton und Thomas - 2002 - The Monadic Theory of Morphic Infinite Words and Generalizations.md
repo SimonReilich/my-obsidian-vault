@@ -5,6 +5,6 @@ author:
   - "[[Wolfgang Thomas]]"
 publisher: "[[Information and Computation]]"
 year: "[[2002]]"
-source:
+file:
 ---
 #Literatur #Informatik 

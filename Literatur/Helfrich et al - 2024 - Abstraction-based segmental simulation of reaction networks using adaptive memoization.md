@@ -9,6 +9,6 @@ author:
   - "[[David Šafránek]]"
 publisher: "[[BMC Bioinformatics]]"
 year: "[[2024]]"
-source: "[[Helfrich et al - 2024 - Abstraction-based segmental simulation of reaction networks using adaptive memoization.pdf]]"
+file: "[[Helfrich et al - 2024 - Abstraction-based segmental simulation of reaction networks using adaptive memoization.pdf]]"
 ---
 #Literatur #Informatik 

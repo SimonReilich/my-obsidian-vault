@@ -10,6 +10,6 @@ author:
   - "[[Moti Yung]]"
 publisher: "[[Springer]]"
 year: "[[2010]]"
-source: "[[Chatzigiannakis et al - 2010 - Algorithmic Verification of Population Protocols.pdf]]"
+file: "[[Chatzigiannakis et al - 2010 - Algorithmic Verification of Population Protocols.pdf]]"
 ---
 #Literatur #Informatik 

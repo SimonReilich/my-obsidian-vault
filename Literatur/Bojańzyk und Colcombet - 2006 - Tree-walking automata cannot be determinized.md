@@ -5,6 +5,6 @@ author:
   - "[[Thomas Colcombet]]"
 publisher: "[[Theoretical Computer Science]]"
 year: "[[2006]]"
-source:
+file:
 ---
 #Literatur #Informatik 

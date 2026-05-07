@@ -9,6 +9,6 @@ author:
   - "[[Simon Reilich]]"
 publisher: "[[CONCUR]]"
 year: "[[2026]]"
-source:
+file:
 ---
 #Literatur #Informatik 

@@ -6,6 +6,6 @@ author:
   - "[[Oded Maler]]"
 publisher: "[[CONCUR]]"
 year: "[[1997]]"
-source:
+file:
 ---
 #Literatur #Informatik 

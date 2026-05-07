@@ -3,6 +3,6 @@ title:
 author:
 publisher:
 year:
-source:
+file:
 ---
 #Literatur 

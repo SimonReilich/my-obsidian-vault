@@ -7,6 +7,6 @@ author:
   - "[[Antonin Kučera]]"
 publisher: "[[IEEE]]"
 year: "[[2018]]"
-source: "[[Blondin et al - 2018 - Black Ninjas in the Dark Formal Analysis of Population Protocols.pdf]]"
+file: "[[Blondin et al - 2018 - Black Ninjas in the Dark Formal Analysis of Population Protocols.pdf]]"
 ---
 #Literatur #Informatik 

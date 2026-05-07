@@ -5,6 +5,6 @@ author:
   - "[[Paul Schupp]]"
 publisher: "[[Theoretical Computer Science]]"
 year: "[[1987]]"
-source:
+file:
 ---
 #Literatur #Informatik 

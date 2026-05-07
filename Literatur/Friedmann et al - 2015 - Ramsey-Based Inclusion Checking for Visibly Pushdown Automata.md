@@ -6,7 +6,7 @@ author:
   - "[[Martin Lange]]"
 publisher: "[[ACM]]"
 year: "[[2015]]"
-source: "[[Olivier Friedmann, Felix Klaedtke, Martin Lange - 2015 - Ramsey-Based Inclusion Checking for Visibly Pushdown Automata.pdf]]"
+file: "[[Olivier Friedmann, Felix Klaedtke, Martin Lange - 2015 - Ramsey-Based Inclusion Checking for Visibly Pushdown Automata.pdf]]"
 ---
 #Literatur #Informatik 
 # Grundlagen

@@ -7,6 +7,6 @@ author:
   - "[[Devavrat Shah]]"
 publisher: "[[IEEE]]"
 year: "[[2006]]"
-source: "[[Boyd et al - 2006 - Randomized gossip algorithms.pdf]]"
+file: "[[Boyd et al - 2006 - Randomized gossip algorithms.pdf]]"
 ---
 #Literatur #Informatik 

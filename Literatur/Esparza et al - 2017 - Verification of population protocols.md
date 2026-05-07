@@ -7,6 +7,6 @@ author:
   - "[[Rupak Majumdar]]"
 publisher: "[[Acta Informatica]]"
 year: "[[2017]]"
-source: "[[Esparza et al - 2017 - Verification of population protocols.pdf]]"
+file: "[[Esparza et al - 2017 - Verification of population protocols.pdf]]"
 ---
 #Literatur #Informatik 

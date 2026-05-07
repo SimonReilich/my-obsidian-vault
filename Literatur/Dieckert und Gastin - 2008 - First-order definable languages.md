@@ -5,6 +5,6 @@ author:
   - "[[Paul Gastin]]"
 publisher: "[[Amsterdam University]]"
 year: "[[2008]]"
-source:
+file:
 ---
 #Literatur #Informatik 
