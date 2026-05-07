@@ -7,7 +7,7 @@ author:
   - "[[Roland Guttenberg]]"
   - "[[Julian Pins]]"
   - "[[Simon Reilich]]"
-publisher: "[[CONCUR]]"
+publisher: "[[International Conference on Concurrency Theory]]"
 year: "[[2026]]"
 file:
 ---

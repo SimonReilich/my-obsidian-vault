@@ -8,7 +8,7 @@ author:
   - "[[Jorge Cobb]]"
   - "[[Michael Fischer]]"
   - "[[Moti Yung]]"
-publisher: "[[Springer]]"
+publisher: "[[International conference on Stabilization, safety, and security of distributed systems]]"
 year: "[[2010]]"
 file: "[[Chatzigiannakis et al - 2010 - Algorithmic Verification of Population Protocols.pdf]]"
 ---

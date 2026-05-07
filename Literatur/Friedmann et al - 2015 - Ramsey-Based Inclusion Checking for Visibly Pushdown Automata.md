@@ -4,7 +4,7 @@ author:
   - "[[Oliver Friedmann]]"
   - "[[Felix Klaedtke]]"
   - "[[Martin Lange]]"
-publisher: "[[ACM]]"
+publisher: "[[ACM Transactions on Computational Logic]]"
 year: "[[2015]]"
 file: "[[Olivier Friedmann, Felix Klaedtke, Martin Lange - 2015 - Ramsey-Based Inclusion Checking for Visibly Pushdown Automata.pdf]]"
 ---

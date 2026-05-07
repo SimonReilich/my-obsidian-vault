@@ -8,7 +8,7 @@ author:
   - "[[Yossi Matias]]"
   - "[[Sotiris Nikoletseas]]"
   - "[[Thomas Wolfgang]]"
-publisher: "[[Springer]]"
+publisher: "[[International Colloquium on Automata, Languages and Programming]]"
 year: "[[2009]]"
 file: "[[Guerraoui und Ruppert - 2009 - Names Trump Malice Tiny Mobile Agents Can Tolerate Byzantine Failures.pdf]]"
 ---

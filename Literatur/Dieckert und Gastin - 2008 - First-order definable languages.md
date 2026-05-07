@@ -3,7 +3,7 @@ title: First-order definable languages
 author:
   - "[[Volker Dieckert]]"
   - "[[Paul Gastin]]"
-publisher: "[[Amsterdam University]]"
+publisher: "[[Logic in Computer Science]]"
 year: "[[2008]]"
 file:
 ---

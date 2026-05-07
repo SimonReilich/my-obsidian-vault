@@ -6,7 +6,7 @@ author:
   - "[[David Parker]]"
   - "[[Ganesh Gopalakrishnan]]"
   - "[[Shaz Qadeer]]"
-publisher: "[[Springer]]"
+publisher: "[[International Conference on Computer Aided Verification]]"
 year: "[[2011]]"
 file: "[[Kwiatkowska et al - 2011 - PRISM 4_0 Verification of Probabilistic Real-Time Systems.pdf]]"
 ---

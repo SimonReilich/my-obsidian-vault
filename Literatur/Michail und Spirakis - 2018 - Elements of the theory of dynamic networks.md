@@ -3,7 +3,7 @@ title: Elements of the theory of dynamic networks
 author:
   - "[[Othon Michail]]"
   - "[[Paul G. Spirakis]]"
-publisher: "[[ACM]]"
+publisher: "[[Communications of the ACM]]"
 year: "[[2018]]"
 file: "[[Michail und Spirakis - 2018 - Elements of the theory of dynamic networks.pdf]]"
 ---
