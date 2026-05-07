@@ -2,7 +2,7 @@
 title: The µ-calculus alternation-depth hierarchy is strict on binary trees
 author:
   - "[[André Arnold]]"
-publisher: "[[RAIRO - Theoretical Informatics and Application]]"
+publisher: "[[Revue d'Automatique, d'Informatique et de Recherche Opérationnelle]]"
 year: "[[1999]]"
 file:
 ---

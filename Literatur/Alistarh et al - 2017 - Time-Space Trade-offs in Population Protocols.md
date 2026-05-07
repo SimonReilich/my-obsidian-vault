@@ -18,5 +18,14 @@ sources:
   - "[[Berenbrink et al - 2016 - Plurality consensus via shuffling]]"
   - "[[Chen et al - 2014 - Speed faults in computation by chemical reaction networks]]"
   - "[[Cardelli und Csiksz-Nagy - 2012 - The cell cycle switch computes approximate majority]]"
+  - "[[Chen et al - 2013 - Programmable chemical controlers made from dna]]"
+  - "[[Chatzigiannakis et al - 2011 - Passively mobile communicating machines that use restricted space]]"
+  - "[[Doty - 2014 - Timing in chemical reaction networks]]"
+  - "[[Doty und Soloveichik - 2015 - Stable leader election in population protocols requires linear time]]"
+  - "[[Draief und Vojnovic - 2012 - Convergence speed of binary interval consensus]]"
+  - "[[Laurenti et al - 2016 - Programming discrete distributions with chemical reaction networks]]"
+  - "[[Mertzios et al - 2014 - Determining majority in networks with local interactions and very small local memory]]"
+  - "[[Perron et al - 2009 - Using three states for binary consensus on complete graphs]]"
+  - "[[Thachuk et al - 2015 - Leakless dna strand displacement systems]]"
 ---
 #Literatur #Informatik 

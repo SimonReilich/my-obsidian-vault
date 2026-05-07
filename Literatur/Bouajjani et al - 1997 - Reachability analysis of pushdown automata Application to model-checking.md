@@ -4,7 +4,7 @@ author:
   - "[[Ahmed Bouajjani]]"
   - "[[Javier Esparza]]"
   - "[[Oded Maler]]"
-publisher: "[[CONCUR]]"
+publisher: "[[International Conference on Concurrency Theory]]"
 year: "[[1997]]"
 file:
 ---
