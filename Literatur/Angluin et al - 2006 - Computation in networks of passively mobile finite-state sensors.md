@@ -24,5 +24,15 @@ sources:
   - "[[Ibarra et al - 2004 - Catalytic p systems, semilinear sets and vector addition systems]]"
   - "[[Immerman - 1988 - Nondeterministic space is closed under complementation]]"
   - "[[Intanagonwiwat et al - 2000 - Direct diffusion - a scalable and robust communication paradigm for sensor networks]]"
+  - "[[Kracht - 2003 - The Mathematics of Languages]]"
+  - "[[Madden et al - 2002 - TAG - A tiny AGgregation service for ad-hoc sensor networks]]"
+  - "[[Milner - 2001 - Bigraphical reactive systems - basic theory]]"
+  - "[[Minsky - 1967 - Computation - Finite and Infinite Machines]]"
+  - "[[Monk - 1976 - Mathematical Logic]]"
+  - "[[von Neumann - 1949 - Theory and organization of complicated automata]]"
+  - "[[Parikh - 1966 - On context-free languages]]"
+  - "[[Presburger - 1929 - Über die Vollständigkeit eines gewissen Systems der Arithmetik ganzer Zahlen, in welchem die Addition als einzige Operation hervortritt]]"
+  - "[[Volzer - 2001 - Randomized non-sequential processes]]"
+  - "[[Zhau et al - 2003 - Collaborative signal and information processing]]"
 ---
 #Literatur #Informatik 
