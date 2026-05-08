@@ -62,3 +62,7 @@ sources:
 - In diesem Paper wird diese Idee weitergeführt und das Ramsey-basierte Verfahren für das Inklusionsproblem auf [[Sichtbarer Kellerautomat|sichtbare Kellerautomaten]] ausgedehnt
 - Für diese ist das Inklusionsproblem sogar [[EXPTIME]]-vollständig
 - Der Schritt zu allgemeinen [[Kellerautomat|Kellerautomaten]] ist nicht möglich, da für diese Universalität unentscheidbar ist
+
+# Universalität
+- Sei $\mathcal{A} = (Q, \Gamma, \Sigma, \delta, q_I, \Omega)$ ein [[Sichtbarer Kellerautomat]]
+- Nun soll ein Algorithmus gezeigt werden, der entscheidet ob $L(\mathcal{A}) = NW(\Sigma)$ 
