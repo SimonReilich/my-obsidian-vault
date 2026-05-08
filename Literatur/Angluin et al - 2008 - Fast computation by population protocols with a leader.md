@@ -30,5 +30,11 @@ sources:
   - "[[Dolev und Welch - 2004 - Self-stabilizing clock synchronization in the presence of Byzantine faults]]"
   - "[[Gibson und Bruck - 2000 - Efficient exact stochastic simulation of chemical systems with many sppecies and many channels]]"
   - "[[Gillespie - 1977 - Exact stochastic simulation of coupled chemical reactions]]"
+  - "[[Gillespie - 1992 - A rigorous derivation of the chemical master equation]]"
+  - "[[Guerraoui und Ruppert - 2007 - Even small birds are unique - Population protocols with identifiers]]"
+  - "[[Herman - 2000 - Phase clocks for transient fault repair]]"
+  - "[[Kamath et al - 1995 - Tail bounds for occupancy and the satisfiability threshold conjecture]]"
+  - "[[Minsky - 1967 - Computation - Finite and Infinite Machines]]"
+  - "[[Presburger - 1929 - Über die Vollständigkeit eines gewissen Systems der Arithmetik ganzer Zahlen, in welchem die Addition als einzige Operation hervortritt]]"
 ---
 #Literatur #Informatik 
