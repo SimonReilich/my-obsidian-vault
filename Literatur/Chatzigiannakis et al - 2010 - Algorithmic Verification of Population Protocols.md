@@ -29,5 +29,8 @@ sources:
   - "[[Guerraoui und Ruppert - 2009 - Names Trump Malice Tiny Mobile Agents Can Tolerate Byzantine Failures]]"
   - "[[Hinton et al - 2006 - Prism: A tool for automatic verification of probabilistic systems]]"
   - "[[Holzmann - 2003 - The Spin model checker, primer and reference manual]]"
+  - "[[Huth und Ryan - 2004 - Logic in Computer Science - Modeling and reasoning about systems]]"
+  - "[[Olveczky und Thorvaldsen - 2006 - Formal modeling and analysis of wireless sensor network algorithms in Real-Time Maude]]"
+  - "[[Tarjan - 1972 - Depth-first search and linear graph algorithms]]"
 ---
 #Literatur #Informatik 
