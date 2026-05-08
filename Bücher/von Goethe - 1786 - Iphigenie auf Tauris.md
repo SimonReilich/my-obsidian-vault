@@ -2,7 +2,7 @@
 title: Iphigenie auf Tauris
 subtitle: ""
 author:
-  - "[[Johann Wolfgang Goethe]]"
+  - "[[Johann Wolfgang von Goethe]]"
 category: Drama
 publisher:
 year: "[[1786]]"
