@@ -69,3 +69,4 @@ sources:
 - Drei Arten von atomaren Transitionsprofilen: [[int-Transitionsprofil]], [[call-Transitionsprofil]] und [[ret-Transitionsprofil]]
 - Beschreiben das Verhalten von $\mathcal{A}$ wenn ein einzelnes Zeichen gelesen wird
 - Komposition der Transitionsprofile kann genutzt werden um das Verhalten von $\mathcal{A}$ auf endlichen Wörtern zu beschreiben
+![[Komposition von Transitionsprofilen.png]]
