@@ -41,7 +41,15 @@ sources:
   - "[[Mehlhorn - 1980 - Pebbling mountain ranges and its application to DCFL-recognition]]"
   - "[[Michel - 1988 - Complementation is more difficult with automata on infinite words]]"
   - "[[Muller und Schupp - 1987 - Altenating Automata on Infinite Trees]]"
-  - "[[Pitermann - 2007 - rom nondeterministic Büchi and Streett automata to deterministic parity automata]]"
+  - "[[Pitermann - 2007 - From nondeterministic Büchi and Streett automata to deterministic parity automata]]"
+  - "[[Rabin und Scott - 1959 - Finite automata and their decision problems.]]"
+  - "[[Friedmann et al - 2015 - Ramsey-Based Inclusion Checking for Visibly Pushdown Automata]]"
+  - "[[Schewe - 2009 - Tighter bounds for the determinisation of Büchi automata]]"
+  - "[[Sistla et al - 1987 - The complementation problem for Büchi automata with applications to temporal logic]]"
+  - "[[Tsai et al - 2011 - State of Büchi complementation]]"
+  - "[[Vardi - 2007 - The Büchi complementation saga]]"
+  - "[[Vardi und Wolper - 1986 - An automata-theoretic approach to automatic program verification]]"
+  - "[[Vardi und Wolper - 1994 - Reasoning about infinite computations]]"
 ---
 #Literatur #Informatik 
 # Grundlagen
