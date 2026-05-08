@@ -26,5 +26,12 @@ sources:
   - "[[Karp und Miller - 1969 - Parallel program schemata]]"
   - "[[Kloos et al - 2013 - Incremental inductive coverability]]"
   - "[[Lamport - 1986 - The mutual exclusion problem Part II - statement and solutions]]"
+  - "[[Majumdar et al - 2013 - Static provenance verification for message passing programs]]"
+  - "[[Rackoff - 1978 - The covering and boundedness problems for vector addition systems]]"
+  - "[[Reisig - 2013 - Understanding Petri Nets - Modeling Techniques, Analysis Methods, Case Studies]]"
+  - "[[Schrijver - 1986 - Theory of Linear and Integer Programming]]"
+  - "[[Solar-Lezama et al - 2006 - Combinatorial sketching for finite programs]]"
+  - "[[Valmari und Hansen - 2012 - Old and new algorithms for minimal coverability sets]]"
+  - "[[Wimmel und Wolf - 2012 - Applying CEGAR to the Petri net state equation]]"
 ---
 #Literatur #Informatik 
