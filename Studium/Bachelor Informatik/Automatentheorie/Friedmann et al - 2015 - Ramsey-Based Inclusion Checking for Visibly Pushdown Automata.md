@@ -7,6 +7,19 @@ author:
 publisher: "[[ACM Transactions on Computational Logic]]"
 year: "[[2015]]"
 file: "[[Olivier Friedmann, Felix Klaedtke, Martin Lange - 2015 - Ramsey-Based Inclusion Checking for Visibly Pushdown Automata.pdf]]"
+sources:
+  - "[[Abdulla et al - 2011 - Advanced Ramsey-based Büchi automata inclusion testing]]"
+  - "[[Abdulla et al - 2010 - When simulation meets antichains]]"
+  - "[[Alur et al - 2005 - Analysis of recursive state machines]]"
+  - "[[Alur und Madhusudan - 2009 - Adding nesting structure to words.]]"
+  - "[[Ball und Rajamani - 2000 - Boolean programs: A model and process for software analysis]]"
+  - "[[Breuers et al - 2012 - Improved Ramsey-based Büchi complementation]]"
+  - "[[Bruyere et al - 2013 - Visibly pushdown automata - Universality and inclusion via antichains]]"
+  - "[[Büchi - 1960 - On a decision method in restricted second-order arithmetic]]"
+  - "[[Choueka - 1974 - Theories of automata on omega-tapes - a simplified approach]]"
+  - "[[Dax et al - 2006 -  A proof system for the linear time μ-calculus]]"
+  - "[[De Wulf et al - 2006 - Antichains - A new algorithm for checking universality of finite automata]]"
+  - "[[Doyen und Raskin - 2009 - Antichains for the automata-based approach to model-checking]]"
 ---
 #Literatur #Informatik 
 # Grundlagen
