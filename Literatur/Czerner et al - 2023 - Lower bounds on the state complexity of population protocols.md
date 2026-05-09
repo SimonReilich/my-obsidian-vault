@@ -29,5 +29,10 @@ sources:
   - "[[Gasieniec und Stachowiak - 2020 - Enhanced phase clocks population protocols and fast space optimal leader election]]"
   - "[[Haase - 2018 - A survival guide to Presburger arithmatic]]"
   - "[[Horn und Sangnier - 2020 - Deciding the existence of cut-off in parameterized rendez-vous networks]]"
+  - "[[Leroux - 2021 - The reachability problem for Petri nets is not primitive recursive]]"
+  - "[[McAloon - 1984 - Petri nets and large finite sets]]"
+  - "[[Pottier - 1991 - Minimal solutions of linear diophantine systems - bounds and algorithms]]"
+  - "[[Rackoff - 1978 - The covering and boundedness problems for vector addition systems]]"
+  - "[[Schmitz - 2016 - Complexity hierarchies beyond elementary]]"
 ---
 #Literatur #Informatik 
