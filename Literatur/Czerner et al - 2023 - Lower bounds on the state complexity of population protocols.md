@@ -7,5 +7,6 @@ author:
 publisher: "[[Distributed Computing]]"
 year: "[[2023]]"
 file: "[[Czerner et al - 2023 - Lower bounds on the state complexity of population protocols.pdf]]"
+sources:
 ---
 #Literatur #Informatik 

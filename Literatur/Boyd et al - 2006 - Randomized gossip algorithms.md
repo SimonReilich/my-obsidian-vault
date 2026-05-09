@@ -9,4 +9,4 @@ publisher: "[[IEEE Transactions on Information Theory]]"
 year: "[[2006]]"
 file: "[[Boyd et al - 2006 - Randomized gossip algorithms.pdf]]"
 ---
-#Literatur #Informatik 
+#Literatur #Informatik #ToDo 

@@ -28,5 +28,8 @@ sources:
   - "[[Karp und Miller - 1969 - Parallel program schemata]]"
   - "[[Edelkamp - 2004 - Directed explicit-state model checking in validation of communication protocols]]"
   - "[[Angluin et al - 2008 - A simple population protocol for fast robust approximate majority]]"
+  - "[[Rutten et al - 2004 - Mathematical Techniques for Analyzing Concurrent and Probabilistic Systems]]"
+  - "[[Delporte-Gallet et al - 2007 - Secretive birds - Privacy in population protocols]]"
+  - "[[Angluin et al - 2008 - Fast computation by population protocols with a leader]]"
 ---
 #Literatur #Informatik 

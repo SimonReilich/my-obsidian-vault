@@ -5,5 +5,6 @@ author:
 publisher: "[[Revue d'Automatique, d'Informatique et de Recherche Opérationnelle]]"
 year: "[[1999]]"
 file:
+sources:
 ---
 #Literatur #Informatik 

@@ -9,4 +9,4 @@ publisher: "[[Distributed Computing]]"
 year: "[[2007]]"
 file: "[[Angluin et al - 2007 - The computational power of population protocols.pdf]]"
 ---
-#Literatur #Informatik 
+#Literatur #Informatik #ToDo 

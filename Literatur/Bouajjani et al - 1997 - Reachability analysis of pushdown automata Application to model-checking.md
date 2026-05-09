@@ -7,5 +7,6 @@ author:
 publisher: "[[International Conference on Concurrency Theory]]"
 year: "[[1997]]"
 file:
+sources:
 ---
 #Literatur #Informatik 
