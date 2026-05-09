@@ -45,5 +45,11 @@ sources:
   - "[[Reinhardt - 2008 - Reachability in Petri nets with inhibitor args]]"
   - "[[Reutenauer - 1990 - The mathematics of Petri nets]]"
   - "[[Sacerdote und Tenney - 1977 - The decidability of the reachability problem for vector addition systems]]"
+  - "[[Schmitz - 2010 - On the computational complexity of dominance links in grammatical formalisms]]"
+  - "[[Schmitz - 2014 - Complexity bounds for ordinal-based termination]]"
+  - "[[Schmitz - 2015 - Complexity hierarchies beyond Elementary]]"
+  - "[[Schmitz und Schnoebelen - 2012 - Algorithmic aspects of WQO theory]]"
+  - "[[Schnoebelen - 2010 - Lossy counter machines decidability cheat sheet]]"
+  - "[[Zetzsche - 2015 - An approach to computing downward closures]]"
 ---
 #Literatur #Informatik 
