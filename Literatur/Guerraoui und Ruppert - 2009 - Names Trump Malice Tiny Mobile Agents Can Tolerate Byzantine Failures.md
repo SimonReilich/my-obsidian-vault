@@ -19,5 +19,7 @@ sources:
   - "[[Delporte-Gallet et al - 2006 - When Birds Die Making Population Protocols Fault-Tolerant]]"
   - "[[Guerraoui und Ruppert - 2007 - Even small birds are unique - Population protocols with identifiers]]"
   - "[[Mostefaoui et al - 2003 - Conditions on the input vectors for consensus solvability in asynchronous distributed systems]]"
+  - "[[Schönhage - 1980 - Storage modification machines]]"
+  - "[[van Emde Boas - 1989 - Space measures for storage modification machines]]"
 ---
 #Literatur #Informatik 
