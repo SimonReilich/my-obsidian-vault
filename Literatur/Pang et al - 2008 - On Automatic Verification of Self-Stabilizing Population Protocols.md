@@ -15,5 +15,8 @@ sources:
   - "[[Fischer und Jiang - 2006 - Self-stabilizing leader election in networks of finite-state anonymous agents]]"
   - "[[Fuzzati et al - 2007 - Distributed consensus revisited]]"
   - "[[Holzmann - 1997 - The model checker SPIN]]"
+  - "[[Holzmann - 2003 - The Spin model checker, primer and reference manual]]"
+  - "[[Jiang - 2007 - Distributed Systems for Simple Interacting Agents]]"
+  - "[[Lamport - 2000 - Fairness and hyperfairness]]"
 ---
 #Literatur #Informatik 
