@@ -11,5 +11,22 @@ file: "[[Clement et al - 2011 - Guidelines for the Verification of Population Pr
 sources:
   - "[[Angluin et al - 2006 - Computation in networks of passively mobile finite-state sensors]]"
   - "[[Emerson und Clarke - 1980 - Characterizing correctness properties of paralell programs using fixpoints]]"
+  - "[[Queille und Sifakis - 1981 - Iterative methods for the analysis of petri nets]]"
+  - "[[Pnueli - 1977 - The temporal logic of programs]]"
+  - "[[Clarke et al - 1999 - Model checking]]"
+  - "[[Holzmann - 2003 - The Spin model checker, primer and reference manual]]"
+  - "[[Kwiatkowska et al - 2004 - Probabilistic symbolic model checking with PRISM - a hybrid approach]]"
+  - "[[German und Sistla - 1992 - Reasoning about systems with many processes]]"
+  - "[[Pang et al - 2008 - On Automatic Verification of Self-Stabilizing Population Protocols]]"
+  - "[[Bakhshi et al - 2008 - Leader election in anonymous rings - Franklin goes probabilistic]]"
+  - "[[Liu et al - 2009 - Verification of population ring protocols in pat]]"
+  - "[[Sun et al - 2009 - PAT Towards Flexible Verification under Fairness]]"
+  - "[[Chatzigiannakis et al - 2010 - Algorithmic Verification of Population Protocols]]"
+  - "[[Francez - 1986 - Fairness]]"
+  - "[[Angluin et al - 2007 - The computational power of population protocols]]"
+  - "[[Aspnes und Ruppert - 2009 - An Introduction to Population Protocols]]"
+  - "[[Karp und Miller - 1969 - Parallel program schemata]]"
+  - "[[Edelkamp - 2004 - Directed explicit-state model checking in validation of communication protocols]]"
+  - "[[Angluin et al - 2008 - A simple population protocol for fast robust approximate majority]]"
 ---
 #Literatur #Informatik 
