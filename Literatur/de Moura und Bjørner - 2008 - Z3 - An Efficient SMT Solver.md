@@ -19,5 +19,7 @@ sources:
   - "[[Dutertre und de Moura - 2006 - A Fast Linear-Arithmatic Solver of DPLL(T)]]"
   - "[[Gulavani et al - 2006 - Synergy - a new algorithm for property checking]]"
   - "[[Lahiri und Qadeer - 2008 - Back to the Future - Revisiting Precise Program Verification using STM Solvers]]"
+  - "[[Ranise und Tinelli - 2006 - The Satisfiability Modulo Theories Library]]"
+  - "[[Tillmann und Schulte - 2006 - Unit Tests Reloaded - Parameterized Testing with Symbolic Execution]]"
 ---
 #Literatur #Informatik 

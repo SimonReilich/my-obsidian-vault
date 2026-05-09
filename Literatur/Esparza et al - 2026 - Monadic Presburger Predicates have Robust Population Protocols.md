@@ -10,5 +10,6 @@ author:
 publisher: "[[International Conference on Concurrency Theory]]"
 year: "[[2026]]"
 file:
+sources:
 ---
 #Literatur #Informatik 

@@ -6,5 +6,6 @@ author:
 publisher: "[[Logic in Computer Science]]"
 year: "[[2008]]"
 file:
+sources:
 ---
 #Literatur #Informatik 
