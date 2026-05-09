@@ -25,5 +25,10 @@ sources:
   - "[[Elsässer und Radzik - 2018 - Recent results in population protocols for exact majority and leader election]]"
   - "[[Guerraoui und Ruppert - 2009 - Names Trump Malice Tiny Mobile Agents Can Tolerate Byzantine Failures]]"
   - "[[Haase - 2018 - A survival guide to Presburger arithmatic]]"
+  - "[[Hague et al - 2020 - Monadic decomposition in integer linear arithmetic]]"
+  - "[[Leroux - 2022 - State complexity of protocols with leaders]]"
+  - "[[Lossin et al - 2024 - The Black Ninjas and the Sniper On Robustness of Population Protocols]]"
+  - "[[Di Luna et al - 2019 - Population protocols with faulty interactions - the impact of a leader]]"
+  - "[[Di Luna et al - 2020 - Fault-tollerant simulation of population protocols]]"
 ---
 #Literatur #Informatik 
