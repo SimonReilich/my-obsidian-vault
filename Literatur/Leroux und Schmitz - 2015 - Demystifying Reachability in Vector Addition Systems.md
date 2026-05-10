@@ -1,7 +1,7 @@
 ---
 title: Demystifying Reachability in Vector Addition Systems
 author:
-  - "[[Jérôme Leroux]]"
+  - "[[Jerome Leroux]]"
   - "[[Sylvain Schmitz]]"
 publisher: "[[Logic in Computer Science]]"
 year: "[[2015]]"

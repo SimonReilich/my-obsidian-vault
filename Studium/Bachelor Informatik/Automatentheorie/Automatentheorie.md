@@ -13,4 +13,4 @@ lecture: "[[Florian Bruse]]"
 - [[Karel Procházka]] - [[Muller und Schupp - 1987 - Altenating Automata on Infinite Trees|Alternating Tree-Automata]]
 - [[Georg Maximilian Friedel]] - [[Arnold - 1999 - The µ-calculus alternation-depth hierarchy is strict on binary trees|Alternation]]
 - [[David Gantverg]] - [[Dieckert und Gastin - 2008 - First-order definable languages|Star-Free Languages]]
-- [[Gregor Balthasar Smeykal]] - [[Bojańzyk und Colcombet - 2005 - Tree-Walking Automata Do Not Recognize All Regular Languages|Tree-Walking Automata]] 
+- [[Gregor Balthasar Smeykal]] - [[Bojanzyk und Colcombet - 2005 - Tree-Walking Automata Do Not Recognize All Regular Languages|Tree-Walking Automata]] 

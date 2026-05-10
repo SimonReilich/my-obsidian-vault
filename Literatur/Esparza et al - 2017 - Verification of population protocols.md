@@ -3,7 +3,7 @@ title: Verification of population protocols
 author:
   - "[[Javier Esparza]]"
   - "[[Pierre Ganty]]"
-  - "[[Jérôme Leroux]]"
+  - "[[Jerome Leroux]]"
   - "[[Rupak Majumdar]]"
 publisher: "[[Acta Informatica]]"
 year: "[[2017]]"

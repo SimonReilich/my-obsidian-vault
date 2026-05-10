@@ -3,9 +3,9 @@ title: Computation in networks of passively mobile finite-state sensors
 author:
   - "[[Dana Angluin]]"
   - "[[James Aspnes]]"
-  - "[[Zoë Diamadi]]"
+  - "[[Zoe Diamadi]]"
   - "[[Michael Fischer]]"
-  - "[[René Peralta]]"
+  - "[[Rene Peralta]]"
 publisher: "[[Distributed Computing]]"
 year: "[[2006]]"
 file: "[[Angluin et al - 2006 - Computation in networks of passively mobile finite-state sensors.pdf]]"
