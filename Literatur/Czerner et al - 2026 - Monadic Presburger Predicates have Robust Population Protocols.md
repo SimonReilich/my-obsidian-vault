@@ -31,4 +31,4 @@ sources:
   - "[[Di Luna et al - 2019 - Population protocols with faulty interactions - the impact of a leader]]"
   - "[[Di Luna et al - 2020 - Fault-tollerant simulation of population protocols]]"
 ---
-#Literatur #Informatik 
+#Artikel #Informatik 

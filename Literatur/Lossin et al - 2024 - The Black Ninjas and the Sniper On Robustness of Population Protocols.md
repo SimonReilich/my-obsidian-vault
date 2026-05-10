@@ -19,4 +19,4 @@ sources:
   - "[[Delporte-Gallet et al - 2006 - When Birds Die Making Population Protocols Fault-Tolerant]]"
   - "[[Guerraoui und Ruppert - 2009 - Names Trump Malice Tiny Mobile Agents Can Tolerate Byzantine Failures]]"
 ---
-#Literatur #Informatik 
+#Artikel #Informatik 

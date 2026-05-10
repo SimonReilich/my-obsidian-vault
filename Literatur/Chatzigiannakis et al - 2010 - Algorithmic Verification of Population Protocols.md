@@ -33,4 +33,4 @@ sources:
   - "[[Olveczky und Thorvaldsen - 2006 - Formal modeling and analysis of wireless sensor network algorithms in Real-Time Maude]]"
   - "[[Tarjan - 1972 - Depth-first search and linear graph algorithms]]"
 ---
-#Literatur #Informatik 
+#Artikel #Informatik 

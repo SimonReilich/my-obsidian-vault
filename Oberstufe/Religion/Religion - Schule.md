@@ -1,4 +1,4 @@
-#Oberstufe #Inhaltsverzeichnis #Religion 
+#Oberstufe #Inhaltsverzeichnis #Philosophie 
 
 - Kapitel 01 - [[Das christliche Menschenbild]] 
 - Kapitel 03 - [[Der Mensch auf der Suche nach Gott]] 

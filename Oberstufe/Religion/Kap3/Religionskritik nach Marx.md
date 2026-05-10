@@ -1,7 +1,7 @@
 ---
 subject: "[[Religion - Schule]]"
 ---
-#Oberstufe #Religion #Atomic 
+#Oberstufe #Philosophie #Atomic 
 # Grundlagen
 - Nach [[Karl Marx]] 
 - Geschichtsablauf:

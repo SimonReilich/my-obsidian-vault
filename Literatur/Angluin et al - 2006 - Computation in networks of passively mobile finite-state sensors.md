@@ -35,4 +35,4 @@ sources:
   - "[[Volzer - 2001 - Randomized non-sequential processes]]"
   - "[[Zhau et al - 2003 - Collaborative signal and information processing]]"
 ---
-#Literatur #Informatik 
+#Artikel #Informatik 

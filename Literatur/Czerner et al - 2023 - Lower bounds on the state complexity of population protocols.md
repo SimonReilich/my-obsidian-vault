@@ -35,4 +35,4 @@ sources:
   - "[[Rackoff - 1978 - The covering and boundedness problems for vector addition systems]]"
   - "[[Schmitz - 2016 - Complexity hierarchies beyond elementary]]"
 ---
-#Literatur #Informatik 
+#Artikel #Informatik 

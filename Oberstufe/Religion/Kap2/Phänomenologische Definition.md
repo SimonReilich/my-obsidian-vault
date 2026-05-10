@@ -1,7 +1,7 @@
 ---
 subject: "[[Religion - Schule]]"
 ---
-#Oberstufe #Religion 
+#Oberstufe #Philosophie 
 # Merkmale
 - Anhand von universell religiösen Kennzeichen, z.B.
 - Heilige Stätte

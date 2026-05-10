@@ -1,7 +1,7 @@
 ---
 subject: "[[Religion - Schule]]"
 ---
-#Oberstufe #Religion 
+#Oberstufe #Philosophie 
 # Definition
 - Im Christentum glaubt man an eine mittelbare Offenbarung Gottes
 - Inspiration der Autoren der Bibel durch den Heiligen Geist

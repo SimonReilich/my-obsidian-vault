@@ -52,4 +52,4 @@ sources:
   - "[[Schnoebelen - 2010 - Lossy counter machines decidability cheat sheet]]"
   - "[[Zetzsche - 2015 - An approach to computing downward closures]]"
 ---
-#Literatur #Informatik 
+#Artikel #Informatik 

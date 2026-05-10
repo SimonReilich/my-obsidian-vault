@@ -1,7 +1,7 @@
 ---
 subject: "[[Religion - Schule]]"
 ---
-#Oberstufe #Religion
+#Oberstufe #Philosophie
 # menschliche Handlungsmotive
 1. Vermeidung von Strafe / Streben nach Belohnung 
 	- z.B. Straßenverkehr

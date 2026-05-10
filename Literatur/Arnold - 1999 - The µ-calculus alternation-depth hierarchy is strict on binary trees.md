@@ -7,4 +7,4 @@ year: "[[1999]]"
 file:
 sources:
 ---
-#Literatur #Informatik 
+#Artikel #Informatik 

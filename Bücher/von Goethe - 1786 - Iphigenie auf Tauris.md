@@ -9,6 +9,6 @@ year: "[[1786]]"
 isbn:
 cover: Bücher/Bilder/Iphigenie auf Tauris - Johann Wolfgang von Goethe.png
 ---
-#Oberstufe #Deutsch #Buch
+#Oberstufe #Literatur #Buch
 
 ![[Iphigenie auf Tauris - Johann Wolfgang von Goethe.png]]

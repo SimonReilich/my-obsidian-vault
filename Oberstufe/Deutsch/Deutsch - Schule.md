@@ -1,4 +1,4 @@
-#Oberstufe #Inhaltsverzeichnis #Deutsch 
+#Oberstufe #Inhaltsverzeichnis #Literatur 
 
 - Kapitel 01 - [[Theater, Drama und Dramentheorie]] 
 - Kapitel 02 - [[Klassik und Iphigenie]] 

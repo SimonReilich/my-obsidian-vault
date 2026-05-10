@@ -32,4 +32,4 @@ sources:
   - "[[Delporte-Gallet et al - 2007 - Secretive birds - Privacy in population protocols]]"
   - "[[Angluin et al - 2008 - Fast computation by population protocols with a leader]]"
 ---
-#Literatur #Informatik 
+#Artikel #Informatik 

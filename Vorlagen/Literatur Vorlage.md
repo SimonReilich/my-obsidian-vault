@@ -6,4 +6,4 @@ year:
 file:
 sources:
 ---
-#Literatur 
+#Artikel 

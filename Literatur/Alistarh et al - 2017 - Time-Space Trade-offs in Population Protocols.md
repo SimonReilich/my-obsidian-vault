@@ -28,4 +28,4 @@ sources:
   - "[[Perron et al - 2009 - Using three states for binary consensus on complete graphs]]"
   - "[[Thachuk et al - 2015 - Leakless dna strand displacement systems]]"
 ---
-#Literatur #Informatik 
+#Artikel #Informatik 

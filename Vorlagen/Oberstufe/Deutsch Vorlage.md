@@ -1,4 +1,4 @@
 ---
 subject: "[[Deutsch - Schule]]"
 ---
-#Oberstufe #Deutsch 
+#Oberstufe #Literatur 

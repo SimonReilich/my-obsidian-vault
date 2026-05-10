@@ -51,7 +51,7 @@ sources:
   - "[[Vardi und Wolper - 1986 - An automata-theoretic approach to automatic program verification]]"
   - "[[Vardi und Wolper - 1994 - Reasoning about infinite computations]]"
 ---
-#Literatur #Informatik 
+#Artikel #Informatik 
 # Grundlagen
 - Viele Probleme des Model-Checking lassen sich auf die Frage $L(A) \subseteq L(B)$ reduzieren, so auch im Bereich von [[Büchi-Automat|Büchi-Automaten]]
 - Solche Inklusionsprobleme sind im Allgemeinen schwer, für [[Büchi-Automat|Büchi-Automaten]] sind sie [[PSPACE]]-vollständig

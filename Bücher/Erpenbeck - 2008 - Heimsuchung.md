@@ -10,6 +10,6 @@ year: "[[2008]]"
 isbn: 9783328102519
 cover: Bücher/Bilder/Heimsuchung - Jenny Erpenbeck.png
 ---
-#Buch #Deutsch 
+#Buch #Literatur 
 
 ![[Heimsuchung - Jenny Erpenbeck.png]]

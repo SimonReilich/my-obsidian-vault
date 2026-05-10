@@ -37,4 +37,4 @@ sources:
   - "[[Schmidt - 2000 - LoLA A Low Level Analyser]]"
   - "[[Sun et al - 2009 - PAT Towards Flexible Verification under Fairness]]"
 ---
-#Literatur #Informatik 
+#Artikel #Informatik 

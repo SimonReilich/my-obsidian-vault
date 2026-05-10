@@ -1,7 +1,7 @@
 ---
 subject: "[[Religion - Schule]]"
 ---
-#Oberstufe #Religion
+#Oberstufe #Philosophie
 # Ethische Disziplinen und Grundbegriffe
 - Ethik ist ein Teilgebiet der [[Philosophie]] 
 - Zwei mögliche Einteilungen der Ethik: [[Individualethik]] und [[Sozialethik]] beziehungsweise [[deskriptive Ethik]], [[normative Ethik]] und [[Metaethik]] 

@@ -42,4 +42,4 @@ sources:
   - "[[Pang et al - 2008 - On Automatic Verification of Self-Stabilizing Population Protocols]]"
   - "[[Sun et al - 2009 - PAT Towards Flexible Verification under Fairness]]"
 ---
-#Literatur #Informatik 
+#Artikel #Informatik 

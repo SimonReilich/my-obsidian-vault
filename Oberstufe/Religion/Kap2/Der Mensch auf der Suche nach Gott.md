@@ -1,7 +1,7 @@
 ---
 subject: "[[Religion - Schule]]"
 ---
-#Oberstufe #Religion
+#Oberstufe #Philosophie
 # Religion
 - [[Etymologische Definition]] von Religion
 - [[Phänomenologische Definition]] von Religion

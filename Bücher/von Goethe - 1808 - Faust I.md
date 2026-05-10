@@ -9,6 +9,6 @@ year: "[[1808]]"
 isbn:
 cover: Bücher/Bilder/Faust I - Johann Wolfgang Goethe.png
 ---
-#Buch #Deutsch 
+#Buch #Literatur 
 
 ![[Faust I - Johann Wolfgang Goethe.png]]

@@ -49,4 +49,4 @@ sources:
   - "[[Sakamoto - 1999 - Comparison of initial conditions for distributed algorithms on anonymous networks]]"
   - "[[Teng - 1990 - Space efficient processor identity protocol]]"
 ---
-#Literatur #Informatik 
+#Artikel #Informatik 

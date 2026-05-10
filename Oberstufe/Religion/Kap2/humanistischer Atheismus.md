@@ -1,7 +1,7 @@
 ---
 subject: "[[Religion - Schule]]"
 ---
-#Oberstufe #Religion #Atomic 
+#Oberstufe #Philosophie #Atomic 
 # Definition
 - sieht den Menschen in einem Zustand der Selbstentzweiung
 - Aufspaltung in Individuum mit Schwächen (Mensch) und ein Vollkommenes wesen (Gattungsideal, Gott)

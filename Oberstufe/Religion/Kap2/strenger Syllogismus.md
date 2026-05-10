@@ -1,7 +1,7 @@
 ---
 subject: "[[Religion - Schule]]"
 ---
-#Oberstufe #Religion #Atomic 
+#Oberstufe #Philosophie #Atomic 
 # Definition
 - Nach [[Aristoteles]]
 - logisch gültiger Schluss aus zwei Vordersätzen und einer Konklusion

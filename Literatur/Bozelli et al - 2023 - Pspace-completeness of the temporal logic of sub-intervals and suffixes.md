@@ -10,4 +10,4 @@ year: "[[2023]]"
 file:
 sources:
 ---
-#Literatur #Informatik 
+#Artikel #Informatik 

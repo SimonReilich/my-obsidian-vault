@@ -22,4 +22,4 @@ sources:
   - "[[Schönhage - 1980 - Storage modification machines]]"
   - "[[van Emde Boas - 1989 - Space measures for storage modification machines]]"
 ---
-#Literatur #Informatik 
+#Artikel #Informatik 

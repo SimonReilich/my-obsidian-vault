@@ -1,7 +1,7 @@
 ---
 subject: "[[Religion - Schule]]"
 ---
-#Oberstufe #Religion
+#Oberstufe #Philosophie
 # Offenbarung
 - das [[christliches Offenbarungsverständnis|christliche Offenbarungsverständnis]] 
 - das [[islamisches Offenbarungsverständnis|islamische Offenbarungsverständnis]] 

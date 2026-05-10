@@ -8,4 +8,4 @@ year: "[[2002]]"
 file:
 sources:
 ---
-#Literatur #Informatik 
+#Artikel #Informatik 

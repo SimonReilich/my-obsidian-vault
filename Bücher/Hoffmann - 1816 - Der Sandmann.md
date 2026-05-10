@@ -10,6 +10,6 @@ year: "[[1816]]"
 isbn:
 cover: Bücher/Bilder/Der Sandmann - ETA Hoffmann.png
 ---
-#Buch #Deutsch 
+#Buch #Literatur 
 
 ![[Der Sandmann - ETA Hoffmann.png]]

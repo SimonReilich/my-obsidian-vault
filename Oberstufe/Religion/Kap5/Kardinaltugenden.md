@@ -1,6 +1,6 @@
 ---
 subject: "[[Religion - Schule]]"
 ---
-#Oberstufe #Religion #Atomic 
+#Oberstufe #Philosophie #Atomic 
 # Definition
 Die vier Kardinaltugenden nach [[Platon]] lauten Weisheit, Tapferkeit, Mäßigung und Gerechtigkeit

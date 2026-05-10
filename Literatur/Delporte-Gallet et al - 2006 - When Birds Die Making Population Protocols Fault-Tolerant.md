@@ -26,4 +26,4 @@ sources:
   - "[[Mostefaoui et al - 2003 - Conditions on the input vectors for consensus solvability in asynchronous distributed systems]]"
   - "[[Patt-Shamir - 2004 - A not on efficient aggregate queries in sensor networks]]"
 ---
-#Literatur #Informatik 
+#Artikel #Informatik 

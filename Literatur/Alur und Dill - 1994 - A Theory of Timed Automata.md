@@ -55,4 +55,4 @@ sources:
   - "[[Wong-Toi und Hoffmann - 1991 - The control of dense real-time discrete event systems]]"
   - "[[Wolper et al - 1983 - Reasoning about infinite computation paths]]"
 ---
-#Literatur #Informatik 
+#Artikel #Informatik 

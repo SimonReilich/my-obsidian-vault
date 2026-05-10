@@ -7,4 +7,4 @@ publisher: "[[Theoretical Computer Science]]"
 year: "[[1987]]"
 file:
 ---
-#Literatur #Informatik 
+#Artikel #Informatik 

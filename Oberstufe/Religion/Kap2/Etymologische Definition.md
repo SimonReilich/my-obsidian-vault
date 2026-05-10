@@ -1,7 +1,7 @@
 ---
 subject: "[[Religion - Schule]]"
 ---
-#Oberstufe #Religion
+#Oberstufe #Philosophie
 # Sprachliche Definition
 - 'Religion' kommt von [[Latein|lateinischem]] Wort 'religio'
 - [[Rom|Römer]] verstehen unter 'religio' die Erfüllung der Pflichten gegenüber der göttlichen Macht

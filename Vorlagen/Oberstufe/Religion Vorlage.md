@@ -1,4 +1,4 @@
 ---
 subject: "[[Religion - Schule]]"
 ---
-#Oberstufe #Religion 
+#Oberstufe #Philosophie 

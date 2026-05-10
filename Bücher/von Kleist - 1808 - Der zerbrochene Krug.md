@@ -10,6 +10,6 @@ year: "[[1808]]"
 isbn:
 cover: Bücher/Bilder/Der zerbrochene Krug - Heinrich von Kleist.png
 ---
-#Buch #Deutsch 
+#Buch #Literatur 
 
 ![[Der zerbrochene Krug - Heinrich von Kleist.png]]

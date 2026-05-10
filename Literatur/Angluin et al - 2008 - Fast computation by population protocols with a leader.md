@@ -37,4 +37,4 @@ sources:
   - "[[Minsky - 1967 - Computation - Finite and Infinite Machines]]"
   - "[[Presburger - 1929 - Über die Vollständigkeit eines gewissen Systems der Arithmetik ganzer Zahlen, in welchem die Addition als einzige Operation hervortritt]]"
 ---
-#Literatur #Informatik 
+#Artikel #Informatik 

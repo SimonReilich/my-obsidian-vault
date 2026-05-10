@@ -19,4 +19,4 @@ sources:
   - "[[Jiang - 2007 - Distributed Systems for Simple Interacting Agents]]"
   - "[[Lamport - 2000 - Fairness and hyperfairness]]"
 ---
-#Literatur #Informatik 
+#Artikel #Informatik 
