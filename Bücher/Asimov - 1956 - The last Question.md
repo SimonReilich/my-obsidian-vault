@@ -10,6 +10,6 @@ year: "[[1956]]"
 isbn:
 cover: The last Question - Isaac Asimov.jpeg
 ---
-#Buch 
+#Buch #Literatur 
 
 ![[The last Question - Isaac Asimov.jpeg]]
