@@ -1,7 +1,7 @@
 ---
 subject: "[[Religion - Schule]]"
 ---
-#Oberstufe #Philosophie #Atomic 
+#Oberstufe #Philosophie 
 # Definition
 - Erfassung der Intentionen von biblischen Texten
 - Berücksichtigt Entstehungsgeschichte der Texte

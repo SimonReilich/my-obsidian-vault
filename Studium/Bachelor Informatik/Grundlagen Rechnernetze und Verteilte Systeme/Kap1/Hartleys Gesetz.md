@@ -1,7 +1,7 @@
 ---
 lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
 ---
-#BScInfo #Informatik #GRnVs #Atomic 
+#BScInfo #Informatik #GRnVs 
 # Gesetz
 Auf einem Kanal der Bandbreite $B$ mit $M$ unterscheidbaren Signalstufen ist die Kanalkapazität durch
 $$C_H = 2B * \log_2 (M) \space bit$$

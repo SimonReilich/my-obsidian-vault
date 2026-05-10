@@ -1,7 +1,7 @@
 ---
 subject: "[[Politik - Schule]]"
 ---
-#Oberstufe #Politik #Atomic 
+#Oberstufe #Politik
 # Definition
 Individualisierungstheorien konzentrieren sich auf die individuelle Ebene der Modernisierung. Sie sehen den Ursprung der gesellschaftlichen Veränderungen vor allem darin, dass althergebrachte [[Normen]] und Erwartungen, die in traditionellen Gesellschaften das Leben des Einzelnen vorbestimmten und lenkten, nach
 und nach ihre Wirkung verlieren. Dadurch können sich die Individuen aus vorgeschriebenen Mustern und Plänen lösen und ihren Lebensweg zunehmend selber gestalten. Zuvor kriminalisierte (z.B. gleichgeschlechtliche Partnerschaft) bzw. sozial abgelehnten (z.B. kinderlosen Ehen) Lebensentwürfe werden nun toleriert und in hoch [[Modern|modernisierten]] Gesellschaften schließlich als gleichwertige Optionen angesehen. Dementsprechend steht den Menschen in den gegenwärtigen Gesellschaften des Westens eine nahezu unbegrenzte Menge von Möglichkeiten der Lebensführung offen, was zugleich aber auch eine erhöhte Verantwortung des Individuums für Gelingen oder Misslingen seines Lebensentwurfes mit sich bringt. Individualisierung bedeutet also auch immer, dass der Einzelne das Risiko eingehen muss, mit einer Option, die man gewählt hat, zu scheitern und die Konsequenzen des Scheiterns zu tragen. Individualisierung als Freiheit, die eigene Biografie individuell zu gestalten, geht also auch mit Individualisierung als Verantwortung für den konkreten Verlauf dieser Biografie einher.

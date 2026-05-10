@@ -1,7 +1,7 @@
 ---
 subject: "[[Religion - Schule]]"
 ---
-#Oberstufe #Philosophie #Atomic 
+#Oberstufe #Philosophie 
 # Definition
 - unmittelbare / direkte Offenbarung, Mohammed bekommt Koran überreicht / diktiert
 - Koran ist das Wort Gottes

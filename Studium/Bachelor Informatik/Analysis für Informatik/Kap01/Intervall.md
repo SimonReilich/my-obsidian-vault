@@ -1,7 +1,7 @@
 ---
 lecture: "[[Analysis für Informatik]]"
 ---
-#BScInfo #Mathematik #AnaInfo #Atomic 
+#BScInfo #Mathematik #AnaInfo 
 # Notation
 - $(a; b) = \{x \in \mathbb{R} : a < x < b\}$ offenes Intervall
 - $[a; b] = \{x \in \mathbb{R} : a \leq x \leq b\}$ geschlossenes Intervall

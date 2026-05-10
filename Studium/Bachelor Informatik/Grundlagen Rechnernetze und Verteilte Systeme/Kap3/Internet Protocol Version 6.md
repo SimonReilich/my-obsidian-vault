@@ -1,7 +1,7 @@
 ---
 lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
 ---
-#BScInfo #Informatik #GRnVs #Atomic 
+#BScInfo #Informatik #GRnVs 
 # Definition
 Nachfolger von [[Internet Protocol Version 4]]. Die wesentlichen Änderungen gegenüber [[Internet Protocol Version 4]] umfassen:
 - Vergrößerung des Adressraums von $2^32$ auf $2^{128}$

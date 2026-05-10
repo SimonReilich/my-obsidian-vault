@@ -1,7 +1,7 @@
 ---
 subject: "[[Musik - Schule]]"
 ---
-#Oberstufe #Musik #Atomic 
+#Oberstufe #Musik 
 # Definition 
 Musikalische Figur mit nachahmendem Charakter, zeichnet das Bild eines Vorgangs.
 

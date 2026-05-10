@@ -1,7 +1,7 @@
 ---
 subject: "[[Chemie - Schule]]"
 ---
-#Oberstufe #Chemie #Atomic 
+#Oberstufe #Chemie 
 
 - [[Ethen]] $\ce{C2H4}$
 - [[Propen]] $\ce{C3H6}$ 

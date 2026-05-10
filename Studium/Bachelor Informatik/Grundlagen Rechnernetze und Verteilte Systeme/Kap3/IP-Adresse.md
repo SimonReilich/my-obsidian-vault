@@ -1,7 +1,7 @@
 ---
 lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
 ---
-#BScInfo #Informatik #GRnVs #Atomic 
+#BScInfo #Informatik #GRnVs 
 # Definition
 IP-Adressen dienen der End-zu-End-Adressierung zwischen mehreren [[Direktverbindungsnetz|Direktverbindungsnetze]] und werden beim Forwarding durch einen [[Router]] nicht verändert. Jedem Host ist eine IP-Adresse zugewiesen. Jede IPv4-Adresse ist in vier Gruppen zu je einem Byte, durch Punkte getrennt, dargestellt (Dotted Decimal Notation), IPv6-Adressen werden in 8 Gruppen zu je 16 bit getrennt durch Doppelpunkte (colon-separated) in hexadezimaler Schreibweise dargestellt, wobei führende Nullen in den Blöcken weggelassen werden können. Höchstens eine Gruppe konsekutiver Blöcke, die nur aus Nullen bestehen, darf ausgelassen und mit "::" ersetzt werden. Jedes Paket muss mit einer Absender- und Ziel-IP-Adresse (im IP-Header) versehen werden:
 
