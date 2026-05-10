@@ -44,5 +44,9 @@ sources:
   - "[[Lay - 1992 - Convex Sets and their Applications]]"
   - "[[Lipton und Park - 1990 - The processor identity problem]]"
   - "[[Parikh - 1966 - On context-free languages]]"
+  - "[[Panconesi et al - 1998 - Randomized naming using wait-free shared variables]]"
+  - "[[Presburger - 1929 - Über die Vollständigkeit eines gewissen Systems der Arithmetik ganzer Zahlen, in welchem die Addition als einzige Operation hervortritt]]"
+  - "[[Sakamoto - 1999 - Comparison of initial conditions for distributed algorithms on anonymous networks]]"
+  - "[[Teng - 1990 - Space efficient processor identity protocol]]"
 ---
 #Literatur #Informatik 
