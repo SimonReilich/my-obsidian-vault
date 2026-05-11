@@ -8,7 +8,7 @@ lecture: "[[IT Sicherheit]]"
 	- Verwundbarkeit von zu schützenden Werten systematisch reduzieren!
 	- Bewahren eines Systems vor Beeinträchtigung und Missbrauch durch Angriffe!  
 - Erforderlich:
-	- Klären, was die zu schützenden Werte sind! z.B. Unternehmensgeheimnisse, Nutzerdaten
+	- Klären, was die zu schützenden [[Werte]] sind! z.B. Unternehmensgeheimnisse, Nutzerdaten
 	- Klären, was geeignete Schutzmaßnahmen sind! z.B. Verschlüsselung, Authentifizierung
 	- Angriffe -> Störung von außen mit dem Ziel der Datenmanipulation, des Informationsmissbrauchs oder der Funktionsstörung
 - **Hauptfrage: Wie kann man das verhindern?**

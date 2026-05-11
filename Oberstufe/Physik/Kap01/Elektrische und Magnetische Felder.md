@@ -14,14 +14,14 @@ subject: "[[Physik - Schule]]"
 # Spannung und Potenzial
 - Analogie zwischen [[Gravitation]] und [[Elektrisches Feld|elektrischem Feld]] 
 - Durch Festlegen eines Nullpunkts lässt sich das [[elektrisches Potenzial|elekrische Potenzial]] deffinieren
-- In einem homogenen Feld ist die elektrische Feldstärke überall konstant, es gilt $U_{AB} = \phi_B - \phi_A = E * x_B - E * x_A = E * \delta x$, somit gilt auch $U_C =E * d$ 
+- In einem homogenen Feld ist die [[Elektrische Feldstärke]] überall konstant, es gilt $U_{AB} = \phi_B - \phi_A = E * x_B - E * x_A = E * \delta x$, somit gilt auch $U_C =E * d$ 
 - Gegenstück zum [[Feldlinienmodell]] sind die [[Äquipotenziallinien]] analog zu Höhenlinien auf einer topographischen Karte
 
 # Kapazität, Ladung und Energie
 - Ein [[Kondensator]] speichern Energie
-- Das Verhältniss der [[Ladung]] $Q_C$ auf dem Kondensator und der anliegenden [[Spannung]] $U$ ist konstant und wird als [[Kapazität]] $C$ des [[Kondensator|Kondensators]] bezeichnet
+- Das Verhältniss der [[Ladung]] $Q_C$ auf dem [[Kondensator]] und der anliegenden [[Spannung]] $U$ ist konstant und wird als [[Kapazität]] $C$ des [[Kondensator|Kondensators]] bezeichnet
 - Die [[Kapazität]] hängt vom Plattenabstand $d$, der Fläche $A$ und des Materials zwischen den Platten ab
-- Die in einem Kondensator gespeicherte Energie $E_{el}$ beträgt $\frac{1}{2} C U_0^2 = \frac{1}{2} \frac{Q^2}{U}$ 
+- Die in einem [[Kondensator]] gespeicherte Energie $E_{el}$ beträgt $\frac{1}{2} C U_0^2 = \frac{1}{2} \frac{Q^2}{U}$ 
 
 # Magnetische Flussdichte
 - Auf einen stromdurchflossenen Leiter wirkt im [[Magnetisches Feld|magnetischen Feld]] die [[Lorentzkraft]] 
