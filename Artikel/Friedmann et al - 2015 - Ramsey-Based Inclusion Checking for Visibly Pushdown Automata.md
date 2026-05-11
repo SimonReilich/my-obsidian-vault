@@ -26,7 +26,7 @@ sources:
   - "[[Emerson und Jutla - 1991 -  Tree automata, μ-calculus and determinacy]]"
   - "[[Fogarty und Vardi - 2009 -  Büchi complementation and size-change termination]]"
   - "[[Fogarty und Vardi - 2010 - Efficient Büchi universality checking]]"
-  - "[[Friedmann et al - 2013 - Eamsey goes visibly pushdow]]"
+  - "[[Friedmann et al - 2013 - Ramsey goes visibly pushdow]]"
   - "[[Friedmann und Lange - 2012 - Ramsey-based analysis of parity automata]]"
   - "[[Fritz und Wilke - 2005 - Simulation relations for alternating Büchi automata]]"
   - "[[Gerth et al - 1996 - Simple on-the-fly automatic verification of linear temporal logic]]"
