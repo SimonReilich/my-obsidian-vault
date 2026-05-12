@@ -20,5 +20,12 @@ sources:
 # Definitionen
 - Definition [[Sichtbarer Kellerautomat]]
 - [[sichtbare Kellersprache]] sind die [[formale Sprache|Sprachen]], für die es einen [[Sichtbarer Kellerautomat|sichtbaren Kellerautomaten]] gibt
-- Dadurch können nicht-reguläre Eigenschaften, wie
-	- partielle 
+- Dadurch können nicht-reguläre Eigenschaften, wie partielle und totale Korrektheit,  lokale Eigenschaften oder Zugriffskontrolle verifiziert werden
+- Definition von [[Sichtbarer omega-Kellerautomat|sichtbaren omega-Kellerautomaten]] als Erweiterung für unendliche Wörter
+
+# Ergebnisse
+- [[sichtbare Kellersprache|sichtbare Kellersprachen]] sind unter [[Vereinigung]], [[Schnitt]], [[Konkatenation]], [[Komplementbildung]], [[Kleene-Stern]] und Umbenennung abgeschlossen
+- Jeder [[Sichtbarer Kellerautomat|sichtbare Kellerautomat]] hat einen äquivalenten deterministischen [[Sichtbarer Kellerautomat|sichtbaren Kellerautomat]] mit $O(2^{n^2})$ Zustanden und einem Keller-Alphabet der Größe $O(2^{n^2} * |\Sigma_c|)$ 
+- Leerheit einer [[sichtbare Kellersprache|sichtbaren Kellersprache]] ist in [[PTIME]]
+- Universalität und Inklusion sind für [[sichtbare Kellersprache|sichtbare Kellersprachen]] [[EXPTIME]]-vollständig
+- Für [[sichtbare omega-Kellersprache|sichtbare omega-Keller]]
