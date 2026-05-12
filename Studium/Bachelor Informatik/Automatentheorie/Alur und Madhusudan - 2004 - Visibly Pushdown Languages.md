@@ -11,7 +11,7 @@ sources:
   - "[[Alur et al - 2004 - A temporal logic of nested calls and returns]]"
   - "[[Alur et al - 2001 - Analysis of recursive state machines]]"
   - "[[Berstel und Boasson - 2002 - Balanced grammars and their languages]]"
-  - "[[Bouajjani et al - 1997 - Reachability analysis of pushdown automata Application to model-checking]]"
+  - "[[Bouajjani et al - 1997 - Reachability Analysis of Pushdown Automata Application to model-checking]]"
   - "[[Ball und Rajamani - 2000 - A symbolic model checker for boolean programs]]"
   - "[[Burkart und Steffen - 1992 - Model checking for context-free processes]]"
   - "[[Bouquet et al - 2003 - Pushdown games with unboundedness and regular conditions]]"
@@ -25,6 +25,11 @@ sources:
   - "[[Harel et al - 2000 - Dynamic Logic]]"
   - "[[Jensen et al - 1999 - Verification of control flow based security properties]]"
   - "[[Knuth - 1967 - A characterization of parenthesis languages]]"
+  - "[[Lautemann et al - 1994 - Logics for context-free Languages]]"
+  - "[[McNaughton - 1967 - Parenthesis Grammars]]"
+  - "[[Reps et al - 1995 - Precise interprocedural Dataflow Analysis via Graph Reachability]]"
+  - "[[Thomas - 1990 - Automata on infinite objects]]"
+  - "[[Vardi und Wolper - 1986 - An automata-theoretic approach to automatic program verification]]"
 ---
 #Artikel #Informatik #AutoTheo #ToDo 
 # Grundlagen
