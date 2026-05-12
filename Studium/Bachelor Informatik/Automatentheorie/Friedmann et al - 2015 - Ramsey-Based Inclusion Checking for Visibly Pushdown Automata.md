@@ -43,7 +43,6 @@ sources:
   - "[[Muller und Schupp - 1987 - Altenating Automata on Infinite Trees]]"
   - "[[Pitermann - 2007 - From nondeterministic Büchi and Streett automata to deterministic parity automata]]"
   - "[[Rabin und Scott - 1959 - Finite automata and their decision problems.]]"
-  - "[[Friedmann et al - 2015 - Ramsey-Based Inclusion Checking for Visibly Pushdown Automata]]"
   - "[[Schewe - 2009 - Tighter Bounds for the Determinisation of Büchi Automata]]"
   - "[[Sistla et al - 1987 - The complementation problem for Büchi automata with applications to temporal logic]]"
   - "[[Tsai et al - 2011 - State of Büchi complementation]]"
