@@ -59,12 +59,12 @@ sources:
 - $L(A) \subseteq L(B)$ ist äquivalent zu $L(A) \cap L(\bar{B}) = \emptyset$, die Komplementbildung eines [[Büchi-Automat|Automaten]] erhält aber nicht notwendigerweise seine deterministische Eigenschaft und ist deswegen schwierig
 - Zur Lösung des Universalitätsproblems ($L(A) = \Sigma^\omega$) gibt es ramsey-basierte Algorithmen (Korrektheit folgt aus [[Ramseys Theorem]])
 - Dieser Ansatz lässt sich auf das Inklusionsproblem, sowie auf [[omega-Automat|omega-Automaten]] erweitern
-- In diesem Paper wird diese Idee weitergeführt und das Ramsey-basierte Verfahren für das Inklusionsproblem auf [[Sichtbarer Kellerautomat|sichtbare Kellerautomaten]] ausgedehnt
+- In diesem Paper wird diese Idee weitergeführt und das Ramsey-basierte Verfahren für das Inklusionsproblem auf [[Transparenter Kellerautomat|sichtbare Kellerautomaten]] ausgedehnt
 - Für diese ist das Inklusionsproblem sogar [[EXPTIME]]-vollständig
 - Der Schritt zu allgemeinen [[Kellerautomat|Kellerautomaten]] ist nicht möglich, da für diese Universalität unentscheidbar ist
 
 # Universalität
-- Sei $\mathcal{A} = (Q, \Gamma, \Sigma, \delta, q_I, \Omega)$ ein [[Sichtbarer Kellerautomat]]
+- Sei $\mathcal{A} = (Q, \Gamma, \Sigma, \delta, q_I, \Omega)$ ein [[Transparenter Kellerautomat]]
 - Nun soll ein Algorithmus gezeigt werden, der entscheidet ob $L(\mathcal{A}) = NW(\Sigma)$ 
 - Drei Arten von atomaren Transitionsprofilen: [[int-Transitionsprofil]], [[call-Transitionsprofil]] und [[ret-Transitionsprofil]]
 - Beschreiben das Verhalten von $\mathcal{A}$ wenn ein einzelnes Zeichen gelesen wird
