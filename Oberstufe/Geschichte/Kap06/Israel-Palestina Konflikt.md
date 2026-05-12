@@ -68,4 +68,4 @@ Kolonialmächte ([[Frankreich]], [[Großbritannien]]):
 - Das [[Nahost-Quartett]] bildet sich aus [[USA]], [[Europäische Union|Europäischer Union]], [[Russland]] und der [[Vereinte Nationen|UN]] 
 - erarbeiten [[2003]] [["Roadmap"]] als Vorschlag
 - Umsetzung wird aber von keiner Seite angegangen
-- Bei palästinensischen Wahlen siegt [[Hamas]] 2006, übernimmt die Kontrolle im [[Gazastreifen]] 
+- Bei palästinensischen Wahlen siegt [[Hamas]] [[2006]], übernimmt die Kontrolle im [[Gazastreifen]] 
