@@ -45,7 +45,7 @@ Kolonialmächte ([[Frankreich]], [[Großbritannien]]):
 - Teilungsplan ist hinfällig
 - [[1949]] verabschiedet der [[Volksrat]] ein Gesetz, mit dem er zum israelischen Parlament, der [[Knesset]], wird
 
-# Entwicklung in den 1950er-Jahren
+# Entwicklung in den [[1950]]er-Jahren
 - In [[Ägypten]] wird der König [[1952]] gestürtzt, neuer Präsident wird Offizier [[Gamal Abdel Nasser]], nimmt Führungsrolle innerhalb der arabischen Staaten ein
 - arabische Staaten rüsten mithilfe der [[Sowjetunion]] auf
 - Die [[UNRWA]] wird [[1949]] gegründet, unterstützen palestinensische Flüchtlinge, die in den Nachbarländern aufgrund eigener wirtschaftlicher Probleme nicht aufgenommen werden
