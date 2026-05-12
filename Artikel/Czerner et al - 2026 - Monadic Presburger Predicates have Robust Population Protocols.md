@@ -7,7 +7,7 @@ author:
   - "[[Roland Guttenberg]]"
   - "[[Julian Pins]]"
   - "[[Simon Reilich]]"
-publisher: "[[International Conference on Concurrency Theory]]"
+publisher: "[[CONCUR - International Conference on Concurrency Theory]]"
 year: "[[2026]]"
 file: "[[Czerner et al - 2026 - Monadic Presburger Predicates have Robust Population Protocols.pdf]]"
 sources:

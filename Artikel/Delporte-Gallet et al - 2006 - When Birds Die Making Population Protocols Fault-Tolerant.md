@@ -9,7 +9,7 @@ author:
   - "[[Tarek Abdelzaher]]"
   - "[[James Aspnes]]"
   - "[[Ramesh Rao]]"
-publisher: "[[IEEE international conference on Distributed Computing in Sensor Systems]]"
+publisher: "[[DCOSS - International conference on Distributed Computing in Sensor Systems]]"
 year: "[[2006]]"
 file: "[[Delporte-Gallet et al - 2006 - When Birds Die Making Population Protocols Fault-Tolerant.pdf]]"
 sources:

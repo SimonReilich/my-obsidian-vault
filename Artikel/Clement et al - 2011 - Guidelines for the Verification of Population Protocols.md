@@ -5,7 +5,7 @@ author:
   - "[[Carole Delporte-Gallet]]"
   - "[[Hugues Fauconnier]]"
   - "[[Mihaela Sighireanu]]"
-publisher: "[[International Conference on Distributed Computing Systems]]"
+publisher: "[[ICDCS - International Conference on Distributed Computing Systems]]"
 year: "[[2011]]"
 file: "[[Clement et al - 2011 - Guidelines for the Verification of Population Protocols.pdf]]"
 sources:

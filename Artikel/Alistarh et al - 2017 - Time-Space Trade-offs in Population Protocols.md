@@ -5,7 +5,7 @@ author:
   - "[[James Aspnes]]"
   - "[[David Eisenstat]]"
   - "[[Rati Gelashvili]]"
-publisher: "[[Symposium on Discrete Algorithms]]"
+publisher: "[[SODA - Symposium on Discrete Algorithms]]"
 year: "[[2017]]"
 file: "[[Alistarh et al - 2017 - Time-Space Trade-offs in Population Protocols.pdf]]"
 sources:
