@@ -6,7 +6,7 @@ author:
   - "[[Martin Lange]]"
 publisher: "[[ACM Transactions on Computational Logic]]"
 year: "[[2015]]"
-file: "[[Olivier Friedmann, Felix Klaedtke, Martin Lange - 2015 - Ramsey-Based Inclusion Checking for Visibly Pushdown Automata.pdf]]"
+file: "[[Friedmann et al - 2015 - Ramsey-Based Inclusion Checking for Visibly Pushdown Automata.pdf]]"
 sources:
   - "[[Abdulla et al - 2011 - Advanced Ramsey-based Büchi automata inclusion testing]]"
   - "[[Abdulla et al - 2010 - When simulation meets antichains]]"
@@ -51,7 +51,7 @@ sources:
   - "[[Vardi und Wolper - 1986 - An automata-theoretic approach to automatic program verification]]"
   - "[[Vardi und Wolper - 1994 - Reasoning about infinite computations]]"
 ---
-#Artikel #Informatik 
+#Artikel #Informatik #AutoTheo 
 # Grundlagen
 - Viele Probleme des Model-Checking lassen sich auf die Frage $L(A) \subseteq L(B)$ reduzieren, so auch im Bereich von [[Büchi-Automat|Büchi-Automaten]]
 - Solche Inklusionsprobleme sind im Allgemeinen schwer, für [[Büchi-Automat|Büchi-Automaten]] sind sie [[PSPACE]]-vollständig
