@@ -42,3 +42,16 @@ subject: "[[Literatur - Schule]]"
 # Das bürgerliche Trauerspiel
 - Definition [[Bürgerliches Trauerspiel]]
 - z.B. [[Lessing - 1755 - Miss Sara Sampson]], [[Lessing - 1772 - Emilia Galotti]] oder [[Schiller - 1784 - Kabale und Liebe]] 
+
+# Weimar
+- [[Weimarer Klassik]] als bekannteste Epoche der deutschen literaturgeschichte
+- berühmteste Vertreter sind [[Johann Wolfgang von Goethe]] und [[Friedrich Schiller]]
+- politisches Modell von [[Weimar]] im 18. Jahrhundert als Ideal
+- [[Antike]] als größtes Vorbild
+
+# Goethes Ideal der Humanität
+- Die Überzeugung von der Erziehbarkeit des Menschen zum [[Moral|moralisch]] richtigen Handeln
+- Die Bildung humanitären Handelns durch Kunst und Dichtung ("ästhetische Erziehung")
+- Die Orientierung an [[Antike|antiken]] Vorbildern
+- Das Ziel der "schönen Seele", bei der Handeln, Pflichten und Wünsche im Einklang stehen
+- z.B. Iphigenie in [[von Goethe - 1786 - Iphigenie auf Tauris]]
