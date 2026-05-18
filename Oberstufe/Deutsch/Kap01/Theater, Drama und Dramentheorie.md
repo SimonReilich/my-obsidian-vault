@@ -24,3 +24,17 @@ subject: "[[Deutsch - Schule]]"
 	- guter Kontakt zum Publikum
 	- professionelle Schauspieler, keine realistischen kulissen
 4. Hof- und Nationaltheater (17. / 18. Jh.)
+	- Aufführungen als gesellschaftliches Ereignis für den Hof und die nahestehenden Bürgerlichen
+	- geschlossener Raum, dekorative Kulissen, Symmetrie
+	- Stilisiertes Idealbild der Welt des Publikums
+5. Illusionsbühne (19. Jh. bis heute)
+	- Abgeschlossener Bühnenraum
+	- Aufführungen neuer und klassischer Stücke
+	- für das gebildete [[Bürgertum]]
+
+# Die Poetik von [[Aristoteles]]
+- Dichtung ist Nachahmung von Handlungen (nicht von Menschen oder Charakteren).
+- Nachgeahmt werden:
+    - Menschen, die besser sind als die Wirklichkeit ([[Tragödie]]).
+    - Menschen, die schlechter sind ([[Komödie]]).
+    - Menschen, die wie wir sind (in anderen Gattungen).
