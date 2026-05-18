@@ -4,9 +4,7 @@ subtitle: Ein Buch für Alle und Keinen
 author:
   - "[[Friedrich Nietzsche]]"
 category:
-  - philosophischer Roman
-  - Dichtung
-  - dramatische Prosa
+  - "[[Roman]]"
 publisher:
 year: "[[1883]]"
 isbn:

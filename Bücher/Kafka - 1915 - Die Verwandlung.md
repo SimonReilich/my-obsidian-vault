@@ -4,7 +4,7 @@ subtitle: ""
 author:
   - "[[Franz Kafka]]"
 category:
-  - Novelle
+  - "[[Novelle]]"
 publisher:
 year: "[[1915]]"
 isbn:

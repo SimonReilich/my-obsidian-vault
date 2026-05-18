@@ -4,7 +4,7 @@ subtitle:
 author:
   - "[[E.T.A. Hoffmann]]"
 category:
-  - Kunstmärchen
+  - "[[Kunstmärchen]]"
 publisher:
 year: "[[1816]]"
 isbn:

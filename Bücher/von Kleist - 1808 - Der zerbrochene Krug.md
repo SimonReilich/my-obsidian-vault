@@ -4,7 +4,7 @@ subtitle: ""
 author:
   - "[[Heinrich von Kleist]]"
 category:
-  - Drama
+  - "[[Drama]]"
 publisher:
 year: "[[1808]]"
 isbn:

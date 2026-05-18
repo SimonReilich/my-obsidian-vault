@@ -4,7 +4,7 @@ subtitle:
 author:
   - "[[Georg Büchner]]"
 category:
-  - offenes Drama
+  - "[[Offenes Drama]]"
 publisher:
 year: "[[1837]]"
 isbn:

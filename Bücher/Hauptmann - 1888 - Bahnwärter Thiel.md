@@ -3,7 +3,7 @@ title: Bahnwärter Thiel
 subtitle:
 author:
   - "[[Gerhart Hauptmann]]"
-category: novellistische Studie
+category: "[[Novelle]]"
 publisher:
 year: "[[1888]]"
 isbn: 3159604667

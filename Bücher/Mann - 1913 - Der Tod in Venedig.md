@@ -4,7 +4,7 @@ subtitle:
 author:
   - "[[Thomas Mann]]"
 category:
-  - Novelle
+  - "[[Novelle]]"
 publisher:
 year: "[[1913]]"
 isbn:

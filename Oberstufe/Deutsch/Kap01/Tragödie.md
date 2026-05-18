@@ -14,3 +14,4 @@ subject: "[[Deutsch - Schule]]"
 - Mitte: Folgt auf etwas und zieht etwas nach sich.
 - Ende: Folgt natürlicherweise auf etwas, und nichts kommt danach.
 - Einheit der Handlung: Keine willkürlichen Episoden, Umstellung oder Wegnahme eines Teils muss das Ganze verändern.
+- Aufgabe des Dichters: Nicht darstellen, was wirklich geschah, sondern was geschehen könnte (Wahrscheinlichkeit/Notwendigkeit)

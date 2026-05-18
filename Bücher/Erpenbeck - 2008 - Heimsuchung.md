@@ -4,7 +4,7 @@ subtitle:
 author:
   - "[[Jenny Erpenbeck]]"
 category:
-  - Roman
+  - "[[Roman]]"
 publisher: "[[Penguin]]"
 year: "[[2008]]"
 isbn: 9783328102519

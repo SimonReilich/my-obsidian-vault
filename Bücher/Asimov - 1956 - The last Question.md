@@ -4,7 +4,7 @@ subtitle:
 author:
   - "[[Isaac Asimov]]"
 category:
-  - Kurzgeschichte
+  - "[[Kurzgeschichte]]"
 publisher:
 year: "[[1956]]"
 isbn:

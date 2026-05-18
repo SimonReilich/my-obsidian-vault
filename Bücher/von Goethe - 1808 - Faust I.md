@@ -3,7 +3,7 @@ title: Faust
 subtitle: Der Tragödie erster Teil
 author:
   - "[[Johann Wolfgang von Goethe]]"
-category: Drama
+category: "[[Drama]]"
 publisher:
 year: "[[1808]]"
 isbn:

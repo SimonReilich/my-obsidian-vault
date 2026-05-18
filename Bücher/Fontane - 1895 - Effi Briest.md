@@ -4,7 +4,7 @@ subtitle:
 author:
   - "[[Theodor Fontane]]"
 category:
-  - Roman
+  - "[[Roman]]"
 publisher:
 year: "[[1895]]"
 isbn:

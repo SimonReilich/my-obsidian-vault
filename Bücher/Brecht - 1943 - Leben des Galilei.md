@@ -4,7 +4,7 @@ subtitle: ""
 author:
   - "[[Bertolt Brecht]]"
 category:
-  - Episches Theater
+  - "[[Episches Theater]]"
 publisher:
 year: "[[1943]]"
 isbn:

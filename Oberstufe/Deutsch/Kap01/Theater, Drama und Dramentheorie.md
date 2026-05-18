@@ -38,3 +38,7 @@ subject: "[[Deutsch - Schule]]"
     - Menschen, die besser sind als die Wirklichkeit ([[Tragödie]]).
     - Menschen, die schlechter sind ([[Komödie]]).
     - Menschen, die wie wir sind (in anderen Gattungen).
+
+# Das bürgerliche Trauerspiel
+- Definition [[Bürgerliches Trauerspiel]]
+- z.B. [[Lessing - 1755 - Miss Sara Sampson]], [[Lessing - 1772 - Emilia Galotti]] oder [[Schiller - 1784 - Kabale und Liebe]] 
