@@ -17,7 +17,7 @@ views:
     image: note.cover
     imageAspectRatio: 1.5
     imageFit: cover
-    cardSize: 250
+    cardSize: 220
   - type: table
     name: Table
     order:
