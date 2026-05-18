@@ -1,5 +1,5 @@
 ---
-subject: "[[Deutsch - Schule]]"
+subject: "[[Literatur - Schule]]"
 ---
 #Oberstufe #Literatur 
 # Definition
