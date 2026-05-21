@@ -20,11 +20,10 @@ lecture: "[[Petrinetze]]"
 - [[Monotonie-Lemma]]: Durch hinzufügen von Tokens werden Transitionen nicht deaktiviert
 - Ein [[Petrinetz]] ist ein [[Tupel]] aus einem [[Netz]] und einer initialen [[Markierung]] 
 - [[Erreichbarkeitsgraph-Algorithmus]] 
+- Interessante Eigenschaften: [[Deadlock-Freiheit]], [[Lebendigkeit]], [[Beschränktheit (Petrinetze)|Beschränktheit]] 
 
 # Varianten des Modells
 - [[Petrinetz mit Kapazitäten]], [[Petrinetz mit gewichteten Bögen]], [[Vektor-Additions-Systeme]] (mit Zuständen): gleiche Mächtigkeit
 - [[Populationsprotokoll]]: weniger Mächtig
-- [[Petrinetz mit Sperr-Bögen]], [[Petrinetz mit Reset-Bögen]]: 
-
-# Systemeigenschaften
-- 
+- [[Petrinetz mit Sperr-Bögen]], [[Petrinetz mit Reset-Bögen]]: höhere Mächtigkeit
+- Anwendungen: biologische Systeme, Prozessabläufe, etc
