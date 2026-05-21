@@ -19,3 +19,12 @@ lecture: "[[Petrinetze]]"
 - Definition einer [[Schaltsequenz]] 
 - [[Monotonie-Lemma]]: Durch hinzufügen von Tokens werden Transitionen nicht deaktiviert
 - Ein [[Petrinetz]] ist ein [[Tupel]] aus einem [[Netz]] und einer initialen [[Markierung]] 
+- [[Erreichbarkeitsgraph-Algorithmus]] 
+
+# Varianten des Modells
+- [[Petrinetz mit Kapazitäten]], [[Petrinetz mit gewichteten Bögen]], [[Vektor-Additions-Systeme]] (mit Zuständen): gleiche Mächtigkeit
+- [[Populationsprotokoll]]: weniger Mächtig
+- [[Petrinetz mit Sperr-Bögen]], [[Petrinetz mit Reset-Bögen]]: 
+
+# Systemeigenschaften
+- 
