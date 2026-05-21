@@ -2,6 +2,7 @@
 instructor:
   - "[[Hans-Joachim Bungartz]]"
   - "[[Michael Bader]]"
+degree: "[[Bachelor Informatik]]"
 ---
 #BScInfo #Informatik #Inhaltsverzeichnis  
 

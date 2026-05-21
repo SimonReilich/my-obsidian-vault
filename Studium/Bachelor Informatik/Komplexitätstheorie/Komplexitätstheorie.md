@@ -1,6 +1,7 @@
 ---
 instructor:
   - "[[Debarghya Ghoshdastidar]]"
+degree: "[[Bachelor Informatik]]"
 ---
 #BScInfo #Informatik #Inhaltsverzeichnis 
 

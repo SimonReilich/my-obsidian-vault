@@ -1,5 +1,6 @@
 ---
 lecture: "[[Petrinetze]]"
+degree: "[[Bachelor Informatik]]"
 ---
 #BScInfo #Informatik #Petri
 # S-Systeme

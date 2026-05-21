@@ -1,5 +1,6 @@
 ---
 lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
+degree: "[[Bachelor Informatik]]"
 ---
 #BScInfo #Informatik #GRnVs 
 # Sitzungsschicht

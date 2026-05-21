@@ -1,5 +1,6 @@
 ---
 instructor: "[[Javier Esparza]]"
+degree: "[[Bachelor Informatik]]"
 ---
 #BScInfo #Informatik #Theo #Inhaltsverzeichnis
 

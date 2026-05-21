@@ -1,5 +1,6 @@
 ---
 lecture: "[[Einführung in die Theoretische Informatik]]"
+degree: "[[Bachelor Informatik]]"
 ---
 #BScInfo #Informatik #Theo
 # Einführung

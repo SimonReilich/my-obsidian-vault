@@ -1,5 +1,6 @@
 ---
 instructor: "[[Rüdiger Westermann]]"
+degree: "[[Bachelor Informatik]]"
 ---
 #BScInfo #Informatik #Inhaltsverzeichnis 
 

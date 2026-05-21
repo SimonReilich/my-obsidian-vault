@@ -1,5 +1,6 @@
 ---
 lecture: "[[Komplexitätstheorie]]"
+degree: "[[Bachelor Informatik]]"
 ---
 #BScInfo #Informatik #CoTheo
 # Turingmaschienen

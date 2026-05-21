@@ -1,5 +1,6 @@
 ---
 lecture: "[[Numerisches Programmieren]]"
+degree: "[[Bachelor Informatik]]"
 ---
 #BScInfo #Informatik #NumProg
 # Was ist Numerik?

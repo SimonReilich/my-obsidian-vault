@@ -1,5 +1,6 @@
 ---
 lecture: "[[Florian Bruse]]"
+degree: "[[Bachelor Informatik]]"
 ---
 #BScInfo #Informatik #Inhaltsverzeichnis 
 

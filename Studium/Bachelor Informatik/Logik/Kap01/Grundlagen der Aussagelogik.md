@@ -1,5 +1,6 @@
 ---
 lecture: "[[Logik]]"
+degree: "[[Bachelor Informatik]]"
 ---
 #BScInfo #Mathematik #Logik
 # Definitionen

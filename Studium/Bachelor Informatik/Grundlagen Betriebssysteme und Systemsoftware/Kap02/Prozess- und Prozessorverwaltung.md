@@ -1,5 +1,6 @@
 ---
 lecture: "[[Grundlagen Betriebssysteme und Systemsoftware]]"
+degree: "[[Bachelor Informatik]]"
 ---
 #BScInfo #Informatik #GBS 
 # Betriebssystem, Assembler, Maschienenebene

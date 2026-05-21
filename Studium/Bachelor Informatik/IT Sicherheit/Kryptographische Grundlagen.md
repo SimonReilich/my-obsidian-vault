@@ -1,5 +1,6 @@
 ---
 lecture: "[[IT Sicherheit]]"
+degree: "[[Bachelor Informatik]]"
 ---
 #BScInfo #Informatik #ITSec 
 ## Kryptographische Systeme

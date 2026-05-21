@@ -1,5 +1,6 @@
 ---
 instructor: "[[Pramod Bhatotia]]"
+degree: "[[Bachelor Informatik]]"
 ---
 #BScInfo #Informatik #Inhaltsverzeichnis
 

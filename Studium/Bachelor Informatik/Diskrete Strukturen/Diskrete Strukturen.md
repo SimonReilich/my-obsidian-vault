@@ -1,5 +1,6 @@
 ---
 instructor: "[[Daniel Cremers]]"
+degree: "[[Bachelor Informatik]]"
 ---
 #BScInfo #Mathematik #Inhaltsverzeichnis
 

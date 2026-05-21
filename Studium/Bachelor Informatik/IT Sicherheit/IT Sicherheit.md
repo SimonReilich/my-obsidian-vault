@@ -1,5 +1,6 @@
 ---
 instructor: "[[Claudia Eckert]]"
+degree: "[[Bachelor Informatik]]"
 ---
 #BScInfo #Informatik #Inhaltsverzeichnis 
 

@@ -2,6 +2,7 @@
 instructor:
   - "[[Georg Carle]]"
   - "[[Stephan Günther]]"
+degree: "[[Bachelor Informatik]]"
 ---
 #BScInfo #Informatik #Inhaltsverzeichnis 
 

@@ -1,6 +1,7 @@
 ---
 aliases:
 lecture: "[[Grundlagen Datenbanken]]"
+degree: "[[Bachelor Informatik]]"
 ---
 #BScInfo #Informatik #GDB
 # Funktionale Abhängigkeiten

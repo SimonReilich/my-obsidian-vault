@@ -1,5 +1,6 @@
 ---
 lecture: "[[Analysis für Informatik]]"
+degree: "[[Bachelor Informatik]]"
 ---
 #BScInfo #Mathematik #AnaInfo 
 # Das Integral

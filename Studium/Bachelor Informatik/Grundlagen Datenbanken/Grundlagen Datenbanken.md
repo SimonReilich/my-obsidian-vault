@@ -1,5 +1,6 @@
 ---
 instructor: "[[Alfons Kemper]]"
+degree: "[[Bachelor Informatik]]"
 ---
 #BScInfo #Informatik #Inhaltsverzeichnis
 
