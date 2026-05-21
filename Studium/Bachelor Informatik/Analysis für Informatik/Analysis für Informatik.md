@@ -1,5 +1,6 @@
 ---
 instructor: "[[Silke Rolles]]"
+degree: "[[Bachelor Informatik]]"
 ---
 #BScInfo #Mathematik #Inhaltsverzeichnis 
 

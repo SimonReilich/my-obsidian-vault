@@ -3,6 +3,7 @@ instructor:
   - "[[Javier Esparza]]"
   - "[[Jakob Schulz]]"
   - "[[Vincent Fischer]]"
+degree: "[[Bachelor Informatik]]"
 ---
 #BScInfo #Informatik #Inhaltsverzeichnis
 

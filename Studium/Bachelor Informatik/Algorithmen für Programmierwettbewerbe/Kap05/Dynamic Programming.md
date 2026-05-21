@@ -2,6 +2,7 @@
 lecture: "[[Algorithmen für Programmierwettbewerbe]]"
 slides:
   - "[[Dynamic Programming - Slides.pdf]]"
+degree: "[[Bachelor Informatik]]"
 ---
 #BScInfo #Informatik #ConPra 
 # Fibonacci Zahlen

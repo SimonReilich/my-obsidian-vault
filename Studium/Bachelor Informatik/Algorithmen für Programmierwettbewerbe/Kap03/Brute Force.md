@@ -2,6 +2,7 @@
 lecture: "[[Algorithmen für Programmierwettbewerbe]]"
 slides:
   - "[[Brute Force - Slides.pdf]]"
+degree: "[[Bachelor Informatik]]"
 ---
 #BScInfo #Informatik #ConPra 
 # Definition
