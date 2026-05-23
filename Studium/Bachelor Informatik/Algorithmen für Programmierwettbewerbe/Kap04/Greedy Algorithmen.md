@@ -1,7 +1,5 @@
 ---
 lecture: "[[Algorithmen für Programmierwettbewerbe]]"
-slides:
-  - "[[Greedy Algorithmen - Slides.pdf]]"
 degree: "[[Bachelor Informatik]]"
 ---
 #BScInfo #Informatik #ConPra 

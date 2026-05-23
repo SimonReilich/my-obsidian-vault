@@ -1,7 +1,5 @@
 ---
 lecture: "[[Algorithmen für Programmierwettbewerbe]]"
-slides:
-  - "[[Zahlentheorie - Slides.pdf]]"
 degree: "[[Bachelor Informatik]]"
 ---
 #BScInfo #Informatik #ConPra 
