@@ -65,7 +65,7 @@ Kolonialmächte ([[Frankreich]], [[Großbritannien]]):
 
 # Die Roadmap
 - direkte israelisch-palästinensische sind nun nicht mehr möglich
-- Das [[Nahost-Quartett]] bildet sich aus [[USA]], [[Europäische Union|Europäischer Union]], [[Russland]] und der [[Vereinte Nationen|UN]] 
+- Das [[Nahost-Quartett]] bildet sich aus [[USA]], [[Die Bedeutung Europäischen Union|Europäischer Union]], [[Russland]] und der [[Vereinte Nationen|UN]] 
 - erarbeiten [[2003]] [["Roadmap"]] als Vorschlag
 - Umsetzung wird aber von keiner Seite angegangen
 - Bei palästinensischen Wahlen siegt [[Hamas]] [[2006]], übernimmt die Kontrolle im [[Gazastreifen]] 
