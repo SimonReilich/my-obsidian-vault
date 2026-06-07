@@ -33,3 +33,6 @@ subject: "[[Politik - Schule]]"
 
 # Digitalisierung der Arbeitswelt
 - Übergang zur Industrie 4.0: [[Industrielle Revolution|1.]], [[2. Industrielle Revolution|2.]], [[3. Industrielle Revolution|3.]] und [[4. Industrielle Revolution]] 
+- [[Künstliche Intelligenz]] hat einen massiven Einfluss auf die Arbeitswelt
+- Ziel des lebenslangen Lernens
+- Beispiel für neues Arbeitsmodell als Folge der Digitalisierung: die [[Vier-Tage-Woche]] 
