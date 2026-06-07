@@ -2,7 +2,7 @@
 subject: "[[Politik - Schule]]"
 ---
 #Oberstufe #Politik
-# Grundlegende Begriffe
+# Grundlegende Begriffe der Soziologie
 - Definition [[Soziologie]] und [[Modern]] 
 - [[Werte]], v.a. im Unterschied zu [[Normen]] 
 - verschiedene Kategorien von Werten:
@@ -14,7 +14,7 @@ subject: "[[Politik - Schule]]"
 	- Instrumentelle [[Werte]], die zum Erreichen anderer [[Werte]] dienen
 - individuelle vs. [[gesellschaftliche Werte]] 
 
-# Theorien zum [[Wertewandel]]
+# Soziologische Theorien zum [[Wertewandel]]
 - [[Theorie Ronald Ingleharts]]
 - [[Wertetypen-Theorie]] 
 
@@ -26,4 +26,6 @@ subject: "[[Politik - Schule]]"
 # Geschlechter in Gesellschafts- und Arbeitswelt
 - Unterscheidung zwischen biologischem Geschlecht, gesellschaftlich zugewiesener Geschlechterrolle und [[Geschlechtsidentität]] 
 - traditionelle [[Heteronormativität]] 
-- Seit [[2019]] gibt es in deutschland die Möglichkeit
+- Seit [[2019]] gibt es in [[Deutschland]] die Möglichkeit, divers als Geschlechtseintrag im Pass zu wählen
+- [[Sexismus]] als häufiges Problem in der Arbeitswelt, z.B. [[Gender-Pay-Gap]]
+- Seit [[2016]] gibt es das [[Gesetz für die Gleichberechtigte Teilhabe von Frauen und Männern an Führungspositionen in der Privatwirtschaft und im öffentlichen Dienst (FüPoG)]] 
