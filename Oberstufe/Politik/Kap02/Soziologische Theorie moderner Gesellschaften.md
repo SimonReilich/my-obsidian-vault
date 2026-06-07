@@ -21,3 +21,7 @@ subject: "[[Politik - Schule]]"
 # Familie
 - Sozialwissenschaftliche Definition einer [[Familie]] 
 - Funktionen: [[Sozialisationsfunktion der Familie|Sozialisations-]], [[Reproduktionsfunktion der Familie|Reproduktions-]], [[Produktionsfunktion der Familie|Produktions-]], [[Regenerationsfunktion der Familie|Regenerations-]] und [[Konsunmptionsfunktion der Familie|Konsumptionsfunktion]] 
+- [[Elterngeld|Eltern-]] und [[Kindergeld]] als familienpolitische Maßnahmen 
+
+# Geschlechter in Gesellschafts- und Arbeitswelt
+- Unterscheidung zwischen biologischem Geschlecht, gesellschaftlich zugewiesener Geschlechterrolle und [[Geschlechtsidentität]] 
