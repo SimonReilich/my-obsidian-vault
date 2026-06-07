@@ -17,3 +17,7 @@ subject: "[[Politik - Schule]]"
 # Theorien zum [[Wertewandel]]
 - [[Theorie Ronald Ingleharts]]
 - [[Wertetypen-Theorie]] 
+
+# Familie
+- Sozialwissenschaftliche Definition einer [[Familie]] 
+- Funktionen: [[Sozialisationsfunktion der Familie|Sozialisations-]], [[Reproduktionsfunktion der Familie|Reproduktions-]], [[Produktionsfunktion der Familie|Produktions-]], [[Regenerationsfunktion der Familie|Regenerations-]] und [[Konsunmptionsfunktion der Familie|Konsumptionsfunktion]] 
