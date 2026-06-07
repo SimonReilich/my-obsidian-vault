@@ -4,15 +4,15 @@ subject: "[[Politik - Schule]]"
 #Oberstufe #Politik
 # Grundlegende Begriffe der Soziologie
 - Definition [[Soziologie]] und [[Modern]] 
-- [[Werte]], v.a. im Unterschied zu [[Normen]] 
+- [[Wert]], v.a. im Unterschied zu [[Norm]] 
 - verschiedene Kategorien von Werten:
-	- Moralische bzw. persönliche [[Werte]], z.B. Liebe, Vertrauen, Treue, Verständnis
-	- Politisch-soziale [[Werte]], z.B. Freiheit, Gleichheit, Solidarität, Engagament, Toleranz
-	- Religiöse [[Werte]], z.B. Glaube, Nächstenliebe, Demut
-	- Materielle [[Werte]], z.B. Wohlstand, Besitz, Geld
-	- Geistige [[Werte]], z.B. Wissen, Weisheit, Erkenntnis
-	- Instrumentelle [[Werte]], die zum Erreichen anderer [[Werte]] dienen
-- individuelle vs. [[gesellschaftliche Werte]] 
+	- Moralisch bzw. persönlicher [[Wert]], z.B. Liebe, Vertrauen, Treue, Verständnis
+	- Politisch-sozialer [[Wert]], z.B. Freiheit, Gleichheit, Solidarität, Engagament, Toleranz
+	- Religiöser [[Wert]], z.B. Glaube, Nächstenliebe, Demut
+	- Materieller [[Wert]], z.B. Wohlstand, Besitz, Geld
+	- Geistiger [[Wert]], z.B. Wissen, Weisheit, Erkenntnis
+	- Instrumenteller [[Wert]], die zum Erreichen anderer [[Wert]] dienen
+- individueller vs. [[gesellschaftlicher Wert]] 
 
 # Soziologische Theorien zum [[Wertewandel]]
 - [[Theorie Ronald Ingleharts]]
@@ -29,3 +29,4 @@ subject: "[[Politik - Schule]]"
 - Seit [[2019]] gibt es in [[Deutschland]] die Möglichkeit, divers als Geschlechtseintrag im Pass zu wählen
 - [[Sexismus]] als häufiges Problem in der Arbeitswelt, z.B. [[Gender-Pay-Gap]]
 - Seit [[2016]] gibt es das [[Gesetz für die Gleichberechtigte Teilhabe von Frauen und Männern an Führungspositionen in der Privatwirtschaft und im öffentlichen Dienst (FüPoG)]] 
+- [[Emanzipation]] der Frau als Prozess der Moderne

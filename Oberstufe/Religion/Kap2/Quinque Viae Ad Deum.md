@@ -22,7 +22,7 @@ subject: "[[Religion - Schule]]"
 - Conclusio: Es muss ein absolutes Notwendiges geben, von dem alles andere notwendige Sein das Sein erhält
 
 # 4. Stufenbeweis (Gradualitätsbeweis)
-- Obersatz: In der Welt gibt es eine Abstufung der [[Werte]] 'gut', 'wahr' und 'schön'
+- Obersatz: In der Welt gibt es eine Abstufung der [[Wert]] 'gut', 'wahr' und 'schön'
 - Untersatz: Die Abstufung setzt ein höchstes 'gut', 'wahr' und 'schön' voraus
 - Conclusio: Es muss ein absolut 'gutes', 'wahres' und 'schönes' geben
 

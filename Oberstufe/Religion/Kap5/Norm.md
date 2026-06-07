@@ -3,7 +3,7 @@ subject: "[[Religion - Schule]]"
 ---
 #Oberstufe #Philosophie #Atomic 
 # Definition
-Normen sind Regeln, die zum Schutz von [[Werte|Werten]] dienen. Sie sind in einer übergeordneten Werteordnung begründet, zu der der Zusammenhang stets erkennbar sein muss, sonst werden Normen inhaltsleer.
+Normen sind Regeln, die zum Schutz von [[Wert|Werten]] dienen. Sie sind in einer übergeordneten Werteordnung begründet, zu der der Zusammenhang stets erkennbar sein muss, sonst werden Normen inhaltsleer.
 
 # Funktionen von Normen
 - Entlastungsfunktion: Der Einzelne wird vom Zwang, in jeder Situation erneut über das richtige sittliche Handeln entscheiden zu müssen entlastet.

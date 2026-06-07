@@ -3,4 +3,4 @@ subject: "[[Religion - Schule]]"
 ---
 #Oberstufe #Philosophie 
 # Definition
-Bereitschaft oder Fähigkeit, sich situationsgerecht unter Berücksichtigung objektiver Maßstäbe ([[Normen]]) und des eigenen Gewissensurteils [[Moral|moralisch]] richtig zu verhalten.
+Bereitschaft oder Fähigkeit, sich situationsgerecht unter Berücksichtigung objektiver Maßstäbe ([[Norm]]) und des eigenen Gewissensurteils [[Moral|moralisch]] richtig zu verhalten.

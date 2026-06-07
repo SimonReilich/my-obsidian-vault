@@ -6,6 +6,6 @@ subject: "[[Religion - Schule]]"
 - zentrale Funktion: Heilsfunktion
 - [[Psychologie|Psychische]] Funktion: Bewältigung von Ängsten, Identitätsstiftung
 - Weltanschauliche Funktion: Welterklärung, Sinnangebot
-- Ethische Funktion: [[Werte]], [[Normen]], Lebensziele
+- Ethische Funktion: [[Wert]], [[Norm]], Lebensziele
 - Gesellschaftliche Funktion: Gemeinschaftsbildung, Soziallehre
 - Emanzipationsfunktion: kritische Distanz zur Welt, alternative Lebensmodelle
