@@ -25,3 +25,5 @@ subject: "[[Politik - Schule]]"
 
 # Geschlechter in Gesellschafts- und Arbeitswelt
 - Unterscheidung zwischen biologischem Geschlecht, gesellschaftlich zugewiesener Geschlechterrolle und [[Geschlechtsidentität]] 
+- traditionelle [[Heteronormativität]] 
+- Seit [[2019]] gibt es in deutschland die Möglichkeit
