@@ -30,3 +30,6 @@ subject: "[[Politik - Schule]]"
 - [[Sexismus]] als häufiges Problem in der Arbeitswelt, z.B. [[Gender-Pay-Gap]]
 - Seit [[2016]] gibt es das [[Gesetz für die Gleichberechtigte Teilhabe von Frauen und Männern an Führungspositionen in der Privatwirtschaft und im öffentlichen Dienst (FüPoG)]] 
 - [[Emanzipation]] der Frau als Prozess der Moderne
+
+# Digitalisierung der Arbeitswelt
+- Übergang zur Industrie 4.0: [[Industrielle Revolution|1.]], [[2. Industrielle Revolution|2.]], [[3. Industrielle Revolution|3.]] und [[4. Industrielle Revolution]] 
