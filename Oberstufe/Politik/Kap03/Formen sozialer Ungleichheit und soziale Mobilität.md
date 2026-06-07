@@ -14,3 +14,4 @@ subject: "[[Politik - Schule]]"
 # Modelle Sozialer Differenzierung
 - Theorie der [[Soziale Identität|sozialen Identität]] 
 - Etwa das [[Schichtenmodell nach Rainer Geißler]] oder das [[Milieumodell nach dem Sinus-Institut]] 
+- Große Unterschiede zwischen [[Baby Boomer|Baby Boomern]], [[Gen X]], [[Millenial|Millenials]] und [[Gen Z]] 
