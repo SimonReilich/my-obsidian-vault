@@ -3,4 +3,4 @@ subject: "[[Politik - Schule]]"
 ---
 #Oberstufe #Politik 
 # Definition
-Das Fürsorgeprinzip ist eines der Grundprinzipien des [[Deutschland|deutschen]] Sozialversicherungssystems. Es sieht vor, dass sich die Höhe der Leistungen am vorher erzielten Erwerbseinkommen orientiert.
+Das [[Grundgesetz|grundgesetzlich]] verankerte staatliche Fürsorgeprinzip fasst alle Maßnahmen zusammen, die einzelne Bürgerinnen und Bürger vor den Folgen existenzieller Notlagen schützen.
