@@ -8,6 +8,8 @@ category:
 publisher: "[[Springer]]"
 year: "[[2018]]"
 isbn:
-cover:
+cover: "[[Hoffmann - 2018 - Limits of Mathematics.png]]"
 ---
-#Buch #Informatik 
+#Buch #Mathematik 
+
+![[Hoffmann - 2018 - Limits of Mathematics.png]]
