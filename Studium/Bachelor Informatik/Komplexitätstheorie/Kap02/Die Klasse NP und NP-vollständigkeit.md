@@ -31,4 +31,4 @@ degree: "[[Bachelor Informatik]]"
 - Die meisten bekannten Probleme in [[NP]] sind [[NP]]-vollständig
 - Unbekannt sind aber z.B. [[Iso]] oder [[Faktor]]
 - Heutzutage lassen sich Probleme aus [[NP]] mit [[SAT Solver|SAT Solvern]] effizient lösen
-- [[Ladners Theorem]]: Fallse $\textbf{P} \neq \textbf{NP}$
+- [[Ladners Theorem]]: Fallse $\textbf{P} \neq \textbf{NP}$, dann existieren Sprachen in [[NP]], die nicht [[NP]]-vollständig sind
