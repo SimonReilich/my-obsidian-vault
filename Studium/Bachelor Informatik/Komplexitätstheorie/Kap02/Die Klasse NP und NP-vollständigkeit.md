@@ -9,6 +9,7 @@ degree: "[[Bachelor Informatik]]"
 - Definition der Klassen [[NTIME]] und [[NP]] als nichtdeterministische Varianten von [[DTIME]] und [[P]]
 - Alternative Definition von [[NP]]: Menge der Sprachen mit effizient prüfbaren Zertifikaten
 - Beweis [[Äquivalenz der Definitionen von NP]] 
+
 # Verhältnis von NP zu anderen Klassen
 - Definition von [[EXP]]
 - Beweis von [[NP liegt zwischen P und EXP]] 
@@ -20,3 +21,14 @@ degree: "[[Bachelor Informatik]]"
 - Eine Sprache $L$ ist [[NP]]-vollständig, wenn $L$ [[NP]]-schwer ist und $L \in \textbf{NP}$ 
 - [[Cook-Levin Theorem]]: [[SAT]] ist [[NP]]-vollständig
 - Reduktionen: [[SAT <= 3SAT]], [[3SAT <= 0-1-ILP]], [[3SAT <= Indset]], [[3SAT <= 3-Coloring]] 
+
+# Komplemente von Komplexitätsklassen
+- Definition der [[Komplementklasse]] und damit [[coNP]]
+- Offensichtlicherweise gilt $\textbf{P} = \textbf{coP}$, unbekannt ist aber $\textbf{NP} \overset{?}{=} \textbf{coNP}$ 
+- Beweise [[Äquivalenz der Definitionen von coNP]], [[Tautology ist coNP-vollständig]] 
+
+# Unbekanntes
+- Die meisten bekannten Probleme in [[NP]] sind [[NP]]-vollständig
+- Unbekannt sind aber z.B. [[Iso]] oder [[Faktor]]
+- Heutzutage lassen sich Probleme aus [[NP]] mit [[SAT Solver|SAT Solvern]] effizient lösen
+- [[Ladners Theorem]]: Fallse $\textbf{P} \neq \textbf{NP}$
