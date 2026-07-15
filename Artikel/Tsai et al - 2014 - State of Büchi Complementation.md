@@ -38,5 +38,18 @@ sources:
   - "[[Schewe - 2009 - Tighter Bounds for the Determinisation of Büchi Automata]]"
   - "[[Sistla et al - 1987 - The Complementation Problem for Büchi Automata with Applications to Temporal Logic]]"
   - "[[Somenzi und Bloem - 2000 - Efficient Büchi automata from LTL formulae]]"
+  - "[[Tabakov und Vardi - 2007 - Model checking Büchi specifications]]"
+  - "[[Thomas - 1999 - Complementation of Büchi automata revisited]]"
+  - "[[Tsai et al - 2010 - State of Büchi complementation]]"
+  - "[[Tsai et al - 2013 - GOAL for games, omega-automata and logics]]"
+  - "[[Tsay et al - 2008 - GOAL extended - towards a research tool for omega automata and temporal logic]]"
+  - "[[Tsay et al - 2007 - GOAL - a graphical tool for manipulating Büchi automata and temporal formulae]]"
+  - "[[Tsay et al - 2013 - Büchi store - an open repository of omega-automata]]"
+  - "[[Vardi - 1996 - An automata theoretic approach to linear temporal logic]]"
+  - "[[Vardi - 2007 - Automata-theoretic model checking revisited]]"
+  - "[[Vardi - 2007 - The Büchi complementation saga]]"
+  - "[[Vardi und Wilke - 2007 - Automata - from logics to algorithms]]"
+  - "[[Wolper - 1983 - Temporal logic can be more expressive]]"
+  - "[[Yan - 2008 - Lower bounds of complementation of omega-words via the full automata technique]]"
 ---
 #Artikel #Informatik #AutoTheo 
