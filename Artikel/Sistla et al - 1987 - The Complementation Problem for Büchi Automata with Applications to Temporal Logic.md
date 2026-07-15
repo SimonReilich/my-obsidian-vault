@@ -22,5 +22,17 @@ sources:
   - "[[Rabin - 1969 - Decidability of second order theories and automata on infinite trees]]"
   - "[[Rabin - 1970 - Weakly definable relations and special automata]]"
   - "[[Robertson - 1974 - Structure of complexity in the weak monadic second-order theory of the natural numbers]]"
+  - "[[Rabin und Scott - 1959 - Finite automata and their decision problems.]]"
+  - "[[Sistla und Clarke - 1982 - The complexity of propositional linear time logics]]"
+  - "[[Siefkes - 1970 - Decidability theories I - Büchis monadic second-order successor arithmetics]]"
+  - "[[Sistla - 1983 - Theoretical issues in the design and verification of distributed systems]]"
+  - "[[Trakhtenbrot und Barzdin - 1973 - Finite automata behavior and synthesis]]"
+  - "[[Vardi - 1985 - On deterministic omega-automata]]"
+  - "[[Vardi und Stockmeyer - 1985 - Improved upper and lower bounds for modal logics of programs]]"
+  - "[[Vardi und Wolper - 1983 - Yet another process logic]]"
+  - "[[Vardi und Wolper - 1984 - Automata theoretic thechniques for modal logics of programs]]"
+  - "[[Wolper et al - 1983 - Reasoning about infinite computation paths]]"
+  - "[[Wolper - 1982 - Synthesis of communicating processes for temporal logic specifications]]"
+  - "[[Wolper - 1983 - Temporal logic can be more expressive]]"
 ---
 #Artikel #Informatik 
