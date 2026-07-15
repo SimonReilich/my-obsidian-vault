@@ -27,5 +27,8 @@ sources:
   - "[[Heizmann et al - 2010 - Nested interpolants]]"
   - "[[La Torre et al - 2007 - A robust class of context-sensitive languages]]"
   - "[[Lee et al - 2001 -  The size-change principle for program termination]]"
+  - "[[Ramsey - 1930 - On a problem of formal logic]]"
+  - "[[Tsai et al - 2011 - State of Büchi complementation]]"
+  - "[[Vardi und Wolper - 1986 - An automata-theoretic approach to automatic program verification]]"
 ---
 #Artikel #Informatik #AutoTheo 
