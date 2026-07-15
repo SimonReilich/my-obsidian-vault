@@ -13,5 +13,7 @@ sources:
   - "[[Althoff et al - 2006 - Observations on determinization of Büchi automata]]"
   - "[[Breuers et al - 2012 - Improved Ramsey-based Büchi complementation]]"
   - "[[Bryant - 1986 - Graph-based algorithms for Boolean function manipulation]]"
+  - "[[Büchi - 1960 - On a decision method in restricted second-order arithmetic]]"
+  - "[[Doyen und Raskin - 2009 - Antichains for the automata-based approach to model-checking]]"
 ---
 #Artikel #Informatik #AutoTheo 
