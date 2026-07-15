@@ -31,7 +31,7 @@ sources:
   - "[[Thomas - 1990 - Automata on infinite objects]]"
   - "[[Vardi und Wolper - 1986 - An automata-theoretic approach to automatic program verification]]"
 ---
-#Artikel #Informatik #AutoTheo #ToDo 
+#Artikel #Informatik #AutoTheo 
 # Grundlagen
 - Viele Probleme der Programmverifikation lassen sich als Sprachprobleme beschreiben
 - $\text{Menge der Ausführungen} \subseteq \text{Durch Spezifikation zugelassene Ausführungen}$ ?
