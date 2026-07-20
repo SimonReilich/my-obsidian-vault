@@ -1,6 +1,6 @@
 #Oberstufe #Inhaltsverzeichnis #Geschichte 
 
-- Kapitel 01 - [[Revolution 1848-49]] 
+- Kapitel 01 - [[Die Revolution von 1848-49]] 
 - Kapitel 02 - [[Deutsches Kaiserreich und Weimarer Republik]] 
 - Kapitel 03 - [[Nationalsozialismus]]
 - Kapitel 04 - [[BRD und DDR]]
