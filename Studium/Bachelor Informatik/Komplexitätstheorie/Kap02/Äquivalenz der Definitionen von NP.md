@@ -2,7 +2,7 @@
 lecture: "[[Komplexitätstheorie]]"
 ---
 #BScInfo #Informatik #Comp
-# Theorem
+# Satz
 Die folgenden Definitionen der Komplexitätsklasse [[NP]] sind äquivalent:
 - $\textbf{NP} = \{L \mid x \in L \iff \exists u \in \{0, 1\}^{p(|x|)} \text{ s.t. } M(x, u) = 1\}$ 
 - $\textbf{NP} = \bigcup_{c \geq 1}\textbf{NTIME}(n^c)$
