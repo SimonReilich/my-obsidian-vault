@@ -14,7 +14,7 @@ degree: "[[Bachelor Informatik]]"
 - Definition von [[EXP]]
 - Beweis von [[NP liegt zwischen P und EXP]] 
 - Formale Definition von [[Karp-Reduktion in Polynomialzeit]] 
-- Beispiel: [[3-Coloring <= Indset]] 
+- Beispiel: [[Reduktion von 3-Coloring zu Indset]] 
 
 # NP-schwer und -vollständig
 - Eine Sprache $L$ ist [[NP]]-schwer, wenn $\forall L' \in \textbf{NP}: L' \leq_p L$ gilt
