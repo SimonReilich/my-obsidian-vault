@@ -9,5 +9,4 @@ Alternativ kann $\textbf{NP}$ auch als Menge aller Sprachen Definiert werden, f√
 # $\textbf{NP}$-vollst√§ndige Probleme
 - [[Indset]]
 - [[3-Coloring]]
-- [[3SAT]]
-- [[Iso]] 
+- [[3SAT]] 
