@@ -11,7 +11,7 @@ degree: "[[Bachelor Informatik]]"
 - Beweis [[Äquivalenz der Definitionen von NP]] 
 
 # Verhältnis von NP zu anderen Klassen
-- Definition von [[EXP]]
+- Definition von [[EXP]] und [[NEXP]] 
 - Beweis von [[NP liegt zwischen P und EXP]] 
 - Formale Definition von [[Karp-Reduktion in Polynomialzeit]] 
 - Beispiel: [[Reduktion von 3-Coloring auf Indset]] 
