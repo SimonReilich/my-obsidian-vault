@@ -1,7 +1,7 @@
 ---
 lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
 ---
-#BScInfo #Informatik #GRnVs #Atomic 
+#BScInfo #Informatik #GRnVs 
 # Definition
 Algorithmus, um zu entscheiden, an welchen Next-[[Hop]] ein Paket weitergeleitet werden soll. Die [[Routingtabelle]] wird von längeren Präfixen (spezifischeren Routen) hin zu kürzeren Präfixen (weniger spezifische Routen) durchsucht. Der erste passende Eintrag liefert das Gateway (Next-Hop) eines Pakets. Diesen Prozess bezeichnet man als Longest Prefix Matching.
 

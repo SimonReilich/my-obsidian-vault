@@ -1,7 +1,7 @@
 ---
 subject: "[[Politik - Schule]]"
 ---
-#Oberstufe #Politik #Atomic 
+#Oberstufe #Politik 
 # Definition
 Der begriff beinhaltet viele verschiedene Dimensionen, einige davon sind: :
 - Ästhetik: In der [[Kunst]] und [[Architektur]] bezieht sich ‘modern’ häufig auf Stile, die im 20. Jh. entstanden sind, wie den Modernismus, der klare Linien, Funktionalität und eine Abkehr von traditionellen Formen betont.

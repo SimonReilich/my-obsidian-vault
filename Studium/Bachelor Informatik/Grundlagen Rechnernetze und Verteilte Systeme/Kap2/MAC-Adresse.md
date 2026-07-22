@@ -1,7 +1,7 @@
 ---
 lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
 ---
-#BScInfo #Informatik #GRnVs #Atomic 
+#BScInfo #Informatik #GRnVs 
 # Definition
 Als MAC-Adressen (Media Access Control) werden Adressen auf der [[Sicherungsschicht]] (Schicht 2) bezeichnet. Sie gewährleisten eine eindeutige Identifizierung der Knoten innerhalb des [[Direktverbindungsnetz|Direktverbindungsnetzes]]. Zumeist existiert eine [[Broadcast]]-Adresse, welche alle Knoten im [[Direktverbindungsnetz]] anspricht. Zusätzlich kann es [[Multicast]]-Adressen geben, die bestimmte Gruppen von Knoten ansprechen. MAC-Adressen dienen zur Adressierung innerhalb eines [[Direktverbindungsnetz]] und werden beim Forwarding durch einen [[Router]] verändert.
 

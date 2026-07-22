@@ -1,7 +1,7 @@
 ---
 subject: "[[Religion - Schule]]"
 ---
-#Oberstufe #Philosophie #Atomic 
+#Oberstufe #Philosophie 
 # Definition
 Das Naturrecht ist ein Modell der [[Norm]]begründung und leitet sich aus der Natur ab. Der Begriff "Natur" kann sich dabei auf den Menschen, die Natur an sich, oder das Universum beziehen.
 Grundmerkmal des Naturrechts ist es, vom "Sein" auf das "Sollen" zu schließen. Nach [[Thomas von Aquin]] ist beispielsweise jedermann einsichtig, dass der Mensch natürlicherweise nach der Wahrheit strebt (Sein). Daraus ergibt sich die [[Norm|Norm]] "Du sollst nicht lügen" (Sollen).

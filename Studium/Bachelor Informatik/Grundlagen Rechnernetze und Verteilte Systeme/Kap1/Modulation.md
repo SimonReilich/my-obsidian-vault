@@ -1,7 +1,7 @@
 ---
 lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
 ---
-#BScInfo #Informatik #GRnVs #Atomic 
+#BScInfo #Informatik #GRnVs 
 # Definition
 Wenn mehrere [[Signal|Signale]] gleichzeitig gesendet werden sollen, steht nur ein begrenztes Spektrum zur Verfügung. Dazu wird das Basisbandsignal [[Tiefpass|tiefpass-gefiltert]] (Begrenzung des Spektrums) und auf ein Trägersignal moduliert (Verschiebung des Spektrums).
 

@@ -1,7 +1,7 @@
 ---
 lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
 ---
-#BScInfo #Informatik #GRnVs #Atomic 
+#BScInfo #Informatik #GRnVs 
 # Definition
 Familie von Routingprotokollen mit folgenden Eigenschaften:
 - [[Router]] informieren einander zusätzlich zu den Kosten auch darüber, wie ein Ziel erreichbar ist

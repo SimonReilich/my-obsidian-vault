@@ -1,7 +1,7 @@
 ---
 lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
 ---
-#BScInfo #Informatik #GRnVs #Atomic 
+#BScInfo #Informatik #GRnVs 
 # Definition
 Modifikationen gegenüber [[Leitungsvermittlung]]:
 - Aufbau und Abbau einer dedizierten Verbindung entfallen

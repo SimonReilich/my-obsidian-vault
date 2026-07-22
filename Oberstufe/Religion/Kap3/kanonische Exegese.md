@@ -1,7 +1,7 @@
 ---
 subject: "[[Religion - Schule]]"
 ---
-#Oberstufe #Philosophie #Atomic 
+#Oberstufe #Philosophie 
 # Definition
 - Kanon = 'Gesammtheit der Stimmen'
 - Gesammtheit der Bibel stellt Kontext für Textstellen dar, intertextuelle Bezüge

@@ -1,7 +1,7 @@
 ---
 subject: "[[Chemie - Schule]]"
 ---
-#Oberstufe #Chemie #Atomic 
+#Oberstufe #Chemie 
 
 - [[Ammidion]] $\ce{NH2-}$ 
 - [[Ammokiak]] $\ce{NH3}$ 

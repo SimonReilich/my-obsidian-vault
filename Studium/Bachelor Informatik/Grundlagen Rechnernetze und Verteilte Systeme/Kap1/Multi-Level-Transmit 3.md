@@ -1,7 +1,7 @@
 ---
 lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
 ---
-#BScInfo #Informatik #GRnVs #Atomic 
+#BScInfo #Informatik #GRnVs 
 # Kodierungsvorschrift
 - [[Sendeimpuls]] $g(t) = rect (2t + {T \over 2}) - rect(2t - {T \over 2})$ mit Periodendauer $T$
 - Gewichte $d_n = \sin( {\pi \over 2} \sum_{k = 1}^n b_k )$ (abhängig von Anzahl der bisher beobachteten 1er bits)

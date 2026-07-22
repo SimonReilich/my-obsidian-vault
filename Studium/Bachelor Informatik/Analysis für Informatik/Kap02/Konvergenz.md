@@ -1,7 +1,7 @@
 ---
 lecture: "[[Analysis für Informatik]]"
 ---
-#BScInfo #Mathematik #AnaInfo #Atomic 
+#BScInfo #Mathematik #AnaInfo 
 # Definition
 Eine komplexe [[Folge]] $(a_n)_{n \in \mathbb{N}_0}$ konvergiert gegen $a \in \mathbb{C}$, falls für jede Genauigkeit $\epsilon > 0$ ein $n_0 \in \mathbb{N}$ existiert, sodass für alle $n > n_0$ gilt:
 $$ |a_n - a| < \epsilon $$

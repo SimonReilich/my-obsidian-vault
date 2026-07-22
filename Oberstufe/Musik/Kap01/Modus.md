@@ -1,7 +1,7 @@
 ---
 subject: "[[Musik - Schule]]"
 ---
-#Oberstufe #Musik #Atomic 
+#Oberstufe #Musik 
 # Definition 
 Bezeichnung für die mittelalterlichen Tonarten, später auch für rhythmische Regeln: Eine Longa (lange Note) kann in zwei Breves (imperfekter Modus) oder drei Breves (perfekter Modus) geteilt werden.
 
