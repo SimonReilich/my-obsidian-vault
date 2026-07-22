@@ -25,7 +25,7 @@ degree: "[[Bachelor Informatik]]"
 # Komplemente von Komplexitätsklassen
 - Definition der [[Komplementklasse]] und damit [[coNP]] 
 - Offensichtlicherweise gilt $\textbf{P} = \textbf{coP}$, unbekannt ist aber $\textbf{NP} \overset{?}{=} \textbf{coNP}$ 
-- Beweise [[Äquivalenz der Definitionen von coNP]], [[Tautology ist coNP-vollständig]] 
+- Beweise [[Tautology ist coNP-vollständig]] 
 
 # Unbekanntes
 - Die meisten bekannten Probleme in [[NP]] sind [[NP]]-vollständig
