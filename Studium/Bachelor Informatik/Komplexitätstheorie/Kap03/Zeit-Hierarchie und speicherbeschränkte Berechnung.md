@@ -8,3 +8,4 @@ lecture: "[[Komplexitätstheorie]]"
 - Das Eingabeband der [[Turingmaschiene]] wird nicht mitgezählt, $S(n) < n$ macht also Sinn
 - Die Position des Kopfes auf dem Eingabeband müssen wir jedoch speichern, desshalb $S(n) > \log(n)$ 
 - Komplexitätsklassen: [[L]], [[NL]], [[PSPACE]] und [[NPSPACE]] 
+- [[Zeit-vs-Speicher-Theorem]], [[Zeithierarchie-Theorem]], [[Speicherhierarchie-Theorem]], [[nichtdeterministisches Zeithierarchie-Theorem]] 
