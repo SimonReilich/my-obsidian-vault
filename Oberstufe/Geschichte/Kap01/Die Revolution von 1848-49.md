@@ -22,3 +22,29 @@ subject: "[[Geschichte - Schule]]"
 - Daher wanderten viele Menschen in die Städte ab, wo sie in den entstehenden Industriebetrieben Arbeit zu finden hofften
 - Viele Menschen mussten auf engstem Raum unter schlechten hygienischen Bedingungen leben, in den [[1840]]er-Jahren waren die Bewohner zahlreicher deutscher Regionen nicht in der Lage, durch eigene Arbeit für ihren Lebensunterhalt aufzukommen
 - Ein erstes deutliches Signal für die Zuspitzung der sozialen Krise war der [[Weberaufstand|Aufstand der schlesischen Weber]] [[1844]], der auf breite öffentliche Resonanz stieß
+- Die Jahre [[1846]] und [[1847]] waren durch die letzte große Hungersnot der vorindustriellen Zeit geprägt, witterungsbedingte Missernten und eine grassierende Kartoffelfäule führten zu Lebensmittelknappheit 
+- Zum Auslöser für europaweite revolutionäre Aufstände wurde die [[Februarrevolution]] von [[1848]] in Frankreich
+
+# Beginn der Revolution 
+- Nach der Ausrufung der [[Zweite Französische Republik|zweiten Französischen Republik]] gingen ab Februar [[1848]] in verschiedenen [[Europa|europäischen]] Regionen und im [[Deutscher Bund|deutschen Bund]] Menschen auf die Straße und stellten Forderungen an die Regierungen ([[Märzforderungen]])
+- Fürsten reagieren mit Angst: Einberufung von [[Liberalismus|liberal]] gesinnten Ministern ("Märzminister"), Versprechung von Bürgerrechten und gesamtdeutscher [[Verfassung]] 
+- [[Bundestag]] in [[Frankfurt]] ordnete die Aufhebung der [[Karlsbader Beschlüsse]] an 
+- In [[Berlin]] erreicht die Zahl der Demonstrierenden schnell die 20.000
+- Zeitgleich versuchten die [[Preußen|preußischen]] Minister König [[Friedrich Wilhelm IV.]] Zugeständnisse bezüglich der „[[Märzforderungen]]" abzuringen
+- König ist bereit einzulenken, bei der Verlesung der Reformen am 18. März kommt es aber zu einem Schusswechsel und Tumulten, was 300 Todesopfer fordert 
+- Mit der Proklamation "An mein Volk und an die deutsche Nation" sowie einem zeremoniellen Umritt mit Revolutionsfahne und schwarz-rot-goldener Armbinde präsentierte sich der [[Preußen|preußische]] König am 21. März als Anführer des revolutionären Umbruchs in [[Deutschland]] 
+- In [[Bayern]] gab es schon seit [[1847]] verstärkt Spannungen zwischen König [[Ludwig I.]], der keine Mitbestimmung zulassen wollte, und der Bevölkerung
+- Als Ende Februar die Nachricht von der Absetzung des [[Frankreich|französischen]] Königs kam, verstärkten sich die Proteste in [[München]], [[Augsburg]] und [[Nürnberg]] 
+- Erst als der König am 6. März in einer Proklamation der Umsetzung aller "[[Märzforderungen]]" zustimmte, beruhigte sich die Lage 
+- Doch am 19. März dankte [[Ludwig I.]] zugunsten seines Sohnes [[Maximilian II.]] ab, er wollte kein „Unterschreibkönig" sein
+
+# Die erste deutsche Nationalversammlung 
+- Die [[Liberalismus|liberalen]] Wortführer der Revolution waren bestrebt, die in den Märzunruhen erzielten Erfolge politisch umzusetzen
+- Der Schauplatz der Ereignisse verlagerte sich nach [[Frankfurt am Main]]. Dort versammelten sich am 30. März [[1848]] Landtagsabgeordnete aller deutschen Staaten zu einem Vorparlament, das die Wahl zu einer Nationalversammlung vorbereiten sollte
+- Die wachsende Kluft zwischen radikalen Demokraten einerseits und Liberalen sowie gemäßigten Demokraten andererseits schwächte die revolutionäre Bewegung
+- Anfang Mai [[1848]] wurde das erste gesamtdeutsche Parlament gewählt
+- Das Wahlrecht wurde in den einzelnen Staaten sehr unterschiedlich ausgelegt, die durchschnittliche Wahlberechtigung lag bei etwa 80% der Männer, was eine für die damalige Zeit breite demokratische Legitimation darstellte, Frauen hatten kein Wahlrecht, Arbeiter nicht in allen Staaten
+- Am 18. Mai [[1848]] zogen die Abgeordneten der [[Paulskirche Parlament|verfassungsgebenden Nationalversammlung]] feierlich in die Paulskirche ein 
+- soziale Zusammensetzung der Nationalversammlung entsprach keineswegs der sozialen Gliederung in der deutschen Bevölkerung sondern war vom [[Bürgertum]] geprägt
+- Zu ihrem Präsidenten wählten die Abgeordneten den [[Liberalismus|Liberalen]] [[Heinrich von Gagern]] 
+- Im Laufe der Debatten bildeten sich Fraktionen mit unterschiedlichen politischen Zielsetzungen: [[Deutscher Hof]], [[Württemberger Hof]], [[Casino]] und [[Cafe Milani]] 
