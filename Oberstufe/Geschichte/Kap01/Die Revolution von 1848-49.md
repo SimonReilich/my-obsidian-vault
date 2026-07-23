@@ -15,3 +15,10 @@ subject: "[[Geschichte - Schule]]"
 - Auch einige Professoren äußerten sich immer wieder kritisch zur restaurativen Politik der Landesfürsten, wie etwa die [[Göttinger Sieben]] 
 - Radikalere Ansichten vertraten einige Schriftsteller, die unter dem Namen „[[Junges Deutschland]]" bekannt wurden
 - Die sogenannte „[[Rheinkrise]]" von [[1840]] verstärkte erneut die Forderungen nach einem deutschen [[Nation|Nationalstaat]] und damit die [[Nationalismus|nationalen]] Ideen 
+
+# Ursachen der Revolution 
+- Seit den [[1830]]er-Jahren beherrschten Armut und Elend den Alltag vieler Menschen, die Zeitgenossen prägten hierfür den Begriff "[[Pauperismus]]" 
+- Auf dem Land sorgte die Abschaffung der [[Grundherrschaft]] zusammen mit der Umstellung auf eine marktorientierte Produktion für tiefgreifende soziale und wirtschaftliche Veränderungen
+- Daher wanderten viele Menschen in die Städte ab, wo sie in den entstehenden Industriebetrieben Arbeit zu finden hofften
+- Viele Menschen mussten auf engstem Raum unter schlechten hygienischen Bedingungen leben, in den [[1840]]er-Jahren waren die Bewohner zahlreicher deutscher Regionen nicht in der Lage, durch eigene Arbeit für ihren Lebensunterhalt aufzukommen
+- Ein erstes deutliches Signal für die Zuspitzung der sozialen Krise war der [[Weberaufstand|Aufstand der schlesischen Weber]] [[1844]], der auf breite öffentliche Resonanz stieß
