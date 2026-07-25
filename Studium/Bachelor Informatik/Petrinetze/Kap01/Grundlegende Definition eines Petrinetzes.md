@@ -15,9 +15,9 @@ degree: "[[Bachelor Informatik]]"
 - Definition einer [[Markierung]]
 - Eine Transition $t$ ist für eine gegebene [[Markierung]] $M$ schaltbereit, wenn für jede Stelle $s \in \cdot t$ $M(s) \geq 1$ 
 - Wenn eine Transition $t$ für eine [[Markierung]] $M$ schaltbereit ist und schaltet, führt das zu einer neuen [[Markierung]] $$M' = \begin{cases} M(s) - 1 & \text{wenn } s \in \cdot t \setminus t \cdot \\ M(s) + 1 & \text{wenn } s \in t\cdot \setminus \cdot t \\ M(s) & \text{sonst} \end{cases}$$
+- Definition einer [[Schaltsequenz]] 
 - Man schreibt $M \overset{t}{\rightarrow} M'$, $[M\textrangle$ ist die Menge aller von $M$ aus erreichbaren [[Markierung|Markierungen]]
 - Eine [[Markierung]] ist tot, wenn keine Transition schaltbereit ist
-- Definition einer [[Schaltsequenz]] 
 - [[Monotonie-Lemma]]: Durch hinzufügen von Tokens werden Transitionen nicht deaktiviert
 - Ein [[Petrinetz]] ist ein [[Tupel]] aus einem [[Netz]] und einer initialen [[Markierung]] 
 - [[Erreichbarkeitsgraph-Algorithmus]] 
