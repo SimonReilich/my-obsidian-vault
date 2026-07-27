@@ -1,0 +1,10 @@
+---
+subject: "[[Geschichte - Schule]]"
+---
+#Oberstufe #Geschichte 
+# Definition 
+Mit dem Begriff Soziale Frage bezeichneten schon Zeitgenossen die Frage nach der Lösung der durch die [[Industrielle Revolution|Industrialisierung]] entstandenen sozialen Probleme, insbesondere der [[Arbeiterschaft|Industriearbeiterschaft]]. Deren Arbeitsverhältnisse waren trotz allmählicher Verbesserungen in einigen Arbeitsbereichen im Laufe der zweiten Hälfte des 19. Jahrhunderts geprägt durch lange und körperlich harte Tätigkeiten bei viel Lärm und Hitze sowie unzureichender Belichtung und Belüftung, meist an sechs Wochentagen. Es fehlten Absicherungen gegen Krankheit, Unfall und Invalidität sowie gegen die häufige Arbeitslosigkeit und Altersarmut. Die Löhne blieben gering, Bildungs- und Aufstiegschancen gab es kaum.
+
+Da das Familienoberhaupt den Unterhalt meist nicht allein erwirtschaften konnte, mussten Frauen und Kinder in der Landwirtschaft, in Fabriken oder in Heimarbeit zusätzlich Geld verdienen. Doch erhielten Frauen oft nur die Hälfte und Kinder ein Viertel des Verdienstes eines ungelernten Arbeiters, weshalb viele Arbeiterfamilien am Existenzminimum lebten. Hinzu kamen erhebliche gesundheitliche Schäden, bei Frauen gerade während der Schwangerschaft, bei Kindern in der Wachstumsphase. Für Frauen stellte die Arbeit eine Mehrbelastung zur Haushaltsführung und Erziehung dar. Kinder besuchten nur unregelmäßig oder gar nicht die Schule.
+
+Als Folge der Industrialisierung kam es zur [[Urbanisierung]]. In Industrieregionen wie dem [[Ruhrgebiet]] entstanden Arbeiterwohnviertel nahe der Eisen- und Stahlindustrie mit ihrem Abgasen. In Großstädten wohnten die Arbeiterfamilien oft in mehrgeschossigen Gebäuden mit mehreren Hinterhöfen, sogenannten „Mietskasernen". In diesen dunklen, beengten sowie schlecht belüfteten und beheizten Wohnungen fehlten oft fließendes Wasser und der Anschluss an die Kanalisation. Die mangelnde Hygiene förderte die Ausbreitung von Infektionskrankheiten. Aus Not vermieteten viele während ihrer Arbeitszeit das eigene Bett für einige Stunden an Untermieter (,,Schlafgänger").

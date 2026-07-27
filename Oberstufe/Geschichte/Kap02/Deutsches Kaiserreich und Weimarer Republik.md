@@ -25,3 +25,17 @@ subject: "[[Geschichte - Schule]]"
 - Im Zuge von Industrialisierung, Modernisierung und [[Urbanisierung|Verstädterung]] ging jedoch der ökonomische und gesellschaftliche Stellenwert des [[Adel|Adels]] im Vergleich zum aufstrebenden [[Bürgertum]] zurück
 - Allerdings gab es auch [[Adel|Adlige]], die unternehmerisch tätig waren und so ihren Wohlstand noch weiter mehren konnten
 - Unterteilung des [[Bürgertum|Bürgertums]] in drei Hauptgruppen: [[Großbürgertum|Groß-]], [[Bildungsbürgertum|Bildungs-]] und [[Kleinbürgertum]] 
+
+# Lebensbedingungen der Industriearbeiterschaft im Kaiserreich 
+- Die größte soziale Gruppe, die sich im Laufe der [[Industrielle Revolution|Industrialisierung]] herausbildete, war die [[Arbeiterschaft]], die im [[Deutsches Kaiserreich|Deutschen Kaiserreich]] mehr als zwei Drittel der Gesamtbevölkerung darstellte
+- Da das hohe Bevölkerungswachstum zu einem Überangebot an Arbeitskräften führte, konnten die Unternehmer die Löhne senken
+- Für die [[Arbeiterschaft]] wird die [[Soziale Frage]] zum bestimmenden Problem
+- Um ein stärkeres Gewicht zur Durchsetzung ihrer Forderungen zu erhalten, gründete die [[Arbeiterschaft]] [[Gewerkschaft|Gewerkschaften]], Parteien und Vereine
+- Zeitgleich erkannten viele Arbeiter, dass ihre Interessen von den bürgerlichen liberalen Parteien nicht hinreichend vertreten wurden, [[1863]] entsteht der [[Allgemeiner Deutscher Arbeiterverein]] 
+- Gründung der [[Sozialdemokratische Arbeiterpartei|Sozialdemokratischen Arbeiterpartei]] [[1869]] und Zusammenschluss zur [[Sozialistische Arbeiterpartei Deutschlands|Sozialistischen Arbeiterpartei Deutschlands]] im Jahr [[1875]] 
+- Reichskanzler [[Otto von Bismarck|Bismarck]] sowie die Konservativen und [[Liberalismus|Nationalliberalen]] befürchteten ein Erstarken der Arbeiterbewegung
+- Anlässlich zweier fälschlicherweise der Partei zugeschriebenen Attentate auf Kaiser [[Wilhelm I.]] erließ der Reichstag [[1878]] das „[[Gesetz gegen die gemeingefährlichen Bestrebun- gen der Sozialdemokratie]]"
+- In der Folge erhielt die SAP [[1890]] erstmals die meisten Stimmen bei der Reichstagswahl und benannte sich in [[Sozialdemokratische Partei Deutschlands]] (SPD) um
+- Bald setzte sich der Reformismus durch, wonach die Partei laut [[Sozialdemokratische Partei Deutschlands|SPD]]-Politiker [[Karl Kautsky]] eine „revolutionäre, nicht aber eine Revolution machende Partei" sei 
+- In einer doppelgleisigen Politik sollte neben der staatlichen Repression durch das „,Sozialistengesetz" als positives Gegenstück eine aktive Sozialpolitik die wirtschaftliche und soziale Not der Arbeiterschaft lindern, sie enger an den Staat binden und eine Revolution verhindern
+- Nachdem der Reichskanzler [[1881]] durch Kaiser [[Wilhelm I.]] das Sozialversicherungssystem ankündigen ließ, wurde vom Reichstag [[1883]] wenig umstritten die [[Krankenversicherung]], [[1884]] im dritten Anlauf die [[Unfallversicherung]] und nach sehr langen Verhandlungen [[1889]] die Invaliditäts- und Altersversicherung verabschiedet
