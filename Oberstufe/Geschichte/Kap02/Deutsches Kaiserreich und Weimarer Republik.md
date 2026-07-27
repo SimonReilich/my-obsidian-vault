@@ -15,4 +15,13 @@ subject: "[[Geschichte - Schule]]"
 - Unter den Parteien im Reichstag kristallisierten sich fünf politische Strömungen heraus: [[Deutschkonservative Partei]], [[Nationalliberale Partei]], [[Deutsche Freisinninge Partei]], [[Deutsche Zentrumspartei]], [[Sozialdemokratische Partei Deutschlands]] 
 - Im Zuge der [[1874]] gewährten Pressefreiheit wurden die hitzigen Parlamentsdebatten von einer breiten medialen Berichterstattung begleitet, was zur Modernisierung und Demokratisierung des politischen Systems beitrug
 - Die Erinnerung an die Einigungskriege wurde in Form von großen Nationaldenkmälern und in unzähligen Kriegerdenkmälern wachgehalten, um nationale Identifikation zu ermöglichen 
-- Nach der Reichsgründung erfuhr der einst gegen Fürsten und [[Deutscher Bund|Deutschen Bund]] gerichtete [[Liberalismus|liberale]] [[Nationalismus]] einen tiefgreifenden Bedeutungsund Funktionswandel zu einem Reichsnationalismus
+- [[Reichsnationalismus]] wird zu einer weit verbreiteten politischen Position und führt zur Radikalisierung der Gesellschaft 
+- Da die Verfassung keinen Grundrechtskatalog oder Minderheitenschutz vorsah, konnte das [[Deutsches Kaiserreich|Reich]] die Rechte von Minderheiten beschneiden und ihre nationale sowie kulturelle Identität zurückdrängen
+
+# Adel und Bürgertum im Kaiserreich 
+- Zunehmender Wandel von [[Ständegesellschaft|Stände-]] zur [[Industrielle Revolution|Industriegesellschaft]] 
+- Das Deutsche Kaiserreich blieb jedoch zunächst überwiegend agrarisch geprägt, [[1871]] lebten über 60% der 41 Millionen Einwohnerinnen und Einwohner auf dem Land 
+- Als Folge der [[Französische Revolution|Französischen Revolution]] verlor der [[Adel]], die führende Gruppe der [[Ständegesellschaft]], seine Privilegien 
+- Im Zuge von Industrialisierung, Modernisierung und [[Urbanisierung|Verstädterung]] ging jedoch der ökonomische und gesellschaftliche Stellenwert des [[Adel|Adels]] im Vergleich zum aufstrebenden [[Bürgertum]] zurück
+- Allerdings gab es auch [[Adel|Adlige]], die unternehmerisch tätig waren und so ihren Wohlstand noch weiter mehren konnten
+- Unterteilung des [[Bürgertum|Bürgertums]] in drei Hauptgruppen: [[Großbürgertum|Groß-]], [[Bildungsbürgertum|Bildungs-]] und [[Kleinbürgertum]] 

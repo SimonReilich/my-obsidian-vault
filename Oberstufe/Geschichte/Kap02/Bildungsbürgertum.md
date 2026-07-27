@@ -1,0 +1,6 @@
+---
+subject: "[[Geschichte - Schule]]"
+---
+#Oberstufe #Geschichte 
+# Definition 
+Das Bildungsbürgertum, das nur ein Prozent an der Bevölkerung im [[Deutsches Kaiserreich]] ausmachte, besetzte führende Positionen in der höheren Bürokratie (Beamte), Justiz (Richter) und Bildung (Professoren, Gymnasiallehrer) und konnte so durch seine breit gefächerten Tätigkeiten auf das politische Geschehen einwirken. Hinzu kamen freie Berufe wie Ärzte und Rechtsanwälte, Architekten und Ingenieure, Journalisten, Schriftsteller und Künstler. Weibliche Angehörige des Bürgertums übten nur selten eine Berufstätigkeit aus, z. B. als Lehrerinnen, Ärztinnen und Schriftstellerinnen, und das oft nur bis zur Hochzeit. Das gemeinsame Kapital, die gymnasiale Bildung und ein Universitäts- abschluss, verschaffte den Bürgerlichen Ansehen und half zugleich, das Kaiserreich zu einem Zentrum von Wissenschaft, Forschung und Kultur zu machen. Ihre politischen Ansichten vertraten die Bildungsbürger in [[Liberalismus|lilbaralen]] Parteien sowie in der Presse und im Kulturbetrieb. Familien des Bildungsbürgertums besaßen oft Villen in attraktiven städtischen Wohngegenden. Während einige durch Heirat zu [[Großbürgertum|Besitzbürgern]] aufsteigen, wurden im Gegenzug Unternehmerkinder oft aufgrund ihres Studiums Teil des Bildungsbürgertums.
