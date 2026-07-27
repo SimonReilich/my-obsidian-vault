@@ -26,7 +26,7 @@ subject: "[[Geschichte - Schule]]"
 - Zum Auslöser für europaweite revolutionäre Aufstände wurde die [[Februarrevolution]] von [[1848]] in Frankreich
 
 # Beginn der Revolution 
-- Nach der Ausrufung der [[Zweite Französische Republik|zweiten Französischen Republik]] gingen ab Februar [[1848]] in verschiedenen [[Europa|europäischen]] Regionen und im [[Deutscher Bund|deutschen Bund]] Menschen auf die Straße und stellten Forderungen an die Regierungen ([[Märzforderungen]])
+- Nach der Ausrufung der [[Zweite Französische Republik|zweiten Französischen Republik]] gingen ab Februar [[1848]] in verschiedenen [[Europa|europäischen]] Regionen und im [[Deutscher Bund|deutschen Bund]] Menschen auf die Straße und stellten Forderungen an die Regierungen ([[Märzforderungen]]), die [[Märzrevolution]] beginnt
 - Fürsten reagieren mit Angst: Einberufung von [[Liberalismus|liberal]] gesinnten Ministern ("Märzminister"), Versprechung von Bürgerrechten und gesamtdeutscher [[Verfassung]] 
 - [[Bundestag]] in [[Frankfurt]] ordnete die Aufhebung der [[Karlsbader Beschlüsse]] an 
 - In [[Berlin]] erreicht die Zahl der Demonstrierenden schnell die 20.000
@@ -48,3 +48,21 @@ subject: "[[Geschichte - Schule]]"
 - soziale Zusammensetzung der Nationalversammlung entsprach keineswegs der sozialen Gliederung in der deutschen Bevölkerung sondern war vom [[Bürgertum]] geprägt
 - Zu ihrem Präsidenten wählten die Abgeordneten den [[Liberalismus|Liberalen]] [[Heinrich von Gagern]] 
 - Im Laufe der Debatten bildeten sich Fraktionen mit unterschiedlichen politischen Zielsetzungen: [[Deutscher Hof]], [[Württemberger Hof]], [[Casino]] und [[Cafe Milani]] 
+- Am 29. Juni [[1848]] wählten die Abgeordneten Erzherzog [[Johann von Österreich]] zum deutschen Reichsverweser und damit zum ersten deutschen Staatsoberhaupt, das demokratisch legitimiert war
+- Die Beratungen über die künftige [[Verfassung]] hatten vier Schwerpunkte: Grundrechte für das deutsche Volk, die Grenzen des Reichs, die Machtverteilung und die Staatsform
+- Demokratischer Prozess wird in größer werdenden Teilen der Gesellschaft jedoch als zäh wahrgenommen 
+
+# Das Ende der Revolution und ihre Folgen
+- Die Fürsten der Staaten des [[Deutscher Bund|deutschen Bundes]] beginnen, Widerstand zu organisieren 
+- Radikale Demokraten, die mit dem Fortschritt im [[Paulskirche Parlament]] unzufrieden sind, versuchen im Herbst [[1848]] eine zweite revolutionäre Welle in Gang zu setzen 
+- Gleichzeitig erstarken konservative Kräfte, die eine Rücknahme der [[Märzforderungen]] fordern 
+- König [[Friedrich Wilhelm IV.]] hatte bereits im Frühsommer [[1848]] seine Haltung geändert und strebte eine Restauration an
+- Anfang Dezember [[1848]] lässt er Aufstände vom Militär niederschlagen, löst die preußische Nationalversammlung auf und setzte selbst eine neue [[Verfassung]] mit [[Liberalismus|liberalen]] Elementen und einem Grundrechtskatalog in Kraft
+- Auch in [[Wien]] setzt sich das Militär gegen die Aufständischen durch
+- [[Paulskirche Parlament]] arbeitet trotzdem weiter, am 27. März [[1849]] verabschiedete das Parlament eine Reichsverfassung, einen Tag später wählte sie den preußischen König [[Friedrich Wilhelm IV.]] zum [[Kaiser]], dieser lehnt jedoch ab
+- Viele Staaten ziehen ihre Abgeordneten ab, das noch verbliebene „Rumpfparlament" zog nach [[Stuttgart]] um, weil die verbliebenen radikaldemokratischen Mitglieder aus [[Frankfurt]] ausgewiesen worden waren
+- Mitte Juni wird das Parlament vom Militär gewaltsam aufgelöst 
+- Nachdem der Versuch, einen Nationalstaat auf parlamentarischem Weg zu gründen, gescheitert war, versuchten dies radikaldemokratische Kräfte im Mai [[1849]] mit Mitteln des bewaffneten Kampfes durchzusetzen, werden jedoch vom Militär niedergeschlagen
+- In allen Staaten des [[Deutscher Bund|Deutschen Bundes]] kehrte man zum monarchisch-obrigkeitsstaatlichen System zurück
+- [[1851]] wurden im [[Deutscher Bund|Deutschen Bund]] endgültig alle liberalen Errungenschaften der Revolution, u. a. die Grundrechte, zurück genommen
+- Große Teile der Bevölkerung und insbesondere des Bürgertums hatten sich in der Endphase der Revolution passiv verhalten und so zum Scheitern beigetragen
