@@ -39,3 +39,14 @@ subject: "[[Geschichte - Schule]]"
 - Bald setzte sich der Reformismus durch, wonach die Partei laut [[Sozialdemokratische Partei Deutschlands|SPD]]-Politiker [[Karl Kautsky]] eine „revolutionäre, nicht aber eine Revolution machende Partei" sei 
 - In einer doppelgleisigen Politik sollte neben der staatlichen Repression durch das „,Sozialistengesetz" als positives Gegenstück eine aktive Sozialpolitik die wirtschaftliche und soziale Not der Arbeiterschaft lindern, sie enger an den Staat binden und eine Revolution verhindern
 - Nachdem der Reichskanzler [[1881]] durch Kaiser [[Wilhelm I.]] das Sozialversicherungssystem ankündigen ließ, wurde vom Reichstag [[1883]] wenig umstritten die [[Krankenversicherung]], [[1884]] im dritten Anlauf die [[Unfallversicherung]] und nach sehr langen Verhandlungen [[1889]] die Invaliditäts- und Altersversicherung verabschiedet
+
+# Vom Kaiserreich zur Republik 
+- Nach mehr als vier Jahren endete der [[Erster Weltkrieg|Erste Weltkrieg]] [[1918]] mit einer Niederlage für [[Deutschland]]
+- US-Präsident [[Woodrow Wilson]] macht die innere Demokratisierung des [[Deutsches Reich|Deutschen Reichs]] zur Voraussetzung für einen Friedensschluss
+- Erst Ende September [[1918]] gestand die Oberste Heeresleitung (OHL) unter [[Paul von Hindenburg]] und [[Erich Ludendorff]] die militärische Niederlage offiziell ein
+- In dieser Zeit verschlechterte sich die Versorgungslage und der Ruf nach Frieden sowie einer Abdankung des Kaisers wurde immer lauter, [[Wilhelm II.]] lehnte ab, indem er sich der Verantwortung entzog und ins [[Niederlande|holländische]] Exil übersiedelte
+- Ab dem 3. November [[1918]] leisteten Matrosen Widerstand gegen die Befehle, die ein letztes Auslaufen der Flotte verlangten
+- Etwa zeitgleich bildeten sich zahlreiche Arbeiter- und Soldatenräte, die zur Niederschlagung dieser Aufstände eingesetzte Polizei kapitulierte häufig oder lief über 
+- [[Kurt Eisner]], Vorsitzender der [[Unabhängige Sozialdemokratische Partei Deutschlands|Unabhängigen Sozialdemokratischen Partei Deutschlands]] (USPD) in [[Bayern]], rief in München am 7. November [[1918]] die [[Republik]] aus und erklärte [[Bayern]] durch Absetzung des Königshauses zum [[Republik|Freistaat]] 
+- Damit endete die Regentschaft des Hauses Wittelsbach, das seit [[1180]] [[Bayern]] regiert hatte, König [[Ludwig III.]] flüchtete, Arbeiter-, Soldaten- und Bauernräte übernahmen in [[Bayern|bayerischen]] Städten die Macht
+- Reichskanzler [[Max von Baden]] verkündete unter dem Druck andauernder Proteste ohne Rücksprache mit dem Kaiser den Thronverzicht [[Wilhelm II.|Wilhelms II.]] und gab sein Amt als Reichskanzler an den Vorsitzenden der [[Sozialdemokratische Partei Deutschlands|SPD]] [[Friedrich Ebert]] ab
