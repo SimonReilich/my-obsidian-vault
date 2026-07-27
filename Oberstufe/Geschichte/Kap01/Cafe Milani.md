@@ -3,7 +3,7 @@ subject: "[[Geschichte - Schule]]"
 ---
 #Oberstufe #Geschichte 
 # Definition 
-Fraktion im [[Paulskirche Parlament]] mit Positionen der konservativen Rechten:
+Fraktion im [[Paulskirchenversammlung]] mit Positionen der konservativen Rechten:
 - [[Konstitutionelle Monarchie]]
 - [[Erbkaisertum]]
 - schwaches [[Parlament]] 

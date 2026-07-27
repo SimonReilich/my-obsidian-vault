@@ -3,7 +3,7 @@ subject: "[[Geschichte - Schule]]"
 ---
 #Oberstufe #Geschichte 
 # Definition 
-Fraktion im [[Paulskirche Parlament]] mit Positionen der [[Liberalismus|linksliberalen]] Mitte:
+Fraktion im [[Paulskirchenversammlung]] mit Positionen der [[Liberalismus|linksliberalen]] Mitte:
 - [[Volkssouveränität]]
 - [[Parlamentarische Monarchie]]
 - wenig Macht für Fürsten 

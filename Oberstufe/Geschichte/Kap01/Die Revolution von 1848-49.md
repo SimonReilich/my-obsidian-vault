@@ -44,7 +44,7 @@ subject: "[[Geschichte - Schule]]"
 - Die wachsende Kluft zwischen radikalen Demokraten einerseits und Liberalen sowie gemäßigten Demokraten andererseits schwächte die revolutionäre Bewegung
 - Anfang Mai [[1848]] wurde das erste gesamtdeutsche Parlament gewählt
 - Das Wahlrecht wurde in den einzelnen Staaten sehr unterschiedlich ausgelegt, die durchschnittliche Wahlberechtigung lag bei etwa 80% der Männer, was eine für die damalige Zeit breite demokratische Legitimation darstellte, Frauen hatten kein Wahlrecht, Arbeiter nicht in allen Staaten
-- Am 18. Mai [[1848]] zogen die Abgeordneten der [[Paulskirche Parlament|verfassungsgebenden Nationalversammlung]] feierlich in die Paulskirche ein 
+- Am 18. Mai [[1848]] zogen die Abgeordneten der [[Paulskirchenversammlung|verfassungsgebenden Nationalversammlung]] feierlich in die Paulskirche ein 
 - soziale Zusammensetzung der Nationalversammlung entsprach keineswegs der sozialen Gliederung in der deutschen Bevölkerung sondern war vom [[Bürgertum]] geprägt
 - Zu ihrem Präsidenten wählten die Abgeordneten den [[Liberalismus|Liberalen]] [[Heinrich von Gagern]] 
 - Im Laufe der Debatten bildeten sich Fraktionen mit unterschiedlichen politischen Zielsetzungen: [[Deutscher Hof]], [[Württemberger Hof]], [[Casino]] und [[Cafe Milani]] 
@@ -54,15 +54,24 @@ subject: "[[Geschichte - Schule]]"
 
 # Das Ende der Revolution und ihre Folgen
 - Die Fürsten der Staaten des [[Deutscher Bund|deutschen Bundes]] beginnen, Widerstand zu organisieren 
-- Radikale Demokraten, die mit dem Fortschritt im [[Paulskirche Parlament]] unzufrieden sind, versuchen im Herbst [[1848]] eine zweite revolutionäre Welle in Gang zu setzen 
+- Radikale Demokraten, die mit dem Fortschritt im [[Paulskirchenversammlung]] unzufrieden sind, versuchen im Herbst [[1848]] eine zweite revolutionäre Welle in Gang zu setzen 
 - Gleichzeitig erstarken konservative Kräfte, die eine Rücknahme der [[Märzforderungen]] fordern 
 - König [[Friedrich Wilhelm IV.]] hatte bereits im Frühsommer [[1848]] seine Haltung geändert und strebte eine Restauration an
 - Anfang Dezember [[1848]] lässt er Aufstände vom Militär niederschlagen, löst die preußische Nationalversammlung auf und setzte selbst eine neue [[Verfassung]] mit [[Liberalismus|liberalen]] Elementen und einem Grundrechtskatalog in Kraft
 - Auch in [[Wien]] setzt sich das Militär gegen die Aufständischen durch
-- [[Paulskirche Parlament]] arbeitet trotzdem weiter, am 27. März [[1849]] verabschiedete das Parlament eine Reichsverfassung, einen Tag später wählte sie den preußischen König [[Friedrich Wilhelm IV.]] zum [[Kaiser]], dieser lehnt jedoch ab
+- [[Paulskirchenversammlung]] arbeitet trotzdem weiter, am 27. März [[1849]] verabschiedete das Parlament eine Reichsverfassung, einen Tag später wählte sie den preußischen König [[Friedrich Wilhelm IV.]] zum [[Kaiser]], dieser lehnt jedoch ab
 - Viele Staaten ziehen ihre Abgeordneten ab, das noch verbliebene „Rumpfparlament" zog nach [[Stuttgart]] um, weil die verbliebenen radikaldemokratischen Mitglieder aus [[Frankfurt]] ausgewiesen worden waren
 - Mitte Juni wird das Parlament vom Militär gewaltsam aufgelöst 
 - Nachdem der Versuch, einen Nationalstaat auf parlamentarischem Weg zu gründen, gescheitert war, versuchten dies radikaldemokratische Kräfte im Mai [[1849]] mit Mitteln des bewaffneten Kampfes durchzusetzen, werden jedoch vom Militär niedergeschlagen
 - In allen Staaten des [[Deutscher Bund|Deutschen Bundes]] kehrte man zum monarchisch-obrigkeitsstaatlichen System zurück
 - [[1851]] wurden im [[Deutscher Bund|Deutschen Bund]] endgültig alle liberalen Errungenschaften der Revolution, u. a. die Grundrechte, zurück genommen
 - Große Teile der Bevölkerung und insbesondere des Bürgertums hatten sich in der Endphase der Revolution passiv verhalten und so zum Scheitern beigetragen
+
+# Auswirkungen auf Vereine und Publizistik 
+- Eine wichtige Voraussetzung für die [[Märzrevolution]] bildete die wachsende Politisierung des [[Bürgertum|Bürgertums]] im Vormärz
+- In den [[1840]]er-Jahren verlor die Zensur aber an Wirkung, da die Druckerzeugnisse dank moderner Schnellpressen in Massenauflagen produziert und per Eisenbahn sowie Telegrafie schnell verbreitet werden konnten
+- Mit der Aufhebung der Zensur im März [[1848]] wurden viele neue Zeitungen gegründet. Sie berichteten kritisch über die politischen Ereignisse und stellten ein Forum für die politische Diskussion dar 
+- Das Vereinswesen in Deutschland hatte bereits um [[1800]] einen ersten Höhepunkt erreicht, Turnvereine und Burschenschaften vertraten oft [[Nationalismus|nationale]] Ideen
+- Um die Zensur im [[Deutscher Bund|Deutschen Bund]] zu umgehen nutzten die Menschen häufig nach außen unpolitisch wirkende Vereine, um politische Ideen untereinander auszutauschen 
+- Infolge der Revolution wurden [[1849]] viele politische Vereine verboten
+- Allgemein ist ein wachsender [[Pluralismus]] festzustellen 
