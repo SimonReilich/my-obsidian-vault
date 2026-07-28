@@ -87,3 +87,6 @@ subject: "[[Geschichte - Schule]]"
 - [[1871]] wurde der ehemalige Finanzminister [[Matthias Erzberger]], der den Waffenstillstandsvertrag unterzeichnet hatte, und [[1922]] Reichsaußenminister [[Walther Rathenau]] von Rechtsextremisten mit [[Antisemitismus|antisemitischer]] Gesinnung ermordet
 - Viele Bürgerinnen und Bürger unterstützten die junge [[Republik]] nicht ausreichend 
 - Krisenjahr [[1923]]: [[Ruhrbesetzung]], [[Hyperinflation]], [[Kapp-Lüttwitz-Putsch]] und [[Hitlerputsch]] 
+- Sowohl mit Blick auf die Gefahren eines Putsches wie auch auf die Probleme der [[Hyperinflation]] reagierte die Regierung mit Maßnahmen, die die Situation stabilisierten
+- Deutschland entwickelte sich als Industriestaat weiter und erreichte in den Jahren [[1927]] bis [[1929]] wirtschaftlich das Vorkriegsniveau 
+- Der Börsenkrach in [[New York]] [[1929]] und der Beginn der [[Weltwirtschaftskrise]] setzten dieser Entwicklung ein Ende 
