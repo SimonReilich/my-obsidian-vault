@@ -13,4 +13,4 @@ subject: "[[Geschichte - Schule]]"
 - Mit dem Auseinanderbrechen des Regierungsbündnisses im Frühjahr [[1930]] endete das letzte vom Parlament unterstützte Kabinett der [[Weimarer Republik]], es folgten die sogenannten [[Präsidialkabinette]] 
 - Die innenpolitischen Auseinandersetzung wurden nun verstärkt außerhalb des [[Parlament|Parlaments]] geführt: Die Straßenkämpfe der paramilitärischen Verbände, vor allem von [[Kommunistische Partei Deutschlands|KPD]] und [[Nationalsozialistische Deutsche Arbeiterpartei|NSDAP]], nahmen immer mehr bürgerkriegsähnlicher Zustände an
 - Ein Verbot der [[Sturmabteilung|SA]] und [[Schutzstaffel|SS]] durch [[Heinrich Brüning]] im April [[1932]] entschärfte die Situation nicht, weil nach dessen Entlassung durch [[Paul von Hindenburg|Hindenburg]] Ende Mai [[1932]] der neue, parteilose Reichskanzler [[Franz von Papen]] das Verbot umgehend wieder aufhob
-- [[Franz von Papen]] hoffte
+- [[Franz von Papen]] hoffte, [[Adolf Hitler]] in eine [[Konservativismus|konservative]] Regierung einbinden zu können, Verhandlungen schlugen jedoch zunächst fehl 
