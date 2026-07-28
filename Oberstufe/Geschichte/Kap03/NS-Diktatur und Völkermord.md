@@ -14,3 +14,8 @@ subject: "[[Geschichte - Schule]]"
 - Die innenpolitischen Auseinandersetzung wurden nun verstärkt außerhalb des [[Parlament|Parlaments]] geführt: Die Straßenkämpfe der paramilitärischen Verbände, vor allem von [[Kommunistische Partei Deutschlands|KPD]] und [[Nationalsozialistische Deutsche Arbeiterpartei|NSDAP]], nahmen immer mehr bürgerkriegsähnlicher Zustände an
 - Ein Verbot der [[Sturmabteilung|SA]] und [[Schutzstaffel|SS]] durch [[Heinrich Brüning]] im April [[1932]] entschärfte die Situation nicht, weil nach dessen Entlassung durch [[Paul von Hindenburg|Hindenburg]] Ende Mai [[1932]] der neue, parteilose Reichskanzler [[Franz von Papen]] das Verbot umgehend wieder aufhob
 - [[Franz von Papen]] hoffte, [[Adolf Hitler]] in eine [[Konservativismus|konservative]] Regierung einbinden zu können, Verhandlungen schlugen jedoch zunächst fehl 
+- Nachdem die [[Nationalsozialistische Deutsche Arbeiterpartei]] bei den Rechstagswahlen im November [[1932]] Verluste hinnehmen musste, ging [[Franz von Papen|Papen]] erneut auf [[Adolf Hitler|Hitler]] zu und erreichte einen Kompromiss, dem auch der Reichspräsident zustimmte: Nach dem Rücktritt [[Kurt von Schleicher|Schleichers]] war [[Paul von Hindenburg|Hindenburg]] bereit, [[Adolf Hitler|Hitler]] am 30. Januar [[1933]] zum Reichskanzler zu ernennen 
+- [[Franz von Papen|Papen]] ging davon aus, [[Adolf Hitler|Hitler]] werde sich „zähmen" lassen, doch innerhalb weniger Monate gelang es [[Adolf Hitler|Hitler]], eine Diktatur zu errichten 
+
+# Errichtung der NS-Diktatur 
+- 
