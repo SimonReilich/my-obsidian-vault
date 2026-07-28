@@ -2,7 +2,7 @@
 
 - Kapitel 01 - [[Die Revolution von 1848-49]] 
 - Kapitel 02 - [[Deutsches Kaiserreich und Weimarer Republik]] 
-- Kapitel 03 - [[Nationalsozialismus]]
+- Kapitel 03 - [[NS-Diktatur und Völkermord]] 
 - Kapitel 04 - [[BRD und DDR]]
 - Kapitel 05 - [[Moderne Bundesrepublik]] 
 - Kapitel 06 - [[Israel-Palestina Konflikt]]
