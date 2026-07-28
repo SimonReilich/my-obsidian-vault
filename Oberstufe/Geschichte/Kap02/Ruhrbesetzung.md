@@ -1,0 +1,6 @@
+---
+subject: "[[Geschichte - Schule]]"
+---
+#Oberstufe #Geschichte 
+# Definition 
+In der [[Weimarer Republik]] gab es seit ihrer Ausrufung große wirtschaftliche Probleme und soziale Nöte. Die Reparationszahlungen infolge des [[Erster Weltkrieg|Ersten Weltkrieges]] vetstärkten diese Entwicklung zusätzlich. Als [[Deutschland]] [[1923]] mit Zahlungen an die [[Alliierten]] in Rückstand geriet, besetzten [[Frankreich|französische]] und [[Belgien|belgische]] Truppen das [[Ruhrgebiet]] als „produktives Pfand". Die Reichsregierung und die Gewerkschaften riefen daraufhin die Bevölkerung zum passiven Widerstand und zum Generalstreik auf. Durch massenhafte Arbeitsverweigerung wurden Industrie, Verwaltung und Verkehr teilweise lahmgelegt. Die Millionenbevölkerung des [[Ruhrgebiet|Ruhrgebiets]] musste jedoch vom deutsche Staat weiterhin durch Fortzahlung der Löhne versorgt werden - eine enorme Belastung für den Staatshaushalt. Gleichzeitig fielen dem Staat alle Einnahmen aus seinem wirtschaftlich bedeutsamsten Zentrum weg. Im Verlauf des Jahres war absehbar, dass dieser finanzielle Kraftakt nicht lange zu stemmen war.

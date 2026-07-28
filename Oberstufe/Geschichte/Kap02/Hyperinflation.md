@@ -1,0 +1,6 @@
+---
+subject: "[[Geschichte - Schule]]"
+---
+#Oberstufe #Geschichte 
+# Definition 
+Bereits nach dem Ende des [[Erster Weltkrieg|Ersten Weltkrieges]] gab es in Deutschland aufgrund von Kriegskrediten und -anleihen eine zunächst langsame und dann immer raschere Geldentwertung. Die staatliche Finanzierung des [[Ruhrbesetzung|passiven Widerstandes im Ruhrgebiet]] verschärfte diese Entwicklung drastisch. Ursache war die Finanzierung der zusätzliche Ausgaben durch den Druck von immer mehr Geldscheinen: Kostete ein Laib Roggenbrot im Dezember [[1919]] noch 0,80 Mark, steigerte sich der Preis im April [[1923]] auf 474 Mark und im Dezember [[1923]] auf 399 000 000 000 Mark. Bei solch einer rapiden und unkontrollierbaren Geldentwertung spricht man von einer Hyperinflation. Große Teile der Bevölkerung und vor allem der Mittelstand verloren durch die Hyperinflation ihr gesamtes Sparvermögen. Im Gegensatz dazu schrumpften Schulden auf kleine Beträge zusammen. Das Währungsversagen brachte Wirtschaft, Staat und Gesellschaft an den Rand des Zusammenbruchs. Diese soziale und ökonomische Verunsicherung sowie Perspektivlosigkeit bildeten eine weitere Grundlage für eine politische Radikalisierung.
