@@ -33,7 +33,7 @@ subject: "[[Geschichte - Schule]]"
 - Um ein stärkeres Gewicht zur Durchsetzung ihrer Forderungen zu erhalten, gründete die [[Arbeiterschaft]] [[Gewerkschaft|Gewerkschaften]], Parteien und Vereine
 - Zeitgleich erkannten viele Arbeiter, dass ihre Interessen von den bürgerlichen liberalen Parteien nicht hinreichend vertreten wurden, [[1863]] entsteht der [[Allgemeiner Deutscher Arbeiterverein]] 
 - Gründung der [[Sozialdemokratische Arbeiterpartei|Sozialdemokratischen Arbeiterpartei]] [[1869]] und Zusammenschluss zur [[Sozialistische Arbeiterpartei Deutschlands|Sozialistischen Arbeiterpartei Deutschlands]] im Jahr [[1875]] 
-- Reichskanzler [[Otto von Bismarck|Bismarck]] sowie die Konservativen und [[Liberalismus|Nationalliberalen]] befürchteten ein Erstarken der Arbeiterbewegung
+- Reichskanzler [[Otto von Bismarck|Bismarck]] sowie die [[Konservativismus|Konservativen]] und [[Liberalismus|Nationalliberalen]] befürchteten ein Erstarken der Arbeiterbewegung
 - Anlässlich zweier fälschlicherweise der Partei zugeschriebenen Attentate auf Kaiser [[Wilhelm I.]] erließ der Reichstag [[1878]] das „[[Gesetz gegen die gemeingefährlichen Bestrebun- gen der Sozialdemokratie]]"
 - In der Folge erhielt die SAP [[1890]] erstmals die meisten Stimmen bei der Reichstagswahl und benannte sich in [[Sozialdemokratische Partei Deutschlands]] (SPD) um
 - Bald setzte sich der Reformismus durch, wonach die Partei laut [[Sozialdemokratische Partei Deutschlands|SPD]]-Politiker [[Karl Kautsky]] eine „revolutionäre, nicht aber eine Revolution machende Partei" sei 

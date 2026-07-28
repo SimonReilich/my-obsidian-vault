@@ -55,7 +55,7 @@ subject: "[[Geschichte - Schule]]"
 # Das Ende der Revolution und ihre Folgen
 - Die Fürsten der Staaten des [[Deutscher Bund|deutschen Bundes]] beginnen, Widerstand zu organisieren 
 - Radikale Demokraten, die mit dem Fortschritt im [[Paulskirchenversammlung]] unzufrieden sind, versuchen im Herbst [[1848]] eine zweite revolutionäre Welle in Gang zu setzen 
-- Gleichzeitig erstarken konservative Kräfte, die eine Rücknahme der [[Märzforderungen]] fordern 
+- Gleichzeitig erstarken [[Konservativismus|konservative]] Kräfte, die eine Rücknahme der [[Märzforderungen]] fordern 
 - König [[Friedrich Wilhelm IV.]] hatte bereits im Frühsommer [[1848]] seine Haltung geändert und strebte eine Restauration an
 - Anfang Dezember [[1848]] lässt er Aufstände vom Militär niederschlagen, löst die preußische Nationalversammlung auf und setzte selbst eine neue [[Verfassung]] mit [[Liberalismus|liberalen]] Elementen und einem Grundrechtskatalog in Kraft
 - Auch in [[Wien]] setzt sich das Militär gegen die Aufständischen durch
