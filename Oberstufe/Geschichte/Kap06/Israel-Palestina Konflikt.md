@@ -13,12 +13,12 @@
 
 # Perspektiven
 Kolonialmächte ([[Frankreich]], [[Großbritannien]]):
-- nach dem [[erster Weltkrieg|ersten Weltkrieg]] zerfällt das [[Osmanisches Reich|Osmanische Reich]]
+- nach dem [[Erster Weltkrieg|Ersten Weltkrieg]] zerfällt das [[Osmanisches Reich|Osmanische Reich]]
 - teilen [[Naher Osten|Nahen Osten]] untereinander auf, [[Skyes-Picot-Abkommen]] 
 - Briten versprechen Arabern Unterstützung bei Unabhängigkeit, erhalten [[Mandat]] über [[Palestina]] und unterstützen [[Zionismus|Zionisten]] ([[Balfour-Deklaration]]), dort lebende Araber sollen aber nicht eingeschränkt werden
 - Abtrennung von [[Transjordanien]] führt zu Bildung von teretorialem [[Palestina]] 
 
-# während des [[zweiter Weltkrieg|zweiten Weltkriegs]] 
+# während des [[Zweiter Weltkrieg|Zweiten Weltkriegs]] 
 - britischer Mandatsvertrag von [[1922]] bestätigt Vorhaben der [[Balfour-Deklaration]]
 - [[1929]] wird die [[Jewish Agency for Palestine]] gegründet
 - Durch den [[Nationalsozialismus]] steigt die jüdische Einwanderung noch weiter an, verstärkt Bewegung des arabischen [[Nationalismus]] 
@@ -41,7 +41,7 @@ Kolonialmächte ([[Frankreich]], [[Großbritannien]]):
 # Gründung des Staates [[Israel]]
 - Am 14. Mai [[1948]] erklärt der israelische [[Volksrat]] die Unabhängigkeit
 - [[David Ben Guerion]] wird erster israelischer Ministerpräsident
-- unmittelbar danach erklären alle arabischen Nachbarstaaten ([[Ägypten]], [[Transjordanien]], [[Syrien]], [[Libanon]] und [[Irak]]) [[Israel]] den Krieg, [[erster Nahostkrieg]] beginnt
+- unmittelbar danach erklären alle arabischen Nachbarstaaten ([[Ägypten]], [[Transjordanien]], [[Syrien]], [[Libanon]] und [[Irak]]) [[Israel]] den Krieg, [[Erster Nahostkrieg]] beginnt
 - Teilungsplan ist hinfällig
 - [[1949]] verabschiedet der [[Volksrat]] ein Gesetz, mit dem er zum israelischen Parlament, der [[Knesset]], wird
 
@@ -50,7 +50,7 @@ Kolonialmächte ([[Frankreich]], [[Großbritannien]]):
 - arabische Staaten rüsten mithilfe der [[Sowjetunion]] auf
 - Die [[UNRWA]] wird [[1949]] gegründet, unterstützen palestinensische Flüchtlinge, die in den Nachbarländern aufgrund eigener wirtschaftlicher Probleme nicht aufgenommen werden
 - [[1950]] erhebt [[Israel]] die Stadt [[Jerusalem]] zur Hauptstadt, wird international aber nicht anerkannt
-- [[1956]] bricht der [[zweiter Nahostkrieg|zweite Nahostkrieg]], auch Suezkrise genannt, aus
+- [[1956]] bricht der [[Zweiter Nahostkrieg|Zweite Nahostkrieg]], auch Suezkrise genannt, aus
 - [[1964]] wird die [[Palästinensische Befreiungsorganisation]] (PLO) gegründet, [[Yassir Arafat]] ist Vorsitzender
 - [[Sechstagekrieg]] [[1967]], Konflikt aufgrund von Bewässerung
 
