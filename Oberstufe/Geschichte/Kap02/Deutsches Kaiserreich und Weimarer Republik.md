@@ -65,9 +65,9 @@ subject: "[[Geschichte - Schule]]"
 - Trotz einer weiteren Radikalisierung von Teilen der Arbeiterbewegung wurde die [[Sozialdemokratische Partei Deutschlands|SPD]] zur stärksten Fraktion und bildet die [[Weimarer Koalition]] 
 - Am 11. Februar [[1919]] wurde [[Friedrich Ebert]] ([[Sozialdemokratische Partei Deutschlands|SPD]]) zum ersten Reichspräsidenten gewählt, er beauftragte [[Philipp Scheidemann]] ([[Sozialdemokratische Partei Deutschlands|SPD]]) mit der Bildung einer Regierung
 - Die Aufstände wurden im Laufe des Frühjahrs militärisch niedergeschlagen
-- Obwohl die Nationalversammlung die Machtkonzentration bei einem Staatsorgan verhindern wollte, gab die Weimarer Reichsverfassung dem Reichspräsidenten eine überlegene Stellung, sie war das Resultat eines verbreiteten [[Antiparlamentarismus]] 
+- Obwohl die Nationalversammlung die Machtkonzentration bei einem Staatsorgan verhindern wollte, gab die [[Weimarer Reichsverfassung]] dem Reichspräsidenten eine überlegene Stellung, sie war das Resultat eines verbreiteten [[Antiparlamentarismus]] 
 - Insbesondere das Recht zum Erlass von [[Notverordnung|Notverordnungen]] (Artikel 48) erlaubte dem Reichspräsidenten als Oberbefehlshaber bei Störungen der „öffentlichen Sicherheit und Ordnung"  Wiederherstellung auch unter Einsatz der Reichswehr
-- Anders als in der Verfassung des [[Deutsches Kaiserreich|Kaiserreichs]] von [[1871]] nahm die Weimarer Reichsverfassung Grundrechte auf und erfüllte damit zentrale [[Liberalismus|liberale]] Forderung, die bereits die [[Paulskirchenversammlung|Paulskirchenverfassung]] von [[1848]]/[[1849|49]] vorgesehen hatte
+- Anders als in der Verfassung des [[Deutsches Kaiserreich|Kaiserreichs]] von [[1871]] nahm die [[Weimarer Reichsverfassung]] Grundrechte auf und erfüllte damit zentrale [[Liberalismus|liberale]] Forderung, die bereits die [[Paulskirchenversammlung|Paulskirchenverfassung]] von [[1848]]/[[1849|49]] vorgesehen hatte
 - Im Unterschied zum heutigen [[Grundgesetz der Bundesrepublik Deutschland|Grundgesetz]] waren die Grundrechte nicht gerichtlich einklagbar, ein Verfassungsgericht als Instanz dafür existierte nicht
 - Bestimmende politische Strömungen zu Beginn der [[Weimarer Republik]]:
 	- [[Liberalismus]]: [[Deutsche Demokratische Partei]] (DDP), [[Deutsche Volkspartei]] (DVP)
