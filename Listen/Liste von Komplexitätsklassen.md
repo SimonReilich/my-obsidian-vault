@@ -1,0 +1,51 @@
+#Informatik 
+# Komplexitätsklassen 
+- [[DTIME]](T(n))
+- [[P]]
+- [[EXP]]
+- [[NTIME]](T(n))
+- [[NP]]
+- [[NEXP]]
+- [[L]]
+- [[NL]]
+- [[SPACE]](S(n))
+- [[NSPACE]](S(n))
+- [[PSPACE]]
+- [[PSPACE|NPSPACE]]
+- [[EXPSPACE]]
+- [[TISP]](T(n), S(n))
+- [[P|coP]]
+- [[coNP]] 
+- [[coRP]]
+- [[coNPSPACE]] 
+- [[NL|coNL]] 
+- [[PH]] und seine Level
+- [[ATIME]](T(n))
+- [[ASPACE]](S(n))
+- [[PSPACE|AP]] 
+- [[P|AL]] 
+- [[EXP|APSPACE]] 
+- [[AEXP]] 
+- [[RP]]
+- [[ZPP]] 
+- [[BPP]] 
+- [[PP]] 
+- [[RL]] 
+- [[BPL]] 
+- [[BPeP]] 
+- [[BPTIME]](T(n))
+- [[prBPP]] 
+- [[SIZE]](T(n))
+- [[P-poly]] 
+- [[NC-k]] 
+- [[AC-k]] 
+- [[dIP]] 
+- [[IP]] 
+- [[AM]] 
+- [[MA]] 
+- [[MIP]] 
+- [[PCP]](r, q)
+- [[PCPadaptive]](r, q)
+- [[ĪP]] 
+- [[DP]] 
+- [[BH]] 
