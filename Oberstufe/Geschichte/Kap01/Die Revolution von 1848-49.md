@@ -30,19 +30,19 @@ subject: "[[Geschichte - Schule]]"
 - Fürsten reagieren mit Angst: Einberufung von [[Liberalismus|liberal]] gesinnten Ministern ("Märzminister"), Versprechung von Bürgerrechten und gesamtdeutscher [[Verfassung]] 
 - [[Bundestag]] in [[Frankfurt]] ordnete die Aufhebung der [[Karlsbader Beschlüsse]] an 
 - In [[Berlin]] erreicht die Zahl der Demonstrierenden schnell die 20.000
-- Zeitgleich versuchten die [[Preußen|preußischen]] Minister König [[Friedrich Wilhelm IV.]] Zugeständnisse bezüglich der „[[Märzforderungen]]" abzuringen
-- König ist bereit einzulenken, bei der Verlesung der Reformen am 18. März kommt es aber zu einem Schusswechsel und Tumulten, was 300 Todesopfer fordert 
-- Mit der Proklamation "An mein Volk und an die deutsche Nation" sowie einem zeremoniellen Umritt mit Revolutionsfahne und schwarz-rot-goldener Armbinde präsentierte sich der [[Preußen|preußische]] König am 21. März als Anführer des revolutionären Umbruchs in [[Deutschland]] 
-- In [[Bayern]] gab es schon seit [[1847]] verstärkt Spannungen zwischen König [[Ludwig I.]], der keine Mitbestimmung zulassen wollte, und der Bevölkerung
+- Zeitgleich versuchten die [[Preußen|preußischen]] Minister [[König]] [[Friedrich Wilhelm IV.]] Zugeständnisse bezüglich der „[[Märzforderungen]]" abzuringen
+- [[König]] ist bereit einzulenken, bei der Verlesung der Reformen am 18. März kommt es aber zu einem Schusswechsel und Tumulten, was 300 Todesopfer fordert 
+- Mit der Proklamation "An mein Volk und an die deutsche [[Nation]]" sowie einem zeremoniellen Umritt mit Revolutionsfahne und schwarz-rot-goldener Armbinde präsentierte sich der [[Preußen|preußische]] [[König]] am 21. März als Anführer des revolutionären Umbruchs in [[Deutschland]] 
+- In [[Bayern]] gab es schon seit [[1847]] verstärkt Spannungen zwischen [[König]] [[Ludwig I.]], der keine Mitbestimmung zulassen wollte, und der Bevölkerung
 - Als Ende Februar die Nachricht von der Absetzung des [[Frankreich|französischen]] Königs kam, verstärkten sich die Proteste in [[München]], [[Augsburg]] und [[Nürnberg]] 
-- Erst als der König am 6. März in einer Proklamation der Umsetzung aller "[[Märzforderungen]]" zustimmte, beruhigte sich die Lage 
+- Erst als der [[König]] am 6. März in einer Proklamation der Umsetzung aller "[[Märzforderungen]]" zustimmte, beruhigte sich die Lage 
 - Doch am 19. März dankte [[Ludwig I.]] zugunsten seines Sohnes [[Maximilian II.]] ab, er wollte kein „Unterschreibkönig" sein
 
 # Die erste deutsche Nationalversammlung 
 - Die [[Liberalismus|liberalen]] Wortführer der Revolution waren bestrebt, die in den Märzunruhen erzielten Erfolge politisch umzusetzen
 - Der Schauplatz der Ereignisse verlagerte sich nach [[Frankfurt am Main]]. Dort versammelten sich am 30. März [[1848]] Landtagsabgeordnete aller deutschen Staaten zu einem Vorparlament, das die Wahl zu einer Nationalversammlung vorbereiten sollte
 - Die wachsende Kluft zwischen radikalen Demokraten einerseits und Liberalen sowie gemäßigten Demokraten andererseits schwächte die revolutionäre Bewegung
-- Anfang Mai [[1848]] wurde das erste gesamtdeutsche Parlament gewählt
+- Anfang Mai [[1848]] wurde das erste gesamtdeutsche [[Parlament]] gewählt
 - Das Wahlrecht wurde in den einzelnen Staaten sehr unterschiedlich ausgelegt, die durchschnittliche Wahlberechtigung lag bei etwa 80% der Männer, was eine für die damalige Zeit breite demokratische Legitimation darstellte, Frauen hatten kein Wahlrecht, Arbeiter nicht in allen Staaten
 - Am 18. Mai [[1848]] zogen die Abgeordneten der [[Paulskirchenversammlung|verfassungsgebenden Nationalversammlung]] feierlich in die Paulskirche ein 
 - soziale Zusammensetzung der Nationalversammlung entsprach keineswegs der sozialen Gliederung in der deutschen Bevölkerung sondern war vom [[Bürgertum]] geprägt
@@ -56,19 +56,19 @@ subject: "[[Geschichte - Schule]]"
 - Die Fürsten der Staaten des [[Deutscher Bund|deutschen Bundes]] beginnen, Widerstand zu organisieren 
 - Radikale Demokraten, die mit dem Fortschritt im [[Paulskirchenversammlung]] unzufrieden sind, versuchen im Herbst [[1848]] eine zweite revolutionäre Welle in Gang zu setzen 
 - Gleichzeitig erstarken [[Konservativismus|konservative]] Kräfte, die eine Rücknahme der [[Märzforderungen]] fordern 
-- König [[Friedrich Wilhelm IV.]] hatte bereits im Frühsommer [[1848]] seine Haltung geändert und strebte eine Restauration an
+- [[König]] [[Friedrich Wilhelm IV.]] hatte bereits im Frühsommer [[1848]] seine Haltung geändert und strebte eine Restauration an
 - Anfang Dezember [[1848]] lässt er Aufstände vom Militär niederschlagen, löst die preußische Nationalversammlung auf und setzte selbst eine neue [[Verfassung]] mit [[Liberalismus|liberalen]] Elementen und einem Grundrechtskatalog in Kraft
 - Auch in [[Wien]] setzt sich das Militär gegen die Aufständischen durch
-- [[Paulskirchenversammlung]] arbeitet trotzdem weiter, am 27. März [[1849]] verabschiedete das Parlament eine Reichsverfassung, einen Tag später wählte sie den preußischen König [[Friedrich Wilhelm IV.]] zum [[Kaiser]], dieser lehnt jedoch ab
+- [[Paulskirchenversammlung]] arbeitet trotzdem weiter, am 27. März [[1849]] verabschiedete das [[Parlament]] eine Reichsverfassung, einen Tag später wählte sie den preußischen [[König]] [[Friedrich Wilhelm IV.]] zum [[Kaiser]], dieser lehnt jedoch ab
 - Viele Staaten ziehen ihre Abgeordneten ab, das noch verbliebene „Rumpfparlament" zog nach [[Stuttgart]] um, weil die verbliebenen radikaldemokratischen Mitglieder aus [[Frankfurt]] ausgewiesen worden waren
-- Mitte Juni wird das Parlament vom Militär gewaltsam aufgelöst 
+- Mitte Juni wird das [[Parlament]] vom Militär gewaltsam aufgelöst 
 - Nachdem der Versuch, einen Nationalstaat auf parlamentarischem Weg zu gründen, gescheitert war, versuchten dies radikaldemokratische Kräfte im Mai [[1849]] mit Mitteln des bewaffneten Kampfes durchzusetzen, werden jedoch vom Militär niedergeschlagen
 - In allen Staaten des [[Deutscher Bund|Deutschen Bundes]] kehrte man zum monarchisch-obrigkeitsstaatlichen System zurück
 - [[1851]] wurden im [[Deutscher Bund|Deutschen Bund]] endgültig alle liberalen Errungenschaften der Revolution, u. a. die Grundrechte, zurück genommen
 - Große Teile der Bevölkerung und insbesondere des Bürgertums hatten sich in der Endphase der Revolution passiv verhalten und so zum Scheitern beigetragen
 
 # Auswirkungen auf Vereine und Publizistik 
-- Eine wichtige Voraussetzung für die [[Märzrevolution]] bildete die wachsende Politisierung des [[Bürgertum|Bürgertums]] im Vormärz
+- Eine wichtige Voraussetzung für die [[Märzrevolution]] bildete die wachsende Politisierung des [[Bürgertum|Bürgertums]] im [[Vormärz]]
 - In den [[1840]]er-Jahren verlor die Zensur aber an Wirkung, da die Druckerzeugnisse dank moderner Schnellpressen in Massenauflagen produziert und per Eisenbahn sowie Telegrafie schnell verbreitet werden konnten
 - Mit der Aufhebung der Zensur im März [[1848]] wurden viele neue Zeitungen gegründet. Sie berichteten kritisch über die politischen Ereignisse und stellten ein Forum für die politische Diskussion dar 
 - Das Vereinswesen in Deutschland hatte bereits um [[1800]] einen ersten Höhepunkt erreicht, Turnvereine und Burschenschaften vertraten oft [[Nationalismus|nationale]] Ideen

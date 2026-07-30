@@ -43,10 +43,10 @@ Kolonialmächte ([[Frankreich]], [[Großbritannien]]):
 - [[David Ben Guerion]] wird erster israelischer Ministerpräsident
 - unmittelbar danach erklären alle arabischen Nachbarstaaten ([[Ägypten]], [[Transjordanien]], [[Syrien]], [[Libanon]] und [[Irak]]) [[Israel]] den Krieg, [[Erster Nahostkrieg]] beginnt
 - Teilungsplan ist hinfällig
-- [[1949]] verabschiedet der [[Volksrat]] ein Gesetz, mit dem er zum israelischen Parlament, der [[Knesset]], wird
+- [[1949]] verabschiedet der [[Volksrat]] ein Gesetz, mit dem er zum israelischen [[Parlament]], der [[Knesset]], wird
 
 # Entwicklung in den [[1950]]er-Jahren
-- In [[Ägypten]] wird der König [[1952]] gestürtzt, neuer Präsident wird Offizier [[Gamal Abdel Nasser]], nimmt Führungsrolle innerhalb der arabischen Staaten ein
+- In [[Ägypten]] wird der [[König]] [[1952]] gestürtzt, neuer Präsident wird Offizier [[Gamal Abdel Nasser]], nimmt Führungsrolle innerhalb der arabischen Staaten ein
 - arabische Staaten rüsten mithilfe der [[Sowjetunion]] auf
 - Die [[UNRWA]] wird [[1949]] gegründet, unterstützen palestinensische Flüchtlinge, die in den Nachbarländern aufgrund eigener wirtschaftlicher Probleme nicht aufgenommen werden
 - [[1950]] erhebt [[Israel]] die Stadt [[Jerusalem]] zur Hauptstadt, wird international aber nicht anerkannt

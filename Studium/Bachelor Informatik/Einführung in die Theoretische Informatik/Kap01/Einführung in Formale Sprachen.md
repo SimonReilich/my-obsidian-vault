@@ -12,7 +12,7 @@ degree: "[[Bachelor Informatik]]"
 # Grundbegriffe
 - Definition [[Alphabet]], [[Wort]]
 - für ein [[Wort]] $w \in \Sigma^*$ wird $|w|$ als die Länge des Wortes bezeichnet
-- Das [[leeres Wort|leere Wort]] wird mit dem Symbol $\epsilon$ bezeichnet
+- Das [[leeres Wort|leere Wort]] wird mit dem [[Symbol]] $\epsilon$ bezeichnet
 - Konkatenation: $uv$, Wiederholung: $w^0 = \epsilon, w^{n + 1} = ww^n$ 
 - $\Sigma^*$ (die [[reflexiv transitive Hülle]]) ist die Menge aller Wörter über $\Sigma$ 
 - Definition [[formale Sprache]] 
