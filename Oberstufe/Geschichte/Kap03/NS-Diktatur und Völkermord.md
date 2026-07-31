@@ -46,4 +46,8 @@ subject: "[[Geschichte - Schule]]"
 - Unterhalb der Führerebene kam es dagegen häufig zu einem Kompetenzgerangel zwischen Partei- und Staatsorganen - ein wesentliches Kennzeichen des [[Nationalsozialismus|NS]]-Staates
 
 # Weltanschauung der Nationalsozialisten 
-3.3, S. 74
+- Die Weltanschauung des [[Nationalsozialismus]] war eine Sammlung von [[Nationalismus|nationalistischen]], [[Antisemitismus|antisemitischen]] und [[Rassismus|rassistischen]] Vorstellungen, die sich im Laufe des 19. Jahrhunderts ausgeformt hatten 
+- Das [[1920]] verabschiedete 25-Punkte-Programm der [[Nationalsozialistische Deutsche Arbeiterpartei|Nationalsozialistischen Deutschen Arbeiterpartei]] entsprach inhaltlich den Forderungen der [[Völkische Bewegung|völkischen Bewegung]] 
+- Gleichzeitig war der deutsche [[Nationalsozialismus]] eine Variante des [[Europa|europäischen]] [[Faschismus]], der als Sammelbegriff extrem [[Nationalismus|nationalistische]], autoritäre und totalitäre Bewegungen in [[Europa]] nach dem [[Erster Weltkrieg|Ersten Weltkrieg]] bezeichnet 
+- In der [[Nationalsozialismus|nationalsozialistischen]] Weltanschauung verbanden sich also Grundelemente des [[Faschismus]] wie [[Führerprinzip]], [[Antiparlamentarismus]], [[Liberalismus|Antiliberalismus]], [[Kommunismus|Antikommunismus]] und [[Nationalismus]] mit einer völkischen Lebensraumideologie, einem radikalen [[Antisemitismus|Rassenantisemitismus]] und einer rassistischen „[[Volksgemeinschaft|Volksgemeinschafts]]"-Ideologie
+- Neben dem 25-Punkte-Programm der [[Nationalsozialistische Deutsche Arbeiterpartei|NSDAP]] von [[1920]] bildete vor allem [[Adolf Hitler|Hitlers]] [[1924]]/[[1925|25]] entstandenes Buch "[[Hitler - 1925 - Mein Kampf|Mein Kampf]]" das zentrale ideologische Grundsatzdokument des [[Nationalsozialismus]] 
