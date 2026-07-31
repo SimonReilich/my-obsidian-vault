@@ -34,4 +34,16 @@ subject: "[[Geschichte - Schule]]"
 - Ende März [[1933]] wurden mit dem „Gesetz zur Gleichschaltung der Länder mit dem Reich" die Landtage aufgelöst und nach den regionalen Stimmenverhältnissen der Reichstagswahl vom 5. März neu zusammengesetzt. Somit kontrollierte die [[Nationalsozialistische Deutsche Arbeiterpartei|NSDAP]] alle Landesparlamente 
 - Anfang April erfolgte die Auflösung der Landesregierungen und die Einsetzung von Reichsstatthaltern, die häufig identisch mit den jeweiligen Gauleitern der [[Nationalsozialistische Deutsche Arbeiterpartei|NSDAP]] waren und nun die Landesgewalt übernahmen, damit war der [[Föderalismus]] vollständig ausgehebelt 
 - Um die Gewerkschaften und die [[Arbeiterschaft]] zu täuschen, bestimmten die [[Nationalsozialismus|Nationalsozialisten]] den 1. Mai zum „Tag der nationalen Arbeit" und erklärten den Kalassenkampf im Sinne der „[[Volksgemeinschaft]]" für überwunden 
-- Die Regierung erklärte die freien Gewerkschaften für aufgelöst und nutzte deren Vermögen für die Gründung der "[[Deutsche Arbeitsfront|Deutschen Arbeiterfront]]" (DAF), in derArbeitnehmer wie Arbeitgeber zwangsvereinigt wurden
+- Die Regierung erklärte die freien Gewerkschaften für aufgelöst und nutzte deren Vermögen für die Gründung der "[[Deutsche Arbeitsfront|Deutschen Arbeiterfront]]" (DAF), in der Arbeitnehmer wie Arbeitgeber zwangsvereinigt wurden 
+- Im Sommer 1933 folgte die Auflösung der Parteien. Nach der Zerschlagung der [[Kommunistische Partei Deutschlands|KPD]] infolge der [[Reichstagsbrandverordnung]] wurde zunächst die [[Sozialdemokratische Partei Deutschlands|SPD]] verboten, die bürgerlichen Parteien kamen einem Verbot zuvor, indem sie ihre Selbstauflösung beschlossen
+- Im Juli wurde per Gesetz die [[Nationalsozialistische Deutsche Arbeiterpartei|NSDAP]] zur einzig legalen Staatspartei erklärt 
+- Eine scharfe Konkurrenz zwischen der immer mächtig werdenden [[Sturmabteilung|SA]] und der Reichswehr sowie parteiinterne Macht- und Richtungskämpfe belasteten das [[Adolf Hitler|Hitler]]-Regime in den Jahren [[1933]]/[[1934|34]] zunehmend 
+- Im Sommer [[1934]] wurden daher die gesamte [[Sturmabteilung|SA]]-Spitze um [[Ernst Röhm]] sowie etliche [[Konservativismus|konservative]] Regimekritiker auf Befehl [[Adolf Hitler|Hitlers]] entmachtet und hingerichtet (sogenannter "[[Röhm-Putsch]]")
+- Den Endpunkt des Prozesses des Machtausbaus markiere der Tod des Reichspräsidenten [[Paul von Hindenburg|Hindenburg]] am 2. August [[1934]]
+- [[Adolf Hitler|Hitler]] ergriff mit dem "Gesetz über das Staatsoberhaupt des Deutschen Reiches" auch den Posten des Staatsoberhauptes, indem er die Ämter des Reichskanzlers und Reichspräsidenten vereinigte
+- Als "Führer" besaß [[Adolf Hitler|Hitler]] nun die uneingeschränkte Gewalt in Deutschland, er vereinte die [[Legislative|gesetzgebende]], [[Exekutive|vollziehende]] und [[Judikative|richterliche]] Gewalt. 
+- Das [[Führerprinzip]] verlangte die bedingungslose Unterwerfung des Einzelnen unter die grundlegenden Ziele von Staat und Partei, die von [[Adolf Hitler|Hitler]] vorgegeben wurden
+- Unterhalb der Führerebene kam es dagegen häufig zu einem Kompetenzgerangel zwischen Partei- und Staatsorganen - ein wesentliches Kennzeichen des [[Nationalsozialismus|NS]]-Staates
+
+# Weltanschauung der Nationalsozialisten 
+3.3, S. 74
