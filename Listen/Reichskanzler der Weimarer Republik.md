@@ -1,0 +1,16 @@
+#Geschichte 
+# Reichskanzler der [[Weimarer Republik]] 
+- [[Philipp Scheidemann]], [[Sozialdemokratische Partei Deutschlands|SPD]]: [[1919]] 
+- [[Gustav Bauer]], [[Sozialdemokratische Partei Deutschlands|SPD]]: [[1919]] - [[1920]] 
+- [[Hermann Müller]], [[Sozialdemokratische Partei Deutschlands|SPD]]: [[1920]] 
+- [[Constantin Fehrenbach]], [[Deutsche Zentrumspartei|Zentrum]]: [[1920]] - [[1921]] 
+- [[Joseph Wirth]], [[Deutsche Zentrumspartei|Zentrum]]: [[1921]] - [[1922]] 
+- [[Wilhelm Cuno]], parteilos: [[1922]] - [[1923]] 
+- [[Gustav Stresemann]], [[Deutsche Volkspartei|DVP]]: [[1923]] 
+- [[Wilhelm Marx]], [[Deutsche Zentrumspartei|Zentrum]]: [[1923]] - [[1925]], [[1926]] - [[1928]]
+- [[Hans Luther]], parteilos: [[1925]] - [[1926]] 
+- [[Hermann Müller]], [[Sozialdemokratische Partei Deutschlands|SPD]]: [[1928]] - [[1930]] 
+- [[Heinrich Brüning]], [[Deutsche Zentrumspartei|Zentrum]]: [[1930]] - [[1932]] 
+- [[Franz von Papen]], [[Deutsche Zentrumspartei|Zentrum]] / parteilos: [[1932]] 
+- [[Kurt von Schleicher]], parteilos: [[1932]] - [[1933]] 
+- [[Adolf Hitler]], [[Nationalsozialistische Deutsche Arbeiterpartei|NSDAP]]: ab [[1933]] (formal bis [[1945]], Errichtung des [[Nationalsozialismus|NS]]-Staates)

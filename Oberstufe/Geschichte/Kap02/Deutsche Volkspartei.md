@@ -1,5 +1,7 @@
 ---
 subject: "[[Geschichte - Schule]]"
+aliases:
+  - DVP
 ---
 #Oberstufe #Geschichte 
 # Definition 

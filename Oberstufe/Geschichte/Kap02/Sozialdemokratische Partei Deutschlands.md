@@ -1,5 +1,7 @@
 ---
 subject: "[[Geschichte - Schule]]"
+aliases:
+  - SPD
 ---
 #Oberstufe #Geschichte 
 # Definition 

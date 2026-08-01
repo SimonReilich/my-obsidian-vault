@@ -1,5 +1,7 @@
 ---
 subject: "[[Geschichte - Schule]]"
+aliases:
+  - Zentrum
 ---
 #Oberstufe #Geschichte 
 # Definition 

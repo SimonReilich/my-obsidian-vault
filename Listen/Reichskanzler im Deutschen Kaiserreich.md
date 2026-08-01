@@ -1,0 +1,10 @@
+#Geschichte 
+# Reichskanzler im [[Deutsches Kaiserreich|Deutschen Kaiserreich]] 
+- [[Otto von Bismarck]]: [[1871]] - [[1890]] 
+- [[Leo von Caprivi]]: [[1890]] - [[1894]] 
+- [[Chlodwig zu Hohenlohe-Schillingsfürst]]: [[1894]] - [[1900]] 
+- [[Bernhard von Bülow]]: [[1900]] - [[1909]] 
+- [[Theobald von Bethmann Hollweg]]: [[1909]] - [[1917]] 
+- [[Georg Michaelis]]: [[1917]] 
+- [[Georg von Hertling]]: [[1917]] - [[1918]] 
+- [[Max von Baden]]: [[1918]] 
