@@ -51,3 +51,24 @@ subject: "[[Geschichte - Schule]]"
 - Gleichzeitig war der deutsche [[Nationalsozialismus]] eine Variante des [[Europa|europäischen]] [[Faschismus]], der als Sammelbegriff extrem [[Nationalismus|nationalistische]], autoritäre und totalitäre Bewegungen in [[Europa]] nach dem [[Erster Weltkrieg|Ersten Weltkrieg]] bezeichnet 
 - In der [[Nationalsozialismus|nationalsozialistischen]] Weltanschauung verbanden sich also Grundelemente des [[Faschismus]] wie [[Führerprinzip]], [[Antiparlamentarismus]], [[Liberalismus|Antiliberalismus]], [[Kommunismus|Antikommunismus]] und [[Nationalismus]] mit einer völkischen Lebensraumideologie, einem radikalen [[Antisemitismus|Rassenantisemitismus]] und einer rassistischen „[[Volksgemeinschaft|Volksgemeinschafts]]"-Ideologie
 - Neben dem 25-Punkte-Programm der [[Nationalsozialistische Deutsche Arbeiterpartei|NSDAP]] von [[1920]] bildete vor allem [[Adolf Hitler|Hitlers]] [[1924]]/[[1925|25]] entstandenes Buch "[[Hitler - 1925 - Mein Kampf|Mein Kampf]]" das zentrale ideologische Grundsatzdokument des [[Nationalsozialismus]] 
+- Die [[Nationalsozialismus|NS]]-Weltanschauung war [[Christentum|antichristlich]] weshalb man den gesellschaftlichen Einfluss der [[Kirche|Kirchen]] zurückdrängen wollte
+- Feindschaft der [[Nationalsozialismus|Nationalsozialisten]] gegenüber der [[Sozialdemokratie|sozialdemokratischen]] und [[Kommunismus|kommunistischen]] Arbeiterbewegung, sie setzten [[Judentum]] und [[Marxismus]] gleich und behaupteten, die Bewegung der [[Russland|russischen]] [[Kommunismus|Kommunisten]], der [[Bolschewismus]], sei der Versuch des [[Judentums]], die "Weltherrschaft" zu erlangen 
+- Auch bestimmte Formen des [[Kapitalismus|kapitalistischen]] Wirtschaftens prangerten die [[Nationalsozialismus|Nationalsozialisten]] an: So lehnten sie jede Form von Zinsgewinnen durch Banken oder Börsenspekulationen ab 
+
+# Propaganda und inszenierte Lebenswirklichkeiten
+- Zur Sicherung ihrer Herrschaft setzten die [[Nationalsozialismus|Nationalsozialisten]] Gewalt, Terror und Unterdrückung, aber auch massiv Verführung durch [[Propaganda]] ein 
+- So sollte die Bevölkerung die teilweise der [[Nationalsozialismus|NS]]-Herrschaft noch skeptisch gegenüberstand, mobilisiert und vom Weltbild des [[Nationalsozialismus]] überzeugt werden 
+- [[Joseph Goebbels]] nutzte as Reichspropagandaminister seit [[1933]] intensiv die neuen Medien Kino und Radio ebenso wie inszenierte Massenkundgebungen, eine aufwendige Parteipresse und Plakate 
+- Dabei setzten die [[Nationalsozialismus|Nationalsozialisten]] gerade beim Film auf den schönen äußeren Schein, z. B. in den Propagandafilmen von [[Leni Riefenstahl]] über den [[Nürnberg|Nürnberger]] Reichsparteitag [[1934]] oder die [[Olympische Spiele|Olympischen Spiele]] [[1936]] in [[Deutschland]] 
+- Das "Reichsministerium für Volksaufklärung und Propaganda" hatte ein Informations- und Meinungsbildungsmonopol, unangepasste Künstler und Intellektuelle wurden mit Berufsverboten belegt, viele gingen ins Exil 
+- Geschickt nutzte [[Adolf Hitler|Hitler]] u. a. die Hochstimmung in der Bevölkerung nach dem außerordentlichen Prestigegewinn [[Deutschland|Deutschlands]] im In- und Ausland während der [[Olympische Spiele|Olympischen Spiele]] in [[Berlin]] [[1936]], um sich als [[Führerkult|nationaler Heilsbringer]] feiern zu lassen 
+- Die Ausgrenzung der politischen Gegner und "Gemeinschaftsfremden" aus der "[[Volksgemeinschaft]]" war die eine Seite des [[Nationalsozialismus]], die andere Seite bildeten Gemeinschaftserlebnisse, in denen sich die [[Deutschland|deutsche]] Bevölkerung als Einheit erleben und feiern sollte 
+- Etwa durch die Freizeitorganisation der [[Deutsche Arbeitsfront|DAF]] "[[Kraft durch Freude|KdF]]" 
+- Das neu gegründete [[Winterhilfswerk]] (WHW) sollte schnell sichtbare Erfolge bei der Bekämpfung der Folgen von Arbeitslosigkeit und Armut demonstrieren 
+- Der Jugend galt ein besonderes Augenmerk des [[Nationalsozialismus|NS]]-Regimes: Mit deren Erziehung und Ausbildung sollte der Grundstein für die „[[Volksgemeinschaft]]" der Zukunft gelegt werden, daher wurde die „[[Hitlerjugend]]" (HJ) ab [[1933]] zur Staatsjugend aufgewertet und alle konkurrierenden Jugendverbände aus der [[Weimarer Republik]] wurden verboten 
+- Zunächst war die Mitgliedschaft noch freiwillig, mit dem "Gesetz über die [[Hitlerjugend]]" vom 1. Dezember [[1936]] und der "Jugenddienstpflicht" vom 25. März [[1939]] verpflichtend 
+- Analog zu den Jungen wurden die Mädchen in einer Teilorganisation der [[Hitlerjugend|HJ]], dem „[[Bund Deutscher Mädel]]" (BDM), zusammengefasst 
+- Als "Keimzelle der [[Volksgemeinschaft]]" stand die "erbgesunde" und "[[Rassismus|rassenbiologisch]] artgerechte" [[Familie]] und Ehe unter dem besonderen Schutz des [[Nationalsozialismus|NS]]-Regimes 
+
+# Verfolgung der jüdischen Bevölkerung 
+3.5 S. 80
