@@ -1,5 +1,5 @@
 ---
-subject: "[[Literatur - Schule]]"
+subject: "[[Deutsch - Schule]]"
 ---
 #Oberstufe #Literatur 
 # Zeitgeschichtlicher Kontext
