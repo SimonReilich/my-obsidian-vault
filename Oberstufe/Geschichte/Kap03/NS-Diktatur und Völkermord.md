@@ -71,4 +71,10 @@ subject: "[[Geschichte - Schule]]"
 - Als "Keimzelle der [[Volksgemeinschaft]]" stand die "erbgesunde" und "[[Rassismus|rassenbiologisch]] artgerechte" [[Familie]] und Ehe unter dem besonderen Schutz des [[Nationalsozialismus|NS]]-Regimes 
 
 # Verfolgung der jüdischen Bevölkerung 
-3.5 S. 80
+- Unmittelbar nach der „Machtübernahme" der [[Nationalsozialisten|NS]] am 30. Januar [[1933]] begannen die gewaltsamen Übergriffe gegen die [[Judentum|jüdische Bevölkerung]]
+- Für [[1933]] sind neueren Untersuchungen zufolge Vorfälle in 482 Orten überliefert, sie richteten sich nicht nur gegen Personen, sondern auch gegen [[Judentum|jüdische]] Geschäfte, Institutionen und Unternehmen
+- Verübt wurden sie größtenteils von der [[Sturmabteilung|SA]], die von der [[Nationalsozialismus|NS]]-Regierung als „Hilfspolizei" eingesetzt wurde 
+- Diese Gewaltaktionen standen im Zusammenhang mit der staatlich verordneten Ausgrenzung der [[Judentum|jüdischen Bevölkerung]], um ein "judenfreies Großdeutsches Reich" zu schaffen, der [[Antisemitismus]] wurde erstmals zur Doktrin eines Staates 
+- Das Vorgehen gegen die [[Judentum|jüdische Bevölkerung]] erreichte mit der vom Propagandaministerium organisierten reichsweiten Boykottaktion vom 1. April [[1933]] einen ersten Höhepunkt 
+- Angehörige von [[Sturmabteilung|SA]], [[Schutzstaffel|SS]] und [[Hitlerjugend]] warfen Schaufenster [[Judentum|jüdischer]] Geschäfte ein, beschmierten sie mit [[Antisemitismus|antisemitischen]] Parolen oder postierten sich mit vorgedruckten Plakaten an den Eingängen, um Kundinnen und Kunden am Betreten der Läden zu hindern 
+- 
