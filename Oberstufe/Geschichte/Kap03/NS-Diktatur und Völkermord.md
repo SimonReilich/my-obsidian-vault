@@ -52,7 +52,7 @@ subject: "[[Geschichte - Schule]]"
 - In der [[Nationalsozialismus|nationalsozialistischen]] Weltanschauung verbanden sich also Grundelemente des [[Faschismus]] wie [[Führerprinzip]], [[Antiparlamentarismus]], [[Liberalismus|Antiliberalismus]], [[Kommunismus|Antikommunismus]] und [[Nationalismus]] mit einer völkischen Lebensraumideologie, einem radikalen [[Antisemitismus|Rassenantisemitismus]] und einer rassistischen „[[Volksgemeinschaft|Volksgemeinschafts]]"-Ideologie
 - Neben dem 25-Punkte-Programm der [[Nationalsozialistische Deutsche Arbeiterpartei|NSDAP]] von [[1920]] bildete vor allem [[Adolf Hitler|Hitlers]] [[1924]]/[[1925|25]] entstandenes Buch "[[Hitler - 1925 - Mein Kampf|Mein Kampf]]" das zentrale ideologische Grundsatzdokument des [[Nationalsozialismus]] 
 - Die [[Nationalsozialismus|NS]]-Weltanschauung war [[Christentum|antichristlich]] weshalb man den gesellschaftlichen Einfluss der [[Kirche|Kirchen]] zurückdrängen wollte
-- Feindschaft der [[Nationalsozialismus|Nationalsozialisten]] gegenüber der [[Sozialdemokratie|sozialdemokratischen]] und [[Kommunismus|kommunistischen]] Arbeiterbewegung, sie setzten [[Judentum]] und [[Marxismus]] gleich und behaupteten, die Bewegung der [[Russland|russischen]] [[Kommunismus|Kommunisten]], der [[Bolschewismus]], sei der Versuch des [[Judentums]], die "Weltherrschaft" zu erlangen 
+- Feindschaft der [[Nationalsozialismus|Nationalsozialisten]] gegenüber der [[Sozialdemokratie|sozialdemokratischen]] und [[Kommunismus|kommunistischen]] Arbeiterbewegung, sie setzten [[Judentum]] und [[Marxismus]] gleich und behaupteten, die Bewegung der [[Russland|russischen]] [[Kommunismus|Kommunisten]], der [[Bolschewismus]], sei der Versuch des [[Judentum]], die "Weltherrschaft" zu erlangen 
 - Auch bestimmte Formen des [[Kapitalismus|kapitalistischen]] Wirtschaftens prangerten die [[Nationalsozialismus|Nationalsozialisten]] an: So lehnten sie jede Form von Zinsgewinnen durch Banken oder Börsenspekulationen ab 
 
 # Propaganda und inszenierte Lebenswirklichkeiten
@@ -71,7 +71,7 @@ subject: "[[Geschichte - Schule]]"
 - Als "Keimzelle der [[Volksgemeinschaft]]" stand die "erbgesunde" und "[[Rassismus|rassenbiologisch]] artgerechte" [[Familie]] und Ehe unter dem besonderen Schutz des [[Nationalsozialismus|NS]]-Regimes 
 
 # Verfolgung der jüdischen Bevölkerung 
-- Unmittelbar nach der „Machtübernahme" der [[Nationalsozialisten|NS]] am 30. Januar [[1933]] begannen die gewaltsamen Übergriffe gegen die [[Judentum|jüdische Bevölkerung]]
+- Unmittelbar nach der „Machtübernahme" der [[Nationalsozialismus|NS]] am 30. Januar [[1933]] begannen die gewaltsamen Übergriffe gegen die [[Judentum|jüdische Bevölkerung]]
 - Für [[1933]] sind neueren Untersuchungen zufolge Vorfälle in 482 Orten überliefert, sie richteten sich nicht nur gegen Personen, sondern auch gegen [[Judentum|jüdische]] Geschäfte, Institutionen und Unternehmen
 - Verübt wurden sie größtenteils von der [[Sturmabteilung|SA]], die von der [[Nationalsozialismus|NS]]-Regierung als „Hilfspolizei" eingesetzt wurde 
 - Diese Gewaltaktionen standen im Zusammenhang mit der staatlich verordneten Ausgrenzung der [[Judentum|jüdischen Bevölkerung]], um ein "judenfreies Großdeutsches Reich" zu schaffen, der [[Antisemitismus]] wurde erstmals zur Doktrin eines Staates 
@@ -82,3 +82,6 @@ subject: "[[Geschichte - Schule]]"
 - Im Zuge ihrer Ausgrenzung und Entrechtung wurde die [[Judentum|jüdische]] Bevölkerung im Rahmen der sogenannten "[[Arisierung]]" planmäßig beraubt 
 - Eine neue Dimension erreichte die [[Nationalsozialismus|nationalsozialistische]] Verfolgung der [[Judentum|jüdischen]] Bevölkerung durch nun gezielt auf Vertreibung gerichtete Pogrome sowie durch systematische Zerstörung der jüdischen Kultur in [[Deutschland]] 
 - Am 9. / 10. November [[1938]] kommt es zu dem [[Novemberpogrome|Novemberpogromen]] 
+
+# Völkermord an den europäischen Jüdinnen und Juden im Zweiten Weltkrieg 
+3.6., S. 83
