@@ -2,4 +2,16 @@
 # Ministerpräsidenten des [[Republik|Freistaats]] [[Bayern]] 
 - [[Kurt Eisner]], [[Unabhängige Sozialdemokratische Partei Deutschlands|USPD]]: [[1918]] - [[1919]] 
 - [[Johannes Hoffmann]], [[Sozialdemokratische Partei Deutschlands|SPD]]: [[1919]] - [[1920]]
+- [[Gustav Ritter von Kahr]], [[Bayerische Volkspartei|BVP]]: [[1920]] - [[1921]] 
+- [[Hugo Graf von und zu Lerchenfeld auf Köfering und Schönberg]], [[Bayerische Volkspartei|BVP]]: [[1921]] - [[1922]] 
+- [[Eugen Ritter von Knilling]], [[Bayerische Volkspartei|BVP]]: [[1922]] - [[1924]] 
+- [[Heinrich Held]], [[Bayerische Volkspartei|BVP]]: [[1924]] - [[1933]] (Ab Sommer [[1930]] ledeglich geschäftsführend)
+- [[Franz Ritter von Epp]], [[Nationalsozialistische Deutsche Arbeiterpartei|NSDAP]]: [[1933]] (Eingesetzt durch [[Nationalsozialismus|NS]]-Regime)
+- [[Ludwig Siebert]], [[Nationalsozialistische Deutsche Arbeiterpartei|NSDAP]]: [[1933]] - [[1942]] (Eingesetzt durch [[Nationalsozialismus|NS]]-Regime)
+- [[Paul Giesler]], [[Nationalsozialistische Deutsche Arbeiterpartei|NSDAP]]: [[1942]] - [[1945]] (Eingesetzt durch [[Nationalsozialismus|NS]]-Regime)
+- [[Fritz Schäffer]], parteilos: [[1945]]
+- [[Wilhelm Hoegner]], [[Sozialdemokratische Partei Deutschlands|SPD]]: [[1945]] - [[1946]], [[1954]] - [[1957]] 
+- [[Hans Erhard]], [[Christlich Soziale Union Bayerns|CSU]]: [[1946]] - [[1954]], [[1960]] - [[1962]] 
+- [[Hanns Seidel]], [[Christlich Soziale Union Bayerns|CSU]]: [[1957]] - [[1960]] 
+- [[Alfons Goppel]], [[Christlich Soziale Union Bayerns|CSU]]: [[1962]] - [[1978]] 
 - 
