@@ -1,8 +1,5 @@
----
-subject: "[[Chemie - Schule]]"
----
-#Oberstufe #Chemie 
-
+#Chemie 
+# Homologe Reihe der [[Alkin|Alkine]] 
 - [[Ethin]] $\ce{C2H2}$
 - [[Propin]] $\ce{C3H4}$ 
 - [[Butin]] $\ce{C4H6}$

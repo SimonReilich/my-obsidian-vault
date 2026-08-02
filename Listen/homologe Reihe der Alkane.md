@@ -1,8 +1,5 @@
----
-subject: "[[Chemie - Schule]]"
----
-#Oberstufe #Chemie 
-
+#Chemie 
+# Homologe Reihe der [[Alkan|Alkane]] 
 - [[Methan]] $\ce{CH4}$ 
 - [[Ethan]] $\ce{C2H6}$
 - [[Propan]] $\ce{C3H8}$ 

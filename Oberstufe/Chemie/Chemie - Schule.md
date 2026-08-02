@@ -1,7 +1,7 @@
 #Oberstufe #Inhaltsverzeichnis #Chemie 
 
 # Grundlagen
-- [[Liste anorganischer Verbindungen]] 
+- [[Anorganische Verbindungen]] 
 
 # Inhalt
 - Kapitel 01 - [[Atombau und Analytik]] 

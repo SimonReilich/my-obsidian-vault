@@ -3,7 +3,7 @@ subject: "[[Chemie - Schule]]"
 ---
 #Oberstufe #Chemie 
 # Definition
-Farbstoffe sind lösliche [[Farbigkeit|farbige]] Stoffe, es handelt sich bei ihnen überwiegend um [[Liste anorganischer Verbindungen|organische Verbindungen]]. Beispiele sind Purpur (aus Purpurschnecken), Indigo (Indigopflanze, Färberwald), Karminrot (Cochenillaus). 
+Farbstoffe sind lösliche [[Farbigkeit|farbige]] Stoffe, es handelt sich bei ihnen überwiegend um [[Anorganische Verbindungen|organische Verbindungen]]. Beispiele sind Purpur (aus Purpurschnecken), Indigo (Indigopflanze, Färberwald), Karminrot (Cochenillaus). 
 
 # Funktion
 Farbstoffmoleküle besitzen ein System [[konjugierte Doppelbindungen|konjugierter Doppelbindungen]], in dem die Doppelbindungselektronen ($\pi$-[[Elektron|Elektronen]]) über mehrere [[Atom|Atome]] [[Delokalisierung|delokalisiert]] sind.

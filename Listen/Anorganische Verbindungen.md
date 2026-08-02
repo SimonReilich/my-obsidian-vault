@@ -1,7 +1,5 @@
----
-subject: "[[Chemie - Schule]]"
----
-#Oberstufe #Chemie 
+#Chemie 
+# Anorganische Verbindungen 
 
 - [[Ammidion]] $\ce{NH2-}$ 
 - [[Ammokiak]] $\ce{NH3}$ 

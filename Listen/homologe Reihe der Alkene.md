@@ -1,8 +1,5 @@
----
-subject: "[[Chemie - Schule]]"
----
-#Oberstufe #Chemie 
-
+#Chemie
+# Homologe Reihe der [[Alken|Alkene]] 
 - [[Ethen]] $\ce{C2H4}$
 - [[Propen]] $\ce{C3H6}$ 
 - [[Buten]] $\ce{C4H8}$
