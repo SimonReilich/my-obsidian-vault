@@ -14,4 +14,9 @@
 - [[Hans Erhard]], [[Christlich Soziale Union Bayerns|CSU]]: [[1946]] - [[1954]], [[1960]] - [[1962]] 
 - [[Hanns Seidel]], [[Christlich Soziale Union Bayerns|CSU]]: [[1957]] - [[1960]] 
 - [[Alfons Goppel]], [[Christlich Soziale Union Bayerns|CSU]]: [[1962]] - [[1978]] 
-- 
+- [[Franz Joseph Strauß]], [[Christlich Soziale Union Bayerns|CSU]]: [[1978]] - [[1988]] 
+- [[Max Streibl]], [[Christlich Soziale Union Bayerns|CSU]]: [[1988]] - [[1993]] 
+- [[Edmund Stoiber]], [[Christlich Soziale Union Bayerns|CSU]]: [[1993]] - [[2007]] 
+- [[Günther Beckstein]], [[Christlich Soziale Union Bayerns|CSU]]: [[2007]] - [[2008]] 
+- [[Horst Seehofer]], [[Christlich Soziale Union Bayerns|CSU]]: [[2008]] - [[2018]] 
+- [[Markus Söder]], [[Christlich Soziale Union Bayerns|CSU]]: seit [[2018]] 
