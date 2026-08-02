@@ -1,5 +1,7 @@
 ---
 subject: "[[Geschichte - Schule]]"
+aliases:
+  - USPD
 ---
 #Oberstufe #Geschichte 
 # Definition 
