@@ -1,7 +1,7 @@
 ---
 lecture: "[[Grundlagen Betriebssysteme und Systemsoftware]]"
 ---
-#BScInfo #Informatik #GBS #Atomic 
+#BScInfo #Informatik #GBS 
 # Klassifikation
 - Anzahl der Nutzung: Einmal / Mehrmals benutzbar
 - Parallelität: (beschränkt) parallel / exklusiv benutzbar

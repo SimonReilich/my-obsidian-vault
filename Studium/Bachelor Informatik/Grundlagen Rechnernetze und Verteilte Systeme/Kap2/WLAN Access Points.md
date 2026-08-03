@@ -1,7 +1,7 @@
 ---
 lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
 ---
-#BScInfo #Informatik #GRnVs #Atomic 
+#BScInfo #Informatik #GRnVs 
 # Definition
 [[WLAN]] Access Points sind im wesentlichen [[Bridge|Bridges]] zwischen Twisted Pair und Funkübertragung:
 - Ein RJ45-Interface in Richtung des kabelgebundenen Netzwerks

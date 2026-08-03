@@ -1,7 +1,7 @@
 ---
 subject: "[[Religion - Schule]]"
 ---
-#Oberstufe #Philosophie #Atomic 
+#Oberstufe #Philosophie 
 # Definition
 These, die eine Variante des [[Rechtspositivismus]] begründete, die maßgeblich vom Philosophen [[Gustav Radbruch]] geprägt wurde. Sie besagt:
 

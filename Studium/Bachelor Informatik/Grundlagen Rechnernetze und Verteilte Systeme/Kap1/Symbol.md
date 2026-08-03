@@ -1,7 +1,7 @@
 ---
 lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
 ---
-#BScInfo #Informatik #GRnVs #Atomic 
+#BScInfo #Informatik #GRnVs 
 # Definition
 Definierten messbaren Änderungen eines [[Signal|Signals]] lässt sich ein Symbol zuord-
 nen. Diese Symbole repräsentieren Information.

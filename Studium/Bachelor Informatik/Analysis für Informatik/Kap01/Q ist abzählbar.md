@@ -1,7 +1,7 @@
 ---
 lecture: "[[Analysis für Informatik]]"
 ---
-#BScInfo #Mathematik #AnaInfo #Atomic 
+#BScInfo #Mathematik #AnaInfo 
 # Beweis
 Man kann eine [[Abzählbarkeit|Abzählung]] $f: \mathbb{N} \to \mathbb{Q}$ mit Hilfe eines Diagonalarguments angeben:
 $$ \begin{matrix}  

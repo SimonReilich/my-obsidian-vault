@@ -1,7 +1,7 @@
 ---
 lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
 ---
-#BScInfo #Informatik #GRnVs #Atomic 
+#BScInfo #Informatik #GRnVs 
 # Definition
 Das User Datagram Protcol (UDP) ist eines der beiden am häufigsten verwendeten Transportprotokolle im Internet. Es bietet ungesicherte und nachrichtenorientierte Übertragung bei geringem Overhead.
 

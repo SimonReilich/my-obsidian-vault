@@ -1,7 +1,7 @@
 ---
 lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
 ---
-#BScInfo #Informatik #GRnVs #Atomic 
+#BScInfo #Informatik #GRnVs 
 # Definition
 Unterschiede zur [[Nachrichtenvermittlung]]:
 - Nachrichten werden nicht mehr als Einheit übertragen sondern in kleinere Einheiten, den Datenteilen von Paketen, unterteilt

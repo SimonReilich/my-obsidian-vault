@@ -1,7 +1,7 @@
 ---
 lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
 ---
-#BScInfo #Informatik #GRnVs #Atomic 
+#BScInfo #Informatik #GRnVs 
 # Definition
 Maß für die Stärke des Rauschens in einem Kanal, Quotient aus [[Signalleistung]] und Rauschleistung
 $$ \text{SNR} = { \text{[[Signalleistung]]} \over \text{Rauschleistung} } = {P_S \over P_N} $$

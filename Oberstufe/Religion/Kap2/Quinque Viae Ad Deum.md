@@ -1,10 +1,10 @@
 ---
 subject: "[[Religion - Schule]]"
 ---
-#Oberstufe #Philosophie #Atomic 
+#Oberstufe #Philosophie 
 # Definition
 - Sammlung von 5 [[Der Mensch auf der Suche nach Gott|Gottesbeweisen]] von [[Thomas von Aquin]]
-- Methodik: [[strenger Syllogismus]] nach [[Aristoteles]] 
+- Methodik: [[Strenger Syllogismus]] nach [[Aristoteles]] 
 
 # 1. Bewegungsbeweis (kinesiologischer Beweis)
 - Obersatz: In der Welt gibt es Bewegung

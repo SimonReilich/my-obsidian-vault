@@ -1,7 +1,7 @@
 ---
 subject: "[[Politik - Schule]]"
 ---
-#Oberstufe #Politik #Atomic 
+#Oberstufe #Politik 
 # Definition
 Zweckrationalität besagt, dass Handlungen vernünftig sind, wenn sie auf der Entscheidung für diejenigen Handlungsoptionen beruhen, die den meisten Nutzen bzw. Ertrag bringt. Das Gegenstück dazu bildet die [[kommunikative Rationalität]]. 
 

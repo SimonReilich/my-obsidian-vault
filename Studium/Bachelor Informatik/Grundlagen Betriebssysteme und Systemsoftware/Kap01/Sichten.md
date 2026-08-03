@@ -1,7 +1,7 @@
 ---
 lecture: "[[Grundlagen Betriebssysteme und Systemsoftware]]"
 ---
-#BScInfo #Informatik #GBS #Atomic 
+#BScInfo #Informatik #GBS
 # Definition
 Zwei mögliche Arten von Sichten:
 - Von außen - Black-Box: Zusammenfassung von [[Komponenten]] und Abgrenzungen liefern Einheiten, für die Black-Box-Sichten möglich sind

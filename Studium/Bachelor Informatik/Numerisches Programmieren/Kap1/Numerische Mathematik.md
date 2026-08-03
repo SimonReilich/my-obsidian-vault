@@ -1,7 +1,7 @@
 ---
 lecture: "[[Numerisches Programmieren]]"
 ---
-#BScInfo #Informatik #NumProg #Atomic 
+#BScInfo #Informatik #NumProg 
 # Definition
 - angewandte Mathematik
 - Finden von Algorithmen für kontinuierliche Probleme, v.a. aus der linearen Algebra und Analysis

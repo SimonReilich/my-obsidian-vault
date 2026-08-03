@@ -8,8 +8,8 @@ subject: "[[Religion - Schule]]"
 - [[Funktionale Definition]] von Religion
 
 # Gottesbeweise
-- [[strenger Syllogismus]] 
-- Der [[onthologischer Gottesbeweis|onthologische Gottesbeweis]] von [[Anselm von Canterbury]] 
+- [[Strenger Syllogismus]] 
+- Der [[Onthologischer Gottesbeweis|onthologische Gottesbeweis]] von [[Anselm von Canterbury]] 
 - Die Gottesbeweise von [[Thomas von Aquin]]: [[Quinque Viae Ad Deum]] 
 
 # Atheismus

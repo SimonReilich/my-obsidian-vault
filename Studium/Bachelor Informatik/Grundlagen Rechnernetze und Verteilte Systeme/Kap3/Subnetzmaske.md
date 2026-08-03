@@ -1,7 +1,7 @@
 ---
 lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
 ---
-#BScInfo #Informatik #GRnVs #Atomic 
+#BScInfo #Informatik #GRnVs 
 # Definition
 Um das Problem der schwindenden Anzahl an freien [[IP-Adresse|IP-Adressen]] zu bekämpfen, wurde bereits [[1993]] mit CIDR5 ein Verfahren zur Unterteilung von IP-Netzen eingeführt:
 - Zusätzlich zur [[IP-Adresse]] erhält ein Interface eine ebenfalls 32 bit lange Subnetzmaske

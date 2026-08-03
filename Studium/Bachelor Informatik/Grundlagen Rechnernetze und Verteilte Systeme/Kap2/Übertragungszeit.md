@@ -1,7 +1,7 @@
 ---
 lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
 ---
-#BScInfo #Informatik #GRnVs #Atomic 
+#BScInfo #Informatik #GRnVs 
 # Definition
 Die Übertragungszeit berechnet sich aus der Summe der [[Serialisierungszeit]] und der [[Ausbreitungsverzögerung]] und gibt die Zeit an, die vom senden des ersten bis zum empfangen des letzten Bit vergeht, an.
 

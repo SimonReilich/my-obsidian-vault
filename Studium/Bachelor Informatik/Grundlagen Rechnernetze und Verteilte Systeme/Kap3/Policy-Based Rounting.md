@@ -1,7 +1,7 @@
 ---
 lecture: "[[Grundlagen Rechnernetze und Verteilte Systeme]]"
 ---
-#BScInfo #Informatik #GRnVs #Atomic 
+#BScInfo #Informatik #GRnVs 
 # Definition
 Manchmal ist es wünschenswert, Routen auf Basis anderer Kriterien zu wählen:
 - Tatsächlich anfallende monetäre Kosten

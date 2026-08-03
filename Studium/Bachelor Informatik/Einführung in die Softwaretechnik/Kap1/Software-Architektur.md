@@ -1,7 +1,7 @@
 ---
 lecture: "[[Einführung in die Softwaretechnik]]"
 ---
-#BScInfo #Informatik #EiSt #Atomic 
+#BScInfo #Informatik #EiSt 
 # Definition
 Die Softwarearchitektur bestimmt die fundamentale Struktur eines Systems, seine Komponenten, ihr Verhältnis und wie diese miteinander interagieren. Sie bietet einen Rahmen für Entwicklung, Deployment und Wartung
 

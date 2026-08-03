@@ -1,7 +1,7 @@
 ---
 subject: "[[Religion - Schule]]"
 ---
-#Oberstufe #Philosophie #Atomic 
+#Oberstufe #Philosophie 
 # Definition
 Normen sind Regeln, die zum Schutz von [[Wert|Werten]] dienen. Sie sind in einer übergeordneten Werteordnung begründet, zu der der Zusammenhang stets erkennbar sein muss, sonst werden Normen inhaltsleer.
 

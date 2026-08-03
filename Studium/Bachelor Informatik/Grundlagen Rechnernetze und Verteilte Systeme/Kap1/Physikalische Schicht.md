@@ -54,4 +54,4 @@ degree: "[[Bachelor Informatik]]"
 
 # Übertragungsmedien
 - Unterscheidungen: leitungsgebunden oder nicht-leitungsgebunden bzw. akustisch oder [[Elektromagnetische Wellen|elektromagnetisch]] 
-- Leitungen: [[Koaxialleiter]], [[Twisted-Pair-Kabel]], [[optische Leiter]]
+- Leitungen: [[Koaxialleiter]], [[Twisted-Pair-Kabel]], [[Optische Leiter]]
