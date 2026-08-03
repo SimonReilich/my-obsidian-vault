@@ -84,4 +84,17 @@ subject: "[[Geschichte - Schule]]"
 - Am 9. / 10. November [[1938]] kommt es zu dem [[Novemberpogrome|Novemberpogromen]] 
 
 # Völkermord an den europäischen Jüdinnen und Juden im Zweiten Weltkrieg 
-3.6., S. 83
+- Der Krieg im Osten war seinem Charakter nach zugleich Eroberungs- und Vernichtungskrieg 
+- In den besetzten [[Polen|polnischen]] und [[Sowjetunion|sowjetischen]] Gebieten war die Unterdrückung, Versklavung bzw. Ermordung Teil des [[Rassismus|rassistischen]] Unterwerfungskonzepts, wonach den [[Deutschland|Deutschen]] im Osten [[Europa|Europas]] "Lebensraum" zur Verfügung gestellt werden sollte und der einheimischen Bevölkerung nur ein eingeschränktes Lebensrecht auf niedrigem Niveau zugestanden wurde 
+- Gegen die [[Sowjetunion|sowjetischen]] Soldaten, die als "Untermenschen" betrachtet wurden, gingen [[Wehrmacht]], [[Schutzstaffel|SS]] und [[Einsatzgruppen]] mit aller Härte vor, Partisanen oder auch Zivilisten, die sich den Anordnungen der Besatzungsmacht widersetzten, wurden ohne Verfahren erschossen 
+- Bei der Durchsetzung seiner Ziele missachtete [[Deutschland]] alle Bestimmungen des [[Humanitäres Völkerrecht|humanitären Völkerrechts]]. Die Verbindung von „Rassen"- und Kriegsideologie führte zu massiver und systematischer Gewaltanwendung und schuf so auch die Voraussetzung für den [[Shoa|Holocaust]], für die Massenmorde an [[Judentum|Jüdinnen und Juden]] 
+- Kurz vor Beginn des [[Zweiter Weltkrieg|Zweiten Weltkrieges]] [[1939]] eine neue Phase des [[Judentum|antijüdischen]] Terrors: So bedeutete der "Anschluss [[Österreich|Österreichs]]" im März [[1938]] für die [[Österreich|österreichischen]] [[Judentum|Jüdinnen und Juden]] den sofortigen Beginn massiver Verfolgung 
+- Nach dem Überfall der [[Deutschland|deutschen]] [[Wehrmacht]] auf [[Polen]] am 1. September [[1939]] richtete sich die Gewalt vor allem gegen [[Polen|polnische]] [[Judentum|Jüdinnen und Juden]] sowie Menschen, die die [[Nationalsozialismus|Nationalsozialisten]] als [[Polen|polnische]] Elite ansahen 
+- Am 22. Juni [[1941]] überfiel die [[Wehrmacht]] die [[Kommunismus|kommunistische]] [[Sowjetunion]], mit dem Überfall auf den ideologischen Hauptfeind begann der eigentliche "Kampf um Lebensraum"
+- Durch Misshandlungen und Massenerschießungen verloren von den 4,7 Millionen [[Judentum|Jüdinnen und Juden]], die im Sommer [[1941]] auf dem Territorium der [[Sowjetunion|UdSSR]] lebten, bis Ende [[1942]] etwa 2,2 Millionen ihr Leben 
+- Bis zum Frühjahr [[1941]] war noch kein "planmäßiges" Vorgehen gegen die [[Judentum|Jüdinnen und Juden]] erkennbar, doch es kam bereits in großem Umfang zu Deportationen, Errichtung von [[Ghetto|Ghettos]] und Massenerschießungen 
+- Die planmäßige Koordinierung des Mordens an den [[Judentum|Jüdinnen und Juden]] wurde auf der [[Wannsee-Konferenz]] am 20. Januar [[1942]] in [[Berlin]] beraten 
+- Allein in den [[Vernichtungslager|Vernichtungslagern]] [[Auschwitz]], [[Treblinka]], [[Chelmno]], [[Sobibor]] und [[Majdanek]] wurden 3000000 [[Judentum|Jüdinnen und Juden]] und mehr als 200000 [[Sinti]] und [[Roma]] ermordet, bis Kriegsende [[1945]] wurden etwa sechs Millionen [[Judentum|Jüdinnen und Juden]] Opfer der [[Nationalsozialismus|NS]]-Rassen- und Vernichtungspolitik
+
+# Sinti und Roma sowie weitere Opfer des NS-Rassismus
+3.7. S. 87

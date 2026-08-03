@@ -1,0 +1,6 @@
+---
+subject: "[[Geschichte - Schule]]"
+---
+#Oberstufe #Geschichte 
+# Definition 
+Konferenz der [[Nationalsozialismus|Nationalsozialisten]] in [[Berlin]] am 20. Januar [[1942]] zur "Endlösung der Judenfrage". [[Reinhard Heydrich]], Chef der Sicheitspolizei und des [[Schutzstaffel|Sicherheitsdienstes]], erhielt den Auftrag die "Neuordnung für die Gesamtlösung der Judenfrage im [[Deutschland|deutschen]] Einflussbereich in [[Europa]]" zu erarbeiten und durchzuführen. Er organisierte mithilfe von Behörden und Ministerien den [[Völkermord]], den die [[Nationalsozialismus|NS]]-Führung mit der Bezeichnung "Endlösung der Judenfrage" verschleierte. Durch Zwangsarbeit, Hungerrationen, Exekutionen und in Gaskammern sollte die [[Judentum|jüdische]] Bevölkerung ermordet werden. An der Umsetzung beteiligten sich Hunderttausende von [[Deutschland|Deutschen]] als Polizisten, Soldaten, Eisenbahner, Hersteller und Lieferanten von Giftgas, [[Schutzstaffel|SS]]-Lagerpersonal oder Ärzte in den [[Vernichtungslager|Vernichtungslagern]].
