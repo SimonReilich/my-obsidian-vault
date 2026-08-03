@@ -6,8 +6,10 @@ author:
 category:
   - Lehrbuch
 publisher: "[[Dover]]"
-year:
-isbn:
-cover:
+year: "[[1990]]"
+isbn: 9780486406794
+cover: "[[Fisher - 1990 - Complex Variables.jpg]]"
 ---
-#Buch 
+#Buch #Mathematik 
+
+![[Fisher - 1990 - Complex Variables.jpg]]
