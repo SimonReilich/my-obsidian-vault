@@ -1,19 +1,19 @@
 #BScMath #Mathematik #Inhaltsverzeichnis 
 # 1. Semester
-- [[Analysis]] 1
-- [[Lineare Algebra]] 1
+- [[Analysis I]]
+- [[Lineare Algebra I]]
 - [[Mathematisches Studieren]]
 - [[Mathematische Grundlagen]]
 
 # 2. Semester
-- [[Analysis]] 2
-- [[Lineare Algebra]] 2
+- [[Analysis II]]
+- [[Lineare Algebra II]] 
 - [[Mathematisches Studieren]]
 - [[Mathematische Grundlagen]]
 - [[Diskrete Mathematik]]
 
 # 3. Semester
-- [[Analysis]] 3
+- [[Analysis III]] 
 - [[Numerik]]
 - [[Wahrscheinlichkeitstheorie]]
 
