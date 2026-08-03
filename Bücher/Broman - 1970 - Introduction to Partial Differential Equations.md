@@ -8,8 +8,8 @@ category:
 publisher: "[[Dover]]"
 year: "[[1970]]"
 isbn: 9780486661582
-cover: "[[Arne Broman - 1970 - Introduction to Partial Differential Equations.webp]]"
+cover: "[[Broman - 1970 - Introduction to Partial Differential Equations.png]]"
 ---
 #Buch #Mathematik 
 
-![[Arne Broman - 1970 - Introduction to Partial Differential Equations.webp]]
+![[Broman - 1970 - Introduction to Partial Differential Equations.png]]

@@ -9,8 +9,8 @@ category:
 publisher: "[[Dover]]"
 year: "[[1966]]"
 isbn: 9780486635194
-cover: "[[Shilov und Gurevich - 1966 - Integral, Measure and Derivative.jpg]]"
+cover: "[[Shilov und Gurevich - 1966 - Integral, Measure and Derivative.png]]"
 ---
 #Buch #Mathematik 
 
-![[Shilov und Gurevich - 1966 - Integral, Measure and Derivative.jpg]]
+![[Shilov und Gurevich - 1966 - Integral, Measure and Derivative.png]]

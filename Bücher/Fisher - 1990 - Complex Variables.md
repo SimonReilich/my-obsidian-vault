@@ -8,8 +8,8 @@ category:
 publisher: "[[Dover]]"
 year: "[[1990]]"
 isbn: 9780486406794
-cover: "[[Fisher - 1990 - Complex Variables.jpg]]"
+cover: "[[Fisher - 1990 - Complex Variables.png]]"
 ---
 #Buch #Mathematik 
 
-![[Fisher - 1990 - Complex Variables.jpg]]
+![[Fisher - 1990 - Complex Variables.png]] 
