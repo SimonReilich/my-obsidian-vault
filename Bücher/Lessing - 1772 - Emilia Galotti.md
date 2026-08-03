@@ -11,3 +11,5 @@ isbn:
 cover: "[[Lessing - 1772 - Emilia Galotti.png]]"
 ---
 #Buch #Literatur 
+
+![[Lessing - 1772 - Emilia Galotti.png]]

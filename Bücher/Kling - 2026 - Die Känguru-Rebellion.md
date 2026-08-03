@@ -10,3 +10,5 @@ isbn: 9783548074108
 cover: "[[Kling - 2026 - Die Känguru-Rebellion.png]]"
 ---
 #Buch 
+
+![[Kling - 2026 - Die Känguru-Rebellion.png]]

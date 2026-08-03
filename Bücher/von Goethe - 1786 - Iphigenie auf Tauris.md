@@ -7,8 +7,8 @@ category: "[[Drama#]]"
 publisher:
 year: "[[1786]]"
 isbn:
-cover: Bücher/Bilder/Iphigenie auf Tauris - Johann Wolfgang von Goethe.png
+cover: "[[von Goethe - 1786 - Iphigenie auf Tauris.png]]"
 ---
 #Oberstufe #Literatur #Buch
 
-![[Iphigenie auf Tauris - Johann Wolfgang von Goethe.png]]
+![[von Goethe - 1786 - Iphigenie auf Tauris.png]]

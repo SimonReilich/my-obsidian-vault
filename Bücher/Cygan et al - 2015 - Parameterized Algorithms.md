@@ -14,8 +14,8 @@ category: Fachbuch
 publisher: "[[Springer]]"
 year: "[[2015]]"
 isbn: 3319212753
-cover: Bücher/Bilder/Parameterized Algorithms - Marek Cygan, Fedor V Fomin, Łukasz Kowalik, Daniel Lokshtanov, Dániel Marx, Marcin Pilipczuk, Michał Pilipczuk und Saket Saurabh.png
+cover: "[[Cygan et al - 2015 - Parameterized Algorithms.png]]"
 ---
 #Buch #Informatik 
 
-![[Parameterized Algorithms - Marek Cygan, Fedor V Fomin, Łukasz Kowalik, Daniel Lokshtanov, Dániel Marx, Marcin Pilipczuk, Michał Pilipczuk und Saket Saurabh.png]]
+![[Cygan et al - 2015 - Parameterized Algorithms.png]]

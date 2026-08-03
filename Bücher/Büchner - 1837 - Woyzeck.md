@@ -8,8 +8,8 @@ category:
 publisher:
 year: "[[1837]]"
 isbn:
-cover: Bücher/Bilder/Woyzeck - Georg Büchner.png
+cover: "[[Büchner - 1837 - Woyzeck.png]]"
 ---
 #Buch #Literatur 
 
-![[Woyzeck - Georg Büchner.png]]
+![[Büchner - 1837 - Woyzeck.png]]

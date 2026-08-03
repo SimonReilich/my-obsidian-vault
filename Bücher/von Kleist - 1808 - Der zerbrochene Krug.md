@@ -8,8 +8,8 @@ category:
 publisher:
 year: "[[1808]]"
 isbn:
-cover: Bücher/Bilder/Der zerbrochene Krug - Heinrich von Kleist.png
+cover: "[[von Kleist - 1808 - Der zerbrochene Krug.png]]"
 ---
 #Buch #Literatur 
 
-![[Der zerbrochene Krug - Heinrich von Kleist.png]]
+![[von Kleist - 1808 - Der zerbrochene Krug.png]]

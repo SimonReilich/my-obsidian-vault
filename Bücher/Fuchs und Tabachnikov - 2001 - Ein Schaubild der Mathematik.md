@@ -9,8 +9,8 @@ category:
 publisher: "[[Springer]]"
 year: "[[2011]]"
 isbn: 3642129609
-cover: Bücher/Bilder/Ein Schaubild der Mathematik - Dmitry Fuchs und Serge Tabachnikov.png
+cover: "[[Fuchs und Tabachnikov - 2001 - Ein Schaubild der Mathematik.png]]"
 ---
 #Buch #Mathematik 
 
-![[Ein Schaubild der Mathematik - Dmitry Fuchs und Serge Tabachnikov.png]]
+![[Fuchs und Tabachnikov - 2001 - Ein Schaubild der Mathematik.png]]

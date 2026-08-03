@@ -9,8 +9,8 @@ category:
 publisher: "[[Springer]]"
 year: "[[2011]]"
 isbn: 9783662721537
-cover: "[[Automata Theory and Logic - Martin Hofmann und Martin Lange.png]]"
+cover: "[[Hofmann und Lange - 2011 - Automata Theory and Logic.png]]"
 ---
 #Buch #Informatik 
 
-![[Automata Theory and Logic - Martin Hofmann und Martin Lange.png]]
+![[Hofmann und Lange - 2011 - Automata Theory and Logic.png]]

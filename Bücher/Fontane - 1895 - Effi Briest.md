@@ -8,8 +8,8 @@ category:
 publisher:
 year: "[[1895]]"
 isbn:
-cover: Bücher/Bilder/Effi Briest - Theodor Fontane.png
+cover: "[[Fontane - 1895 - Effi Briest.png]]"
 ---
 #Buch #Literatur 
 
-![[Effi Briest - Theodor Fontane.png]]
+![[Fontane - 1895 - Effi Briest.png]]

@@ -8,8 +8,8 @@ category:
 publisher:
 year: "[[1915]]"
 isbn:
-cover: Bücher/Bilder/Die Verwandlung - Franz Kafka.png
+cover: "[[Kafka - 1915 - Die Verwandlung.png]]"
 ---
 #Buch #Literatur 
 
-![[Die Verwandlung - Franz Kafka.png]]
+![[Kafka - 1915 - Die Verwandlung.png]]

@@ -8,8 +8,8 @@ category: Fachbuch
 publisher: "[[Cambridge University Press]]"
 year: "[[2009]]"
 isbn: 521424267
-cover: Bücher/Bilder/Computational Complexity - Sanjeev Arora und Boaz Barak.png
+cover: "[[Arora und Barak - 2009 - Computational Complexity.png]]"
 ---
 #Buch #Informatik 
 
-![[Computational Complexity - Sanjeev Arora und Boaz Barak.png]]
+![[Arora und Barak - 2009 - Computational Complexity.png]]

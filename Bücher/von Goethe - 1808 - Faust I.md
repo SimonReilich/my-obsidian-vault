@@ -7,8 +7,8 @@ category: "[[Drama]]"
 publisher:
 year: "[[1808]]"
 isbn:
-cover: Bücher/Bilder/Faust I - Johann Wolfgang Goethe.png
+cover: "[[von Goethe - 1808 - Faust I.png]]"
 ---
 #Buch #Literatur 
 
-![[Faust I - Johann Wolfgang Goethe.png]]
+![[von Goethe - 1808 - Faust I.png]]

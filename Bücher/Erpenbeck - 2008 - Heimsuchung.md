@@ -8,8 +8,8 @@ category:
 publisher: "[[Penguin]]"
 year: "[[2008]]"
 isbn: 9783328102519
-cover: Bücher/Bilder/Heimsuchung - Jenny Erpenbeck.png
+cover: "[[Erpenbeck - 2008 - Heimsuchung.png]]"
 ---
 #Buch #Literatur 
 
-![[Heimsuchung - Jenny Erpenbeck.png]]
+![[Erpenbeck - 2008 - Heimsuchung.png]]

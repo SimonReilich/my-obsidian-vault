@@ -7,8 +7,8 @@ category: "[[Novelle]]"
 publisher:
 year: "[[1888]]"
 isbn: 3159604667
-cover: Bücher/Bilder/Bahnwärter Thiel - Gerhart Hauptmann.png
+cover: "[[Hauptmann - 1888 - Bahnwärter Thiel.png]]"
 ---
 #Buch #Literatur 
 
-![[Bahnwärter Thiel - Gerhart Hauptmann.png]]
+![[Hauptmann - 1888 - Bahnwärter Thiel.png]]

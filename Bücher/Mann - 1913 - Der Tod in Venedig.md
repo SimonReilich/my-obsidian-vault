@@ -8,8 +8,8 @@ category:
 publisher:
 year: "[[1913]]"
 isbn:
-cover: Bücher/Bilder/Der Tod in Venedig - Thomas Mann.png
+cover: "[[Mann - 1913 - Der Tod in Venedig.png]]"
 ---
 #Buch #Literatur 
 
-![[Der Tod in Venedig - Thomas Mann.png]]
+![[Mann - 1913 - Der Tod in Venedig.png]]

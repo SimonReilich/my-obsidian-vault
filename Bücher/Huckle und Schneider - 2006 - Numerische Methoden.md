@@ -8,8 +8,8 @@ category: Lehrbuch
 publisher: "[[Springer]]"
 year: "[[2006]]"
 isbn: 3540303189
-cover: Bücher/Bilder/Numerische Methoden - Thomas Huckle und Stefan Schneider.png
+cover: "[[Huckle und Schneider - 2006 - Numerische Methoden.png]]"
 ---
 #Buch #Mathematik
 
-![[Numerische Methoden - Thomas Huckle und Stefan Schneider.png]]
+![[Huckle und Schneider - 2006 - Numerische Methoden.png]]

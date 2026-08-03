@@ -8,8 +8,8 @@ category:
 publisher:
 year: "[[1816]]"
 isbn:
-cover: Bücher/Bilder/Der Sandmann - ETA Hoffmann.png
+cover: "[[Hoffmann - 1816 - Der Sandmann.png]]"
 ---
 #Buch #Literatur 
 
-![[Der Sandmann - ETA Hoffmann.png]]
+![[Hoffmann - 1816 - Der Sandmann.png]]

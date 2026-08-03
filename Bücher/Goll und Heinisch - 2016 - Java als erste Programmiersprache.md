@@ -8,8 +8,8 @@ category: Lehrbuch
 publisher: "[[Springer]]"
 year: "[[2016]]"
 isbn: 3658121173
-cover: Bücher/Bilder/Java als erste Programmiersprache - Joachim Goll und Cornelia Heinisch.png
+cover: "[[Goll und Heinisch - 2016 - Java als erste Programmiersprache.png]]"
 ---
 #Buch #Informatik 
 
-![[Java als erste Programmiersprache - Joachim Goll und Cornelia Heinisch.png]]
+![[Goll und Heinisch - 2016 - Java als erste Programmiersprache.png]]

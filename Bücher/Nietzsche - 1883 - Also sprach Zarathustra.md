@@ -8,8 +8,8 @@ category:
 publisher:
 year: "[[1883]]"
 isbn:
-cover: Bücher/Bilder/Also sprach Zarathustra - Friedrich Wilhelm Nietzsche.png
+cover: "[[Nietzsche - 1883 - Also sprach Zarathustra.png]]"
 ---
 #Buch #Literatur 
 
-![[Also sprach Zarathustra - Friedrich Wilhelm Nietzsche.png]]
+![[Nietzsche - 1883 - Also sprach Zarathustra.png]]

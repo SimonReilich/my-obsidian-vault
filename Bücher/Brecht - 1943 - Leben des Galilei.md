@@ -8,8 +8,8 @@ category:
 publisher:
 year: "[[1943]]"
 isbn:
-cover: Bücher/Bilder/Leben des Galilei - Bertolt Brecht.png
+cover: "[[Brecht - 1943 - Leben des Galilei.png]]"
 ---
 #Buch #Literatur 
 
-![[Leben des Galilei - Bertolt Brecht.png]]
+![[Brecht - 1943 - Leben des Galilei.png]]

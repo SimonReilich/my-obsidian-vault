@@ -8,8 +8,8 @@ category:
 publisher:
 year: "[[1956]]"
 isbn:
-cover: "[[The last Question - Isaac Asimov.png]]"
+cover: "[[Asimov - 1956 - The last Question.png]]"
 ---
 #Buch #Literatur 
 
-![[The last Question - Isaac Asimov.png]]
+![[Asimov - 1956 - The last Question.png]]

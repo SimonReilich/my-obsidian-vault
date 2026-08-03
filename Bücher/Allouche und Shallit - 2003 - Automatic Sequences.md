@@ -1,6 +1,6 @@
 ---
 title: "Automatic Sequences: Theory, Applications, Generalizations"
-subtitle: "Theory, Applications, Generalizations"
+subtitle: Theory, Applications, Generalizations
 author:
   - "[[Jean-Paul Allouche]]"
   - "[[Jeffrey Shallit]]"
@@ -9,8 +9,8 @@ category:
 publisher: "[[Cambridge University Press]]"
 year: "[[2003]]"
 isbn: 9780511546563
-cover: Automatic Sequences - Jean-Paul Allouche und Jeffrey Shallit.png
+cover: "[[Allouche und Shallit - 2003 - Automatic Sequences.png]]"
 ---
 #Buch #Informatik 
 
-![[Automatic Sequences - Jean-Paul Allouche und Jeffrey Shallit.png]]
+![[Allouche und Shallit - 2003 - Automatic Sequences.png]]
