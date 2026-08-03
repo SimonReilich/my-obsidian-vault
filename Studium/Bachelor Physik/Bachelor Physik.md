@@ -1,25 +1,25 @@
 #BScInfo #Physik #Inhaltsverzeichnis 
 # 1. Semester
-- [[Mechanik]]
+- [[Experimentalphysik I]] 
 
 # 2. Semester
-- [[Elektromagnetismus]]
-- [[Klassische Mechanik]]
+- [[Experimentalphysik II]]
+- [[Theoretische Physik I]] 
 
 # 3. Semester
-- [[Optik & Quantenphysik]]
-- [[Elektrodynamik]]
+- [[Experimentalphysik III]]
+- [[Theoretische Physik II]] 
 
 # 4. Semester
-- [[Atomphysik & Thermodynamik]]
-- [[Quantenmechanik]]
+- [[Experimentalphysik IV]]
+- [[Theoretische Physik III]]
 - [[Chemie für Physiker]]
 
 # 5. Semester
-- [[Statistische Mechanik]]
-- [[Kern-, Teilchen- und Astrophysik]] 1
-- [[Physik der kondensierten Materie]]
-- Ergänzungen zu [[Quantenmechanik]]
+- [[Theoretische Physik IV A]]
+- [[Kern-, Teilchen- und Astrophysik I]] 
+- [[Einführung in die Physik der kondensierten Materie]] 
+- [[Fortgeschrittene Quantenmechanik]] 
 
 # 6. Semester
-- [[Kern-, Teilchen- und Astrophysik]] 2
+- [[Kern-, Teilchen- und Astrophysik II]] 

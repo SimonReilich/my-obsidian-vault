@@ -19,7 +19,7 @@
 
 # 4. Semester
 - [[Geometrie]]
-- [[Optimierung]]
+- [[Algebra]] 
 - [[Funktionentheorie]]
 
 # 5. Semester
