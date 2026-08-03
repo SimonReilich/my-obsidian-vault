@@ -94,7 +94,12 @@ subject: "[[Geschichte - Schule]]"
 - Durch Misshandlungen und Massenerschießungen verloren von den 4,7 Millionen [[Judentum|Jüdinnen und Juden]], die im Sommer [[1941]] auf dem Territorium der [[Sowjetunion|UdSSR]] lebten, bis Ende [[1942]] etwa 2,2 Millionen ihr Leben 
 - Bis zum Frühjahr [[1941]] war noch kein "planmäßiges" Vorgehen gegen die [[Judentum|Jüdinnen und Juden]] erkennbar, doch es kam bereits in großem Umfang zu Deportationen, Errichtung von [[Ghetto|Ghettos]] und Massenerschießungen 
 - Die planmäßige Koordinierung des Mordens an den [[Judentum|Jüdinnen und Juden]] wurde auf der [[Wannsee-Konferenz]] am 20. Januar [[1942]] in [[Berlin]] beraten 
-- Allein in den [[Vernichtungslager|Vernichtungslagern]] [[Auschwitz]], [[Treblinka]], [[Chelmno]], [[Sobibor]] und [[Majdanek]] wurden 3000000 [[Judentum|Jüdinnen und Juden]] und mehr als 200000 [[Sinti]] und [[Roma]] ermordet, bis Kriegsende [[1945]] wurden etwa sechs Millionen [[Judentum|Jüdinnen und Juden]] Opfer der [[Nationalsozialismus|NS]]-Rassen- und Vernichtungspolitik
+- Allein in den [[Vernichtungslager|Vernichtungslagern]] [[Auschwitz]], [[Treblinka]], [[Chelmno]], [[Sobibor]] und [[Majdanek]] wurden 3000000 [[Judentum|Jüdinnen und Juden]] und mehr als 200000 [[Sinti und Roma]] ermordet, bis Kriegsende [[1945]] wurden etwa sechs Millionen [[Judentum|Jüdinnen und Juden]] Opfer der [[Nationalsozialismus|NS]]-Rassen- und Vernichtungspolitik
 
 # Sinti und Roma sowie weitere Opfer des NS-Rassismus
-3.7. S. 87
+- Die größte Opfergruppe des [[Nationalsozialismus|NS]]-Regimes nach den [[Judentum|Jüdinnen und Juden]] waren die [[Sinti und Roma]] 
+- Mit Ausbruch des Krieges setzte parallel zum [[Völkermord]] an den [[Europa|europäischen]] [[Judentum|Jüdinnen und Juden]] auch die systematische Ermordung der [[Sinti und Roma]] in [[Europa]] ein 
+- Ab Mitte Oktober [[1939]] durften [[Sinti und Roma]] ihre Wohnsitze nicht mehr verlassen, dies hatte [[Heinrich Himmler]] (Reichsführer [[Schutzstaffel|SS]] und Chef der Deutschen Polizei) angeordnet, um die "Zigeunerfrage" binnen Kurzem im gesamten Reichsgebiet zu "regeln" 
+- Die historische Forschung geht jedoch davon aus, dass zwischen 200000 und einer halben Millionen [[Sinti und Roma]] dem [[Nationalsozialismus|nationalsozialistischen]] [[Völkermord]] zum Opfer gefallen sind 
+- Erst [[1982]] wurde der [[Völkermord|Genozid]] nach langem Kampf der Bürgerrechtsbewegung der [[Sinti und Roma]] von der [[Bundesrepublik Deutschland]] offiziell als [[Völkermord]] anerkannt 
+- Die Nationalsozialisten vertraten die Auffassung, dass alle „rassisch minderwertigen" Menschen eine „lebensunwerte" Existenz führten. Hierzu zählten sie auch geistig und körperlich kranke Menschen sowie Menschen mit Behinderung. Mit dem „Gesetz zur Verhütung erbkranken Nachwuchses" vom 14. Juli 1933 wurde erstmals in Deutsch- land die Zwangssterilisation aus „rassehygienischen" Gründen zum legalen Mittel
