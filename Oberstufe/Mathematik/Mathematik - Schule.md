@@ -1,7 +1,7 @@
 #Oberstufe #Inhaltsverzeichnis #Mathematik 
 
 - Kapitel 01 - [[Funktionenscharen, Stammfunktionen und weitere Ableitungsregeln]]
-- Kapitel 02 - [[Die Natürliche Exponentialfunktion]]
+- Kapitel 02 - [[Die Natürliche Exponentialfunktion und ihre Anwendung]] 
 - Kapitel 03 - [[Zufallsgrößen und Binomialverteilung]]
 - Kapitel 04 - [[Beurteilende Statistik]]
 - Kapitel 05 - [[Quotientenregel und Funktionsuntersuchung]]
