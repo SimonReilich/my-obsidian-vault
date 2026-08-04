@@ -1,5 +1,7 @@
 ---
 subject: "[[Geschichte - Schule]]"
+aliases:
+  - KPD
 ---
 #Oberstufe #Geschichte 
 # Definition 
