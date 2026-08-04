@@ -1,4 +1,4 @@
 ---
 lecture: "[[Chemie für Physiker]]"
 ---
-#BScPhy #Physik #Chemp 
+#BScPhy #Chemie #Chemp 
