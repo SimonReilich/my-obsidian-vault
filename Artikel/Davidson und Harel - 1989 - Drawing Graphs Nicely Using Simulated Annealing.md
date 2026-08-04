@@ -28,5 +28,13 @@ sources:
   - "[[Kamada - 1989 - Visualizing abstract Objects and Relations]]"
   - "[[Kamada und Kawai - 1989 - An algorithm for drawing general undirected graphs]]"
   - "[[Kirkpatrick et al - 1983 - Optimization by simulated annealing]]"
+  - "[[van Laarhoven und Aarts - 1987 - Simulated annealing - Theory and Applications]]"
+  - "[[Lipton et al - 1985 - A method for drawing Graphs]]"
+  - "[[Makinen - 1990 - How to draw a Hypergraph]]"
+  - "[[Manning und Atallah - 1988 - Fast detection and display of symmetry in trees]]"
+  - "[[Metropolis et al - 1953 - Equation of state calculations by fast computing machines]]"
+  - "[[Siarry et al - 1987 - Thermodynamic optimization of block placement]]"
+  - "[[Tamassia et al - 1988 - Automated graph drawing and readability of diagrams]]"
+  - "[[Tutte - 1963 - How to draw a Graph]]"
 ---
 #Artikel #Informatik 
