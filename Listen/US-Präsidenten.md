@@ -1,4 +1,4 @@
-#Geschichte #Politik 
+#Politik 
 # Präsidenten der [[USA]] 
  * [[George Washington]], parteilos: [[1789]] - [[1797]]
  * [[John Adams]], [[Föderalistische Partei]]: [[1797]] - [[1801]]

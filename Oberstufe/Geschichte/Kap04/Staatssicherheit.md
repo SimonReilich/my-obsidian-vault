@@ -2,6 +2,7 @@
 subject: "[[Geschichte - Schule]]"
 aliases:
   - Stasi
+  - Ministerium für Staatssicherheit
 ---
 #Oberstufe #Geschichte 
 # Definition 

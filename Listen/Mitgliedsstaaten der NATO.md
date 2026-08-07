@@ -1,4 +1,4 @@
-#Politik #Geschichte 
+#Politik 
 # Mitgliedsstaaten der [[NATO]]
 - [[Belgien]]: ab [[1949]] 
 - [[Dänemark]]: ab [[1949]] 
