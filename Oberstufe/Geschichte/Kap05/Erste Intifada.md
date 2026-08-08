@@ -1,0 +1,6 @@
+---
+subject: "[[Geschichte - Schule]]"
+---
+#Oberstufe #Geschichte 
+# Definition 
+[[1987]] spitzte sich die Lage im [[Israel|israelisch]]-palästinensischen Konflikt zu. Ausgangspunkt war ein Verkehrsunfall am 7. Dezember [[1987]] im palästinensischen Flüchtlingslager Jabaliya im [[Gazastreifen]]. Ein [[Israel|israelischer]] Laster stieß mit palästinensischen Fahrzeugen zusammen, vier Palästinenser starben. Die Beerdigung der Opfer entwickelte sich zu einer Demonstration gegen die [[Israel|israelische]] Besatzung. Der Aufstand - die erste ,"Intifada" (dt. Abschüttelung, Erhebung) - erfasste binnen einer Woche das gesamte [[Westjordanland]] sowie Ost-[[Jerusalem]] und setzte eine Gewaltspirale in Gang. Beteiligt waren vor allem Jugendliche. Die [[Palästinensische Befreiungsorganisation|PLO]] unter [[Yassir Arafat]] versuchte, den Aufstand zu nutzen und ihren politischen Führungsanspruch geltend zu machen, das [[Israel|israelische]] Militär reagierte mit Härte, der Aufstand verschärfte sich. Die Opferzahlen waren hoch. Und auch die politische Rhetorik verschärfte sich immer weiter.

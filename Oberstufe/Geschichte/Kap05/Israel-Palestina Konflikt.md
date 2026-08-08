@@ -52,18 +52,16 @@ Kolonialmächte ([[Frankreich]], [[Großbritannien]]):
 - [[1964]] wird die [[Palästinensische Befreiungsorganisation]] (PLO) gegründet, [[Yassir Arafat]] ist Vorsitzender
 - [[Sechstagekrieg]] [[1967]], Konflikt aufgrund von Bewässerung
 
-# Der Osloer Prozess
-- Gewaltspirale [[1987]], [[erste "Intifada"]] erfasst das gesammte [[Westjordanland]] 
+# Verhandlungen 
+- Gewaltspirale [[1987]], "[[Erste Intifada]]" erfasst das gesammte [[Westjordanland]] 
 - Kurswechsel der [[Palästinensische Befreiungsorganisation]], erkennt nun [[Israel]] als Staat an und ist bereit für Verhandlungen über Zwei-Staaten-Lösung
 - Führt aber zur Spaltung auf palästinensischer Seite, [[Hamas]] wird gegründet
 - unter Vermittlung von [[Bill Clinton]] nähern sich [[Israel]] und die [[Palästinensische Befreiungsorganisation]] [[1993]] an, der [[Osloer Prozess]] beginnt
 - Die Gewalt auf beiden Seiten geht aber weiter, unter anderem Anschläge der [[Hamas]] in [[Israel]] oder Massaker an Palästinensern durch fanatische Siedler
 - [[1995]] wird Ministerpräsident [[Jitzack Rabin]] von einem rechtsextremen Israeli ermordet, es kommt zum Regierungswechsel
-- Der fortgesetzte Siedlungsbau [[Israel|Israels]], die Anschläge der [[Hamas]], sowie die [[zweite "Intifada"]] zerstören das Vertrauen beider Seiten
-
-# Die Roadmap
+- Der fortgesetzte Siedlungsbau [[Israel|Israels]], die Anschläge der [[Hamas]], sowie die "[[Zweite Intifada]]" zerstören das Vertrauen beider Seiten
 - direkte israelisch-palästinensische sind nun nicht mehr möglich
 - Das [[Nahost-Quartett]] bildet sich aus [[USA]], [[Die Bedeutung Europäischen Union|Europäischer Union]], [[Russland]] und der [[Vereinte Nationen|UN]] 
-- erarbeiten [[2003]] [["Roadmap"]] als Vorschlag
+- erarbeiten [[2003]] "[[Roadmap]]" als Vorschlag
 - Umsetzung wird aber von keiner Seite angegangen
 - Bei palästinensischen Wahlen siegt [[Hamas]] [[2006]], übernimmt die Kontrolle im [[Gazastreifen]] 

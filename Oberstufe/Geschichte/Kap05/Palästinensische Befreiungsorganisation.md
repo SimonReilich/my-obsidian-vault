@@ -1,0 +1,8 @@
+---
+subject: "[[Geschichte - Schule]]"
+aliases:
+  - PLO
+---
+#Oberstufe #Geschichte 
+# Definition 
+Als [[1964]] die Palästinensische Befreiungsorganisation (PLO) gegründet wurde, erhielten die politischen und militärischen palästinensischen Gruppierungen erstmals einen Dachverband, der die Aktivitäten bündelte und nach außen als Vertretung der palästinensischen Interessen auftrat. Ihr Ziel war es, "[[Palästina]] zu befreien" (Charta der PLO vom 17. Juli [[1968]]). Damit einher ging das Ziel, den [[Judentum|jüdischen]] Staat [[Israel]] zu zerstören, da man Anspruch auf ganz [[Palästina]] erhob. Tatsächlich setzte die PLO lange Zeit als zentrales Mittel [[Terrorismus|Terrorakte]] in [[Israel]] und weltweit ein, um ihre Ziele zu erreichen. Kontrollierte bis [[1967]] [[Ägypten]] die PLO - sie diente der [[Ägypten|ägyptischen]] Führung als Instrument im Konflikt um arabische Hegemonialansprüche -, konnte sie sich unter [[Yassir Arafat]], der [[1969]] den Vorsitz übernahm, zu einer eigenständigen nationalen Vertretung entwickeln. Sie wurde zu einem wichtigen Akteur im Nahostkonflikt, der seine Interessen gegenüber den arabischen Staaten abgrenzte, aber dennoch mit ihnen finanziell und politisch verflochten blieb. Der [[Sechstagekrieg]] [[1967]] löste eine weitere Flüchtlingswelle aus und stärkte die Rolle der PLO. Diese setzte nun vermehrt auf weltweiten [[Terrorismus]], z. B. in Form von Flugzeugentführungen. Erst ab Mitte der [[1970]]er-Jahre mäßigte die PLO ihren Kurs. Das trug zu ihrer internationalen Aufwertung bei, führte intern aber zu Konflikten mit radikalen Gruppen, die jede Kompromisslösung ablehnten.
