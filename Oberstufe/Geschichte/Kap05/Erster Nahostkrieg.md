@@ -1,0 +1,7 @@
+---
+subject: "[[Geschichte - Schule]]"
+---
+#Oberstufe #Geschichte 
+# Definition 
+Unmittelbar nach der [[Israel|israelischen]] Staatsgründung [[1948]] griffen Truppen der arabischen Nachbarstaaten [[Ägypten]], [[Jordanien|Transjordanien]], [[Syrien]], [[Libanon]] und [[Irak]] [[Israel]] an. Neben der Unterstützung der arabisch-palästinensischen Kämpfer hatten sie auch jeweils eigene Interessen im Blick, zum Beispiel [[Jordanien|Transjordanien]] die Besetzung des [[Westjordanland|Westjordanlandes]] und [[Jerusalem|Jerusalems]]. Der erste Nahostkrieg begann. Die [[Israel|israelische]] Armee, die sich aus den ehemaligen Untergrundeinheiten zusammensetzte, schlug die Angriffe zurück und eroberte Gebiete, die über die im Teilungsplan vorgesehenen Grenzen hinausgingen.
+Der Nahostkrieg endete [[1949]] mit einem [[Israel|israelischen]] Sieg. Die Chancen für die durch den [[Vereinte Nationen|UN]]-Beschluss vom November [[1947]] legitimierte Ausrufung eines arabisch-palästinensischen Staates in einem Teil [[Palästina|Palästinas]] waren durch die Besetzung von Teilen der dafür vorgesehenen Gebiete durch [[Israel]], die Eingliederung des [[Westjordanland|Westjordanlandes]] und Ost-[[Jerusalem|Jerusalems]] in das [[1950]] von König [[Abdullah I.]] ausgerufene Königreich [[Jordanien]] sowie die Unterstellung des [[Gazastreifen|Gazastreifens]] unter [[Ägypten|ägyptische]] Verwaltung hinfällig geworden.

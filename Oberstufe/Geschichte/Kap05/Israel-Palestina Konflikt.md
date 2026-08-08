@@ -4,21 +4,19 @@
 - Ab 2. Jh. vor Christus: unter [[Griechenland|griechischer]] Vorherrschaft, [[Griechenland|Griechen]] verwenden erstmals den Namen [[Palestina]]
 - Im Jahre [[6]] n. Chr. unter [[Kaiser Augustus]] wird [[Judäa]] [[Rom|römische]] Provinz, die [[Rom|Römer]] kontrollieren den Tempelplatz in [[Jerusalem]] 
 - [[jüdisch-römische Kriege]], endet mit Zerstörung des Tempels
-- Beginn der [[jüdische Diaspora|jüdischen Diaspora]]  
-
-# Diaspora und Zionismus
+- Beginn der [[jüdische Diaspora|jüdischen Diaspora]] schon in der [[Antike]] 
 - zweite Hälfte des 19. Jh.: [[Antisemitismus]] in [[Europa]] nimmt zu
-- [[Theodor Herzl]] veröffentlicht sein Werk [[der Judenstaat]] und begründet somit den [[Zionismus]]
+- [[Theodor Herzl]] veröffentlicht sein Werk [[Herzl - 1896 - Der Judenstaat|Der Judenstaat]] und begründet somit den [[Zionismus]]
 - In [[Basel]] findet [[1897]] der erste Zionistenkongress statt
 
 # Perspektiven
 Kolonialmächte ([[Frankreich]], [[Großbritannien]]):
 - nach dem [[Erster Weltkrieg|Ersten Weltkrieg]] zerfällt das [[Osmanisches Reich|Osmanische Reich]] 
 - teilen [[Naher Osten|Nahen Osten]] untereinander auf, [[Skyes-Picot-Abkommen]] 
-- [[Großbritannien|Briten]] versprechen Arabern Unterstützung bei Unabhängigkeit, erhalten [[Mandat]] über [[Palestina]] und unterstützen [[Zionismus|Zionisten]] ([[Balfour-Deklaration]]), dort lebende Araber sollen aber nicht eingeschränkt werden
-- Abtrennung von [[Transjordanien]] führt zu Bildung von teretorialem [[Palestina]] 
+- [[Großbritannien|Briten]] versprechen Arabern Unterstützung bei Unabhängigkeit, erhalten [[Mandatssystem|Mandat]] über [[Palestina]] und unterstützen [[Zionismus|Zionisten]] ([[Balfour-Deklaration]]), dort lebende Araber sollen aber nicht eingeschränkt werden
+- Abtrennung von [[Jordanien|Transjordanien]] führt zu Bildung von teretorialem [[Palestina]] 
 
-# während des [[Zweiter Weltkrieg|Zweiten Weltkriegs]] 
+# Während des [[Zweiter Weltkrieg|Zweiten Weltkriegs]] 
 - [[Großbritannien|britischer]] Mandatsvertrag von [[1922]] bestätigt Vorhaben der [[Balfour-Deklaration]]
 - [[1929]] wird die [[Jewish Agency for Palestine]] gegründet
 - Durch den [[Nationalsozialismus]] steigt die [[Judentum|jüdische]] Einwanderung noch weiter an, verstärkt Bewegung des arabischen [[Nationalismus]] 
@@ -27,10 +25,10 @@ Kolonialmächte ([[Frankreich]], [[Großbritannien]]):
 - [[Großbritannien]] rückt von Teilungsplan ab, veröffentlicht [[1939]] [[Weißbuch]] und begrenzt [[Judentum|jüdische]] Zuwanderung 
 - [[Großbritannien]] will verhindern, das sich Araber mit [[Deutschland]] verbünden
 - [[Jewish Agency for Palestine]] führt militärische Aktionen gegen palestinensische und [[Großbritannien|britische]] Einrichtungen durch
-- [[Hagana]] organisiert illegale Migration nach Palästina
+- [[Hagana]] organisiert illegale [[Migration]] nach Palästina
 
 # UN-Teilungsplan
-- [[Großbritannien]] bekommt Situation nicht unter Kontrolle, gibt [[Mandat]] an die [[Vereinte Nationen|Vereinten Nationen]] zurück
+- [[Großbritannien]] bekommt Situation nicht unter Kontrolle, gibt [[Mandatssystem|Mandat]] an die [[Vereinte Nationen|Vereinten Nationen]] zurück
 - Schlagen neuen Teilungsplan vor, 56% [[Judentum|jüdisches]] und 44% arabisches Staatsgebiet
 - [[Judentum|jüdische]] Seite nimmt Plan ab, arabische Seite lehnt ab
 - [[Großbritannien]] weigert sich, bei der Umsetzung des Teilungsplans zu helfen, es entsteht ein Machtvakuum
@@ -41,7 +39,7 @@ Kolonialmächte ([[Frankreich]], [[Großbritannien]]):
 # Gründung des Staates [[Israel]]
 - Am 14. Mai [[1948]] erklärt der israelische [[Volksrat]] die Unabhängigkeit
 - [[David Ben Guerion]] wird erster [[Israel|israelischer]] Ministerpräsident
-- unmittelbar danach erklären alle arabischen Nachbarstaaten ([[Ägypten]], [[Transjordanien]], [[Syrien]], [[Libanon]] und [[Irak]]) [[Israel]] den Krieg, [[Erster Nahostkrieg]] beginnt
+- unmittelbar danach erklären alle arabischen Nachbarstaaten ([[Ägypten]], [[Jordanien|Transjordanien]], [[Syrien]], [[Libanon]] und [[Irak]]) [[Israel]] den Krieg, [[Erster Nahostkrieg]] beginnt
 - Teilungsplan ist hinfällig
 - [[1949]] verabschiedet der [[Volksrat]] ein Gesetz, mit dem er zum [[Israel|israelischen]] [[Parlament]], der [[Knesset]], wird
 
