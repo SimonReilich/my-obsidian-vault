@@ -1,7 +1,7 @@
 filters:
   and:
     - file.tags.contains("Buch")
-    - file.folder.contains("Bücher")
+    - file.name != "Buch Vorlage"
 views:
   - type: cards
     name: View

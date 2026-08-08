@@ -1,7 +1,7 @@
 filters:
   and:
     - file.tags.contains("Video")
-    - file.folder.contains("Videos")
+    - file.name != "Video Vorlage"
 views:
   - type: cards
     name: View

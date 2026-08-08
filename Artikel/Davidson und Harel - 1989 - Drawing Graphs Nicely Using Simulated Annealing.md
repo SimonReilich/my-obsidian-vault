@@ -3,7 +3,7 @@ title: Drawing Graphs Nicely Using Simulated Annealing
 author:
   - "[[Ron Davidson]]"
   - "[[David Harem]]"
-publisher:
+publisher: "[[Czech-British Symposium on Visual Aspects of Man-Machine Systems]]"
 year: "[[1989]]"
 file: "[[Davidson und Harel - 1989 - Drawing Graphs Nicely Using Simulated Annealing.pdf]]"
 sources:

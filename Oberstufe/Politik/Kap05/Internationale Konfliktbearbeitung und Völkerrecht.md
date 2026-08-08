@@ -6,7 +6,7 @@ subject: "[[Politik - Schule]]"
 - Überfall [[Russland|Russlands]] auf die [[Ukraine]] am 24.02.[[2022]] ([[Russischer Angriffskrieg]]) als völkerrechtswidriger [[Angriffskrieg]] 
 - Das innerhalb [[Europa|Europas]] ein souveräner Staat offen angegriffen wird war bis dahin unvorstellbar, [[Olaf Scholz]] prägt den Begriff der "Zeitenwende"
 - Vielschichtiger Konflikt mit vielen [[Konfliktdimensionen]] 
-- Beteiligte Akteure sind u.a. [[Russland]] und die [[Ukraine]], [[Deutschland]], die [[Europäische Union]], die [[NATO]], [[UNO]], [[China]] bzw. die [[BRICS-Staaten]] 
+- Beteiligte Akteure sind u.a. [[Russland]] und die [[Ukraine]], [[Deutschland]], die [[Europäische Union]], die [[NATO]], [[Vereinte Nationen|UNO]], [[China]] bzw. die [[BRICS-Staaten]] 
 - Definition [[INGO]] 
 
 # Akteure in internationalen Konflikten
