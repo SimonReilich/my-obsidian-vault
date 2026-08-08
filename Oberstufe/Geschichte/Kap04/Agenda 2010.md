@@ -1,0 +1,14 @@
+---
+subject: "[[Geschichte - Schule]]"
+---
+#Oberstufe #Geschichte 
+# Definition 
+Reformkonzept des damaligen Bundeskanzlers [[Gerhard Schröder]], das am 14. März [[2003]] vorgestellt wurde. Das Kernstück waren umfassende Arbeitsmarkt- und Sozialreformen unter dem Motto "Fördern und Fordern". Erklärtes Ziel der von der Bundesregierung beauftragten Kommission unter dem Manager [[Peter Hartz]] und dem Wirtschaftswissenschaftler [[Bert Rürup]] war es, durch eine "aktive Arbeitsmarktpolitik" die Arbeitslosen- und Sozialhilfe zum Arbeitslosengeld II ([[Hartz IV]]) zusammenzuführen. Geringfügig Beschäftigte in sogenannten Minijobs wurden von Abgaben befreit, Leiharbeit wurde erleichtert. Weitere Gesetze passten die Rentenhöhe an die konjunkturelle Entwicklung an und beteiligten Versicherte stärker an Gesundheitskosten. 
+
+# Arbeitsmarktreformen 
+- Hartz I und II; u. a. Aufwertung der Leiharbeit, Förderung geringfügiger Beschäftigung, Leistungskürzungen für Langzeitarbeitslose, die eine angebotene Beschäftigung ablehnen 
+- Hartz III: Zusammenarbeit bundeseigener Arbeitsämter mit kommunalen Sozialämtern in der neuen [[Bundesagentur für Arbeit]] 
+- [[Hartz IV]]: Zusammenlegung von Arbeitslosenhilfe und Sozialhilfe zum "Arbeitslosengeld II", diese Grundsicherung ersetzt nach 12 bzw. 18 Monaten Arbeitslosigkeit das Arbeitslosengeld I, welches an die Höhe des früheren Einkommens gekoppelt ist 
+
+# Bewertungen 
+Nach heutigen Erkenntnissen der Wirtschaftswissenschaft hat die größte Arbeitsmarkt- und Sozialreform in der Geschichte der [[Bundesrepublik Deutschland]] zu einem nachhaltigen Aufschwung des Arbeitsmarktes beigetragen, der im Vergleich mit anderen [[Europa|europäischen]] Ländern bemerkenswert war und auch dabei half, dass [[Deutschland]] die Auswirkungen der [[Weltfinanzkrise]] von [[2007]] bis [[2008]] besser bewältigen konnte: Die Zahl der Arbeitslosen sank deutlich, immer mehr Menschen waren erwerbstätig. Als positive Auswirkung der Reform wird auch die effektivere Integration von Arbeitslosen in den Arbeitsmarkt gemäß dem Motto "Fördern und Fordern" genannt, Die Agenda 2010 war aber von Anfang an in Politik und Gesellschaft sehr umstritten und traf auf großen Widerstand der Sozialverbände und Gewerkschaften, die diese Maßnahmen als sozial ungerecht kritisierten, weil u. a. viele Arbeitslose Angst vor dem sozialen Abstieg hatten. Auch der Anstieg unsicherer und schlecht bezahlter Arbeitsverhältnisse als rasche Auswirkung der Reform war ein Problem, längerfristig schwächte sich dieser Trend jedoch deutlich ab. [[2023]] wurde als Reaktion auf die anhaltende Kritik an [[Hartz IV]] das [[Bürgergeld]] eingeführt. 
