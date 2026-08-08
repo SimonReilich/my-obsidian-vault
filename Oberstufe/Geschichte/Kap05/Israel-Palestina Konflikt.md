@@ -4,7 +4,7 @@
 - Ab 2. Jh. vor Christus: unter [[Griechenland|griechischer]] Vorherrschaft, [[Griechenland|Griechen]] verwenden erstmals den Namen [[Palestina]]
 - Im Jahre [[6]] n. Chr. unter [[Kaiser Augustus]] wird [[Judäa]] [[Rom|römische]] Provinz, die [[Rom|Römer]] kontrollieren den Tempelplatz in [[Jerusalem]] 
 - [[jüdisch-römische Kriege]], endet mit Zerstörung des Tempels
-- Beginn der [[jüdische Diaspora|jüdischen Diaspora]] schon in der [[Antike]] 
+- Beginn der [[jüdische Diaspora|jüdischen Diaspora]] schon in der [[Antike]]
 - zweite Hälfte des 19. Jh.: [[Antisemitismus]] in [[Europa]] nimmt zu
 - [[Theodor Herzl]] veröffentlicht sein Werk [[Herzl - 1896 - Der Judenstaat|Der Judenstaat]] und begründet somit den [[Zionismus]]
 - In [[Basel]] findet [[1897]] der erste Zionistenkongress statt
