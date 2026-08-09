@@ -55,4 +55,28 @@ subject: "[[Geschichte - Schule]]"
 - Der schnelle Übergang - "Schocktherapie" genannt - konnte den wirtschaftlichen Niedergang des Landes nich aufhalten und führte zu sozialen Verwerfungen, es kam zu einer radikalen Umverteilung des Eigentums 
 - Eine neue Klasse von Superreichen, "Oligarchen" genannt, gelangte in den Besitz wertvoller Rohstoffe aller Art und verkaufte diese mit hohen Gewinnes zumeist ins Ausland 
 - Gegen die Geschwindigkeit der Privatisierungen erhob sich Widerstand im Volksdeputiertenkongress, dem [[Parlament]], [[Jegor Gajdar|Gajdar]] musste zurücktreten, doch der Versuch, [[Boris Jelzin|Jelzin]] durch ein Misstrauensvotum abzusetzen, scheiterte im März [[1993]] 
-- Der Präsident löste am 21. September [[1993]] per Verordnung den im Weißen Haus tagenden Volksdeputiertenkongress auf, die militärische Führung unterstützte Jelzin, rückte gegen die Protestierenden Parlament vor und ließ das Weiße Haus beschießen
+- Der Präsident löste am 21. September [[1993]] per Verordnung den im Weißen Haus tagenden Volksdeputiertenkongress auf, die militärische Führung unterstützte [[Boris Jelzin|Jelzin]], rückte gegen die Protestierenden im [[Parlament]] vor und ließ das Weiße Haus beschießen 
+- Die nach der Krise von [[Boris Jelzin|Jelzin]] vorgelegte und durch eine Volksabstimmung angenommene neue [[Verfassung]] stärkte die Macht des Präsidenten gegenüber dem [[Parlament]] 
+- Als größte ehemalige Teilrepublik trat die [[Russland|Russische Föderation]] [[Völkerrecht|völkerrechtlich]] die Nachfolge der [[Sowjetunion]] an (u. a. als ständiges Mitglied im [[UN-Sicherheitsrat]]) 
+- Zum Zeitpunkt der Auflösung der [[Sowjetunion]] besaß auch die unabhängig gewordene [[Ukraine]] erhebliche Bestände an [[Atombombe|Atomwaffen]] als Erbe der [[Sowjetunion|sowjetischen]] Zeit und war damit für kurze Zeit die drittgrößte Atommacht der Welt 
+- Im Rahmen umfangreicher Abrüstungsverhandlungen einigten sich die [[USA]], [[Großbritannien]] und [[Russland]] [[1994]] im [[Budapester Memorandum]] darauf, dass die [[Ukraine]] wie auch [[Belarus]] und [[Kasachstan]] alle [[Atombombe|Atomwaffen]] an die [[Russland|Russische Föderation]] abgaben 
+- Im Gegenzug erhielt die [[Ukraine]] die Sicherheitsgarantie, dass keine Gewalt oder Gewaltandrohung gegen sie eingesetzt werde 
+- [[1997]] kam es zur Unterzeichnung der [[NATO-Russland-Grundakte]], [[Russland]] erkannte an, kein Vetorecht gegen den Wunsch einer [[NATO]]-Mitgliedschaft ehemaliger Staaten des [[Warschauer Pakt|Warschauer Pakts]] zu besitzen, die [[NATO]] erklärte ihrerseits, dass sie keine Absicht habe, in den neuen Mitgliedstaaten in [[Europa|Osteuropa]] [[Atombombe|Atomwaffen]] zu stationieren 
+- Die Zusammenarbeit zwischen [[Russland]] und der [[NATO]] wurde auch nach der Aufnahme [[Polen|Polens]], [[Tschechien|Tschechiens]] und [[Ungarn|Ungarns]] in die [[NATO]] [[1999]] fortgesetzt 
+
+# Die [[Russland|Russische Fördation]] unter Präsident [[Wladimir Putin]]
+- [[Wladimir Putin]] wurde am 6. Mai [[2000]] in einer [[Demokratie|demokratischen]] Wahl zum Präsidenten der Russischen Föderation gewählt 
+- Nach einer Serie von Anschlägen [[Tschetschenien|tschetschenischer]] [[Terrorismus|Terroristen]] in [[Moskau]] sowie Geiselnahmen in den letzten Monaten der Präsidentschaft [[Boris Jelzin|Jelzins]] hatte sich [[Wladimir Putin|Putin]] als Bekämpfer des [[Terrorismus]] einen Namen in der [[Russland|russischen]] Öffentlichkeit gemacht, was ihm viele Wählerstimmen einbrachte 
+- Doch unter dem Vorwand der Stabilisierung begann der Umbau zu einem autoritären Staat, das [[Parlament]] spielte nur noch eine untergeordnete Rolle, alle Macht konzentrierte sich beim Präsidenten 
+- [[Wladimir Putin|Putins]] Regime schränkte die Meinungs- und Versammlungsfreiheit immer weiter ein, viele [[NGO|Nichtregierungsorganisationen]] wie [[Amnesty International]] wurden verboten 
+- Der Oppositionsführer [[Boris Nemzow]], in den [[1990]]er-Jahren verantwortlich für die [[Kapitalismus|marktwirtschaftlichen]] Reformen, hatte bereits [[2004]] vor einer Diktatur [[Wladimir Putin|Putins]] gewarnt, er wurde [[2015]] im Zentrum [[Moskau|Moskaus]] erschossen 
+- [[Wladimir Putin|Putin]] führte das Land formal mithilfe [[Demokratie|demokratischer]] Einrichtungen wie Wahlen oder des [[Parlament|Parlaments]], faktisch gab es jedoch keine [[Gewaltenteilung]], sondern eine Alleinherrschaft der [[Exekutive]], grundlegende [[Menschenrechte]] wurden zunehmend systematisch verletzt 
+- [[Wladimir Putin|Putin]] suchte ab dem Jahr [[2000]] zunächst enge wirtschaftliche Beziehungen zur [[Europäische Union|Europäischen Union]] und zu den [[USA]] 
+- Auch auf militärischem Gebiet setzte [[Russland]] zunächst die Zusammenarbeit mit dem Westen fort: Schon in seinem ersten Regierungsjahr bot [[Wladimir Putin|Putin]] den Abbau von [[Atombombe|Atomwaffen]] an 
+- Um die Unverletzlichkeit der Grenzen zu sichern und den Frieden zu erhalten, wurde [[2002]] der [[NATO-Russland-Rat]] geschaffen, in dem sich beide Partner stetig über Spannungen und Rüstungskontrolle austauschten 
+- [[Wladimir Putin|Putins]] langfristige politischen Ziele wurden erst allmählich deutlich, für ihn bedeutete der Zusammenbruch der [[Sowjetunion]] "die größte Katastrophe des 20. Jahrhunderts", und er wollte die [[Russland|Russische Föderation]] als Nachfolgestaat zu neuer Größe zu führen
+- In einer viel beachteten Rede auf der [[Münchener Sicherheitskonferenz]] [[2007]] machte [[Wladimir Putin|Putin]] klar, dass er die neue Friedensordnung in Bezug auf die [[Sowjetunion|sowjetischen]] Nachfolgestaaten nicht hinnehmen würde 
+- Es kommt zu Konflikten zwischen [[Russland]] und anderen ehemaligen [[Sowjetunion|Sowjetrepubliken]], etwa dem [[Tschetschenien-Krieg|Tschetschenien-]] oder [[Kaukasus-Krieg]] und dem [[Russischer Angriffskrieg|Russischen Angriffskrieg]] 
+
+# [[China]] bis [[2001]]: Auf dem Weg zur Wirtschaftsmacht
+- 
