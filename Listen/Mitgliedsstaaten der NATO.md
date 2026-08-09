@@ -14,7 +14,7 @@
 - [[USA]]: ab [[1949]] 
 - [[Griechenland]]: ab [[1952]] 
 - [[Türkei]]: ab [[1952]] 
-- [[Bundesrepublik Deutschland]]: ab [[1955]] (Ab [[1990]] durch Wiedervereinigung [[Deutschland|Gesamtdeutschland]])
+- [[Deutschland|Bundesrepublik Deutschland]]: ab [[1955]] (Ab [[1990]] durch Wiedervereinigung [[Deutschland|Gesamtdeutschland]])
 - [[Spanien]]: ab [[1982]]
 - [[Polen]]: ab [[1999]] 
 - [[Tschechien]]: ab [[1999]] 

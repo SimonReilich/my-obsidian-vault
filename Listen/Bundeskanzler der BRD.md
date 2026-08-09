@@ -1,5 +1,5 @@
 #Politik 
-# Bundeskanzler der [[Bundesrepublik Deutschland|BRD]] 
+# Bundeskanzler der [[Deutschland|BRD]] 
 - [[Konrad Adenauer]], [[Christlich Demokratische Union Deutschlands|CDU]]: [[1949]] - [[1963]] 
 - [[Ludwig Erhard]], [[Christlich Demokratische Union Deutschlands|CDU]]: [[1963]] - [[1966]] 
 - [[Kurt Georg Kiesinger]], [[Christlich Demokratische Union Deutschlands|CDU]]: [[1966]] - [[1969]] 

@@ -1,5 +1,5 @@
 #Politik 
-# Bundesländer der [[Bundesrepublik Deutschland]]
+# Bundesländer der [[Deutschland|Bundesrepublik Deutschland]] 
 - [[Baden-Württemberg]]: [[Stuttgart]]
 - [[Bayern]]: [[München]]
 - [[Berlin]]: Stadtstaat 

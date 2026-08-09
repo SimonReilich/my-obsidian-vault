@@ -1,5 +1,5 @@
 #Politik 
-# Bundespräsidenten der [[Bundesrepublik Deutschland|BRD]] 
+# Bundespräsidenten der [[Deutschland|BRD]] 
 - [[Theodor Heuss]], [[Freiheitlich Demokratische Partei|FDP]]: [[1949]] - [[1959]] 
 - [[Heinrich Lübke]], [[Christlich Demokratische Union Deutschlands|CDU]]: [[1959]] - [[1969]] 
 - [[Gustav Heinemann]], [[Sozialdemokratische Partei Deutschlands|SPD]]: [[1969]] - [[1974]] 
