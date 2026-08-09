@@ -80,7 +80,7 @@ subject: "[[Geschichte - Schule]]"
 - Am 7. April [[1933]] erließ die [[Nationalsozialismus|NS]]-Regierung das "[[Gesetz zur Wiederherstellung des Berufsbeamtentums]]", das die Entlassung von Beamten und Angestellten "nichtarischer Abstammung" vorsah 
 - Mit den "[[Nürnberger Gesetze|Nürnberger Gesetzen]]" vom September [[1935]] wurden [[Judentum|Jüdinnen und Juden]] systematisch aus der deutschen "[[Volksgemeinschaft]]" ausgegrenzt, das „Reichsbürger- gesetz" vom 15. September [[1935]] nahm ihnen alle politischen Rechte, u. a. das Wahlrecht, und machte sie damit zu [[Bürger|Bürgern]] zweiter Klasse 
 - Im Zuge ihrer Ausgrenzung und Entrechtung wurde die [[Judentum|jüdische]] Bevölkerung im Rahmen der sogenannten "[[Arisierung]]" planmäßig beraubt 
-- Eine neue Dimension erreichte die [[Nationalsozialismus|nationalsozialistische]] Verfolgung der [[Judentum|jüdischen]] Bevölkerung durch nun gezielt auf Vertreibung gerichtete Pogrome sowie durch systematische Zerstörung der jüdischen Kultur in [[Deutschland]] 
+- Eine neue Dimension erreichte die [[Nationalsozialismus|nationalsozialistische]] Verfolgung der [[Judentum|jüdischen]] Bevölkerung durch nun gezielt auf Vertreibung gerichtete [[Pogrom|Pogrome]] sowie durch systematische Zerstörung der jüdischen Kultur in [[Deutschland]] 
 - Am 9. / 10. November [[1938]] kommt es zu dem [[Novemberpogrome|Novemberpogromen]] 
 
 # Völkermord an den europäischen Jüdinnen und Juden im Zweiten Weltkrieg 
