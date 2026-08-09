@@ -51,7 +51,7 @@ subject: "[[Geschichte - Schule]]"
 - Damit endete die Regentschaft des Hauses Wittelsbach, das seit [[1180]] [[Bayern]] regiert hatte, [[König]] [[Ludwig III.]] flüchtete, Arbeiter-, Soldaten- und Bauernräte übernahmen in [[Bayern|bayerischen]] Städten die Macht
 - Reichskanzler [[Max von Baden]] verkündete unter dem Druck andauernder Proteste ohne Rücksprache mit dem [[Kaiser]] den Thronverzicht [[Wilhelm II.|Wilhelms II.]] und gab sein Amt als Reichskanzler an den Vorsitzenden der [[Sozialdemokratische Partei Deutschlands|SPD]] [[Friedrich Ebert]] ab
 - Philipp Scheidemann ([[Sozialdemokratische Partei Deutschlands|SPD]]) ruft am am 9. November [[1918]] von einem Balkon des [[Reichstag|Reichstags]] aus die [[Republik]] aus 
-- Nur zwei Stunden später verkündete [[Karl Liebknecht]], Führer des radikalen [[Spartakusbund|Spartakusbundes]], die [[Sozialismus|Sozialistische]] [[Republik]] [[Deutschland]] 
+- Nur zwei Stunden später verkündete [[Karl Liebknecht]], Führer des radikalen [[Spartakusbund|Spartakusbundes]], die [[Oberstufe/Geschichte/Kap02/Sozialismus|Sozialistische]] [[Republik]] [[Deutschland]] 
 - [[Sozialdemokratische Partei Deutschlands|SPD]] ist bestrebt, in [[Deutschland]] eine parlamentarische [[Demokratie]] zu errichten, zur zügigen Eindämmung der radikaleren Kräfte legte [[Friedrich Ebert]] sein Kanzleramt nieder und bildete mit den gemäßigten Anhängern der [[Unabhängige Sozialdemokratische Partei Deutschlands|USPD]] am 10. November den "Rat der Volksbeauftragten"
 - Die neue Regierung handelte einen Waffenstillstand aus, der am 11. November [[1918]] von Staatssekretär [[Matthias Erzberger]] unterzeichnet wurde
 - Zur Wiederherstellung der öffentlichen Ordnung verbündete sich die revolutionäre Regierung mit den alten Führungsschichten des [[Deutsches Kaiserreich|Kaiserreichs]] aus Politik, Wirtschaft und Militär
@@ -72,7 +72,7 @@ subject: "[[Geschichte - Schule]]"
 - Bestimmende politische Strömungen zu Beginn der [[Weimarer Republik]]:
 	- [[Liberalismus]]: [[Deutsche Demokratische Partei]] (DDP), [[Deutsche Volkspartei]] ([[Deutsche Volkspartei|DVP]])
 	- [[Konservativismus]]: [[Deutschnationale Volkspartei]] (DNVP)
-	- [[Sozialismus]]: [[Sozialdemokratische Partei Deutschlands]] ([[Sozialdemokratische Partei Deutschlands|SPD]]), [[Unabhängige Sozialdemokratische Partei Deutschlands]] ([[Unabhängige Sozialdemokratische Partei Deutschlands|USPD]]) bzw. [[Kommunistische Partei Deutschlands]] ([[Kommunistische Partei Deutschlands|KPD]])
+	- [[Oberstufe/Geschichte/Kap02/Sozialismus]]: [[Sozialdemokratische Partei Deutschlands]] ([[Sozialdemokratische Partei Deutschlands|SPD]]), [[Unabhängige Sozialdemokratische Partei Deutschlands]] ([[Unabhängige Sozialdemokratische Partei Deutschlands|USPD]]) bzw. [[Kommunistische Partei Deutschlands]] ([[Kommunistische Partei Deutschlands|KPD]])
 	- [[Katholizismus]]: [[Deutsche Zentrumspartei|Zentrum]], in Bayern: [[Bayerische Volkspartei]] (BVP)
 - Bis [[1918]] hatte die politische Arbeit im [[Reichstag]] kaum die Fähigkeit zum Kompromiss verlangt, da die Parteien im Kaiserreich nicht an der Regierung beteiligt waren
 - Das klare Ergebnis der Wahl zur Nationalversammlung [[1919]] und die Bildung der [[Weimarer Koalition]] hatten diese Schwäche zunächst überdeckt, sie trat aber mit den unklaren Mehrheiten der folgenden Wahlen deutlich hervor

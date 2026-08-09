@@ -11,7 +11,7 @@ subject: "[[Religion - Schule]]"
 	4. Epoche der Bourgeoisie (des Bürgertums, [[Kapitalismus]])
 	5. Revolution
 	6. Sieg und Diktatur des Proletariats
-	7. [[Sozialismus]] (Vergesellschaftlichung des Eigentums)
+	7. [[Oberstufe/Geschichte/Kap02/Sozialismus]] (Vergesellschaftlichung des Eigentums)
 	8. klassenloser [[Kommunismus]]
 - Gesellschaftsanalyse: 
 	- Produktivverhältnisse (Herrschaft und Eigentum) und Produktivkräfte (Wissen und technische Nutzung) bilden die Produktionsweise als Basis der Gesellschaft
