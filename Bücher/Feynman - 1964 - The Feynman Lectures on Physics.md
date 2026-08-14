@@ -8,6 +8,8 @@ category:
 publisher: "[[Addison-Wesley]]"
 year: "[[1964]]"
 isbn:
-cover:
+cover: "[[Feynman - 1964 - The Feynman Lectures on Physics.jpg]]"
 ---
 #Buch #Physik 
+
+![[Feynman - 1964 - The Feynman Lectures on Physics.jpg]]

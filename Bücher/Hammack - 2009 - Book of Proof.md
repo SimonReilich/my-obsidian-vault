@@ -8,6 +8,8 @@ category:
 publisher: "[[Dover]]"
 year: "[[2009]]"
 isbn: 9780989472135
-cover:
+cover: "[[Hammack - 2009 - Book of Proof.jpeg]]"
 ---
 #Buch #Mathematik 
+
+![[Hammack - 2009 - Book of Proof.jpeg]]

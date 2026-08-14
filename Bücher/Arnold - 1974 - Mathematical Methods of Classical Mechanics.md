@@ -8,6 +8,8 @@ category:
 publisher: "[[Springer]]"
 year: "[[1974]]"
 isbn: 387968903
-cover:
+cover: "[[Arnold - 1974 - Mathematical Methods of Classical Mechanics.jpg]]"
 ---
 #Buch #Mathematik #Physik 
+
+![[Arnold - 1974 - Mathematical Methods of Classical Mechanics.jpg]]

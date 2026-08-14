@@ -10,6 +10,8 @@ category:
 publisher: "[[Cambridge University Press]]"
 year: "[[2006]]"
 isbn: 9780521679718
-cover:
+cover: "[[Riley et al - 2006 - Mathematical Methods for Physics and Engineering.jpg]]"
 ---
 #Buch #Mathematik #Physik 
+
+![[Riley et al - 2006 - Mathematical Methods for Physics and Engineering.jpg]]

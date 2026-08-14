@@ -8,6 +8,8 @@ category:
 publisher: "[[Springer]]"
 year: "[[1995]]"
 isbn: 9783031410260
-cover:
+cover: "[[Axler - 1995 - Linear Algebra Done Right.jpg]]"
 ---
 #Buch #Mathematik 
+
+![[Axler - 1995 - Linear Algebra Done Right.jpg]]
