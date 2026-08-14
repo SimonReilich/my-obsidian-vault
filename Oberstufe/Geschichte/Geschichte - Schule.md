@@ -7,4 +7,4 @@
 - Kapitel 05 - [[Israel-Palestina Konflikt]]
 - Kapitel 06 - [[USA, Russland und China]]
 - Kapitel 07 - [[Entwicklung Demokratischer Staatsordnungen]] 
-- Kapitel 08 - [[Europäische Integration]] 
+- Kapitel 08 - [[Von nationalistischer Konfrontation zu europäischer Integration]] 

@@ -34,4 +34,17 @@ subject: "[[Geschichte - Schule]]"
 - An der Spitze des Reichs stand der [[Kaiser]], der Frieden und Recht gewährleisten musste, er verfügte aber faktisch über keine Herrschaftsinstrumente, um eigenständig Reichsangelegenheiten zu regeln 
 - Daher musste er in der politischen Praxis seine Macht mit den immer mächtiger werdenden [[Reichsstände|Reichsständen]] teilen 
 - Mit der [[Goldene Bulle|Goldenen Bulle]] wurde [[1356]] das Wahlkönigtum festgeschrieben
-- Der [[Reichstag (Hlg. röm. Reich)|Reichstag]] war neben dem [[Reichskammergericht]] und den Reichskreisen als über. geordnete, territoriale Verwaltungseinheiten das bedeutendste Ergebnis der Reichs reform.
+- Der [[Reichstag (Hlg. röm. Reich)|Reichstag]] war neben dem [[Reichskammergericht]] als übergeordnete, territoriale Verwaltungseinheiten das bedeutendste Ergebnis der Reichsreform 
+- Ab dem 11. Jahrhundert nahmen Städtegründungen im [[Heiliges Römisches Reich Deutscher Nation|Heiligen Römischen Reich]] sprunghaft zu  
+- Einigen gelang im Laufe der Zeit eine Loslösung vom jeweiligen Stadtherrn und aus Städten wurden weitgehend selbstständige politische Gemeinden, manchmal bildeten sich sogar Stadtrepubliken 
+- Im Inneren waren die Städte hierarchisch strukturiert: So waren in der Regel zunächst nur [[Patrizier]] aufgrund ihrer Herkunft und ihrer wirtschaftlichen Macht Mitglieder des Rats 
+- Ab dem 14. Jahrhundert erkämpften sich in manchen Städten die Handwerker und Kaufleute, die sich in [[Zunft|Zünften]] bzw. Gilden zusammengeschlossen hatten, die Mitwirkung an der Stadtherrschaft gegen den Widerstand der [[Patrizier]] 
+
+# Politisches Denken zur Zeit der [[Aufklärung]] 
+- Die Vertreterinnen und Vertreter der [[Aufklärung]], die sich seit Mitte des 17. Jahrhunderts zur dominierenden Geistesbewegung in [[Europa]] entwickelte, erklärten die Vernunft und ihren kritischen Gebrauch zum Maßstab allen Handelns 
+- Zum neuen Denken gehörte auch die Hinwendung zu den sich herausbildenden Naturwissenschaften, in denen Beobachtungen und Experimente die Grundlage der Erkenntnis bilden 
+- Die dabei gewonnenen Einsichten würden, so glaubten die Denker der [[Aufklärung]], zum Fortschritt der ganzen Menschheit beitragen 
+- Die [[Aufklärung|Aufklärer]] forderten Gleichheits- und Freiheitsrechte, Emanzipation und politische Partizipation, sie setzten sich mit der Frage auseinander, wie legitime politische Herrschaft begründet und umgesetzt werden könne 
+- Die Ideen der [[Aufklärung]] richteten sich gegen die [[Ständegesellschaft]] und den Anspruch der absoluten Monarchen ([[Absolutismus]]), ihre Herrschaft beruhe auf dem Gottesgnadentum und sei uneingeschränkt 
+- Dabei entwickelten insbesondere der [[England|Engländer]] [[John Locke]], der [[Frankreich|Franzose]] [[Charles de Montesquieu]] und der [[Genf|Genfer]] [[Jean-Jacques Rousseau]] Staatstheorien, die die Grundlagen für den modernen Verfassungsstaat schufen 
+- Sie führten in die moderne Staatslehre das Prinzip der [[Volkssouveränität]], die (horizontale) [[Gewaltenteilung]], das Widerstandsrecht und die Idee der [[Menschenrechte]] ein, die am Ende des 18. Jahrhunderts auch erstmalig in Verfassungen festgeschrieben wurden 
