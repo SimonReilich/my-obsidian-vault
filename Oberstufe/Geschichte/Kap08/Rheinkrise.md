@@ -1,0 +1,6 @@
+---
+subject: "[[Geschichte - Schule]]"
+---
+#Oberstufe #Geschichte 
+# Definition 
+Als Kompensation für eine als Schmach empfundene diplomatische Niederlage in [[Ägypten]] forderte die [[Frankreich|französische]] Regierung die (Rück-)Gewinnung der "natürlichen" Rheingrenze, drohte unverhohlen mit Krieg und rüstete auf. Den Regierungen im [[Deutscher Bund|Deutschen Bund]] gelang es nicht, die Krise sowie die Kriegssorgen in der Bevölkerung zu entschärfen. Die Presse und die neue "Rheinlied-Bewegung" forderten die Sicherung des [[Rhein|Rheins]] als vermeintliche Aufgabe aller [[Deutschland|Deutschen]]. Menschen aus unter schiedlichsten Bevölkerungsschichten sangen vom "deutschen" [[Rhein]]. Als [[Nikolaus Becker]] [[1840]] dichtete "Sie sollen ihn nicht haben, den freien, deutschen [[Rhein]]", antwortete darauf u. a. der [[Frankreich|französische]] Schriftsteller [[Alfred de Musset]]. Ein regelrechter "Dichterkrieg" begann. [[August Heinrich Hoffmann von Fallersleben]] schrieb in seinem "Deutschlandlied" ([[1841]]), die [[Nation]] halte "stets zu Schutz und Trutze brüderlich zusammen". Mach einem Regierungswechsel in [[Frankreich]] im Oktober [[1840]] verebbte die Rheinkrise.

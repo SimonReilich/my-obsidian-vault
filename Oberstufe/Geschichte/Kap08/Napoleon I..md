@@ -1,5 +1,7 @@
 ---
 subject: "[[Geschichte - Schule]]"
+aliases:
+  - Napoleon Bonaparte
 ---
 #Oberstufe #Geschichte 
 # Leben 
