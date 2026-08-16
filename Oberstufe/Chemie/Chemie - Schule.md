@@ -1,8 +1,4 @@
 #Oberstufe #Inhaltsverzeichnis #Chemie 
-
-# Grundlagen
-- [[Anorganische Verbindungen]] 
-
 # Inhalt
 - Kapitel 01 - [[Atombau und Analytik]] 
 - Kapitel 02 - [[Chemische Bindungen]] 
