@@ -20,3 +20,6 @@ subject: "[[Mathematik - Schule]]"
 # Weitere Ableitungsregeln
 - Die [[Produktregel]]: $(f(x) * g(x))' = f'(x) * g(x) + f(x) * g'(x)$ 
 - Die [[Kettenregel]]: $(f(g(x)))' = f'(g(x)) * g'(x)$ 
+
+# Die natürliche Exponentialfunktion und ihre Ableitung 
+- 
