@@ -19,8 +19,8 @@ subject: "[[Chemie - Schule]]"
 - Zurück bleibt ein [[Kation]]
 - Die [[Erste Ionisierungsenergie]] (in [[Elektronenvolt]], $\mathrm{eV}$) ist die Mindestenergie, um das am schwächsten gebundene [[Elektron]] aus der Hülle zu entfernen 
 - Steigt die [[Proton|Protonenanzahl]] im [[Atom|Atomkern]], werden die [[Elektron|Valenzelektronen]] stärker von diesem angezogen, daher sollten die [[Erste Ionisierungsenergie|ersten lonisierungsenergien]] innerhalb einer Periode mit steigender Ordnungszahl des Elements zunehmen 
-- Die [[Erste Ionisierungsenergie|lonisierungsenergien]] einiger Elemente sind jedoch höher als die der ihnen nachfolgenden Elemente, es wird z. B. mehr [[Erste Ionisierungsenergie|lonisierungsenergie]] benötigt, um ein [[Elektron|Valenzelektron]] des [[Stickstoff]]-[[Atom|Atoms]] herauszulösen, als für ein [[Elektron|Valenzelektron]] des [[Sauerstoff]]-[[Atom|Atoms]] 
 
 ![[Erste Lonisierungsenergie.png]]
 
-- 
+- Die [[Erste Ionisierungsenergie|lonisierungsenergien]] einiger Elemente sind jedoch höher als die der ihnen nachfolgenden Elemente, es wird z. B. mehr [[Erste Ionisierungsenergie|lonisierungsenergie]] benötigt, um ein [[Elektron|Valenzelektron]] des [[Stickstoff]]-[[Atom|Atoms]] herauszulösen, als für ein [[Elektron|Valenzelektron]] des [[Sauerstoff]]-[[Atom|Atoms]] 
+- Durch die [[Nebenquantenzahl]] werden die Energieniveaus weiter unterteilt 
