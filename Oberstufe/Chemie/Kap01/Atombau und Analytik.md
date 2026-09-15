@@ -2,7 +2,7 @@
 subject: "[[Chemie - Schule]]"
 ---
 #Oberstufe #Chemie 
-# Emissionsspektren und deren Deutung 
+# Feinbau der Atomhülle
 - Gase in Gasentladungsröhren oder Flammenfärbungen strahlen unter hoher [[Spannung]] bzw. [[Energie|Energieaufnahme]] Licht bestimmter [[Wellenlänge|Wellenlängen]] ab 
 - Beim Betrachten durch ein [[Spektroskop]] zeigt sich ein [[Emissionsspektrum]] in Form eines [[Linienspektrum|Linienspektrums]]  
 - [[Elektron|Elektronen]] befinden sich normalerweise im [[Energie|energiearmen]] Grundzustand
@@ -18,6 +18,9 @@ subject: "[[Chemie - Schule]]"
 - Wird einem [[Elektron]] im Grundzustand mehr [[Energie]] zugeführt, als für seine Anregung nötig ist, wird es vollständig aus der Atomhülle herausgelöst 
 - Zurück bleibt ein [[Kation]]
 - Die [[Erste Ionisierungsenergie]] (in [[Elektronenvolt]], $\mathrm{eV}$) ist die Mindestenergie, um das am schwächsten gebundene [[Elektron]] aus der Hülle zu entfernen 
+- Steigt die [[Proton|Protonenanzahl]] im [[Atom|Atomkern]], werden die [[Elektron|Valenzelektronen]] stärker von diesem angezogen, daher sollten die [[Erste Ionisierungsenergie|ersten lonisierungsenergien]] innerhalb einer Periode mit steigender Ordnungszahl des Elements zunehmen 
+- Die [[Erste Ionisierungsenergie|lonisierungsenergien]] einiger Elemente sind jedoch höher als die der ihnen nachfolgenden Elemente, es wird z. B. mehr [[Erste Ionisierungsenergie|lonisierungsenergie]] benötigt, um ein [[Elektron|Valenzelektron]] des [[Stickstoff]]-[[Atom|Atoms]] herauszulösen, als für ein [[Elektron|Valenzelektron]] des [[Sauerstoff]]-[[Atom|Atoms]] 
 
-# Feinbau der Atomhülle 
+![[Erste Lonisierungsenergie.png]]
+
 - 
