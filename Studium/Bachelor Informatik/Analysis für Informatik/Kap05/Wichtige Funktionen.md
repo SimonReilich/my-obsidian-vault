@@ -17,5 +17,5 @@ degree: "[[Bachelor Informatik]]"
 # Trigonometrische Funktionen
 - Definition: [[komplexe Zahlen]], [[Konjugiertes einer komplexen Zahl]], [[Betrag einer komplexen Zahl]]
 - Satz: [[Eulersche Formel]] 
-- Definition: [[Sinusfunktion|Sinus]], [[Cosinusfunktion|Cosinus]], [[Tangensfunktion|Tangens]], [[Cotangensfunktion|Cotangens]] 
+- Definition: [[Sinus|Sinus]], [[Cosinus|Cosinus]], [[Tangens|Tangens]], [[Cotangens|Cotangens]] 
 - Umkehrfunktionen: [[Arcussinus]], [[Arcuscosinus]], [[Arcustangens]] 

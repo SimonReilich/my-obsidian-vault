@@ -1,0 +1,30 @@
+#Mathematik 
+# Trigonometrische Funktionen 
+- [[Sinus]] $\sin(x)$
+- [[Cosinus]] $\cos(x)$
+- [[Tangens]] $\tan(x)$
+- [[Cotangens]] $\cot(x)$
+- [[Secans]] $\sec(x)$
+- [[Cosecans]] $\csc(x)$ 
+- [[Arcussinus]] $\arcsin(x)$
+- [[Arcuscosinus]] $\arccos(x)$
+- [[Arcustangens]] $\arctan(x)$
+- [[Arcuscotangens]] $\mathrm{arccot}(x)$
+- [[Arcussecans]] $\mathrm{arcsec}(x)$
+- [[Arcuscosecans]] $\mathrm{arccsc}(x)$ 
+- [[Sinus hyperbolicus]] $\sinh(x)$
+- [[Cosinus hyperbolicus]] $\cosh(x)$
+- [[Tangens hyperbolicus]] $\tanh(x)$
+- [[Cotangens hyperbolicus]] $\coth(x)$
+- [[Secans hyperbolicus]] $\mathrm{sech}(x)$
+- [[Cosecans hyperbolicus]] $\mathrm{csch}(x)$ 
+- [[Areasinus hyperbolicus]] $\mathrm{arsinh}(x)$
+- [[Areacosinus hyperbolicus]] $\mathrm{arcosh}(x)$
+- [[Areatangens hyperbolicus]] $\mathrm{artanh}(x)$
+- [[Areacotangens hyperbolicus]] $\mathrm{arcoth}(x)$
+- [[Areasecans hyperbolicus]] $\mathrm{arsech}(x)$
+- [[Areacosecans hyperbolicus]] $\mathrm{arcsch}(x)$ 
+- [[Versinus]] $\mathrm{versin}(x)$ 
+- [[Coversinus]] $\mathrm{coversin}(x)$ 
+- [[Haversinus]] $\mathrm{haversin}(x)$ 
+- [[Exsecans]] $\mathrm{exsec}(x)$ 

@@ -24,3 +24,6 @@ subject: "[[Chemie - Schule]]"
 
 - Die [[Erste Ionisierungsenergie|lonisierungsenergien]] einiger Elemente sind jedoch höher als die der ihnen nachfolgenden Elemente, es wird z. B. mehr [[Erste Ionisierungsenergie|lonisierungsenergie]] benötigt, um ein [[Elektron|Valenzelektron]] des [[Stickstoff]]-[[Atom|Atoms]] herauszulösen, als für ein [[Elektron|Valenzelektron]] des [[Sauerstoff]]-[[Atom|Atoms]] 
 - Durch die [[Nebenquantenzahl]] werden die Energieniveaus weiter unterteilt 
+
+# Die Erweiterung der Quantenzahlen
+- 

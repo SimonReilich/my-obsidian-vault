@@ -13,9 +13,9 @@ subject: "[[Mathematik - Schule]]"
 - $F$ ist die [[Stammfunktion]] von $f$ 
 
 # Ableitung von Sinus und Cosinus
-- Mit den bisherigen Ableitungsregeln lassen sich [[trigonometrische Funktionen]] wie die [[Sinusfunktion]] oder[[Cosinusfunktion]] nicht ableiten
+- Mit den bisherigen Ableitungsregeln lassen sich [[Trigonometrische Funktionen|trigonometrische Funktionen]] wie die [[Sinus]] oder [[Cosinus]] nicht ableiten
 - Durch Konstruktion der Tangenten stellt man fest: $\sin'(x) = \cos(x)$ und $\cos'(x) = -\sin(x)$ 
-- Damit gilt für die [[Tangensfunktion]]: $\tan'(x) = \left(\frac{\sin(x)}{\cos(x)}\right)' = \frac{\cos(x)^2 + \sin(x)^2}{\cos(x)^2} = \frac{1}{\cos(x)^2}$  
+- Damit gilt für die [[Tangens]]: $\tan'(x) = \left(\frac{\sin(x)}{\cos(x)}\right)' = \frac{\cos(x)^2 + \sin(x)^2}{\cos(x)^2} = \frac{1}{\cos(x)^2}$  
 
 # Weitere Ableitungsregeln
 - Die [[Produktregel]]: $(f(x) * g(x))' = f'(x) * g(x) + f(x) * g'(x)$ 

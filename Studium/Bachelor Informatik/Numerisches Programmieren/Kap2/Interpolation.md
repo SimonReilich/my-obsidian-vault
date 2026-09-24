@@ -31,6 +31,6 @@ degree: "[[Bachelor Informatik]]"
 
 # Trigonometrische Interpolation
 
-- Polynominterpolation eignet sich nicht für periodische Funktionen, wir wollen unsere Funktion als Summe von [[Sinus- und Cosinusfunktion|Sinus- und Cosinusfunktionen]] darstellen
+- Polynominterpolation eignet sich nicht für periodische Funktionen, wir wollen unsere Funktion als Summe von [[Sinus]]- und [[Cosinus|Cosinusfunktionen]] darstellen
 - Definition [[DFT]] und [[IDFT]]
 - Haben beide hohe Laufzeitkomplexität, deshalb [[FFT]] 
